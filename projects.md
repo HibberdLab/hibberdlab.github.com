@@ -9,8 +9,7 @@ description: "Projects"
 
 ----
 
-<!-- Carousel
-================================================== -->
+<!-- carousel -->
 <div id="myCarousel" class="carousel slide">
   <div class="carousel-inner">
     <div class="item active">
@@ -67,7 +66,8 @@ description: "Projects"
   </div>
   <a class="left carousel-control" href="#myCarousel" data-slide="prev">&lsaquo;</a>
   <a class="right carousel-control" href="#myCarousel" data-slide="next">&rsaquo;</a>
-</div><!-- /.carousel -->
+</div>
+<!-- end of carousel -->
 
 <div class="well media">
   <img class="media-object pull-left img-rounded" src="http://placekitten.com/150/150">
