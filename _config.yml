@@ -8,15 +8,15 @@ pygments: true
 
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
-#
-title : Jekyll Bootstrap
-tagline: Site Tagline
+
+title : Hibberd Lab
+tagline: 
 author :
-  name : Name Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
-  feedburner : feedname
+  name : Julian Hibberd
+  email : jmh@plantsci.cam.ac.uk
+  github : HibberdLab
+  twitter : 
+  feedburner : 
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
@@ -26,7 +26,11 @@ author :
 # Else if you are pushing to username.github.com, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://username.github.com
+production_url : hibberdlab
+
+# excerpt separator
+excerpt_separator: ">>>>>"
+
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
@@ -79,25 +83,25 @@ JB :
   # Set 'provider' to false to turn commenting off globally.
   #
   comments :
-    provider : disqus
+    provider : false
     disqus :
-      short_name : jekyllbootstrap
+      short_name : 
     livefyre :
-      site_id : 123
+      site_id : 
     intensedebate :
-      account : 123abc
+      account : 
     facebook :
-      appid : 123
-      num_posts: 5
-      width: 580
-      colorscheme: light
+      appid : 
+      num_posts: 
+      width: 
+      colorscheme: 
    
   # Settings for analytics helper
   # Set 'provider' to the analytics provider you want to use.
   # Set 'provider' to false to turn analytics off globally.
   #        
   analytics :
-    provider : google 
+    provider : false
     google : 
         tracking_id : 'UA-123-12'
     getclicky :
