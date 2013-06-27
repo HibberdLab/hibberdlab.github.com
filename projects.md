@@ -27,11 +27,11 @@ description: "Projects"
       </div>
     </div>
     <div class="item">
-      <img src="http://lorempixel.com/1200/400/nature/2" alt="">
+      <img src="{{%ASSET_PATH%}}../projects/diversity.png" alt="">
       <div class="container">
         <div class="carousel-caption">
-          <h1>Using natural variation to understand C<sub>4</sub> photosynthesis</h1>
-          <p class="lead">Proteins used in the C4 cycle are recruited from existing roles in C3 plants. We
+          <h1 style="color: black;">Using natural variation to understand C<sub>4</sub> photosynthesis</h1>
+          <p class="lead" style="color: black;">Proteins used in the C4 cycle are recruited from existing roles in C3 plants. We
     study the role of these proteins in C3 plants in order to understand evolution of the
     pathway.</p>
           <a class="btn btn-info" href="#">Read more...</a>
