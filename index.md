@@ -5,6 +5,12 @@ tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
+<div class="alert">
+  <!-- <button type="button" class="close" data-dismiss="alert">&times;</button> -->
+  <h4>Hold up!</h4>
+  This site is not yet ready for public consumption - it's just a development preview. Come back after August 1st 2013 to see the finished site.
+</div>
+
 <div class="hero-unit hidden-phone" style="background-image: url({{%ASSET_PATH%}}../hero_back.jpg); padding:25px 25px 25px 25px;">
 <div class="well" style="background-color: rgba(255, 255, 255, 0.7); border: 0;">
 <h2>The Hibberd Lab at Cambridge Plant Sciences</h2>
