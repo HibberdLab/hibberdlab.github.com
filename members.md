@@ -86,7 +86,7 @@ Julian established his lab in the Department of Plant Sciences at the University
       <img class="media-object img-rounded" src="http://lorempixel.com/160/200/people/4">
     </a>
     <div class="media-body">
-      <h4 class="media-heading">Marek Szekovka</h4>
+      <h4 class="media-heading">Marek Szecowka</h4>
       Canada blah C4 rice Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
       quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
