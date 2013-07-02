@@ -22,7 +22,7 @@ group: navigation
 
 - [**Covshoff S**, **Hibberd JM**. 2012. Integrating C<sub>4</sub> photosynthesis into C<sub>3</sub> crops to increase yield potential. Current Opinion in Biotechnology 23: 209–214.](http://dx.doi.org/10.1016/j.copbio.2011.12.011)
 - [Johnson MTJ, Carpenter EJ, Tian Z, Bruskiewich R, Burris JN, Carrigan CT, Chase MW, Clarke ND, **Covshoff S**, dePamphilis CW, et al.. 2012. Evaluating Methods for Isolating Total RNA and Predicting the Success of Sequencing Phylogenetically Diverse Plant Transcriptomes. PLoS ONE 7: e50226.](http://dx.doi.org/10.1371/journal.pone.0050226)
-- [**Kajala K**, **Brown NJ**, **Williams BP**, Borrill P, Taylor LE, **Hibberd JM**. 2012. Multiple Arabidopsis genes primed for recruitment into C<sub>4</sub> photosynthesis. The Plant Journal 69: 47–56. **\***](http://dx.doi.org/10.1111/j.1365-313X.2011.04769.x)
+- [**Kajala K**, **Brown NJ**, **Williams BP**, **Borrill P**, **Taylor LE**, **Hibberd JM**. 2012. Multiple Arabidopsis genes primed for recruitment into C<sub>4</sub> photosynthesis. The Plant Journal 69: 47–56. **\***](http://dx.doi.org/10.1111/j.1365-313X.2011.04769.x)
 - [**Tolley BJ**, Sage TL, Langdale JA, **Hibberd JM**. 2012a. Individual Maize Chromosomes in the C<sub>3</sub> Plant Oat Can Increase Bundle Sheath Cell Size and Vein Density. Plant Physiol 159: 1418–1427. **\*\***](http://dx.doi.org/10.1104/pp.112.200584)
 - [**Tolley BJ**, **Woodfield H**, Wanchana S, Bruskiewich R, **Hibberd JM**. 2012b. Light-regulated and cell-specific methylation of the maize PEPC promoter. J Exp Bot 63: 1381–1390.](http://dx.doi.org/10.1093/jxb/err367)
 - [**Williams BP**, **Aubry S**, **Hibberd JM**. 2012. Molecular evolution of genes recruited into C<sub>4</sub> photosynthesis. Trends in Plant Science 17: 213–220.](http://dx.doi.org/10.1016/j.tplants.2012.01.008)
@@ -37,7 +37,7 @@ group: navigation
 - [**Astley HM**, **Parsley K**, **Aubry S**, Chastain CJ, Burnell JN, Webb ME, **Hibberd JM**. 2011. The pyruvate, orthophosphate dikinase regulatory proteins of Arabidopsis are both bifunctional and interact with the catalytic and nucleotide-binding domains of pyruvate, orthophosphate dikinase. The Plant Journal 68: 1070–1080.](http://dx.doi.org/10.1111/j.1365-313X.2011.04759.x)
 - [**Aubry S**, **Brown NJ**, **Hibberd JM**. 2011. The role of proteins in C<sub>3</sub> plants prior to their recruitment into the C<sub>4</sub> pathway. J Exp Bot 62: 3049–3059.](http://dx.doi.org/10.1093/jxb/err012)
 - [Bräutigam A, **Kajala K**, Wullenweber J, Sommer M, Gagneul D, Weber KL, Carr KM, Gowik U, Maß J, Lercher MJ, et al.. 2011. An mRNA Blueprint for C<sub>4</sub> Photosynthesis Derived from Comparative Transcriptomics of Closely Related C<sub>3</sub> and C<sub>4</sub> Species. Plant Physiol 155: 142–156. **\***](http://dx.doi.org/10.1104/pp.110.159442)
-- [Brown NJ, Newell CA, Stanley S, Chen JE, Perrin AJ, **Kajala K**, **Hibberd JM**. 2011. Independent and Parallel Recruitment of Preexisting Mechanisms Underlying C<sub>4</sub> Photosynthesis. Science 331: 1436–1439. **\*\***](http://dx.doi.org/10.1126/science.1201248)
+- [**Brown NJ**, **Newell CA**, **Stanley S**, **Chen JE**, **Perrin AJ**, **Kajala K**, **Hibberd JM**. 2011. Independent and Parallel Recruitment of Preexisting Mechanisms Underlying C<sub>4</sub> Photosynthesis. Science 331: 1436–1439. **\*\***](http://dx.doi.org/10.1126/science.1201248)
 - [**Kajala K**, **Covshoff S**, Karki S, **Woodfield H**, **Tolley BJ**, Dionora MJA, Mogul RT, Mabilangan AE, Danila FR, **Hibberd JM**, et al.. 2011. Strategies for engineering a two-celled C<sub>4</sub> photosynthetic pathway into rice. J Exp Bot 62: 3001–3010.](http://dx.doi.org/10.1093/jxb/err022)
 
 	\* In collaboration with Andreas Weber's group we report the first estimates of global divergence in gene expression between C<sub>3</sub> and C<sub>4</sub> leaves.
@@ -47,10 +47,10 @@ group: navigation
 
 ### 2010
 
-- [**Brown NJ**, Palmer BG, **Stanley S**, Hajaji H, Janacek SH, **Astley HM**, **Parsley K**, **Kajala K**, Quick WP, Trenkamp S, et al.. 2010. C<sub>4</sub> acid decarboxylases required for C<sub>4</sub> photosynthesis are active in the mid-vein of the C<sub>3</sub> species Arabidopsis thaliana, and are important in sugar and amino acid metabolism. The Plant Journal 61: 122–133.](http://dx.doi.org/10.1111/j.1365-313X.2009.04040.x)
+- [**Brown NJ**, Palmer BG, **Stanley S**, **Hajaji H**, **Janacek SH**, **Astley HM**, **Parsley K**, **Kajala K**, Quick WP, Trenkamp S, et al.. 2010. C<sub>4</sub> acid decarboxylases required for C<sub>4</sub> photosynthesis are active in the mid-vein of the C<sub>3</sub> species Arabidopsis thaliana, and are important in sugar and amino acid metabolism. The Plant Journal 61: 122–133.](http://dx.doi.org/10.1111/j.1365-313X.2009.04040.x)
 - [**Hibberd JM**, **Covshoff S**. 2010. The Regulation of Gene Expression Required for C<sub>4</sub> Photosynthesis. Annual Review of Plant Biology 61: 181–207.](http://dx.doi.org/10.1146/annurev-arplant-042809-112238)
-- [**Hibberd JM**, Taylor LE, Leiss AE. 2010. Transgenic Plants Comprising Constructs Encoding Phosphoenolpyruvate Carboxykinase and/or Pyruvate Ortho Phos Phate Dikinase.](http://patentscope.wipo.int/search/en/WO2010097623)
-- [Newell CA, **Brown NJ**, Liu Z, Pflug A, Gowik U, Westhoff P, **Hibberd JM**. 2010. Agrobacterium tumefaciens-mediated transformation of Cleome gynandra L., a C<sub>4</sub> dicotyledon that is closely related to Arabidopsis thaliana. J Exp Bot 61: 1311–1319.](http://dx.doi.org/10.1093/jxb/erq009)
+- [**Hibberd JM**, **Taylor LE**, **Leiss AE**. 2010. Transgenic Plants Comprising Constructs Encoding Phosphoenolpyruvate Carboxykinase and/or Pyruvate Ortho Phos Phate Dikinase.](http://patentscope.wipo.int/search/en/WO2010097623)
+- [**Newell CA**, **Brown NJ**, **Liu Z**, Pflug A, Gowik U, Westhoff P, **Hibberd JM**. 2010. Agrobacterium tumefaciens-mediated transformation of Cleome gynandra L., a C<sub>4</sub> dicotyledon that is closely related to Arabidopsis thaliana. J Exp Bot 61: 1311–1319.](http://dx.doi.org/10.1093/jxb/erq009)
 
 	\* This work shows that characteristics of C<sub>4</sub> photosynthesis are found around veins of C<sub>3</sub> A. thaliana, and defines which genes are involved as well as the function of the protein in the ancestral C<sub>3</sub> system.  
 
@@ -69,8 +69,10 @@ group: navigation
 - [Brown NJ, Parsley K, Hibberd JM. 2005. The future of C<sub>4</sub> research – maize, Flaveria or Cleome? Trends in Plant Science 10: 215–221.](http://dx.doi.org/10.1016/j.tplants.2005.03.003)
 - [Revill MJW, Stanley S, Hibberd JM. 2005. Plastid genome structure and loss of photosynthetic ability in the parasitic genus Cuscuta. J Exp Bot 56: 2477–2486.](http://dx.doi.org/10.1093/jxb/eri240)
 
-	\*  Here we report a function of the PPDK protein in C3 species. Not only that, it turns out to be an important on in nitrogen cycling during senescence. Despite its clear role in C<sub>4</sub> plants, its role in C<sub>3</sub> species had never been defined.
+	\*  Here we report a function of the PPDK protein in C<sub>3</sub> species. Not only that, it turns out to be an important one in nitrogen cycling during senescence. Despite its clear role in C<sub>4</sub> plants, its role in C<sub>3</sub> species had never been defined.
+	
 	\*\*  This is a system that allows chloroplasts from specific cells to be isolated.
+	
 	\*\*\*  Our first thoughts on why Cleome and Arabidopsis might be an interesting system to study C<sub>4</sub> photosynthesis 
 
 ### < 2005
