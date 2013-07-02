@@ -6,11 +6,6 @@ group: navigation
 ---
 {% include JB/setup %}
 
-## Automatically curated lists
-
-* [Researchate](https://www.researchgate.net/profile/Julian_Hibberd/publications/)
-* [Google Scholar](http://scholar.google.co.uk/citations?user=VgjC<sub>4</sub>I4AAAAJ)
-
 ## Manually curated list
 
 ### 2013
@@ -31,6 +26,7 @@ group: navigation
 - [Williams BP, Aubry S, Hibberd JM. 2012. Molecular evolution of genes recruited into C<sub>4</sub> photosynthesis. Trends in Plant Science 17: 213–220.](http://dx.doi.org/10.1016/j.tplants.2012.01.008)
 
 	\* Here we report for the first time that multiple genes expressed in M cells of C<sub>4</sub> leaves are regulated by elements in their untranslated regions, and surprisingly that the orthologous genes from C<sub>3</sub> A. thaliana already contain these elements.
+
 	\*\* For C<sub>4</sub> rice to be engineered, larger BS cells will be required. Prior to this work it was not clear whether it was possible to do this.
 
 
@@ -43,6 +39,7 @@ group: navigation
 - [Kajala K, Covshoff S, Karki S, Woodfield H, Tolley BJ, Dionora MJA, Mogul RT, Mabilangan AE, Danila FR, Hibberd JM, et al.. 2011. Strategies for engineering a two-celled C<sub>4</sub> photosynthetic pathway into rice. J Exp Bot 62: 3001–3010.](http://dx.doi.org/10.1093/jxb/err022)
 
 	\* In collaboration with Andreas Weber's group we report the first estimates of global divergence in gene expression between C<sub>3</sub> and C<sub>4</sub> leaves.
+
 	\*\* This work showed that independent lineages of C<sub>4</sub> plants can use the same mechanism to limit gene expression to BS cells. We also found that the cis elements reponsible were present in genes of C<sub>3</sub> species.
 
 
@@ -99,7 +96,7 @@ group: navigation
 - [Hibberd JM, Quick WP, Press MC, Scholes JD. 1995. Carbon fixation, partitioning and growth of cowpea parasitised by Striga gesnerioides. Aspects of Applied Biology (no.42) p. 117-124.](http://agris.fao.org/agris-search/search/display.do?f=1996/GB/GB96214.xml;GB9621535)
 
 
-### Other
+## Automatically curated lists
 
-- [Williams BP, Aubry S, Hibberd JM, .
-
+* [Researchate](https://www.researchgate.net/profile/Julian_Hibberd/publications/)
+* [Google Scholar](http://scholar.google.co.uk/citations?user=VgjC<sub>4</sub>I4AAAAJ)
