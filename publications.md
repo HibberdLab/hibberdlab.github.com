@@ -75,7 +75,7 @@ group: navigation
 - [ **Drea SC, Mould RM, Hibberd JM, Gray JC, Kavanagh TA**. 2001. Tissue-specific and developmental-specific expression of an Arabidopsis thaliana gene encoding the lipoamide dehydrogenase component of the plastid pyruvate dehydrogenase complex. Plant Mol Biol 46: 705–715.](http://dx.doi.org/10.1023/A:1011612921144)
 - [ **Gray JC, Sullivan JA, Hibberd JM, Hansen MR**. 2001. Stromules: Mobile Protrusions and Interconnections Between Plastids. Plant Biology 3: 223–233.](http://dx.doi.org/10.1055/s-2001-15204)
 - [ **Hibberd JM, Jeschke WD**. 2001. Solute flux into parasitic plants. J Exp Bot 52: 2043–2049.](http://dx.doi.org/10.1093/jexbot/52.363.2043)
-- [ **van Bel AJ., Hibberd J, Prüfer D, Knoblauch M**. 2001. Novel approach in plastid transformation. Current Opinion in Biotechnology 12: 144–149.](http://dx.doi.org/10.1016/S0958-166900189-0)
+- [ **van Bel AJ., Hibberd J, Prüfer D, Knoblauch M**. 2001. Novel approach in plastid transformation. Current Opinion in Biotechnology 12: 144–149.](http://dx.doi.org/10.1016/S0958-1669(00)00189-0)
 - [ **Bungard RA, Ruban AV, Hibberd JM, Press MC, Horton P, Scholes JD**. 1999. Unusual carotenoid composition and a new type of xanthophyll cycle in plants. PNAS 96: 1135–1139.](http://dx.doi.org/10.1073/pnas.96.3.1135)
 - [ **Gray JC, Hibberd JM, Linley PJ, Uijtewaal B**. 1999. GFP movement between chloroplasts. Nat Biotech 17: 1146–1146.](http://dx.doi.org/10.1038/70653)
 - [ **Knoblauch M, Hibberd JM, Gray JC, van Bel AJE**. 1999. A galinstan expansion femtosyringe for microinjection of eukaryotic organelles and prokaryotes. Nat Biotech 17: 906–909.](http://dx.doi.org/10.1038/12902)
