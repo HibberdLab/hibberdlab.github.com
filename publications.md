@@ -15,7 +15,7 @@ group: navigation
 
 ### 2013
 
-<p> - [ **Bombelli P, Iyer DMR, Covshoff S, McCormick AJ, Yunus K, Hibberd JM, Fisher AC, Howe CJ**. 2013. Comparison of power output by rice (Oryza sativa) and an associated weed (Echinochloa glabrescens) in vascular plant bio-photovoltaic (VP-BPV) systems. Appl Microbiol Biotechnol 97: 429–438.](http://dx.doi.org/10.1007/s00253-012-4473-6)
+- [ **Bombelli P, Iyer DMR, Covshoff S, McCormick AJ, Yunus K, Hibberd JM, Fisher AC, Howe CJ**. 2013. Comparison of power output by rice (Oryza sativa) and an associated weed (Echinochloa glabrescens) in vascular plant bio-photovoltaic (VP-BPV) systems. Appl Microbiol Biotechnol 97: 429–438.](http://dx.doi.org/10.1007/s00253-012-4473-6)
 - [ **Wang P, Fouracre J, Kelly S, Karki S, Gowik U, Aubry S, Shaw MK, Westhoff P, Slamet-Loedin IH, Quick WP, et al.**. 2013. Evolution of GOLDEN2-LIKE gene function in C3 and C4 plants. Planta 237: 481–495.](http://dx.doi.org/10.1007/s00425-012-1754-3)
 - [ **Covshoff S, Furbank RT, Leegood RC, Hibberd JM**. 2013. Leaf rolling allows quantification of mRNA abundance in mesophyll cells of sorghum. J Exp Bot 64: 807–813*.](http://dx.doi.org/10.1093/jxb/ers286)
 <p> *This paper reports a simple approach to extract RNA from either M or BS cells of CC<sub>4</sub> leaves. This new approach is low tech, does not require incubations that themselves induce alterations in gene expressioin (such as the production of protoplasts), and gives high quality RNA suitable for deep sequencing.</p>
@@ -24,10 +24,12 @@ group: navigation
 
 - [ **Covshoff S, Hibberd JM**. 2012. Integrating C4 photosynthesis into C3 crops to increase yield potential. Current Opinion in Biotechnology 23: 209–214.](http://dx.doi.org/10.1016/j.copbio.2011.12.011)
 - [ **Johnson MTJ, Carpenter EJ, Tian Z, Bruskiewich R, Burris JN, Carrigan CT, Chase MW, Clarke ND, Covshoff S, dePamphilis CW, et al.**. 2012. Evaluating Methods for Isolating Total RNA and Predicting the Success of Sequencing Phylogenetically Diverse Plant Transcriptomes. PLoS ONE 7: e50226.](http://dx.doi.org/10.1371/journal.pone.0050226)
-- [ **Kajala K, Brown NJ, Williams BP, Borrill P, Taylor LE, Hibberd JM**. 2012. Multiple Arabidopsis genes primed for recruitment into C4 photosynthesis. The Plant Journal 69: 47–56.](http://dx.doi.org/10.1111/j.1365-313X.2011.04769.x)
-- [ **Tolley BJ, Sage TL, Langdale JA, Hibberd JM**. 2012a. Individual Maize Chromosomes in the C3 Plant Oat Can Increase Bundle Sheath Cell Size and Vein Density. Plant Physiol 159: 1418–1427.](http://dx.doi.org/10.1104/pp.112.200584)
+- [ **Kajala K, Brown NJ, Williams BP, Borrill P, Taylor LE, Hibberd JM**. 2012. Multiple Arabidopsis genes primed for recruitment into C4 photosynthesis. The Plant Journal 69: 47–56. *](http://dx.doi.org/10.1111/j.1365-313X.2011.04769.x)
+- [ **Tolley BJ, Sage TL, Langdale JA, Hibberd JM**. 2012a. Individual Maize Chromosomes in the C3 Plant Oat Can Increase Bundle Sheath Cell Size and Vein Density. Plant Physiol 159: 1418–1427. **](http://dx.doi.org/10.1104/pp.112.200584)
 - [ **Tolley BJ, Woodfield H, Wanchana S, Bruskiewich R, Hibberd JM**. 2012b. Light-regulated and cell-specific methylation of the maize PEPC promoter. J Exp Bot 63: 1381–1390.](http://dx.doi.org/10.1093/jxb/err367)
 - [ **Williams BP, Aubry S, Hibberd JM**. 2012. Molecular evolution of genes recruited into C4 photosynthesis. Trends in Plant Science 17: 213–220.](http://dx.doi.org/10.1016/j.tplants.2012.01.008)
+<p> * Here we report for the first time that multiple genes are expressed in M cells of C4 leaves are regulated by elements in their untranslated regions, and surprisingly that the orthologous genes from C<sub>3</sub> A. thaliana already contain these elements.</p>
+<p> ** For C4 rice to be engineered, we need to be able to increase the size of BS cells. In this paper we show that it is feasible to engineer larger BS cells in a C3 leafis to be enThis paper shows that in a C<sub>3</sub> grass the BS cells can be expanded.</p>
 
 
 ### 2011
