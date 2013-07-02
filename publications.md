@@ -18,7 +18,7 @@ group: navigation
 - [ **Bombelli P, Iyer DMR, Covshoff S, McCormick AJ, Yunus K, Hibberd JM, Fisher AC, Howe CJ**. 2013. Comparison of power output by rice (Oryza sativa) and an associated weed (Echinochloa glabrescens) in vascular plant bio-photovoltaic (VP-BPV) systems. Appl Microbiol Biotechnol 97: 429–438.](http://dx.doi.org/10.1007/s00253-012-4473-6)
 - [ **Wang P, Fouracre J, Kelly S, Karki S, Gowik U, Aubry S, Shaw MK, Westhoff P, Slamet-Loedin IH, Quick WP, et al.**. 2013. Evolution of GOLDEN2-LIKE gene function in C3 and C4 plants. Planta 237: 481–495.](http://dx.doi.org/10.1007/s00425-012-1754-3)
 - [ **Covshoff S, Furbank RT, Leegood RC, Hibberd JM**. 2013. Leaf rolling allows quantification of mRNA abundance in mesophyll cells of sorghum. J Exp Bot 64: 807–813. *](http://dx.doi.org/10.1093/jxb/ers286)
-<p> *This paper reports a simple approach to extract RNA from either M or BS cells of C<sub>4</sub> leaves. This new approach is low tech, does not require incubations that themselves induce alterations in gene expressioin (such as the production of protoplasts), and gives high quality RNA suitable for deep sequencing.</p>
+<p> * This paper reports a simple approach to extract RNA from either M or BS cells of C<sub>4</sub> leaves. This new approach is low tech, does not require incubations that themselves induce alterations in gene expressioin (such as the production of protoplasts), and gives high quality RNA suitable for deep sequencing.</p>
 
 ### 2012
 
@@ -42,6 +42,7 @@ group: navigation
 <p> * In collaboration with Andreas Weber's group we report the first estimates of global divergence in gene expression between C<sub>3</sub> and C<sub>4</sub> leaves.</p>
 <p> ** This work showed that independent lineages of C<sub>4</sub> plants can use the same mechanism to limit gene expression to BS cells. We also found that the cis elements reponsible were present in genes of C<sub>3</sub> species.</p>
 
+
 ### 2010
 
 - [ **Brown NJ, Palmer BG, Stanley S, Hajaji H, Janacek SH, Astley HM, Parsley K, Kajala K, Quick WP, Trenkamp S, et al.**. 2010. C4 acid decarboxylases required for C4 photosynthesis are active in the mid-vein of the C3 species Arabidopsis thaliana, and are important in sugar and amino acid metabolism. The Plant Journal 61: 122–133.](http://dx.doi.org/10.1111/j.1365-313X.2009.04040.x)
@@ -49,6 +50,7 @@ group: navigation
 - [ **Hibberd JM, Taylor LE, Leiss AE**. 2010. Transgenic Plants Comprising Constructs Encoding Phosphoenolpyruvate Carboxykinase and/or Pyruvate Ortho Phos Phate Dikinase.](http://patentscope.wipo.int/search/en/WO2010097623)
 - [ **Newell CA, Brown NJ, Liu Z, Pflug A, Gowik U, Westhoff P, Hibberd JM**. 2010. Agrobacterium tumefaciens-mediated transformation of Cleome gynandra L., a C4 dicotyledon that is closely related to Arabidopsis thaliana. J Exp Bot 61: 1311–1319.](http://dx.doi.org/10.1093/jxb/erq009)
 <p> * This work shows that characteristics of C<sub>4</sub> photosynthesis are found around veins of C<sub>3</sub> A. thaliana, and defines which genes are involved as well as the function of the protein in the ancestral C<sub>3</sub> system. </p> 
+
 
 ### 2005-2009
 
@@ -62,7 +64,6 @@ group: navigation
 - [ **Dodd AN, Salathia N, Hall A, Kévei E, Tóth R, Nagy F, Hibberd JM, Millar AJ, Webb AAR**. 2005. Plant Circadian Clocks Increase Photosynthesis, Growth, Survival, and Competitive Advantage. Science 309: 630–633.](http://dx.doi.org/10.1126/science.1115581)
 - [ **Johnson AAT, Hibberd JM, Gay C, Essah PA, Haseloff J, Tester M, Guiderdoni E**. 2005. Spatial control of transgene expression in rice (Oryza sativa L.) using the GAL4 enhancer trapping system. The Plant Journal 41: 779–789.](http://dx.doi.org/10.1111/j.1365-313X.2005.02339.x)
 - [ **Revill MJW, Stanley S, Hibberd JM**. 2005. Plastid genome structure and loss of photosynthetic ability in the parasitic genus Cuscuta. J Exp Bot 56: 2477–2486.](http://dx.doi.org/10.1093/jxb/eri240)
-
 
 
 ### < 2005
