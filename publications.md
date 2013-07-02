@@ -18,7 +18,7 @@ group: navigation
 - [ **Bombelli P, Iyer DMR, Covshoff S, McCormick AJ, Yunus K, Hibberd JM, Fisher AC, Howe CJ**. 2013. Comparison of power output by rice (Oryza sativa) and an associated weed (Echinochloa glabrescens) in vascular plant bio-photovoltaic (VP-BPV) systems. Appl Microbiol Biotechnol 97: 429–438.](http://dx.doi.org/10.1007/s00253-012-4473-6)
 - [ **Wang P, Fouracre J, Kelly S, Karki S, Gowik U, Aubry S, Shaw MK, Westhoff P, Slamet-Loedin IH, Quick WP, et al.**. 2013. Evolution of GOLDEN2-LIKE gene function in C3 and C4 plants. Planta 237: 481–495.](http://dx.doi.org/10.1007/s00425-012-1754-3)
 - [ **Covshoff S, Furbank RT, Leegood RC, Hibberd JM**. 2013. Leaf rolling allows quantification of mRNA abundance in mesophyll cells of sorghum. J Exp Bot 64: 807–813. *](http://dx.doi.org/10.1093/jxb/ers286)
-<p> *This paper reports a simple approach to extract RNA from either M or BS cells of CC<sub>4</sub> leaves. This new approach is low tech, does not require incubations that themselves induce alterations in gene expressioin (such as the production of protoplasts), and gives high quality RNA suitable for deep sequencing.</p>
+<p> *This paper reports a simple approach to extract RNA from either M or BS cells of C<sub>4</sub> leaves. This new approach is low tech, does not require incubations that themselves induce alterations in gene expressioin (such as the production of protoplasts), and gives high quality RNA suitable for deep sequencing.</p>
 
 ### 2012
 
@@ -28,8 +28,8 @@ group: navigation
 - [ **Tolley BJ, Sage TL, Langdale JA, Hibberd JM**. 2012a. Individual Maize Chromosomes in the C3 Plant Oat Can Increase Bundle Sheath Cell Size and Vein Density. Plant Physiol 159: 1418–1427. **](http://dx.doi.org/10.1104/pp.112.200584)
 - [ **Tolley BJ, Woodfield H, Wanchana S, Bruskiewich R, Hibberd JM**. 2012b. Light-regulated and cell-specific methylation of the maize PEPC promoter. J Exp Bot 63: 1381–1390.](http://dx.doi.org/10.1093/jxb/err367)
 - [ **Williams BP, Aubry S, Hibberd JM**. 2012. Molecular evolution of genes recruited into C4 photosynthesis. Trends in Plant Science 17: 213–220.](http://dx.doi.org/10.1016/j.tplants.2012.01.008)
-<p> * Here we report for the first time that multiple genes are expressed in M cells of C<sub>4</sub> leaves are regulated by elements in their untranslated regions, and surprisingly that the orthologous genes from C<sub>3</sub> A. thaliana already contain these elements.</p>
-<p> ** For C<sub>4</sub> rice to be engineered, we need to be able to increase the size of BS cells. In this paper we show that larger BS cells can be engineered in a C<sub>3</sub> grass leaf.</p>
+<p> * Here we report for the first time that multiple genes expressed in M cells of C<sub>4</sub> leaves are regulated by elements in their untranslated regions, and surprisingly that the orthologous genes from C<sub>3</sub> A. thaliana already contain these elements.</p>
+<p> ** For C<sub>4</sub> rice to be engineered, larger BS cells will be required. Prior to this work it was not clear whether it was possible to do this.</p>
 
 
 ### 2011
@@ -40,29 +40,33 @@ group: navigation
 - [ **Brown NJ, Newell CA, Stanley S, Chen JE, Perrin AJ, Kajala K, Hibberd JM**. 2011. Independent and Parallel Recruitment of Preexisting Mechanisms Underlying C4 Photosynthesis. Science 331: 1436–1439. **](http://dx.doi.org/10.1126/science.1201248)
 - [ **Kajala K, Covshoff S, Karki S, Woodfield H, Tolley BJ, Dionora MJA, Mogul RT, Mabilangan AE, Danila FR, Hibberd JM, et al.**. 2011. Strategies for engineering a two-celled C4 photosynthetic pathway into rice. J Exp Bot 62: 3001–3010.](http://dx.doi.org/10.1093/jxb/err022)
 <p> * In collaboration with Andreas Weber's group we report the first estimates of global divergence in gene expression between C<sub>3</sub> and C<sub>4</sub> leaves.</p>
-<p> ** This is the first report that independent lineages of C<sub>4</sub> plants use the same mechanism to generate compartmentation of gene expression between M and BS cells. We also found that the cis elements reponsible were present in genes of C<sub>3</sub> species.</p>
+<p> ** This is the first report that independent lineages of C<sub>4</sub> plants use the same mechanism to limit gene expression to BS cells. We also found that the cis elements reponsible were present in genes of C<sub>3</sub> species.</p>
 
 ### 2010
 
 - [ **Brown NJ, Palmer BG, Stanley S, Hajaji H, Janacek SH, Astley HM, Parsley K, Kajala K, Quick WP, Trenkamp S, et al.**. 2010. C4 acid decarboxylases required for C4 photosynthesis are active in the mid-vein of the C3 species Arabidopsis thaliana, and are important in sugar and amino acid metabolism. The Plant Journal 61: 122–133.](http://dx.doi.org/10.1111/j.1365-313X.2009.04040.x)
-- **Hibberd J**. 2010. Using C4 Photosynthesis to Increase Yield of C3 Crops. In IN VITRO CELLULAR & DEVELOPMENTAL BIOLOGY-ANIMAL, Vol. 46 of, pp. S33–S34
 - [ **Hibberd JM, Covshoff S**. 2010. The Regulation of Gene Expression Required for C4 Photosynthesis. Annual Review of Plant Biology 61: 181–207.](http://dx.doi.org/10.1146/annurev-arplant-042809-112238)
 - [ **Hibberd JM, Taylor LE, Leiss AE**. 2010. Transgenic Plants Comprising Constructs Encoding Phosphoenolpyruvate Carboxykinase and/or Pyruvate Ortho Phos Phate Dikinase.](http://patentscope.wipo.int/search/en/WO2010097623)
 - [ **Newell CA, Brown NJ, Liu Z, Pflug A, Gowik U, Westhoff P, Hibberd JM**. 2010. Agrobacterium tumefaciens-mediated transformation of Cleome gynandra L., a C4 dicotyledon that is closely related to Arabidopsis thaliana. J Exp Bot 61: 1311–1319.](http://dx.doi.org/10.1093/jxb/erq009)
-
+<p> * This work shows that characteristics of C4 photosynthesis are found around veins of C<sub>3</sub> A. thaliana, and defines which genes are involved as well as the function of the protein in the ancestral C<sub>3</sub> system. </p> 
 
 ### 2005-2009
 
-- **Brown N, Hibberd J**. 2007. Molecular evolution of four-carbon decarboxylase genes recruited into C-4 photosynthesis. In PHOTOSYNTHESIS RESEARCH, Vol. 91 of, pp. 227–228
+- [ **Taylor L, Nunes-Nesi A, Parsley K, Leiss A, Leach G, Coates S, Wingler A, Fernie AR, Hibberd JM**. 2010. Cytosolic pyruvate,orthophosphate dikinase functions in nitrogen remobilization during leaf senescence and limits individual seed growth and nitrogen content. The Plant Journal 62: 641–- [ **Janacek SH, Trenkamp S, Palmer B, Brown NJ, Parsley K, Stanley S, Astley HM, Rolfe SA, Paul Quick W, Fernie AR, et al.**. 2009. Photosynthesis in cells around veins of the C3 plant Arabidopsis thaliana is important for both the shikimate pathway and leaf senescence as well as contributing to plant fitness. The Plant Journal 59: 329–343.](http://dx.doi.org/10.1111/j.1365-313X.2009.03873.x) 
+- [ **Chastain CJ, Xu W, Parsley K, Sarath G, Hibberd JM, Chollet R**. 2008. The pyruvate, orthophosphate dikinase regulatory proteins of Arabidopsis possess a novel, unprecedented Ser/Thr protein kinase primary structure. The Plant Journal 53: 854–863.](http://dx.doi.org/10.1111/j.1365-313X.2007.03366.x)
+- **Sheehy JE, Mitchell PPL, Hardy B**. 2008. Charting New Pathways to C4 Rice. World Scientific
+- [ **Truernit E, Hibberd JM**. 2007. Immunogenic tagging of chloroplasts allows their isolation from defined cell types. The Plant Journal 50: 926–932.](http://dx.doi.org/10.1111/j.1365-313X.2007.03113.x)
+- [ **Marshall DM, Muhaidat R, Brown NJ, Liu Z, Stanley S, Griffiths H, Sage RF, Hibberd JM**. 2007. Cleome, a genus closely related to Arabidopsis, contains species spanning a developmental progression from C3 to C4 photosynthesis. The Plant Journal 51: 886–896.](http://dx.doi.org/10.1111/j.1365-313X.2007.03188.x)
+- [ **Parsley K, Hibberd JM**. 2006. The Arabidopsis PPDK gene is transcribed from two promoters to produce differentially expressed transcripts responsible for cytosolic and plastidic proteins. Plant Mol Biol 62: 339–349.](http://dx.doi.org/10.1007/s11103-006-9023-0)
+- [ **Dodd AN, Salathia N, Hall A, Kévei E, Tóth R, Nagy F, Hibberd JM, Millar AJ, Webb AAR**. 2005. Plant Circadian Clocks Increase Photosynthesis, Growth, Survival, and Competitive Advantage. Science 309: 630–633.](http://dx.doi.org/10.1126/science.1115581)
+- [ **Johnson AAT, Hibberd JM, Gay C, Essah PA, Haseloff J, Tester M, Guiderdoni E**. 2005. Spatial control of transgene expression in rice (Oryza sativa L.) using the GAL4 enhancer trapping system. The Plant Journal 41: 779–789.](http://dx.doi.org/10.1111/j.1365-313X.2005.02339.x)
+- [ **Revill MJW, Stanley S, Hibberd JM**. 2005. Plastid genome structure and loss of photosynthetic ability in the parasitic genus Cuscuta. J Exp Bot 56: 2477–2486.](http://dx.doi.org/10.1093/jxb/eri240)
+652.](http://dx.doi.org/10.1111/j.1365-313X.2010.04179.x)
+
 - [ **Chastain CJ, Xu W, Parsley K, Sarath G, Hibberd JM, Chollet R**. 2008. The pyruvate, orthophosphate dikinase regulatory proteins of Arabidopsis possess a novel, unprecedented Ser/Thr protein kinase primary structure. The Plant Journal 53: 854–863.](http://dx.doi.org/10.1111/j.1365-313X.2007.03366.x)
 - [ **Dodd AN, Salathia N, Hall A, Kévei E, Tóth R, Nagy F, Hibberd JM, Millar AJ, Webb AAR**. 2005. Plant Circadian Clocks Increase Photosynthesis, Growth, Survival, and Competitive Advantage. Science 309: 630–633.](http://dx.doi.org/10.1126/science.1115581)
-- **Groover AT, Brown NJ, Parsley K, Hibberd JM, Udvardi MK, Tabata S, Parniske M, Stougaard J, Tadege M, Ratet P**. 2005. Special Issue: Plant model system. Plant Science 10: 201–256.
-- **Janacek S, Hibberd J**. 2006. Identifying roles for photosynthesis in defined cells type of C3 plants. In COMPARATIVE BIOCHEMISTRY AND PHYSIOLOGY A-MOLECULAR & INTEGRATIVE PHYSIOLOGY, Vol. 143 of, pp. S157–S157
-- **Janacek S, Palmer B, Quick P, Hibberd J**. 2007. Photosynthesis in veinal cells of C-3 plants controls leaf morphology. In PHOTOSYNTHESIS RESEARCH, Vol. 91 of, pp. 236–236
 - [ **Janacek SH, Trenkamp S, Palmer B, Brown NJ, Parsley K, Stanley S, Astley HM, Rolfe SA, Paul Quick W, Fernie AR, et al.**. 2009. Photosynthesis in cells around veins of the C3 plant Arabidopsis thaliana is important for both the shikimate pathway and leaf senescence as well as contributing to plant fitness. The Plant Journal 59: 329–343.](http://dx.doi.org/10.1111/j.1365-313X.2009.03873.x)
 - [ **Johnson AAT, Hibberd JM, Gay C, Essah PA, Haseloff J, Tester M, Guiderdoni E**. 2005. Spatial control of transgene expression in rice (Oryza sativa L.) using the GAL4 enhancer trapping system. The Plant Journal 41: 779–789.](http://dx.doi.org/10.1111/j.1365-313X.2005.02339.x)
-- **Marshall D, Griffiths H, Hibberd J, Sage R**. 2006. Evolution of C-4 photosynthesis-the genus cleome contains intermediate C-3-C-4 species. In COMPARATIVE BIOCHEMISTRY AND PHYSIOLOGY A-MOLECULAR & INTEGRATIVE PHYSIOLOGY, Vol. 143 of, pp. S173–S174
-- **Marshall D, Griffiths H, Hibberd J**. 2007a. Cleome-A new model for C-4 photosynthesis. In PHOTOSYNTHESIS RESEARCH, Vol. 91 of, pp. 227–227
 - [ **Marshall DM, Muhaidat R, Brown NJ, Liu Z, Stanley S, Griffiths H, Sage RF, Hibberd JM**. 2007b. Cleome, a genus closely related to Arabidopsis, contains species spanning a developmental progression from C3 to C4 photosynthesis. The Plant Journal 51: 886–896.](http://dx.doi.org/10.1111/j.1365-313X.2007.03188.x)
 - [ **Parsley K, Hibberd JM**. 2006. The Arabidopsis PPDK gene is transcribed from two promoters to produce differentially expressed transcripts responsible for cytosolic and plastidic proteins. Plant Mol Biol 62: 339–349.](http://dx.doi.org/10.1007/s11103-006-9023-0)
 - [ **Revill MJW, Stanley S, Hibberd JM**. 2005. Plastid genome structure and loss of photosynthetic ability in the parasitic genus Cuscuta. J Exp Bot 56: 2477–2486.](http://dx.doi.org/10.1093/jxb/eri240)
@@ -102,5 +106,5 @@ group: navigation
 
 ### Other
 
-- **Rutter MT, Cross KV, Van Woert PA, Williams BP, Aubry S, Hibberd JM, Roelfsema MRG, Hedrich R, Geiger D, Heijde M**. Feature Review 181 Auxin and ethylene: collaborators or competitors? 196 Functions of microRNAs in plant stress responses.
+- [ **Williams BP, Aubry S, Hibberd JM, **.
 
