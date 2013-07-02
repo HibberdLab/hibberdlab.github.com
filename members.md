@@ -8,7 +8,7 @@ description: "Hibberd Lab members past and present"
 
 # Group members
 
-Julian established his lab in the Department of Plant Sciences at the University of Cambridge in 2001. Since then, X post-doctoral researchers, X PhD students, X research assistants, X technicians and X undergraduate researchers have been part of the lab. The group is currently 16-strong. Read more about them below.
+Julian established his lab in the Department of Plant Sciences at the University of Cambridge in 2001. Since then, nine post-doctoral researchers, thirteen PhD students, and three research assistants have been part of the lab. The group is currently 12-strong. Read more about them below.
 
 ----
 
@@ -19,12 +19,7 @@ Julian established his lab in the Department of Plant Sciences at the University
     </a>
     <div class="media-body">
       <h4 class="media-heading">Julian Hibberd</h4>
-      Julian Hibberd blah, Melvin Kelvin award blah blah C4 rice. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-      consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-      cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-      proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+      Julian Hibberd blah, did his Phd with John Farrar and Bob Whitbread at Bangor University. He then moved to post-doctoral positions with Julie Scholes, Paul Quick and Malcolm Press in Sheffield, and then John Gray in Cambridge. He started his own group in Cambridge while holding a BBSRC Sir David Phillips Fellowship. His interests in plant biology have focussed on various aspects of photosynthesis since then. He has more recently become interested in using natural variation to improve our understanding of complex traits. He is a team leader within both the C4 Rice Project, and the EU3to4 FP7 programme, and represents the photosynthesis and metabolism community on the Plant Section committee of the Society of Experimetnal Biology. He is also an Associate Editor of *Plant Physiology*, and is a member of the BBSRC Responsive Mode Grants panel.  
     </div>
   </div>
 </div>
