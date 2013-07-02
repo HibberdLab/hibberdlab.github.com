@@ -66,14 +66,15 @@ group: navigation
 - [Parsley K, Hibberd JM. 2006. The Arabidopsis PPDK gene is transcribed from two promoters to produce differentially expressed transcripts responsible for cytosolic and plastidic proteins. Plant Mol Biol 62: 339–349.](http://dx.doi.org/10.1007/s11103-006-9023-0)
 - [Dodd AN, Salathia N, Hall A, Kévei E, Tóth R, Nagy F, Hibberd JM, Millar AJ, Webb AAR. 2005. Plant Circadian Clocks Increase Photosynthesis, Growth, Survival, and Competitive Advantage. Science 309: 630–633.](http://dx.doi.org/10.1126/science.1115581)
 - [Johnson AAT, Hibberd JM, Gay C, Essah PA, Haseloff J, Tester M, Guiderdoni E. 2005. Spatial control of transgene expression in rice (Oryza sativa L.) using the GAL4 enhancer trapping system. The Plant Journal 41: 779–789.](http://dx.doi.org/10.1111/j.1365-313X.2005.02339.x)
+- [Brown NJ, Parsley K, Hibberd JM. 2005. The future of C<sub>4</sub> research – maize, Flaveria or Cleome? Trends in Plant Science 10: 215–221.](http://dx.doi.org/10.1016/j.tplants.2005.03.003)
 - [Revill MJW, Stanley S, Hibberd JM. 2005. Plastid genome structure and loss of photosynthetic ability in the parasitic genus Cuscuta. J Exp Bot 56: 2477–2486.](http://dx.doi.org/10.1093/jxb/eri240)
 
-	\*  work shows that characteristics of C<sub>4</sub> photosynthesis are found around veins of C<sub>3</sub> A. thaliana, and defines which genes are involved as well as the function of the protein in the ancestral C<sub>3</sub> system.  
-
+	\*  Here we report a function of the PPDK protein in C3 species. Not only that, it turns out to be an important on in nitrogen cycling during senescence. Despite its clear role in C<sub>4</sub> plants, its role in C<sub>3</sub> species had never been defined.
+	\*\*  This is a system that allows chloroplasts from specific cells to be isolated.
+	\*\*\*  Our first thoughts on why Cleome and Arabidopsis might be an interesting system to study C<sub>4</sub> photosynthesis 
 
 ### < 2005
 
-- [Brown NJ, Parsley K, Hibberd JM. 2005. The future of C<sub>4</sub> research – maize, Flaveria or Cleome? Trends in Plant Science 10: 215–221.](http://dx.doi.org/10.1016/j.tplants.2005.03.003)
 - [Birch-Machin I, Newell CA, Hibberd JM, Gray JC. 2004. Accumulation of rotavirus VP6 protein in chloroplasts of transplastomic tobacco is limited by protein stability. Plant Biotechnology Journal 2: 261–270.](http://dx.doi.org/10.1111/j.1467-7652.2004.00072.x)
 - [Newell CA, Birch-Machin I, Hibberd JM, Gray JC. 2003. Expression of Green Fluorescent Protein from Bacterial and Plastid Promoters in Tobacco Chloroplasts. Transgenic Res 12: 631–634.](http://dx.doi.org/10.1023/A:1025812309254)
 - [Hibberd JM, Quick WP. 2002. Characteristics of C<sub>4</sub> photosynthesis in stems and petioles of C<sub>3</sub> flowering plants. Nature 415: 451–454.](http://dx.doi.org/10.1038/415451a)
