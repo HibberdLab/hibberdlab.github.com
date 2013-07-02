@@ -15,7 +15,7 @@ tagline: Supporting tagline
 <div class="well" style="background-color: rgba(255, 255, 255, 0.7); border: 0;">
 <h2>The Hibberd Lab at Cambridge Plant Sciences</h2>
 
-<p>Currently our work focusses on understanding how the efficient C<sub>4</sub> photosynthetic pathway works. In addition, we are generating increased genetic variation in domesticated rice, and screening for increased tolerance to stresses. By understanding the genetic basis of these complex traits we aim in the long term to contribute to improving crop productivity.</p>
+<p>Currently our work focusses on understanding how the efficient C<sub>4</sub> photosynthetic pathway works.  In addition, we are generating increased genetic variation in domesticated rice, and screening for increased tolerance to stresses.  By understanding the genetic basis of these complex traits we aim in the long term to contribute to improving crop productivity.</p>
 </div>
 <a class="btn btn-large btn-primary btn-block visible-phone" href="about.html"><span class="btn-label">read more...</span></a>
 
@@ -25,7 +25,7 @@ tagline: Supporting tagline
   <div class="span3">
     <div class="well">
       <h3>Projects</h3>
-      <p>We study the evolution of C<sub>4</sub> photosynthesis, the regulation of C<sub>4</sub> gene expression, and the role of proteins used in the C<sub>4</sub> pathway. Our research takes multidisciplinary approaches using both model and wild C<sub>4</sub> and C<sub>3</sub> species.</p>
+      <p>We study the evolution of C<sub>4</sub> photosynthesis, the regulation of C<sub>4</sub> gene expression, and the role of proteins used in the C<sub>4</sub> pathway.  Our research takes multidisciplinary approaches using both model and wild C<sub>4</sub> and C<sub>3</sub> species.</p>
       <a class="btn btn-primary" href="members.html">Explore</a> 
     </div>
   </div>
