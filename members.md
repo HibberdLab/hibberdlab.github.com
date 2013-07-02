@@ -13,13 +13,15 @@ Julian established his lab in the Department of Plant Sciences at the University
 ----
 
 <div class="row-fluid">
-  <div class="span6 offset3 media">
+  <div class="span8 offset2 media">
     <a class="pull-left" href="#">
       <img class="media-object img-rounded" src="http://www-falcon.csx.cam.ac.uk/site/PLANTSCI/research/julianhibberd/images/julian-hibberd.jpg/@@images/37008bf4-2524-4b3b-9290-c85e9c358436.jpeg">
     </a>
     <div class="media-body">
       <h4 class="media-heading">Julian Hibberd</h4>
-      Julian Hibberd blah, did his Phd with John Farrar and Bob Whitbread at Bangor University. He then moved to post-doctoral positions with Julie Scholes, Paul Quick and Malcolm Press in Sheffield, and then John Gray in Cambridge. He started his own group in Cambridge while holding a BBSRC Sir David Phillips Fellowship. His interests in plant biology have focussed on various aspects of photosynthesis. He has more recently become interested in using natural variation to improve our understanding of complex traits. He is a team leader within both the C4 Rice Project, and the EU3to4 FP7 programme, and represents the photosynthesis and metabolism community on the Plant Section committee of the Society of Experimetnal Biology. He is also an Associate Editor of *Plant Physiology*, and is a member of the BBSRC Responsive Mode Grants panel.  
+      <p>Julian did his Phd with John Farrar and Bob Whitbread at Bangor University. He then moved to post-doctoral positions with Julie Scholes, Paul Quick and Malcolm Press in Sheffield, and then John Gray in Cambridge. He started his own group in Cambridge while holding a BBSRC Sir David Phillips Fellowship. His interests in plant biology have focussed on various aspects of photosynthesis.</p>
+
+      <p>He has more recently become interested in using natural variation to improve our understanding of complex traits. He is a team leader within both the C<sub>4</sub> Rice Project, and the EU 3to4 FP7 programme, and represents the photosynthesis and metabolism community on the Plant Section committee of the Society of Experimental Biology. He is also an Associate Editor of <i>Plant Physiology</i>, and is a member of the BBSRC Responsive Mode Grants panel.</p>  
     </div>
   </div>
 </div>
