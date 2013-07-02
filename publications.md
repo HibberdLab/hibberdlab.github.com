@@ -17,7 +17,7 @@ group: navigation
 
 - [ **Bombelli P, Iyer DMR, Covshoff S, McCormick AJ, Yunus K, Hibberd JM, Fisher AC, Howe CJ**. 2013. Comparison of power output by rice (Oryza sativa) and an associated weed (Echinochloa glabrescens) in vascular plant bio-photovoltaic (VP-BPV) systems. Appl Microbiol Biotechnol 97: 429–438.](http://dx.doi.org/10.1007/s00253-012-4473-6)
 - [ **Wang P, Fouracre J, Kelly S, Karki S, Gowik U, Aubry S, Shaw MK, Westhoff P, Slamet-Loedin IH, Quick WP, et al.**. 2013. Evolution of GOLDEN2-LIKE gene function in C3 and C4 plants. Planta 237: 481–495.](http://dx.doi.org/10.1007/s00425-012-1754-3)
-- [ **Covshoff S, Furbank RT, Leegood RC, Hibberd JM**. 2013. Leaf rolling allows quantification of mRNA abundance in mesophyll cells of sorghum. J Exp Bot 64: 807–813*.](http://dx.doi.org/10.1093/jxb/ers286)
+- [ **Covshoff S, Furbank RT, Leegood RC, Hibberd JM**. 2013. Leaf rolling allows quantification of mRNA abundance in mesophyll cells of sorghum. J Exp Bot 64: 807–813. *](http://dx.doi.org/10.1093/jxb/ers286)
 <p> *This paper reports a simple approach to extract RNA from either M or BS cells of CC<sub>4</sub> leaves. This new approach is low tech, does not require incubations that themselves induce alterations in gene expressioin (such as the production of protoplasts), and gives high quality RNA suitable for deep sequencing.</p>
 
 ### 2012
@@ -29,7 +29,7 @@ group: navigation
 - [ **Tolley BJ, Woodfield H, Wanchana S, Bruskiewich R, Hibberd JM**. 2012b. Light-regulated and cell-specific methylation of the maize PEPC promoter. J Exp Bot 63: 1381–1390.](http://dx.doi.org/10.1093/jxb/err367)
 - [ **Williams BP, Aubry S, Hibberd JM**. 2012. Molecular evolution of genes recruited into C4 photosynthesis. Trends in Plant Science 17: 213–220.](http://dx.doi.org/10.1016/j.tplants.2012.01.008)
 <p> * Here we report for the first time that multiple genes are expressed in M cells of C4 leaves are regulated by elements in their untranslated regions, and surprisingly that the orthologous genes from C<sub>3</sub> A. thaliana already contain these elements.</p>
-<p> ** For C4 rice to be engineered, we need to be able to increase the size of BS cells. In this paper we show that it is feasible to engineer larger BS cells in a C3 leafis to be enThis paper shows that in a C<sub>3</sub> grass the BS cells can be expanded.</p>
+<p> ** For C<sub>4</sub> rice to be engineered, we need to be able to increase the size of BS cells. In this paper we show that larger BS cells can be engineered in a C<sub>3</sub> grass leaf.</p>
 
 
 ### 2011
