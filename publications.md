@@ -68,6 +68,8 @@ group: navigation
 - [Johnson AAT, Hibberd JM, Gay C, Essah PA, Haseloff J, Tester M, Guiderdoni E. 2005. Spatial control of transgene expression in rice (Oryza sativa L.) using the GAL4 enhancer trapping system. The Plant Journal 41: 779–789.](http://dx.doi.org/10.1111/j.1365-313X.2005.02339.x)
 - [Revill MJW, Stanley S, Hibberd JM. 2005. Plastid genome structure and loss of photosynthetic ability in the parasitic genus Cuscuta. J Exp Bot 56: 2477–2486.](http://dx.doi.org/10.1093/jxb/eri240)
 
+	\*  work shows that characteristics of C<sub>4</sub> photosynthesis are found around veins of C<sub>3</sub> A. thaliana, and defines which genes are involved as well as the function of the protein in the ancestral C<sub>3</sub> system.  
+
 
 ### < 2005
 
