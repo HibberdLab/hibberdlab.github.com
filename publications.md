@@ -18,7 +18,8 @@ group: navigation
 - [ **Bombelli P, Iyer DMR, Covshoff S, McCormick AJ, Yunus K, Hibberd JM, Fisher AC, Howe CJ**. 2013. Comparison of power output by rice (Oryza sativa) and an associated weed (Echinochloa glabrescens) in vascular plant bio-photovoltaic (VP-BPV) systems. Appl Microbiol Biotechnol 97: 429–438.](http://dx.doi.org/10.1007/s00253-012-4473-6)
 - [ **Wang P, Fouracre J, Kelly S, Karki S, Gowik U, Aubry S, Shaw MK, Westhoff P, Slamet-Loedin IH, Quick WP, et al.**. 2013. Evolution of GOLDEN2-LIKE gene function in C3 and C4 plants. Planta 237: 481–495.](http://dx.doi.org/10.1007/s00425-012-1754-3)
 - [ **Covshoff S, Furbank RT, Leegood RC, Hibberd JM**. 2013. Leaf rolling allows quantification of mRNA abundance in mesophyll cells of sorghum. J Exp Bot 64: 807–813. *](http://dx.doi.org/10.1093/jxb/ers286)
-<p> * This paper reports a simple approach to extract RNA from either M or BS cells of C<sub>4</sub> leaves. This new approach is low tech, does not require incubations that themselves induce alterations in gene expressioin (such as the production of protoplasts), and gives high quality RNA suitable for deep sequencing.</p>
+
+	\* This paper reports a simple approach to extract RNA from either M or BS cells of C<sub>4</sub> leaves. This new approach is low tech, does not require incubations that themselves induce alterations in gene expressioin (such as the production of protoplasts), and gives high quality RNA suitable for deep sequencing.
 
 ### 2012
 
@@ -28,8 +29,9 @@ group: navigation
 - [ **Tolley BJ, Sage TL, Langdale JA, Hibberd JM**. 2012a. Individual Maize Chromosomes in the C3 Plant Oat Can Increase Bundle Sheath Cell Size and Vein Density. Plant Physiol 159: 1418–1427. **](http://dx.doi.org/10.1104/pp.112.200584)
 - [ **Tolley BJ, Woodfield H, Wanchana S, Bruskiewich R, Hibberd JM**. 2012b. Light-regulated and cell-specific methylation of the maize PEPC promoter. J Exp Bot 63: 1381–1390.](http://dx.doi.org/10.1093/jxb/err367)
 - [ **Williams BP, Aubry S, Hibberd JM**. 2012. Molecular evolution of genes recruited into C4 photosynthesis. Trends in Plant Science 17: 213–220.](http://dx.doi.org/10.1016/j.tplants.2012.01.008)
-<p> * Here we report for the first time that multiple genes expressed in M cells of C<sub>4</sub> leaves are regulated by elements in their untranslated regions, and surprisingly that the orthologous genes from C<sub>3</sub> A. thaliana already contain these elements.</p>
-<p> ** For C<sub>4</sub> rice to be engineered, larger BS cells will be required. Prior to this work it was not clear whether it was possible to do this.</p>
+
+	\* Here we report for the first time that multiple genes expressed in M cells of C<sub>4</sub> leaves are regulated by elements in their untranslated regions, and surprisingly that the orthologous genes from C<sub>3</sub> A. thaliana already contain these elements.
+	\*\* For C<sub>4</sub> rice to be engineered, larger BS cells will be required. Prior to this work it was not clear whether it was possible to do this.
 
 
 ### 2011
@@ -39,8 +41,9 @@ group: navigation
 - [ **Bräutigam A, Kajala K, Wullenweber J, Sommer M, Gagneul D, Weber KL, Carr KM, Gowik U, Maß J, Lercher MJ, et al.**. 2011. An mRNA Blueprint for C4 Photosynthesis Derived from Comparative Transcriptomics of Closely Related C3 and C4 Species. Plant Physiol 155: 142–156. *](http://dx.doi.org/10.1104/pp.110.159442)
 - [ **Brown NJ, Newell CA, Stanley S, Chen JE, Perrin AJ, Kajala K, Hibberd JM**. 2011. Independent and Parallel Recruitment of Preexisting Mechanisms Underlying C4 Photosynthesis. Science 331: 1436–1439. **](http://dx.doi.org/10.1126/science.1201248)
 - [ **Kajala K, Covshoff S, Karki S, Woodfield H, Tolley BJ, Dionora MJA, Mogul RT, Mabilangan AE, Danila FR, Hibberd JM, et al.**. 2011. Strategies for engineering a two-celled C4 photosynthetic pathway into rice. J Exp Bot 62: 3001–3010.](http://dx.doi.org/10.1093/jxb/err022)
-<p> * In collaboration with Andreas Weber's group we report the first estimates of global divergence in gene expression between C<sub>3</sub> and C<sub>4</sub> leaves.</p>
-<p> ** This work showed that independent lineages of C<sub>4</sub> plants can use the same mechanism to limit gene expression to BS cells. We also found that the cis elements reponsible were present in genes of C<sub>3</sub> species.</p>
+
+	\* In collaboration with Andreas Weber's group we report the first estimates of global divergence in gene expression between C<sub>3</sub> and C<sub>4</sub> leaves.
+	\*\* This work showed that independent lineages of C<sub>4</sub> plants can use the same mechanism to limit gene expression to BS cells. We also found that the cis elements reponsible were present in genes of C<sub>3</sub> species.
 
 
 ### 2010
@@ -49,7 +52,8 @@ group: navigation
 - [ **Hibberd JM, Covshoff S**. 2010. The Regulation of Gene Expression Required for C4 Photosynthesis. Annual Review of Plant Biology 61: 181–207.](http://dx.doi.org/10.1146/annurev-arplant-042809-112238)
 - [ **Hibberd JM, Taylor LE, Leiss AE**. 2010. Transgenic Plants Comprising Constructs Encoding Phosphoenolpyruvate Carboxykinase and/or Pyruvate Ortho Phos Phate Dikinase.](http://patentscope.wipo.int/search/en/WO2010097623)
 - [ **Newell CA, Brown NJ, Liu Z, Pflug A, Gowik U, Westhoff P, Hibberd JM**. 2010. Agrobacterium tumefaciens-mediated transformation of Cleome gynandra L., a C4 dicotyledon that is closely related to Arabidopsis thaliana. J Exp Bot 61: 1311–1319.](http://dx.doi.org/10.1093/jxb/erq009)
-<p> * This work shows that characteristics of C<sub>4</sub> photosynthesis are found around veins of C<sub>3</sub> A. thaliana, and defines which genes are involved as well as the function of the protein in the ancestral C<sub>3</sub> system. </p> 
+
+	\* This work shows that characteristics of C<sub>4</sub> photosynthesis are found around veins of C<sub>3</sub> A. thaliana, and defines which genes are involved as well as the function of the protein in the ancestral C<sub>3</sub> system.  
 
 
 ### 2005-2009
