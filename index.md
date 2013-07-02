@@ -25,7 +25,7 @@ tagline: Supporting tagline
   <div class="span3">
     <div class="well">
       <h3>Projects</h3>
-      <p>We study the evolution and control of the photosynthetic apparatus. Our research takes multidisciplinary approaches using both model and wild C<sub>4</sub> and C<sub>3</sub> species.</p>
+      <p>We study the evolution of C<sub>4</sub> photosynthesis, and the regulation of C<sub>4</sub> gene expression, and the role of proteins used in the C<sub>4</sub> pathway. Our research takes multidisciplinary approaches using both model and wild C<sub>4</sub> and C<sub>3</sub> species.</p>
       <a class="btn btn-primary" href="members.html">Explore</a> 
     </div>
   </div>
