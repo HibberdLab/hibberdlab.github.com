@@ -28,7 +28,7 @@ group: navigation
 - [ **Tolley BJ, Sage TL, Langdale JA, Hibberd JM**. 2012a. Individual Maize Chromosomes in the C3 Plant Oat Can Increase Bundle Sheath Cell Size and Vein Density. Plant Physiol 159: 1418–1427. **](http://dx.doi.org/10.1104/pp.112.200584)
 - [ **Tolley BJ, Woodfield H, Wanchana S, Bruskiewich R, Hibberd JM**. 2012b. Light-regulated and cell-specific methylation of the maize PEPC promoter. J Exp Bot 63: 1381–1390.](http://dx.doi.org/10.1093/jxb/err367)
 - [ **Williams BP, Aubry S, Hibberd JM**. 2012. Molecular evolution of genes recruited into C4 photosynthesis. Trends in Plant Science 17: 213–220.](http://dx.doi.org/10.1016/j.tplants.2012.01.008)
-<p> * Here we report for the first time that multiple genes are expressed in M cells of C4 leaves are regulated by elements in their untranslated regions, and surprisingly that the orthologous genes from C<sub>3</sub> A. thaliana already contain these elements.</p>
+<p> * Here we report for the first time that multiple genes are expressed in M cells of C<sub>4</sub> leaves are regulated by elements in their untranslated regions, and surprisingly that the orthologous genes from C<sub>3</sub> A. thaliana already contain these elements.</p>
 <p> ** For C<sub>4</sub> rice to be engineered, we need to be able to increase the size of BS cells. In this paper we show that larger BS cells can be engineered in a C<sub>3</sub> grass leaf.</p>
 
 
@@ -36,10 +36,11 @@ group: navigation
 
 - [ **Astley HM, Parsley K, Aubry S, Chastain CJ, Burnell JN, Webb ME, Hibberd JM**. 2011. The pyruvate, orthophosphate dikinase regulatory proteins of Arabidopsis are both bifunctional and interact with the catalytic and nucleotide-binding domains of pyruvate, orthophosphate dikinase. The Plant Journal 68: 1070–1080.](http://dx.doi.org/10.1111/j.1365-313X.2011.04759.x)
 - [ **Aubry S, Brown NJ, Hibberd JM**. 2011. The role of proteins in C3 plants prior to their recruitment into the C4 pathway. J Exp Bot 62: 3049–3059.](http://dx.doi.org/10.1093/jxb/err012)
-- [ **Bräutigam A, Kajala K, Wullenweber J, Sommer M, Gagneul D, Weber KL, Carr KM, Gowik U, Maß J, Lercher MJ, et al.**. 2011. An mRNA Blueprint for C4 Photosynthesis Derived from Comparative Transcriptomics of Closely Related C3 and C4 Species. Plant Physiol 155: 142–156.](http://dx.doi.org/10.1104/pp.110.159442)
-- [ **Brown NJ, Newell CA, Stanley S, Chen JE, Perrin AJ, Kajala K, Hibberd JM**. 2011. Independent and Parallel Recruitment of Preexisting Mechanisms Underlying C4 Photosynthesis. Science 331: 1436–1439.](http://dx.doi.org/10.1126/science.1201248)
+- [ **Bräutigam A, Kajala K, Wullenweber J, Sommer M, Gagneul D, Weber KL, Carr KM, Gowik U, Maß J, Lercher MJ, et al.**. 2011. An mRNA Blueprint for C4 Photosynthesis Derived from Comparative Transcriptomics of Closely Related C3 and C4 Species. Plant Physiol 155: 142–156. *](http://dx.doi.org/10.1104/pp.110.159442)
+- [ **Brown NJ, Newell CA, Stanley S, Chen JE, Perrin AJ, Kajala K, Hibberd JM**. 2011. Independent and Parallel Recruitment of Preexisting Mechanisms Underlying C4 Photosynthesis. Science 331: 1436–1439. **](http://dx.doi.org/10.1126/science.1201248)
 - [ **Kajala K, Covshoff S, Karki S, Woodfield H, Tolley BJ, Dionora MJA, Mogul RT, Mabilangan AE, Danila FR, Hibberd JM, et al.**. 2011. Strategies for engineering a two-celled C4 photosynthetic pathway into rice. J Exp Bot 62: 3001–3010.](http://dx.doi.org/10.1093/jxb/err022)
-
+<p> * In collaboration with Andreas Weber's group we report the first estimates of global divergence in gene expression between C<sub>3</sub> and C<sub>4</sub> leaves.</p>
+<p> ** This is the first report that independent lineages of C<sub>4</sub> plants use the same mechanism to generate compartmentation of gene expression between M and BS cells. We also found that the cis elements reponsible were present in genes of C<sub>3</sub> species.</p>
 
 ### 2010
 
