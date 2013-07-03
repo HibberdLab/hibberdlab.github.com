@@ -52,7 +52,7 @@ group: navigation
 - [**Hibberd JM**, **Taylor LE**, **Leiss AE**. 2010. Transgenic Plants Comprising Constructs Encoding Phosphoenolpyruvate Carboxykinase and/or Pyruvate Ortho Phos Phate Dikinase.](http://patentscope.wipo.int/search/en/WO2010097623)
 - [**Newell CA**, **Brown NJ**, **Liu Z**, Pflug A, Gowik U, Westhoff P, **Hibberd JM**. 2010. Agrobacterium tumefaciens-mediated transformation of Cleome gynandra L., a C<sub>4</sub> dicotyledon that is closely related to Arabidopsis thaliana. J Exp Bot 61: 1311–1319.](http://dx.doi.org/10.1093/jxb/erq009)
 
-	\* This work shows that characteristics of C<sub>4</sub> photosynthesis are found around veins of C<sub>3</sub> A. thaliana, and defines which genes are involved as well as the function of the protein in the ancestral C<sub>3</sub> system.  
+	\* This work shows that characteristics of C<sub>4</sub> photosynthesis are found around veins of C<sub>3</sub> *A. thaliana*, and defines which genes are involved as well as the function of the protein in the ancestral C<sub>3</sub> system.  
 
 
 ### 2005-2009
