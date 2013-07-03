@@ -5,7 +5,9 @@ description: "Projects"
 ---
 {% include JB/setup %}
 
-# Current projects
+# Current research focus
+
+Our work on understanding the C<sub>4</sub> pathway makes use of model organisms as well as natural variation, and     classical molecular biology approaches as well as emerging technologies in bioinformatics and computational processing.
 
 ----
 
@@ -16,20 +18,8 @@ description: "Projects"
       <img src="http://lorempixel.com/1200/400/nature/1" alt="">
       <div class="container">
         <div class="carousel-caption">
-          <h1 class="media-heading">Comparative analysis of gene expression</h1>
-          <p>For example, we have recently undertaken a significant amount of deep sequencing of closely related C<sub>3</sub> and C<sub>4</sub> species, and using our leaf rolling method, generated cell specific transcriptomes for C<sub>4</sub> leaves.  This has allowed us to initiate an understanding of the extent to which the M and BS transcriptomes are convergent in independent lineages of C<sub>4</sub> plants.  This approach has also provided for the first time emerging lists of putative regulators for C<sub>4</sub> gene expression .</p>
-          <a class="btn btn-info" href="#">Read more...</a>
-        </div>
-      </div>
-    </div>
-    <div class="item">
-      <img src="{{%ASSET_PATH%}}../projects/diversity.png" alt="">
-      <div class="container">
-        <div class="carousel-caption">
-          <h1 style="color: black;">Using natural variation to understand C<sub>4</sub> photosynthesis</h1>
-          <p class="lead" style="color: black;">Proteins used in the C4 cycle are recruited from existing roles in C3 plants. We
-    study the role of these proteins in C3 plants in order to understand evolution of the
-    pathway.</p>
+          <h1 class="media-heading">Comparative analysis of C<sub>3</sub> and C<sub>4</sub> gene expression</h1>
+          <p>We are extending the phylogenetic breadth of deep sequencing of closely related C<sub>3</sub> and C<sub>4</sub> species, and using our leaf rolling method to generate cell specific transcriptomes for C<sub>4</sub> leaves.  This will form the foundation for an understanding of the extent to which the M and BS transcriptomes are convergent in independent lineages of C<sub>4</sub> plants.  This approach has also provided for the first time emerging lists of putative regulators for C<sub>4</sub> gene expression.</p>
           <a class="btn btn-info" href="#">Read more...</a>
         </div>
       </div>
@@ -39,9 +29,27 @@ description: "Projects"
       <div class="container">
         <div class="carousel-caption">
           <h1>The ancestral role of proteins used in C<sub>4</sub> photosynthesis</h1>
-          <p class="lead">Proteins used in the C4 cycle are recruited from existing roles in C3 plants. We
-    study the role of these proteins in C3 plants in order to understand evolution of the
-    pathway.</p>
+          <p class="lead">The model C<sub>3</sub> plant <i>A. thaliana</i> contains all the proteins used in the C<sub>4</sub> pathway.  We are using Arabidopsis to define the ancestral role of these proteins in C<sub>3</sub> species prior to their recruitment into the C<sub>4</sub> pathway.</p>
+          <a class="btn btn-info" href="#">Read more...</a>
+        </div>
+      </div>
+    </div>
+    <div class="item">
+      <img src="http://lorempixel.com/1200/400/nature/3" alt="">
+      <div class="container">
+        <div class="carousel-caption">
+          <h1>The <sub>C4</sub> rice project</h1>
+          <p class="lead">We are involved in building the basic biochemistry required for the <sub>C4</sub> pathway in leaves of rice, this is done in collaboration with IRRI. In addition, in we have identified candidate regulators of the patterns of <sub>C4</sub> gene expression and with Bob Furbank (CSIRO) are testing the role of these proteins in <sub>Setaria italica</sub>.</p>
+          <a class="btn btn-info" href="#">Read more...</a>
+        </div>
+      </div>
+    </div>
+    <div class="item">
+      <img src="http://lorempixel.com/1200/400/nature/4" alt="">
+      <div class="container">
+        <div class="carousel-caption">
+          <h1>Using synthetic approaches to increase CO<sub>2</sub> supply to RuBisCO</h1>
+          <p class="lead">In collaboration with [Mike Blatt, Nigel Burroughs, Cheryl Kerfield, Nick Smirnoff and John Golbeck](www.psrg.org.uk) we are investigating whether photosynthesis can be enhanced using artificial protein scaffolds and light driven HCO3- pumps.</p>
           <a class="btn btn-info" href="#">Read more...</a>
         </div>
       </div>
@@ -69,29 +77,9 @@ description: "Projects"
   <img class="media-object pull-left img-rounded" src="http://placekitten.com/150/150">
 
   <div class="media-body">
-    <h3 class="media-heading">The regulation of genes in C<sub>4</sub></h3>
+    <h3 class="media-heading">Comparative analysis of C<sub>3</sub> and C<sub>4</sub> gene expression</h3>
 
-    <p>Using closely related C3 and C4 plants we have identified cis-regulatory elements
-    that are shared between C4 genes and lineages, and also found that these elements
-    already exist in C3 genes. This may have facilitated the evolution of C4
-    photosynthesis, and so may inform approaches to engineer this pathway into C3
-    crops.</p>
-
-    <p>
-      <button class="btn btn-small btn-info" type="button">Learn more...</button>
-    </p>
-  </div>
-</div>
-
-<div class="well media">
-  <img class="media-object pull-left img-rounded" src="http://placekitten.com/g/150/150">
-
-  <div class="media-body">
-    <h3>Using natural variation to understand C<sub>4</sub> photosynthesis</h3>
-
-    <p>Deep sequencing technologies have allowed us to map global patterns of gene
-    expression in 15 of the 18 families containing C4 plants. We are particularly
-    interested in defining the core set of genes required for C4 photosynthesis.</p>
+    <p>We are extending the phylogenetic breadth of deep sequencing of closely related C<sub>3</sub> and C<sub>4</sub> species, and using our leaf rolling method to generate cell specific transcriptomes for C<sub>4</sub> leaves.  This will form the foundation for an understanding of the extent to which the M and BS transcriptomes are convergent in independent lineages of C<sub>4</sub> plants.  This approach has also provided for the first time emerging lists of putative regulators for C<sub>4</sub> gene expression.</p>
 
     <p>
       <button class="btn btn-small btn-info" type="button">Learn more...</button>
@@ -106,9 +94,7 @@ description: "Projects"
   <div class="media-body">
     <h3>The ancestral role of proteins used in C<sub>4</sub> photosynthesis</h3>
 
-    <p>Proteins used in the C4 cycle are recruited from existing roles in C3 plants. We
-    study the role of these proteins in C3 plants in order to understand evolution of the
-    pathway.</p>
+    <p>The model C<sub>3</sub> plant <i>A. thaliana</i> contains all the proteins used in the C<sub>4</sub> pathway.  We are using Arabidopsis to define the ancestral role of these proteins in C<sub>3</sub> species prior to their recruitment into the C<sub>4</sub> pathway.</p>
 
     <p>
       <button class="btn btn-small btn-info" type="button">Learn more...</button>
@@ -116,6 +102,35 @@ description: "Projects"
   </div>
 </div>
 
+<div class="well media">
+  <img class="media-object pull-left img-rounded" src="{{%ASSET_PATH%}}../projects/rice_thumb.jpg"
+  style="width:150px; height:150px;">
+
+  <div class="media-body">
+    <h3>The <sub>C4</sub> rice project</h3>
+
+    <p>We are involved in building the basic biochemistry required for the <sub>C4</sub> pathway in leaves of rice, this is done in collaboration with IRRI. In addition, in we have identified candidate regulators of the patterns of <sub>C4</sub> gene expression and with Bob Furbank (CSIRO) are testing the role of these proteins in <sub>Setaria italica</sub>.</p>
+
+    <p>
+      <button class="btn btn-small btn-info" type="button">Learn more...</button>
+    </p>
+  </div>
+</div>
+
+<div class="well media">
+  <img class="media-object pull-left img-rounded" src="{{%ASSET_PATH%}}../projects/rice_thumb.jpg"
+  style="width:150px; height:150px;">
+
+  <div class="media-body">
+    <h3>Using synthetic approaches to increase CO<sub>2</sub> supply to RuBisCO</h3>
+
+    <p>In collaboration with [Mike Blatt, Nigel Burroughs, Cheryl Kerfield, Nick Smirnoff and John Golbeck](www.psrg.org.uk) we are investigating whether photosynthesis can be enhanced using artificial protein scaffolds and light driven HCO3- pumps.</p>
+
+    <p>
+      <button class="btn btn-small btn-info" type="button">Learn more...</button>
+    </p>
+  </div>
+</div>
 <div class="well media">
   <img class="media-object pull-left img-rounded" src="{{%ASSET_PATH%}}../projects/rice_thumb.jpg"
   style="width:150px; height:150px;">
