@@ -29,7 +29,7 @@ Our work on understanding the C<sub>4</sub> pathway makes use of model organisms
       <div class="container">
         <div class="carousel-caption">
           <h1>The ancestral role of proteins used in C<sub>4</sub> photosynthesis</h1>
-          <p class="lead">The model C<sub>3</sub> plant <i>A. thaliana</i> contains all the proteins used in the C<sub>4</sub> pathway.  We are using Arabidopsis to define the ancestral role of these proteins in C<sub>3</sub> species prior to their recruitment into the C<sub>4</sub> pathway.</p>
+          <p class="lead">The model C<sub>3</sub> plant  <i>A. thaliana</i> contains all the proteins used in the C<sub>4</sub> pathway.  We are using  <i>Arabidopsis</i> to define the ancestral role of these proteins in C<sub>3</sub> species prior to their recruitment into the C<sub>4</sub> pathway.</p>
           <a class="btn btn-info" href="#">Read more...</a>
         </div>
       </div>
@@ -49,7 +49,7 @@ Our work on understanding the C<sub>4</sub> pathway makes use of model organisms
       <div class="container">
         <div class="carousel-caption">
           <h1>Using synthetic approaches to increase CO<sub>2</sub> supply to RuBisCO</h1>
-          <p class="lead">In collaboration with [Mike Blatt, Nigel Burroughs, Cheryl Kerfield, Nick Smirnoff and John Golbeck](www.psrg.org.uk) we are investigating whether photosynthesis can be enhanced using artificial protein scaffolds and light driven HCO3- pumps.</p>
+          <p class="lead">In collaboration with [Mike Blatt, Nigel Burroughs, Cheryl Kerfield, Nick Smirnoff and John Golbeck](http://www.psrg.org.uk) we are investigating whether photosynthesis can be enhanced using artificial protein scaffolds and light driven HCO3- pumps.</p>
           <a class="btn btn-info" href="#">Read more...</a>
         </div>
       </div>
