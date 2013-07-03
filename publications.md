@@ -52,7 +52,7 @@ group: navigation
 - [**Hibberd JM**, **Taylor LE**, **Leiss AE**. 2010. Transgenic Plants Comprising Constructs Encoding Phosphoenolpyruvate Carboxykinase and/or Pyruvate,OrthoPhosphate Dikinase.](http://patentscope.wipo.int/search/en/WO2010097623)
 - [**Newell CA**, **Brown NJ**, **Liu Z**, Pflug A, Gowik U, Westhoff P, **Hibberd JM**. 2010. Agrobacterium tumefaciens-mediated transformation of Cleome gynandra L., a C<sub>4</sub> dicotyledon that is closely related to Arabidopsis thaliana. J Exp Bot 61: 1311–1319.](http://dx.doi.org/10.1093/jxb/erq009)
 
-	\* **Characteristics of C<sub>4</sub> photosynthesis are found around veins of C<sub>3</sub> <i>A. thaliana</i>, and defines which genes are involved as well as the function of the protein in the ancestral C<sub>3</sub> system**.  
+	\* **Characteristics of C<sub>4</sub> photosynthesis are found around veins of C<sub>3</sub>  <i>A. thaliana</i>, and defines which genes are involved as well as the function of the protein in the ancestral C<sub>3</sub> system**.  
 
 
 ### 2005-2009
@@ -69,11 +69,11 @@ group: navigation
 - [Brown NJ, Parsley K, Hibberd JM. 2005. The future of C<sub>4</sub> research – maize, Flaveria or Cleome? Trends in Plant Science 10: 215–221. \*\*\*](http://dx.doi.org/10.1016/j.tplants.2005.03.003)
 - [Revill MJW, Stanley S, Hibberd JM. 2005. Plastid genome structure and loss of photosynthetic ability in the parasitic genus Cuscuta. J Exp Bot 56: 2477–2486.](http://dx.doi.org/10.1093/jxb/eri240)
 
-	\*  **A function for the PPDK protein in C<sub>3</sub> species. Not only that, it turns out to be an important one in nitrogen cycling during senescence. Despite its clear role in C<sub>4</sub> plants that was first described in the 1968, its role in C<sub>3</sub> species had never been defined.**
+	\*  **Despite PPDK having a clear role in the C<sub>4</sub> cycle that was first described in the 1968, its role in C<sub>3</sub> species had never been defined. We show that it functions in nitrogen cycling during senescence in C<sub>3</sub> plants. **
 	
 	\*\* **This is a system that allows chloroplasts from specific cells to be isolated.**
 	
-	\*\*\* **Our first thoughts on why Cleome and Arabidopsis might be an interesting system to study C<sub>4</sub> photosynthesis.** 
+	\*\*\* **Our first thoughts on why <i>Cleome<i/> and <i>Arabidopsis</i> might be an interesting system to study C<sub>4</sub> photosynthesis.** 
 
 ### < 2005
 
