@@ -69,7 +69,7 @@ group: navigation
 - [Brown NJ, Parsley K, Hibberd JM. 2005. The future of C<sub>4</sub> research – maize, Flaveria or Cleome? Trends in Plant Science 10: 215–221.](http://dx.doi.org/10.1016/j.tplants.2005.03.003)
 - [Revill MJW, Stanley S, Hibberd JM. 2005. Plastid genome structure and loss of photosynthetic ability in the parasitic genus Cuscuta. J Exp Bot 56: 2477–2486.](http://dx.doi.org/10.1093/jxb/eri240)
 
-	\*  Here we report a function of the PPDK protein in C<sub>3</sub> species. Not only that, it turns out to be an important one in nitrogen cycling during senescence. Despite its clear role in C<sub>4</sub> plants, its role in C<sub>3</sub> species had never been defined.
+	\*  Here we report a function for the PPDK protein in C<sub>3</sub> species. Not only that, it turns out to be an important one in nitrogen cycling during senescence. Despite its clear role in C<sub>4</sub> plants that was first described in the 1960s, its role in C<sub>3</sub> species had never been defined.
 	
 	\*\*  This is a system that allows chloroplasts from specific cells to be isolated.
 	
