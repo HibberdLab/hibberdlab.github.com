@@ -8,7 +8,7 @@ description: "Hibberd Lab members past and present"
 
 # Group members
 
-Julian established his laboratory in the Department of Plant Sciences at the University of Cambridge in 2001. Since then, nine post-doctoral researchers, thirteen PhD students, and three research assistants have been part of the lab. The group is currently 12-strong. Read more about them below.
+Julian established his laboratory in the Department of Plant Sciences at the University of Cambridge in 2001.  Since then, nine post-doctoral researchers, thirteen PhD students, and three research assistants have been part of the lab.  The group is currently 12-strong. Read more about them below.
 
 ----
 
@@ -19,9 +19,9 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
     </a>
     <div class="media-body">
       <h4 class="media-heading">Julian Hibberd</h4>
-      <p>Julian did his Phd with John Farrar and Bob Whitbread at Bangor University. He then moved to post-doctoral positions with Julie Scholes, Paul Quick and Malcolm Press in Sheffield, and then John Gray in Cambridge. He started his own group in Cambridge while holding a BBSRC Sir David Phillips Fellowship. His interests in plant biology have focussed on various aspects of photosynthesis.</p>
+      <p>Julian did his Phd with John Farrar and Bob Whitbread at Bangor University.  He then moved to post-doctoral positions with Julie Scholes, Paul Quick and Malcolm Press in Sheffield, and then John Gray in Cambridge.  He started his own group in Cambridge while holding a BBSRC Sir David Phillips Fellowship. His interests in plant biology have focussed on various aspects of photosynthesis.</p>
 
-      <p>He has more recently become interested in using natural variation to improve our understanding of complex traits. He is a team leader within both the C<sub>4</sub> Rice Project, and the EU 3to4 FP7 programme, and represents the photosynthesis and metabolism community on the Plant Section committee of the Society of Experimental Biology. He is also an Associate Editor of <i>Plant Physiology</i>, and is a member of the BBSRC Responsive Mode Grants panel.</p>  
+      <p>Julian has more recently become interested in using natural variation to improve our understanding of complex traits.  He is a team leader within both the C<sub>4</sub> Rice Project, and the EU 3to4 FP7 programme, and represents the photosynthesis and metabolism community on the Plant Section committee of the Society of Experimental Biology.  He is also an Associate Editor of <i>Plant Physiology</i>, and is a member of the BBSRC Responsive Mode Grants panel.</p>  
     </div>
   </div>
 </div>
