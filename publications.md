@@ -22,8 +22,8 @@ group: navigation
 
 - [**Covshoff S**, **Hibberd JM**. 2012. Integrating C<sub>4</sub> photosynthesis into C<sub>3</sub> crops to increase yield potential. Current Opinion in Biotechnology 23: 209–214.](http://dx.doi.org/10.1016/j.copbio.2011.12.011)
 - [Johnson MTJ, Carpenter EJ, Tian Z, Bruskiewich R, Burris JN, Carrigan CT, Chase MW, Clarke ND, **Covshoff S**, dePamphilis CW, et al.. 2012. Evaluating Methods for Isolating Total RNA and Predicting the Success of Sequencing Phylogenetically Diverse Plant Transcriptomes. PLoS ONE 7: e50226.](http://dx.doi.org/10.1371/journal.pone.0050226)
-- [**Kajala K**, **Brown NJ**, **Williams BP**, **Borrill P**, **Taylor LE**, **Hibberd JM**. 2012. Multiple Arabidopsis genes primed for recruitment into C<sub>4</sub> photosynthesis. The Plant Journal 69: 47–56. **\***](http://dx.doi.org/10.1111/j.1365-313X.2011.04769.x)
-- [**Tolley BJ**, Sage TL, Langdale JA, **Hibberd JM**. 2012a. Individual Maize Chromosomes in the C<sub>3</sub> Plant Oat Can Increase Bundle Sheath Cell Size and Vein Density. Plant Physiol 159: 1418–1427. **\*\***](http://dx.doi.org/10.1104/pp.112.200584)
+- [**Kajala K**, **Brown NJ**, **Williams BP**, **Borrill P**, **Taylor LE**, **Hibberd JM**. 2012. Multiple Arabidopsis genes primed for recruitment into C<sub>4</sub> photosynthesis. The Plant Journal 69: 47–56. \*](http://dx.doi.org/10.1111/j.1365-313X.2011.04769.x)
+- [**Tolley BJ**, Sage TL, Langdale JA, **Hibberd JM**. 2012a. Individual Maize Chromosomes in the C<sub>3</sub> Plant Oat Can Increase Bundle Sheath Cell Size and Vein Density. Plant Physiol 159: 1418–1427. *\*\](http://dx.doi.org/10.1104/pp.112.200584)
 - [**Tolley BJ**, **Woodfield H**, Wanchana S, Bruskiewich R, **Hibberd JM**. 2012b. Light-regulated and cell-specific methylation of the maize PEPC promoter. J Exp Bot 63: 1381–1390.](http://dx.doi.org/10.1093/jxb/err367)
 - [**Williams BP**, **Aubry S**, **Hibberd JM**. 2012. Molecular evolution of genes recruited into C<sub>4</sub> photosynthesis. Trends in Plant Science 17: 213–220.](http://dx.doi.org/10.1016/j.tplants.2012.01.008)
 
