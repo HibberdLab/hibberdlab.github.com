@@ -39,7 +39,7 @@ Our work on understanding the C<sub>4</sub> pathway makes use of model organisms
       <div class="container">
         <div class="carousel-caption">
           <h1>The C<sub>4</sub> rice project</h1>
-          <p class="lead">We are involved in building the basic biochemistry required for the C<sub>4</sub> pathway in leaves of rice, this is done in collaboration with <a href="http://photosynthome.irri.org/C4rice/index.php/"IRRI</a>. In addition, in we have identified candidate regulators of the patterns of C<sub>4</sub> gene expression and with Bob Furbank (CSIRO) are testing the role of these proteins in <i>Setaria italica</i>.</p>
+          <p class="lead">We are involved in building the basic biochemistry required for the C<sub>4</sub> pathway in leaves of rice, this is done in collaboration with <a href="http://photosynthome.irri.org/C4rice/index.php/">IRRI</a>. In addition, in we have identified candidate regulators of the patterns of C<sub>4</sub> gene expression and with Bob Furbank (CSIRO) are testing the role of these proteins in <i>Setaria italica</i>.</p>
           <a class="btn btn-info" href="#">Read more...</a>
         </div>
       </div>
@@ -49,7 +49,7 @@ Our work on understanding the C<sub>4</sub> pathway makes use of model organisms
       <div class="container">
         <div class="carousel-caption">
           <h1>Using synthetic approaches to increase CO<sub>2</sub> supply to RuBisCO</h1>
-          <p class="lead">In collaboration with <a href="(http://www.psrg.org.uk/"Mike Blatt, Nigel Burroughs, Cheryl Kerfield, Nick Smirnoff and John Golbeck</a> we are investigating whether photosynthesis can be enhanced using artificial protein scaffolds and light driven HCO3- pumps.</p>
+          <p class="lead">In collaboration with <a href="(http://www.psrg.org.uk/">Mike Blatt, Nigel Burroughs, Cheryl Kerfield, Nick Smirnoff and John Golbeck</a> we are investigating whether photosynthesis can be enhanced using artificial protein scaffolds and light driven HCO3- pumps.</p>
           <a class="btn btn-info" href="#">Read more...</a>
         </div>
       </div>
@@ -109,7 +109,7 @@ Our work on understanding the C<sub>4</sub> pathway makes use of model organisms
   <div class="media-body">
     <h3>The C<sub>4</sub> rice project</h3>
 
-    <p>We are involved in building the basic biochemistry required for the <sub>C4</sub> pathway in leaves of rice, this is done in collaboration with <a href="http://photosynthome.irri.org/C4rice/index.php"IRRI</a>. In addition, in we have identified candidate regulators of the patterns of <sub>C4</sub> gene expression and with Bob Furbank (CSIRO) are testing the role of these proteins in <sub>Setaria italica</sub>.</p>
+    <p>We are involved in building the basic biochemistry required for the <sub>C4</sub> pathway in leaves of rice, this is done in collaboration with <a href="http://photosynthome.irri.org/C4rice/index.php">IRRI</a>. In addition, in we have identified candidate regulators of the patterns of <sub>C4</sub> gene expression and with Bob Furbank (CSIRO) are testing the role of these proteins in <sub>Setaria italica</sub>.</p>
 
     <p>
       <button class="btn btn-small btn-info" type="button">Learn more...</button>
@@ -124,7 +124,7 @@ Our work on understanding the C<sub>4</sub> pathway makes use of model organisms
   <div class="media-body">
     <h3>Using synthetic approaches to increase CO<sub>2</sub> supply to RuBisCO</h3>
 
-    <p>In collaboration with <a href="http://www.psrg.org.uk/"[Mike Blatt, Nigel Burroughs, Cheryl Kerfield, Nick Smirnoff and John Golbeck</a> we are investigating whether photosynthesis can be enhanced using artificial protein scaffolds and light driven HCO3- pumps.</p>
+    <p>In collaboration with <a href="http://www.psrg.org.uk/">Mike Blatt, Nigel Burroughs, Cheryl Kerfield, Nick Smirnoff and John Golbeck</a> we are investigating whether photosynthesis can be enhanced using artificial protein scaffolds and light driven HCO3- pumps.</p>
 
     <p>
       <button class="btn btn-small btn-info" type="button">Learn more...</button>
@@ -140,7 +140,7 @@ Our work on understanding the C<sub>4</sub> pathway makes use of model organisms
 
     <p>As with all major crops, rice went through a series of domestication bottlenecks
     that reduced allelic variation compared with it ancestors and current wild species.
-    With <a href="http://irri.org/"IRRI</a> we are using wild species of rice and Multi Advanced Generation
+    With <a href="http://irri.org/">IRRI</a> we are using wild species of rice and Multi Advanced Generation
     Inter-Crossing to re-introduce tolerance to biotic and abiotic stresses.</p>
 
     <p>
