@@ -16,7 +16,7 @@ group: navigation
 - [Wang P, Fouracre J, Kelly S, Karki S, Gowik U, **Aubry S**, Shaw MK, Westhoff P, Slamet-Loedin IH, Quick WP, et al.. 2013. Evolution of GOLDEN2-LIKE gene function in C<sub>3</sub> and C<sub>4</sub> plants. Planta 237: 481–495.](http://dx.doi.org/10.1007/s00425-012-1754-3)
 - [**Covshoff S**, Furbank RT, Leegood RC, **Hibberd JM**. 2013. Leaf rolling allows quantification of mRNA abundance in mesophyll cells of sorghum. J Exp Bot 64: 807–813. \*](http://dx.doi.org/10.1093/jxb/ers286)
 
-	\* **This paper reports a simple approach to extract RNA from either M or BS cells of C<sub>4</sub> leaves. This new approach is low tech, does not require incubations that themselves induce alterations in gene expressioin (such as the production of protoplasts), and gives high quality RNA suitable for deep sequencing.**
+	\* **A simple approach to extract RNA from either M or BS cells of C<sub>4</sub> leaves. This new approach is low tech, does not require incubations that themselves induce alterations in gene expression (such as the production of protoplasts), and gives high quality RNA suitable for deep sequencing.**
 
 ### 2012
 
@@ -29,7 +29,7 @@ group: navigation
 
 	\* **Untranslated regions from multiple genes restrict expression to M cells. Surprisingly the orthologous UTRs from C<sub>3</sub> also do.**
 
-	\*\* **For C<sub>4</sub> rice to be engineered, larger BS cells will be required. Prior to this work it was not clear whether it was possible to do this.**
+	\*\* **For C<sub>4</sub> rice to be engineered, larger BS cells will be required. Prior to this work it was not clear whether it was possible to alter size of the BS in C<sub>3</sub> plants.**
 
 
 ### 2011
@@ -42,7 +42,7 @@ group: navigation
 
 	\* **In collaboration with Andreas Weber's group we report the first estimates of global divergence in gene expression between C<sub>3</sub> and C<sub>4</sub> leaves.**
 
-	\*\* **Independent lineages of C<sub>4</sub> plants can use the same mechanism to limit gene expression to BS cells. We also found that the cis elements reponsible were present in genes of C<sub>3</sub> species.**
+	\*\* **Independent lineages of C<sub>4</sub> plants use the same mechanism to limit gene expression to BS cells. We also found that the cis elements reponsible were present in genes of C<sub>3</sub> species.**
 
 
 ### 2010
@@ -52,7 +52,7 @@ group: navigation
 - [**Hibberd JM**, **Taylor LE**, **Leiss AE**. 2010. Transgenic Plants Comprising Constructs Encoding Phosphoenolpyruvate Carboxykinase and/or Pyruvate,OrthoPhosphate Dikinase.](http://patentscope.wipo.int/search/en/WO2010097623)
 - [**Newell CA**, **Brown NJ**, **Liu Z**, Pflug A, Gowik U, Westhoff P, **Hibberd JM**. 2010. Agrobacterium tumefaciens-mediated transformation of Cleome gynandra L., a C<sub>4</sub> dicotyledon that is closely related to Arabidopsis thaliana. J Exp Bot 61: 1311–1319.](http://dx.doi.org/10.1093/jxb/erq009)
 
-	\* **Characteristics of C<sub>4</sub> photosynthesis are found around veins of C<sub>3</sub> *A. thaliana*, and defines which genes are involved as well as the function of the protein in the ancestral C<sub>3</sub> system**.  
+	\* **Characteristics of C<sub>4</sub> photosynthesis are found around veins of C<sub>3</sub> <i>A. thaliana<i>, and defines which genes are involved as well as the function of the protein in the ancestral C<sub>3</sub> system**.  
 
 
 ### 2005-2009
