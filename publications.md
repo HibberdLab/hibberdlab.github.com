@@ -40,9 +40,9 @@ group: navigation
 - [**Brown NJ**, **Newell CA**, **Stanley S**, **Chen JE**, **Perrin AJ**, **Kajala K**, **Hibberd JM**. 2011. Independent and Parallel Recruitment of Preexisting Mechanisms Underlying C<sub>4</sub> Photosynthesis. Science 331: 1436–1439. **\*\***](http://dx.doi.org/10.1126/science.1201248)
 - [**Kajala K**, **Covshoff S**, Karki S, **Woodfield H**, **Tolley BJ**, Dionora MJA, Mogul RT, Mabilangan AE, Danila FR, **Hibberd JM**, et al.. 2011. Strategies for engineering a two-celled C<sub>4</sub> photosynthetic pathway into rice. J Exp Bot 62: 3001–3010.](http://dx.doi.org/10.1093/jxb/err022)
 
-	\* In collaboration with Andreas Weber's group we report the first estimates of global divergence in gene expression between C<sub>3</sub> and C<sub>4</sub> leaves.
+	**\*** In collaboration with Andreas Weber's group we report the first estimates of global divergence in gene expression between C<sub>3</sub> and C<sub>4</sub> leaves.
 
-	\*\* This work showed that independent lineages of C<sub>4</sub> plants can use the same mechanism to limit gene expression to BS cells. We also found that the cis elements reponsible were present in genes of C<sub>3</sub> species.
+	**\*\*** This work showed that independent lineages of C<sub>4</sub> plants can use the same mechanism to limit gene expression to BS cells. We also found that the cis elements reponsible were present in genes of C<sub>3</sub> species.
 
 
 ### 2010
