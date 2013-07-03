@@ -38,7 +38,7 @@ Our work on understanding the C<sub>4</sub> pathway makes use of model organisms
       <img src="http://lorempixel.com/1200/400/nature/3" alt="">
       <div class="container">
         <div class="carousel-caption">
-          <h1>The <sub>C4</sub> rice project</h1>
+          <h1>The C<sub>4</sub> rice project</h1>
           <p class="lead">We are involved in building the basic biochemistry required for the <sub>C4</sub> pathway in leaves of rice, this is done in collaboration with IRRI. In addition, in we have identified candidate regulators of the patterns of <sub>C4</sub> gene expression and with Bob Furbank (CSIRO) are testing the role of these proteins in <sub>Setaria italica</sub>.</p>
           <a class="btn btn-info" href="#">Read more...</a>
         </div>
@@ -107,7 +107,7 @@ Our work on understanding the C<sub>4</sub> pathway makes use of model organisms
   style="width:150px; height:150px;">
 
   <div class="media-body">
-    <h3>The <sub>C4</sub> rice project</h3>
+    <h3>The C<sub>4</sub> rice project</h3>
 
     <p>We are involved in building the basic biochemistry required for the <sub>C4</sub> pathway in leaves of rice, this is done in collaboration with IRRI. In addition, in we have identified candidate regulators of the patterns of <sub>C4</sub> gene expression and with Bob Furbank (CSIRO) are testing the role of these proteins in <sub>Setaria italica</sub>.</p>
 
