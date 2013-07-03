@@ -73,7 +73,7 @@ group: navigation
 	
 	\*\* **This is a system that allows chloroplasts from specific cells to be isolated.**
 	
-	\*\*\* **Our first thoughts on why <i>Cleome<i/> and <i>Arabidopsis</i> might be an interesting system to study C<sub>4</sub> photosynthesis.** 
+	\*\*\* **Our first thoughts on why <i>Cleome</i> and <i>Arabidopsis</i> might be an interesting system to study C<sub>4</sub> photosynthesis.** 
 
 ### < 2005
 
