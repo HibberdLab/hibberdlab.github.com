@@ -16,7 +16,7 @@ group: navigation
 - [Wang P, Fouracre J, Kelly S, Karki S, Gowik U, **Aubry S**, Shaw MK, Westhoff P, Slamet-Loedin IH, Quick WP, et al.. 2013. Evolution of GOLDEN2-LIKE gene function in C<sub>3</sub> and C<sub>4</sub> plants. Planta 237: 481–495.](http://dx.doi.org/10.1007/s00425-012-1754-3)
 - [**Covshoff S**, Furbank RT, Leegood RC, **Hibberd JM**. 2013. Leaf rolling allows quantification of mRNA abundance in mesophyll cells of sorghum. J Exp Bot 64: 807–813. \*](http://dx.doi.org/10.1093/jxb/ers286)
 
-	\* This paper reports a simple approach to extract RNA from either M or BS cells of C<sub>4</sub> leaves. This new approach is low tech, does not require incubations that themselves induce alterations in gene expressioin (such as the production of protoplasts), and gives high quality RNA suitable for deep sequencing.
+	\* **This paper reports a simple approach to extract RNA from either M or BS cells of C<sub>4</sub> leaves. This new approach is low tech, does not require incubations that themselves induce alterations in gene expressioin (such as the production of protoplasts), and gives high quality RNA suitable for deep sequencing.**
 
 ### 2012
 
@@ -27,9 +27,9 @@ group: navigation
 - [**Tolley BJ**, **Woodfield H**, Wanchana S, Bruskiewich R, **Hibberd JM**. 2012. Light-regulated and cell-specific methylation of the maize PEPC promoter. J Exp Bot 63: 1381–1390.](http://dx.doi.org/10.1093/jxb/err367)
 - [**Williams BP**, **Aubry S**, **Hibberd JM**. 2012. Molecular evolution of genes recruited into C<sub>4</sub> photosynthesis. Trends in Plant Science 17: 213–220.](http://dx.doi.org/10.1016/j.tplants.2012.01.008)
 
-	\* Here we report for the first time that multiple genes expressed in M cells of C<sub>4</sub> leaves are regulated by elements in their untranslated regions, and surprisingly that the orthologous genes from C<sub>3</sub> A. thaliana already contain these elements.
+\* **Here we report for the first time that multiple genes expressed in M cells of C<sub>4</sub> leaves are regulated by elements in their untranslated regions, and surprisingly that the orthologous genes from C<sub>3</sub> *A. thaliana* already contain these elements.**
 
-	\*\* For C<sub>4</sub> rice to be engineered, larger BS cells will be required. Prior to this work it was not clear whether it was possible to do this.
+\*\* **For C<sub>4</sub> rice to be engineered, larger BS cells will be required. Prior to this work it was not clear whether it was possible to do this.**
 
 
 ### 2011
