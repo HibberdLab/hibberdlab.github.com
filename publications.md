@@ -47,7 +47,7 @@ group: navigation
 
 ### 2010
 
-- [**Brown NJ**, Palmer BG, **Stanley S**, **Hajaji H**, **Janacek SH**, **Astley HM**, **Parsley K**, **Kajala K**, Quick WP, Trenkamp S, et al.. 2010. C<sub>4</sub> acid decarboxylases required for C<sub>4</sub> photosynthesis are active in the mid-vein of the C<sub>3</sub> species Arabidopsis thaliana, and are important in sugar and amino acid metabolism. The Plant Journal 61: 122–133.](http://dx.doi.org/10.1111/j.1365-313X.2009.04040.x)
+- [**Brown NJ**, Palmer BG, **Stanley S**, **Hajaji H**, **Janacek SH**, **Astley HM**, **Parsley K**, **Kajala K**, Quick WP, Trenkamp S, et al.. 2010. C<sub>4</sub> acid decarboxylases required for C<sub>4</sub> photosynthesis are active in the mid-vein of the C<sub>3</sub> species Arabidopsis thaliana, and are important in sugar and amino acid metabolism. The Plant Journal 61: 122–133.  **\***](http://dx.doi.org/10.1111/j.1365-313X.2009.04040.x)
 - [**Hibberd JM**, **Covshoff S**. 2010. The Regulation of Gene Expression Required for C<sub>4</sub> Photosynthesis. Annual Review of Plant Biology 61: 181–207.](http://dx.doi.org/10.1146/annurev-arplant-042809-112238)
 - [**Hibberd JM**, **Taylor LE**, **Leiss AE**. 2010. Transgenic Plants Comprising Constructs Encoding Phosphoenolpyruvate Carboxykinase and/or Pyruvate Ortho Phos Phate Dikinase.](http://patentscope.wipo.int/search/en/WO2010097623)
 - [**Newell CA**, **Brown NJ**, **Liu Z**, Pflug A, Gowik U, Westhoff P, **Hibberd JM**. 2010. Agrobacterium tumefaciens-mediated transformation of Cleome gynandra L., a C<sub>4</sub> dicotyledon that is closely related to Arabidopsis thaliana. J Exp Bot 61: 1311–1319.](http://dx.doi.org/10.1093/jxb/erq009)
@@ -57,19 +57,19 @@ group: navigation
 
 ### 2005-2009
 
-- [Taylor L, Nunes-Nesi A, Parsley K, Leiss A, Leach G, Coates S, Wingler A, Fernie AR, Hibberd JM. 2010. Cytosolic pyruvate,orthophosphate dikinase functions in nitrogen remobilization during leaf senescence and limits individual seed growth and nitrogen content. The Plant Journal 62: 641-652.](http://dx.doi.org/10.1111/j.1365-313X.2010.04179.x)
+- [Taylor L, Nunes-Nesi A, Parsley K, Leiss A, Leach G, Coates S, Wingler A, Fernie AR, Hibberd JM. 2010. Cytosolic pyruvate,orthophosphate dikinase functions in nitrogen remobilization during leaf senescence and limits individual seed growth and nitrogen content. The Plant Journal 62: 641-652.  **\***](http://dx.doi.org/10.1111/j.1365-313X.2010.04179.x)
 - [Janacek SH, Trenkamp S, Palmer B, Brown NJ, Parsley K, Stanley S, Astley HM, Rolfe SA, Paul Quick W, Fernie AR, et al.. 2009. Photosynthesis in cells around veins of the C<sub>3</sub> plant Arabidopsis thaliana is important for both the shikimate pathway and leaf senescence as well as contributing to plant fitness. The Plant Journal 59: 329–343.](http://dx.doi.org/10.1111/j.1365-313X.2009.03873.x) 
 - [Chastain CJ, Xu W, Parsley K, Sarath G, Hibberd JM, Chollet R. 2008. The pyruvate, orthophosphate dikinase regulatory proteins of Arabidopsis possess a novel, unprecedented Ser/Thr protein kinase primary structure. The Plant Journal 53: 854–863.](http://dx.doi.org/10.1111/j.1365-313X.2007.03366.x)
 - Sheehy JE, Mitchell PPL, Hardy B. 2008. Charting New Pathways to C<sub>4</sub> Rice. World Scientific
-- [Truernit E, Hibberd JM. 2007. Immunogenic tagging of chloroplasts allows their isolation from defined cell types. The Plant Journal 50: 926–932.](http://dx.doi.org/10.1111/j.1365-313X.2007.03113.x)
+- [Truernit E, Hibberd JM. 2007. Immunogenic tagging of chloroplasts allows their isolation from defined cell types. The Plant Journal 50: 926–932.  **\*\***](http://dx.doi.org/10.1111/j.1365-313X.2007.03113.x)
 - [Marshall DM, Muhaidat R, Brown NJ, Liu Z, Stanley S, Griffiths H, Sage RF, Hibberd JM. 2007. Cleome, a genus closely related to Arabidopsis, contains species spanning a developmental progression from C<sub>3</sub> to C<sub>4</sub> photosynthesis. The Plant Journal 51: 886–896.](http://dx.doi.org/10.1111/j.1365-313X.2007.03188.x)
-- [Parsley K, Hibberd JM. 2006. The Arabidopsis PPDK gene is transcribed from two promoters to produce differentially expressed transcripts responsible for cytosolic and plastidic proteins. Plant Mol Biol 62: 339–349.](http://dx.doi.org/10.1007/s11103-006-9023-0)
+- [Parsley K, Hibberd JM. 2006. The Arabidopsis PPDK gene is transcribed from two promoters to produce differentially expressed transcripts responsible for cytosolic and plastidic proteins. Plant Mol Biol 62: 339–349.  **\***](http://dx.doi.org/10.1007/s11103-006-9023-0)
 - [Dodd AN, Salathia N, Hall A, Kévei E, Tóth R, Nagy F, Hibberd JM, Millar AJ, Webb AAR. 2005. Plant Circadian Clocks Increase Photosynthesis, Growth, Survival, and Competitive Advantage. Science 309: 630–633.](http://dx.doi.org/10.1126/science.1115581)
 - [Johnson AAT, Hibberd JM, Gay C, Essah PA, Haseloff J, Tester M, Guiderdoni E. 2005. Spatial control of transgene expression in rice (Oryza sativa L.) using the GAL4 enhancer trapping system. The Plant Journal 41: 779–789.](http://dx.doi.org/10.1111/j.1365-313X.2005.02339.x)
 - [Brown NJ, Parsley K, Hibberd JM. 2005. The future of C<sub>4</sub> research – maize, Flaveria or Cleome? Trends in Plant Science 10: 215–221.](http://dx.doi.org/10.1016/j.tplants.2005.03.003)
 - [Revill MJW, Stanley S, Hibberd JM. 2005. Plastid genome structure and loss of photosynthetic ability in the parasitic genus Cuscuta. J Exp Bot 56: 2477–2486.](http://dx.doi.org/10.1093/jxb/eri240)
 
-	\*  Here we report a function for the PPDK protein in C<sub>3</sub> species. Not only that, it turns out to be an important one in nitrogen cycling during senescence. Despite its clear role in C<sub>4</sub> plants that was first described in the 1960s, its role in C<sub>3</sub> species had never been defined.
+	\*  Here we report a function for the PPDK protein in C<sub>3</sub> species. Not only that, it turns out to be an important one in nitrogen cycling during senescence. Despite its clear role in C<sub>4</sub> plants that was first described in the 1968, its role in C<sub>3</sub> species had never been defined.
 	
 	\*\*  This is a system that allows chloroplasts from specific cells to be isolated.
 	
