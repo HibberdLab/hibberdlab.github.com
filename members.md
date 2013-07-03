@@ -150,7 +150,8 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
     </a>
     <div class="media-body">
       <h4 class="media-heading">Richard Smith</h4>
-      Richard was a freelance software developer before taking his BSc in Conservation Biology at the University of the West of England. He spent a sandwich year as a research student at the Millennium Seed Bank, Kew, and continued to work for the MSB during the final year of his degree as a data analyst. His PhD, funded jointly by the MSB and the Department of Plant Sciences, focuses on combining computational and molecular tools to understand how C<sub>4</sub> operates in wetland conditions such as those found in rice paddies. His approach involves using transcriptomics in the C<sub>4</sub> weed of rice paddies, <i>Echinochloa glabrescens</i>.
+      <p>Richard was a freelance software developer before taking his BSc in Conservation Biology at the University of the West of England. He spent a sandwich year as a research student at the Millennium Seed Bank, Kew, and continued to work for the MSB during the final year of his degree as a data analyst.</p>
+      <p>His PhD, funded jointly by the MSB and the Department of Plant Sciences, focuses on combining computational and molecular tools to understand how C<sub>4</sub> operates in wetland conditions such as those found in rice paddies. His approach involves using transcriptomics in the C<sub>4</sub> weed of rice paddies, <i>Echinochloa glabrescens</i>.</p>
     </div>
   </div>
 </div>
