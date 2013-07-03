@@ -16,12 +16,8 @@ description: "Projects"
       <img src="http://lorempixel.com/1200/400/nature/1" alt="">
       <div class="container">
         <div class="carousel-caption">
-          <h1 class="media-heading">The regulation of genes in C<sub>4</sub></h1>
-          <p>Using closely related C3 and C4 plants we have identified cis-regulatory elements
-    that are shared between C4 genes and lineages, and also found that these elements
-    already exist in C3 genes. This may have facilitated the evolution of C4
-    photosynthesis, and so may inform approaches to engineer this pathway into C3
-    crops.</p>
+          <h1 class="media-heading">Comparative analysis of gene expression</h1>
+          <p>For example, we have recently undertaken a significant amount of deep sequencing of closely related C<sub>3</sub> and C<sub>4</sub> species, and using our leaf rolling method, generated cell specific transcriptomes for C<sub>4</sub> leaves.  This has allowed us to initiate an understanding of the extent to which the M and BS transcriptomes are convergent in independent lineages of C<sub>4</sub> plants.  This approach has also provided for the first time emerging lists of putative regulators for C<sub>4</sub> gene expression .</p>
           <a class="btn btn-info" href="#">Read more...</a>
         </div>
       </div>
