@@ -12,7 +12,7 @@ group: navigation
 
 ### 2013
 
-- [Bombelli P, Iyer DMR, **Covshoff S**, McCormick AJ, Yunus K, **Hibberd JM**, Fisher AC, Howe CJ. 2013. Comparison of power output by rice (<i>Oryza sativa</i>) and an associated weed (<i>Echinochloa glabrescens<i/>) in vascular plant bio-photovoltaic (VP-BPV) systems. Appl Microbiol Biotechnol 97: 429–438.](http://dx.doi.org/10.1007/s00253-012-4473-6)
+- [Bombelli P, Iyer DMR, **Covshoff S**, McCormick AJ, Yunus K, **Hibberd JM**, Fisher AC, Howe CJ. 2013. Comparison of power output by rice (<i>Oryza sativa</i>) and an associated weed (<i>Echinochloa glabrescens</i>) in vascular plant bio-photovoltaic (VP-BPV) systems. Appl Microbiol Biotechnol 97: 429–438.](http://dx.doi.org/10.1007/s00253-012-4473-6)
 - [Wang P, Fouracre J, Kelly S, Karki S, Gowik U, **Aubry S**, Shaw MK, Westhoff P, Slamet-Loedin IH, Quick WP, et al.. 2013. Evolution of GOLDEN2-LIKE gene function in C<sub>3</sub> and C<sub>4</sub> plants. Planta 237: 481–495.](http://dx.doi.org/10.1007/s00425-012-1754-3)
 - [**Covshoff S**, Furbank RT, Leegood RC, **Hibberd JM**. 2013. Leaf rolling allows quantification of mRNA abundance in mesophyll cells of sorghum. J Exp Bot 64: 807–813. \*](http://dx.doi.org/10.1093/jxb/ers286)
 
@@ -47,10 +47,10 @@ group: navigation
 
 ### 2010
 
-- [**Brown NJ**, Palmer BG, **Stanley S**, **Hajaji H**, **Janacek SH**, **Astley HM**, **Parsley K**, **Kajala K**, Quick WP, Trenkamp S, et al.. 2010. C<sub>4</sub> acid decarboxylases required for C<sub>4</sub> photosynthesis are active in the mid-vein of the C<sub>3</sub> species Arabidopsis thaliana, and are important in sugar and amino acid metabolism. The Plant Journal 61: 122–133.  \*](http://dx.doi.org/10.1111/j.1365-313X.2009.04040.x)
+- [**Brown NJ**, Palmer BG, **Stanley S**, **Hajaji H**, **Janacek SH**, **Astley HM**, **Parsley K**, **Kajala K**, Quick WP, Trenkamp S, et al.. 2010. C<sub>4</sub> acid decarboxylases required for C<sub>4</sub> photosynthesis are active in the mid-vein of the C<sub>3</sub> species <i>Arabidopsis thaliana</i>, and are important in sugar and amino acid metabolism. The Plant Journal 61: 122–133.  \*](http://dx.doi.org/10.1111/j.1365-313X.2009.04040.x)
 - [**Hibberd JM**, **Covshoff S**. 2010. The Regulation of Gene Expression Required for C<sub>4</sub> Photosynthesis. Annual Review of Plant Biology 61: 181–207.](http://dx.doi.org/10.1146/annurev-arplant-042809-112238)
 - [**Hibberd JM**, **Taylor LE**, **Leiss AE**. 2010. Transgenic Plants Comprising Constructs Encoding Phosphoenolpyruvate Carboxykinase and/or Pyruvate,OrthoPhosphate Dikinase.](http://patentscope.wipo.int/search/en/WO2010097623)
-- [**Newell CA**, **Brown NJ**, **Liu Z**, Pflug A, Gowik U, Westhoff P, **Hibberd JM**. 2010. Agrobacterium tumefaciens-mediated transformation of Cleome gynandra L., a C<sub>4</sub> dicotyledon that is closely related to Arabidopsis thaliana. J Exp Bot 61: 1311–1319.](http://dx.doi.org/10.1093/jxb/erq009)
+- [**Newell CA**, **Brown NJ**, **Liu Z**, Pflug A, Gowik U, Westhoff P, **Hibberd JM**. 2010. <i>Agrobacterium tumefaciens</i>-mediated transformation of Cleome gynandra L., a C<sub>4</sub> dicotyledon that is closely related to <i>Arabidopsis thaliana</i>. J Exp Bot 61: 1311–1319.](http://dx.doi.org/10.1093/jxb/erq009)
 
 	\* **Characteristics of C<sub>4</sub> photosynthesis are found around veins of C<sub>3</sub>  <i>A. thaliana</i>, and defines which genes are involved as well as the function of the protein in the ancestral C<sub>3</sub> system**.  
 
@@ -58,18 +58,18 @@ group: navigation
 ### 2005-2009
 
 - [Taylor L, Nunes-Nesi A, Parsley K, Leiss A, Leach G, Coates S, Wingler A, Fernie AR, Hibberd JM. 2010. Cytosolic pyruvate,orthophosphate dikinase functions in nitrogen remobilization during leaf senescence and limits individual seed growth and nitrogen content. The Plant Journal 62: 641-652.  \*](http://dx.doi.org/10.1111/j.1365-313X.2010.04179.x)
-- [Janacek SH, Trenkamp S, Palmer B, Brown NJ, Parsley K, Stanley S, Astley HM, Rolfe SA, Paul Quick W, Fernie AR, et al.. 2009. Photosynthesis in cells around veins of the C<sub>3</sub> plant Arabidopsis thaliana is important for both the shikimate pathway and leaf senescence as well as contributing to plant fitness. The Plant Journal 59: 329–343.](http://dx.doi.org/10.1111/j.1365-313X.2009.03873.x) 
+- [Janacek SH, Trenkamp S, Palmer B, Brown NJ, Parsley K, Stanley S, Astley HM, Rolfe SA, Paul Quick W, Fernie AR, et al.. 2009. Photosynthesis in cells around veins of the C<sub>3</sub> plant <i>Arabidopsis thaliana</i> is important for both the shikimate pathway and leaf senescence as well as contributing to plant fitness. The Plant Journal 59: 329–343.](http://dx.doi.org/10.1111/j.1365-313X.2009.03873.x) 
 - [Chastain CJ, Xu W, Parsley K, Sarath G, Hibberd JM, Chollet R. 2008. The pyruvate, orthophosphate dikinase regulatory proteins of Arabidopsis possess a novel, unprecedented Ser/Thr protein kinase primary structure. The Plant Journal 53: 854–863.](http://dx.doi.org/10.1111/j.1365-313X.2007.03366.x)
 - Sheehy JE, Mitchell PPL, Hardy B. 2008. Charting New Pathways to C<sub>4</sub> Rice. World Scientific
 - [Truernit E, Hibberd JM. 2007. Immunogenic tagging of chloroplasts allows their isolation from defined cell types. The Plant Journal 50: 926–932.  \*\*](http://dx.doi.org/10.1111/j.1365-313X.2007.03113.x)
 - [Marshall DM, Muhaidat R, Brown NJ, Liu Z, Stanley S, Griffiths H, Sage RF, Hibberd JM. 2007. Cleome, a genus closely related to Arabidopsis, contains species spanning a developmental progression from C<sub>3</sub> to C<sub>4</sub> photosynthesis. The Plant Journal 51: 886–896.](http://dx.doi.org/10.1111/j.1365-313X.2007.03188.x)
-- [Parsley K, Hibberd JM. 2006. The Arabidopsis <i>PPDK<i/> gene is transcribed from two promoters to produce differentially expressed transcripts responsible for cytosolic and plastidic proteins. Plant Mol Biol 62: 339–349.](http://dx.doi.org/10.1007/s11103-006-9023-0)
+- [Parsley K, Hibberd JM. 2006. The Arabidopsis <i>PPDK</i> gene is transcribed from two promoters to produce differentially expressed transcripts responsible for cytosolic and plastidic proteins. Plant Mol Biol 62: 339–349.](http://dx.doi.org/10.1007/s11103-006-9023-0)
 - [Dodd AN, Salathia N, Hall A, Kévei E, Tóth R, Nagy F, Hibberd JM, Millar AJ, Webb AAR. 2005. Plant Circadian Clocks Increase Photosynthesis, Growth, Survival, and Competitive Advantage. Science 309: 630–633.](http://dx.doi.org/10.1126/science.1115581)
 - [Johnson AAT, Hibberd JM, Gay C, Essah PA, Haseloff J, Tester M, Guiderdoni E. 2005. Spatial control of transgene expression in rice (Oryza sativa L.) using the GAL4 enhancer trapping system. The Plant Journal 41: 779–789.](http://dx.doi.org/10.1111/j.1365-313X.2005.02339.x)
 - [Brown NJ, Parsley K, Hibberd JM. 2005. The future of C<sub>4</sub> research – maize, Flaveria or Cleome? Trends in Plant Science 10: 215–221. \*\*\*](http://dx.doi.org/10.1016/j.tplants.2005.03.003)
 - [Revill MJW, Stanley S, Hibberd JM. 2005. Plastid genome structure and loss of photosynthetic ability in the parasitic genus Cuscuta. J Exp Bot 56: 2477–2486.](http://dx.doi.org/10.1093/jxb/eri240)
 
-	\*  **Despite PPDK having a clear role in the C<sub>4</sub> cycle that was first described in the 1968, its role in C<sub>3</sub> species had never been defined. We show that it functions in nitrogen cycling during senescence in C<sub>3</sub> plants. **
+	\* **Despite PPDK having a clear role in the C<sub>4</sub> cycle that was first described in the 1968, its role in C<sub>3</sub> species had never been defined. We show that it functions in nitrogen cycling during senescence in C<sub>3</sub> plants.**
 	
 	\*\* **This is a system that allows chloroplasts from specific cells to be isolated.**
 	
@@ -80,8 +80,8 @@ group: navigation
 - [Birch-Machin I, Newell CA, Hibberd JM, Gray JC. 2004. Accumulation of rotavirus VP6 protein in chloroplasts of transplastomic tobacco is limited by protein stability. Plant Biotechnology Journal 2: 261–270.](http://dx.doi.org/10.1111/j.1467-7652.2004.00072.x)
 - [Newell CA, Birch-Machin I, Hibberd JM, Gray JC. 2003. Expression of Green Fluorescent Protein from Bacterial and Plastid Promoters in Tobacco Chloroplasts. Transgenic Res 12: 631–634.](http://dx.doi.org/10.1023/A:1025812309254)
 - [Hibberd JM, Quick WP. 2002. Characteristics of C<sub>4</sub> photosynthesis in stems and petioles of C<sub>3</sub> flowering plants. Nature 415: 451–454.](http://dx.doi.org/10.1038/415451a)
-- [Millen RS, Olmstead RG, Adams KL, Palmer JD, Lao NT, Heggie L, Kavanagh TA, Hibberd JM, Gray JC, Morden CW, et al.. 2001. Many Parallel Losses of infA from Chloroplast DNA during Angiosperm Evolution with Multiple Independent Transfers to the Nucleus. Plant Cell 13: 645–658.](http://dx.doi.org/10.1105/tpc.13.3.645)
-- [Drea SC, Mould RM, Hibberd JM, Gray JC, Kavanagh TA. 2001. Tissue-specific and developmental-specific expression of an Arabidopsis thaliana gene encoding the lipoamide dehydrogenase component of the plastid pyruvate dehydrogenase complex. Plant Mol Biol 46: 705–715.](http://dx.doi.org/10.1023/A:1011612921144)
+- [Millen RS, Olmstead RG, Adams KL, Palmer JD, Lao NT, Heggie L, Kavanagh TA, Hibberd JM, Gray JC, Morden CW, et al.. 2001. Many Parallel Losses of <i>infA</i> from Chloroplast DNA during Angiosperm Evolution with Multiple Independent Transfers to the Nucleus. Plant Cell 13: 645–658.](http://dx.doi.org/10.1105/tpc.13.3.645)
+- [Drea SC, Mould RM, Hibberd JM, Gray JC, Kavanagh TA. 2001. Tissue-specific and developmental-specific expression of an <i>Arabidopsis thaliana</i> gene encoding the lipoamide dehydrogenase component of the plastid pyruvate dehydrogenase complex. Plant Mol Biol 46: 705–715.](http://dx.doi.org/10.1023/A:1011612921144)
 - [Gray JC, Sullivan JA, Hibberd JM, Hansen MR. 2001. Stromules: Mobile Protrusions and Interconnections Between Plastids. Plant Biology 3: 223–233.](http://dx.doi.org/10.1055/s-2001-15204)
 - [Hibberd JM, Jeschke WD. 2001. Solute flux into parasitic plants. J Exp Bot 52: 2043–2049.](http://dx.doi.org/10.1093/jexbot/52.363.2043)
 - [van Bel AJ., Hibberd J, Prüfer D, Knoblauch M. 2001. Novel approach in plastid transformation. Current Opinion in Biotechnology 12: 144–149.](http://dx.doi.org/10.1016/S0958-1669(00)00189-0)
@@ -89,18 +89,18 @@ group: navigation
 - [Gray JC, Hibberd JM, Linley PJ, Uijtewaal B. 1999. GFP movement between chloroplasts. Nat Biotech 17: 1146–1146.](http://dx.doi.org/10.1038/70653)
 - [Knoblauch M, Hibberd JM, Gray JC, van Bel AJE. 1999. A galinstan expansion femtosyringe for microinjection of eukaryotic organelles and prokaryotes. Nat Biotech 17: 906–909.](http://dx.doi.org/10.1038/12902)
 - [Lao NT, Schoneveld O, Mould RM, Hibberd JM, Gray JC, Kavanagh TA. 1999. An Arabidopsis gene encoding a chloroplast-targeted β-amylase. The Plant Journal 20: 519–527.](http://dx.doi.org/10.1046/j.1365-313X.1999.00625.x)
-- [Hibberd JM, Quick WP, Press MC, Scholes JD, Jeschke WD. 1999. Solute fluxes from tobacco to the parasitic angiosperm <i>Orobanche cernua<i/> and the influence of infection on host carbon and nitrogen relations. Plant, Cell & Environment 22: 937–947.](http://dx.doi.org/10.1046/j.1365-3040.1999.00462.x)
+- [Hibberd JM, Quick WP, Press MC, Scholes JD, Jeschke WD. 1999. Solute fluxes from tobacco to the parasitic angiosperm <i>Orobanche cernua</i> and the influence of infection on host carbon and nitrogen relations. Plant, Cell & Environment 22: 937–947.](http://dx.doi.org/10.1046/j.1365-3040.1999.00462.x)
 - [Hibberd JM, Linley PJ, Khan MS, Gray JC. 1998. Transient expression of green fluorescent protein in various plastid types following microprojectile bombardment. The Plant Journal 16: 627 –632.](http://dx.doi.org/10.1046/j.1365-313x.1998.00328.x)
-- [Hibberd JM, Quick WP, Press MC, Scholes JD. 1998. Can source–sink relations explain responses of tobacco to infection by the root holoparasitic angiosperm <i>Orobanche cernua<i/>? Plant, Cell & Environment 21: 333–340.](http://dx.doi.org/10.1046/j.1365-3040.1998.00272.x)
-- [Hibberd JM, Bungard RA, Press MC, Jeschke WD, Scholes JD, Quick WP. 1998. Localization of photosynthetic metabolism in the parasitic angiosperm <i>Cuscuta reflexa<i/>. Planta 205: 506–513.](http://dx.doi.org/10.1007/s004250050349)
+- [Hibberd JM, Quick WP, Press MC, Scholes JD. 1998. Can source–sink relations explain responses of tobacco to infection by the root holoparasitic angiosperm <i>Orobanche cernua</i>? Plant, Cell & Environment 21: 333–340.](http://dx.doi.org/10.1046/j.1365-3040.1998.00272.x)
+- [Hibberd JM, Bungard RA, Press MC, Jeschke WD, Scholes JD, Quick WP. 1998. Localization of photosynthetic metabolism in the parasitic angiosperm <i>Cuscuta reflexa</i>. Planta 205: 506–513.](http://dx.doi.org/10.1007/s004250050349)
 - [Bürkle L, Hibberd JM, Quick WP, Kühn C, Hirner B, Frommer WB. 1998. The H+-Sucrose Cotransporter NtSUT1 Is Essential for Sugar Export from Tobacco Leaves. Plant Physiol 118: 59–68.](http://dx.doi.org/10.1104/pp.118.1.59)
-- [Hibberd JM, Barker ER, Scholes JD, Quick WP, Press MC. 1996. How does <i>Orobanche aegyptiaca<i/> influence the carbon relations of tobacco and tomato? In Congresos y Jornadas - Junta de Andalucia, Vol. no. 36/96 of, JA, DGIA](http://agris.fao.org/agris-search/search/display.do?f=1997/ES/ES97001.xml;ES9701595)
-- [Hibberd JM, Quick WP, Press MC, Scholes JD. 1996. The influence of the parasitic angiosperm <i>Striga gesnerioides<i/> on the growth and photosynthesis of its host, Vigna unguiculata. J Exp Bot 47: 507–512.](http://dx.doi.org/10.1093/jxb/47.4.507)
+- [Hibberd JM, Barker ER, Scholes JD, Quick WP, Press MC. 1996. How does <i>Orobanche aegyptiaca</i> influence the carbon relations of tobacco and tomato? In Congresos y Jornadas - Junta de Andalucia, Vol. no. 36/96 of, JA, DGIA](http://agris.fao.org/agris-search/search/display.do?f=1997/ES/ES97001.xml;ES9701595)
+- [Hibberd JM, Quick WP, Press MC, Scholes JD. 1996. The influence of the parasitic angiosperm <i>Striga gesnerioides</i> on the growth and photosynthesis of its host, <i>Vigna unguiculata</i>. J Exp Bot 47: 507–512.](http://dx.doi.org/10.1093/jxb/47.4.507)
 - [Hibberd JM, Richardson P, Whitbread R, Farrar JF. 1996. Effects of Leaf Age, Basal Meristem and Infection with Powdery Mildew on Photosynthesis in Barley Grown in 700 μmol Mol-1 CO2. New Phytologist 134: 317–325.](http://dx.doi.org/10.2307/2558771)
 - [Hibberd JM, Whitbread R, Farrar JF. 1996. Carbohydrate metabolism in source leaves of barley grown in 700 μmol mol−1 CO2 and infected with powdery mildew. New Phytologist 133: 659–671.](http://dx.doi.org/10.1111/j.1469-8137.1996.tb01935.x)
 - [Hibberd JM, Whitbread R, Farrar JF. 1996. Effect of 700 μmol mol−1 CO2 and infection with powdery mildew on the growth and carbon partitioning of barley. New Phytologist 134: 309–315.](http://dx.doi.org/10.1111/j.1469-8137.1996.tb04635.x)
-- [Hibberd JM, Whitbread R, Farrar JF. 1996. Effect of elevated concentrations of CO2 on infection of barley by <i>Erysiphe graminis<i/>. Physiological and Molecular Plant Pathology 48: 37–53.](http://dx.doi.org/10.1006/pmpp.1996.0004)
-- [Hibberd JM, Quick WP, Press MC, Scholes JD. 1995. Carbon fixation, partitioning and growth of cowpea parasitised by <i>Striga gesnerioides<i/>. Aspects of Applied Biology (no.42) p. 117-124.](http://agris.fao.org/agris-search/search/display.do?f=1996/GB/GB96214.xml;GB9621535)
+- [Hibberd JM, Whitbread R, Farrar JF. 1996. Effect of elevated concentrations of CO2 on infection of barley by <i>Erysiphe graminis</i>. Physiological and Molecular Plant Pathology 48: 37–53.](http://dx.doi.org/10.1006/pmpp.1996.0004)
+- [Hibberd JM, Quick WP, Press MC, Scholes JD. 1995. Carbon fixation, partitioning and growth of cowpea parasitised by <i>Striga gesnerioides</i>. Aspects of Applied Biology (no.42) p. 117-124.](http://agris.fao.org/agris-search/search/display.do?f=1996/GB/GB96214.xml;GB9621535)
 
 
 ## Automatically curated lists
