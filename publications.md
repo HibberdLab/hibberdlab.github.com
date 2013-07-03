@@ -27,9 +27,9 @@ group: navigation
 - [**Tolley BJ**, **Woodfield H**, Wanchana S, Bruskiewich R, **Hibberd JM**. 2012. Light-regulated and cell-specific methylation of the maize PEPC promoter. J Exp Bot 63: 1381–1390.](http://dx.doi.org/10.1093/jxb/err367)
 - [**Williams BP**, **Aubry S**, **Hibberd JM**. 2012. Molecular evolution of genes recruited into C<sub>4</sub> photosynthesis. Trends in Plant Science 17: 213–220.](http://dx.doi.org/10.1016/j.tplants.2012.01.008)
 
-\* **Here we report for the first time that multiple genes expressed in M cells of C<sub>4</sub> leaves are regulated by elements in their untranslated regions, and surprisingly that the orthologous genes from C<sub>3</sub> *A. thaliana* already contain these elements.**
+	\* **Here we report for the first time that multiple genes expressed in M cells of C<sub>4</sub> leaves are regulated by elements in their untranslated regions, and surprisingly that the orthologous genes from C<sub>3</sub> *A. thaliana* already contain these elements.**
 
-\*\* **For C<sub>4</sub> rice to be engineered, larger BS cells will be required. Prior to this work it was not clear whether it was possible to do this.**
+	\*\* **For C<sub>4</sub> rice to be engineered, larger BS cells will be required. Prior to this work it was not clear whether it was possible to do this.**
 
 
 ### 2011
@@ -40,19 +40,19 @@ group: navigation
 - [**Brown NJ**, **Newell CA**, **Stanley S**, **Chen JE**, **Perrin AJ**, **Kajala K**, **Hibberd JM**. 2011. Independent and Parallel Recruitment of Preexisting Mechanisms Underlying C<sub>4</sub> Photosynthesis. Science 331: 1436–1439. \*\*](http://dx.doi.org/10.1126/science.1201248)
 - [**Kajala K**, **Covshoff S**, Karki S, **Woodfield H**, **Tolley BJ**, Dionora MJA, Mogul RT, Mabilangan AE, Danila FR, **Hibberd JM**, et al.. 2011. Strategies for engineering a two-celled C<sub>4</sub> photosynthetic pathway into rice. J Exp Bot 62: 3001–3010.](http://dx.doi.org/10.1093/jxb/err022)
 
-	\* In collaboration with Andreas Weber's group we report the first estimates of global divergence in gene expression between C<sub>3</sub> and C<sub>4</sub> leaves.
+	\* **In collaboration with Andreas Weber's group we report the first estimates of global divergence in gene expression between C<sub>3</sub> and C<sub>4</sub> leaves.**
 
-	\*\* This work showed that independent lineages of C<sub>4</sub> plants can use the same mechanism to limit gene expression to BS cells. We also found that the cis elements reponsible were present in genes of C<sub>3</sub> species.
+	\*\* **This work showed that independent lineages of C<sub>4</sub> plants can use the same mechanism to limit gene expression to BS cells. We also found that the cis elements reponsible were present in genes of C<sub>3</sub> species.**
 
 
 ### 2010
 
 - [**Brown NJ**, Palmer BG, **Stanley S**, **Hajaji H**, **Janacek SH**, **Astley HM**, **Parsley K**, **Kajala K**, Quick WP, Trenkamp S, et al.. 2010. C<sub>4</sub> acid decarboxylases required for C<sub>4</sub> photosynthesis are active in the mid-vein of the C<sub>3</sub> species Arabidopsis thaliana, and are important in sugar and amino acid metabolism. The Plant Journal 61: 122–133.  \*](http://dx.doi.org/10.1111/j.1365-313X.2009.04040.x)
 - [**Hibberd JM**, **Covshoff S**. 2010. The Regulation of Gene Expression Required for C<sub>4</sub> Photosynthesis. Annual Review of Plant Biology 61: 181–207.](http://dx.doi.org/10.1146/annurev-arplant-042809-112238)
-- [**Hibberd JM**, **Taylor LE**, **Leiss AE**. 2010. Transgenic Plants Comprising Constructs Encoding Phosphoenolpyruvate Carboxykinase and/or Pyruvate Ortho Phos Phate Dikinase.](http://patentscope.wipo.int/search/en/WO2010097623)
+- [**Hibberd JM**, **Taylor LE**, **Leiss AE**. 2010. Transgenic Plants Comprising Constructs Encoding Phosphoenolpyruvate Carboxykinase and/or Pyruvate,OrthoPhosphate Dikinase.](http://patentscope.wipo.int/search/en/WO2010097623)
 - [**Newell CA**, **Brown NJ**, **Liu Z**, Pflug A, Gowik U, Westhoff P, **Hibberd JM**. 2010. Agrobacterium tumefaciens-mediated transformation of Cleome gynandra L., a C<sub>4</sub> dicotyledon that is closely related to Arabidopsis thaliana. J Exp Bot 61: 1311–1319.](http://dx.doi.org/10.1093/jxb/erq009)
 
-	\* **This work shows that characteristics of C<sub>4</sub> photosynthesis are found around veins of C<sub>3</sub> *A. thaliana*, and defines which genes are involved as well as the function of the protein in the ancestral C<sub>3</sub> system**.  
+	\* **Characteristics of C<sub>4</sub> photosynthesis are found around veins of C<sub>3</sub> *A. thaliana*, and defines which genes are involved as well as the function of the protein in the ancestral C<sub>3</sub> system**.  
 
 
 ### 2005-2009
@@ -69,11 +69,11 @@ group: navigation
 - [Brown NJ, Parsley K, Hibberd JM. 2005. The future of C<sub>4</sub> research – maize, Flaveria or Cleome? Trends in Plant Science 10: 215–221. \*\*\*](http://dx.doi.org/10.1016/j.tplants.2005.03.003)
 - [Revill MJW, Stanley S, Hibberd JM. 2005. Plastid genome structure and loss of photosynthetic ability in the parasitic genus Cuscuta. J Exp Bot 56: 2477–2486.](http://dx.doi.org/10.1093/jxb/eri240)
 
-	\*  Here we report a function for the PPDK protein in C<sub>3</sub> species. Not only that, it turns out to be an important one in nitrogen cycling during senescence. Despite its clear role in C<sub>4</sub> plants that was first described in the 1968, its role in C<sub>3</sub> species had never been defined.
+	\*  **A function for the PPDK protein in C<sub>3</sub> species. Not only that, it turns out to be an important one in nitrogen cycling during senescence. Despite its clear role in C<sub>4</sub> plants that was first described in the 1968, its role in C<sub>3</sub> species had never been defined.**
 	
-	\*\* This is a system that allows chloroplasts from specific cells to be isolated.
+	\*\* **This is a system that allows chloroplasts from specific cells to be isolated.**
 	
-	\*\*\*  Our first thoughts on why Cleome and Arabidopsis might be an interesting system to study C<sub>4</sub> photosynthesis 
+	\*\*\* **Our first thoughts on why Cleome and Arabidopsis might be an interesting system to study C<sub>4</sub> photosynthesis.** 
 
 ### < 2005
 
