@@ -76,6 +76,7 @@ Our work on understanding the C<sub>4</sub> pathway makes use of model organisms
 <div class="well media">
   <img class="media-object pull-left img-rounded" src="http://placekitten.com/150/150"
   style="width:150px; height:150px;">
+  
   <div class="media-body">
     <h3 class="media-heading">Comparative analysis of C<sub>3</sub> and C<sub>4</sub> gene expression</h3>
 
