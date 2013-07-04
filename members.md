@@ -41,7 +41,7 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
       <h4 class="media-heading">Sylvain Aubry</h4>
       <p>Sylvain is interested in cellular and biochemical aspects of Photosynthesis. After having completed his PhD on chlorophyll degradation in Zurich (Switzerland), he joined the Hibberd lab to explore C<sub>4</sub> photosynthesis. He has been awarded the Swiss National Funds fellowship and the EU Marie Curie fellowship. He is currently working on various aspects of C<sub>4</sub> photosynthesis regulation using microgenomics approaches.</p>
       <p>
-        <a href="http://scholar.google.co.uk/citations?user=G9CVQtkAAAAJ&hl=en">
+        <a href="http://scholar.google.co.uk/citations?user=G9CVQtkAAAAJ">
             Syvlain's Google Scholar Citations
         </a>
       </p>
