@@ -19,7 +19,7 @@ Our work on understanding the C<sub>4</sub> pathway makes use of model organisms
       <div class="container">
         <div class="carousel-caption">
           <h1 class="media-heading">Comparative analysis of C<sub>3</sub> and C<sub>4</sub> gene expression</h1>
-          <p>We are extending the phylogenetic breadth of deep sequencing of closely related C<sub>3</sub> and C<sub>4</sub> species, and using our leaf rolling method to generate cell specific transcriptomes for C<sub>4</sub> leaves.  This will form the foundation for an understanding of the extent to which the M and BS transcriptomes are convergent in independent lineages of C<sub>4</sub> plants.  This approach has also provided for the first time emerging lists of putative regulators for C<sub>4</sub> gene expression.</p>
+          <p>We are extending the phylogenetic breadth of deep sequencing of closely related C<sub>3</sub> and C<sub>4</sub> species. This includes using our leaf rolling method to generate M and BS cell specific transcriptomes.  This will form the foundation for an understanding of the extent to which the M and BS transcriptomes are convergent in independent lineages of C<sub>4</sub> plants.  This approach has also provided for the first time lists of putative regulators for C<sub>4</sub> gene expression.</p>
           <a class="btn btn-info" href="#">Read more...</a>
         </div>
       </div>
@@ -79,7 +79,7 @@ Our work on understanding the C<sub>4</sub> pathway makes use of model organisms
   <div class="media-body">
     <h3 class="media-heading">Comparative analysis of C<sub>3</sub> and C<sub>4</sub> gene expression</h3>
 
-    <p>We are extending the phylogenetic breadth of deep sequencing of closely related C<sub>3</sub> and C<sub>4</sub> species, and using our leaf rolling method to generate cell specific transcriptomes for C<sub>4</sub> leaves.  This will form the foundation for an understanding of the extent to which the M and BS transcriptomes are convergent in independent lineages of C<sub>4</sub> plants.  This approach has also provided for the first time emerging lists of putative regulators for C<sub>4</sub> gene expression.</p>
+    <p>We are extending the phylogenetic breadth of deep sequencing of closely related C<sub>3</sub> and C<sub>4</sub> species. This includes using our leaf rolling method to generate M and BS cell specific transcriptomes.  This will form the foundation for an understanding of the extent to which the M and BS transcriptomes are convergent in independent lineages of C<sub>4</sub> plants.  This approach has also provided for the first time lists of putative regulators for C<sub>4</sub> gene expression.</p>
 
     <p>
       <button class="btn btn-small btn-info" type="button">Learn more...</button>
