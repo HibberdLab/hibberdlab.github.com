@@ -20,7 +20,7 @@ Our work on understanding the C<sub>4</sub> pathway makes use of model organisms
         <div class="carousel-caption">
           <h1 class="media-heading">Comparative analysis of C<sub>3</sub> and C<sub>4</sub> gene expression</h1>
           <p>We are extending the phylogenetic breadth of deep sequencing of closely related C<sub>3</sub> and C<sub>4</sub> species. This includes using our leaf rolling method to generate M and BS cell specific transcriptomes.  This will form the foundation for an understanding of the extent to which the M and BS transcriptomes are convergent in independent lineages of C<sub>4</sub> plants.  This approach has also provided for the first time lists of putative regulators for C<sub>4</sub> gene expression.</p>
-          <a class="btn btn-info" href="#">Read more...</a>
+          <a class="btn btn-info" href="#">Read more...DO WE NEED THIS?</a>
         </div>
       </div>
     </div>
