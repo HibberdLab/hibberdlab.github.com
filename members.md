@@ -15,7 +15,7 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
 <div class="row-fluid">
   <div class="span8 offset2 media">
     <a class="pull-left" href="#">
-      <img class="media-object img-rounded" src="http://www-falcon.csx.cam.ac.uk/site/PLANTSCI/research/julianhibberd/images/julian-hibberd.jpg/@@images/37008bf4-2524-4b3b-9290-c85e9c358436.jpeg">
+      <img class="media-object img-rounded" src="{{%ASSET_PATH%}}../members/jh.jpg">
     </a>
     <div class="media-body">
       <h4 class="media-heading">Julian Hibberd</h4>
