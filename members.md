@@ -119,12 +119,8 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
     </a>
     <div class="media-body">
       <h4 class="media-heading">Chris John</h4>
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-      consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-      cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-      proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+      <p>Chris studied at Sheffield University from 2005 to 2008 and graduated with a BSc in Biochemistry; after a few years of travelling and looking for PhD positions he found Julian's lab and decided to join in 2011. He was always particularly interested in plant molecular biology and the physical sciences during his degree. Now he is pursuing a combination of molecular biology and computational work.</p>
+      <p>Chris is involved experimentally in high throughput RNA seq workflows and downstream statistical analysis of the data. He carries this out alongside molecular biology techniques such as Gibson assembly, transient and stable transformation, and motif searching in order to understand the mechanisms controlling C<sub>4</sub> gene cell specificity. He is enjoying programming in R, BASH, and Python.</p>
     </div>
   </div>
 </div>
