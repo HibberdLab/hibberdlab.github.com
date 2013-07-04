@@ -19,7 +19,7 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
     </a>
     <div class="media-body">
       <h4 class="media-heading">Julian Hibberd</h4>
-      <p>Julian did his Phd with John Farrar and Bob Whitbread at Bangor University.  He then moved to post-doctoral positions with Julie Scholes, Paul Quick and Malcolm Press in Sheffield, and then John Gray in Cambridge.  He started his own group in Cambridge while holding a BBSRC Sir David Phillips Fellowship. His interests in plant biology have focussed on various aspects of photosynthesis.</p>
+      <p>Julian did his PhD with John Farrar and Bob Whitbread at Bangor University.  He then moved to post-doctoral positions with Julie Scholes, Paul Quick and Malcolm Press in Sheffield, and then John Gray in Cambridge.  He started his own group in Cambridge while holding a BBSRC Sir David Phillips Fellowship. His interests in plant biology have focussed on various aspects of photosynthesis.</p>
 
       <p>Julian has more recently become interested in using natural variation to improve our understanding of complex traits.  He is a team leader within both the C<sub>4</sub> Rice Project, and the EU 3to4 FP7 programme, and represents the photosynthesis and metabolism community on the Plant Section committee of the Society of Experimental Biology.  He is also an Associate Editor of <a href="http://www.plantphysiol.org"><i>Plant Physiology</i></a>, and is a member of the BBSRC Responsive Mode Grants panel.</p>  
     </div>
@@ -39,12 +39,7 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
     </a>
     <div class="media-body">
       <h4 class="media-heading">Sylvain Aubry</h4>
-      Syl works on Cleome Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-      consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-      cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-      proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+      Sylvain is interested in cellular and biochemical aspects of Photosynthesis. After having completed his PhD on chlorophyll degradation in Zurich (Switzerland), he joined the Hibberd lab to explore C<sub>4</sub> photosynthesis. He has been awarded the Swiss National Funds fellowship and the EU Marie Curie fellowship. He is currently working on various aspects of C<sub>4</sub> photosynthesis regulation using microgenomics approaches.
     </div>
   </div>
   <div class="span6 media">
@@ -150,7 +145,7 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
     </a>
     <div class="media-body">
       <h4 class="media-heading">Richard Smith</h4>
-      <p>Richard was a freelance software developer before taking his BSc in Conservation Biology at the University of the West of England. He spent a sandwich year as a research student at the Millennium Seed Bank, Kew, and continued to work for the MSB during the final year of his degree as a data analyst.</p>
+      <p>Richard was a freelance software developer before taking his BSc in Conservation Biology at the University of the West of England. He spent a sandwich year as a research student at the Millennium Seed Bank, working on seed dormancy. Richard continued to work for the MSB as a data analyst during the final year of his degree.</p>
       <p>His PhD, funded jointly by the MSB and the Department of Plant Sciences, focuses on combining computational and molecular tools to understand how C<sub>4</sub> operates in wetland conditions such as those found in rice paddies. His approach involves using transcriptomics in the C<sub>4</sub> weed of rice paddies, <i>Echinochloa glabrescens</i>.</p>
     </div>
   </div>
