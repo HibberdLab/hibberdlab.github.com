@@ -13,7 +13,7 @@ tagline: Supporting tagline
 
 <div class="hero-unit hidden-phone" style="background-image: url({{%ASSET_PATH%}}../hero_back.jpg); padding:25px 25px 25px 25px;">
 <div class="well" style="background-color: rgba(255, 255, 255, 0.7); border: 0;">
-<h2>The Hibberd Lab at Cambridge Plant Sciences</h2>
+<h2>The Hibberd Lab at The Department of Plant Sciences, Cambridge</h2>
 
 <p>Currently our work focusses on understanding how the efficient C<sub>4</sub> photosynthetic pathway works.  In addition, we are generating increased genetic variation in domesticated rice, and screening for increased tolerance to stresses.  By understanding the genetic basis of these complex traits we aim in the long term to contribute to improving crop productivity.</p>
 </div>
