@@ -131,7 +131,7 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
       <img class="media-object img-rounded" src="http://lorempixel.com/160/200/people/7">
     </a>
     <div class="media-body">
-      <h4 class="media-heading">Ivan Reyna-Lorenz</h4>
+      <h4 class="media-heading">Ivan Reyna-Llorens</h4>
       <p>Ivan did his BSc in Biology at UNAM (Mexico) and then an MSc in Biochemistry at the same university. He is interested in the evolution of transcriptional regulation, especially in understanding the changes (both in <i>cis</i> and <i>trans</i>) required to acquire the C<sub>4</sub> pathway.</p>
     </div>
   </div>
