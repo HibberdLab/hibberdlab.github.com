@@ -203,7 +203,7 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
     </a>
     <div class="media-body">
       <h4 class="media-heading">Chris Boursnell</h4>
-      <p>Chris grew up in the magical town of Cambridge and from an early age knew he was different from the other kids and school and was destined for greatness.</p>
+      <p>Chris grew up in the magical town of Cambridge and from an early age knew he was different from the other kids at school and was destined for greatness.</p>
       <p>The latest chapter in his epicsode began with a degree from the University of Birmingham in Computer Science and Artificial Intelligence. After completing a Masters degree in Computational Biology at the University of East Anglia he started as a Research Assistant at Plant Sciences.</p>
       <p>Chris is working on the Wild Rice MAGIC project in collaboration with IRRI and hopes that he will actually have some data from that to analyse soon. Chris enjoys programming in Ruby and cursing Perl at every opportunity.</p>
     </div>
