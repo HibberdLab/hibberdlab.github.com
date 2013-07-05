@@ -199,7 +199,7 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
   </div>
   <div class="span6 media">
     <a class="pull-left" href="#">
-      <img class="media-object img-rounded" src="{{%ASSET_PATH%}}../members/rs.jpg">
+      <img class="media-object img-rounded" src="{{%ASSET_PATH%}}../members/cb.jpg">
     </a>
     <div class="media-body">
       <h4 class="media-heading">Chris Boursnell</h4>
@@ -253,7 +253,7 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
   </div>
   <div class="span6 media">
     <a class="pull-left" href="#">
-      <img class="media-object img-rounded" src="{{%ASSET_PATH%}}../members/rs.jpg">
+      <img class="media-object img-rounded" src="http://lorempixel.com/160/200/people/12">
     </a>
     <div class="media-body">
       <h4 class="media-heading">Ben Tolley</h4>
