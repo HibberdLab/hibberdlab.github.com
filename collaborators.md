@@ -17,7 +17,7 @@ We are lucky to work with many excellent labs around the world. Below is a list 
 - [Dr. Paul Quick, IRRI](http://irri.org/index.php?option=com_k2&view=item&id=11317:quick-paul-william&lang=en) (C<sub>4</sub> rice project)
 - [Dr. Ken McNally, IRRI]()
 - [KK Jenna, IRRI]()
-- [Dr. Skeve Kelly, Oxford University]()
+- [Dr. Skeve Kelly, Oxford University](http://stevekelly.eu/) (1KP project)
 - [Mike Blatt]()
 - [John Golbeck]()
 - [Nigel Burroughs]()
