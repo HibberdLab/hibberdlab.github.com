@@ -244,3 +244,11 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
 - Ewan Gage: *The role of small RNAs in C<sub>4</sub> photosynthesis*
 - Maria Hersa: *Crop improvement using synthetic variation*
 - Ben Williams: *Mechanisms underlying the coordinated evolution of multiple C<sub>4</sub> genes*
+
+## Former Post-Doctoral Research Associates
+
+- Dr. Naomi Brown: *Role of C<sub>4</sub> acid decarboxylases*
+- Dr. Kate Parsley: *Role and regulation of PPDK*
+- Dr. Alex Johnson: *Rice enhancer traps*
+- Dr. Zheng liu: *Developing Cleome as a model*
+- Dr. Elisabeth Truemit: *Chloroplast isolation from specific cell types*
