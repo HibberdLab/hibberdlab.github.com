@@ -53,12 +53,13 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
     </a>
     <div class="media-body">
       <h4 class="media-heading">Steven Burgess</h4>
-      Steven background imperial Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-      consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-      cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-      proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        <p>Steven graduated from the University of Edinburgh with a BSc in Biochemistry in
+        2007. From 2007-2011 he undertook a PhD at Imperial College London investigating
+        the use of RNAi as a means of remodelling metabolic pathways 
+        in the model alga <i>Chlamydomonas reinhardtii</i> for biofuel production.</p>
+        <p>In 2011 he moved to the University of Cambridge, and is currently investigating the
+        evolution of cis-regulatory networks controlling cell-specific gene
+        expression in C<sub>4</sub> plants.</p>
     </div>
   </div>
 </div>
