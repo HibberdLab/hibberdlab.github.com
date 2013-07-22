@@ -186,7 +186,7 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
 <div class="row-fluid">
   <div class="span6 media">
     <a class="pull-left" href="#">
-      <img class="media-object img-rounded" src="http://lorempixel.com/160/200/people/11">
+      <img class="media-object img-rounded" src="{{%ASSET_PATH%}}../members/jk.jpg">
     </a>
     <div class="media-body">
       <h4 class="media-heading">Jana Knerova</h4>
