@@ -233,17 +233,18 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
 
 ### Former PhD students
 
-- Meridith Wilson: *Genome structure and function in parasitic angiosperms*
-- Diana Marshall: *Using Cleome to understand C<sub>4</sub> photosynthesis*
-- Sophie Janacek: *Understanding the role of photosynthesis in veing of C<sub>3</sub> plants*
-- Lucy Taylor: *The role of PPDK in nitrogen remobilisation*
-- Anna Leiss: *The function of PEPCK in C<sub>3</sub> plants*
-- Holly Astley: *The role of PPDK regulatory proteins in C<sub>3</sub> plants*
-- Kaisa Kajala: *Regulation of gene expression in C<sub>4</sub> plants*
-- Ben Tolley: *Oat maize addition lines*
-- Ewan Gage: *The role of small RNAs in C<sub>4</sub> photosynthesis*
-- Maria Hersa: *Crop improvement using synthetic variation*
 - Ben Williams: *Mechanisms underlying the coordinated evolution of multiple C<sub>4</sub> genes*
+- Maria Hersa: *Crop improvement using synthetic variation*
+- Ewan Gage: *The role of small RNAs in C<sub>4</sub> photosynthesis*
+- Ben Tolley: *Oat maize addition lines*
+- Kaisa Kajala: *Regulation of gene expression in C<sub>4</sub> plants*
+- Holly Astley: *The role of PPDK regulatory proteins in C<sub>3</sub> plants*
+- Anna Leiss: *The function of PEPCK in C<sub>3</sub> plants*
+- Lucy Taylor: *The role of PPDK in nitrogen remobilisation*
+- Sophie Janacek: *Understanding the role of photosynthesis in veing of C<sub>3</sub> plants*
+- Diana Marshall: *Using Cleome to understand C<sub>4</sub> photosynthesis*
+- Meridith Wilson: *Genome structure and function in parasitic angiosperms*
+
 
 ## Former Post-Doctoral Research Associates
 
