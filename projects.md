@@ -55,7 +55,7 @@ Our work on understanding the C<sub>4</sub> pathway makes use of model organisms
       </div>
     </div>
     <div class="item">
-      <img src="http://lorempixel.com/1200/400/nature/4" alt="">
+      <img src="{{%ASSET_PATH%}}../projects/wild_rices.png" alt="">
       <div class="container">
         <div class="carousel-caption">
           <h1>Overcoming the domestication bottleneck in rice</h1>
