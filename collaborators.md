@@ -12,8 +12,8 @@ We are lucky to work with many excellent labs around the world. Below is a list 
 
 - [Prof. Jane Langdale, Oxford University](http://dps.plants.ox.ac.uk/langdalelab/)
 - [Prof. Peter Westhoff, Düsseldorf University](http://www.emp.hhu.de/)
-- [Dr. Bob Furbank, CSIRO](http://www.csiro.au/Organisation-Structure/Divisions/Plant-Industry/RobertFurbank.aspx) (C<sub>4</sub> rice project)
-- [Dr. Paul Quick, IRRI](http://irri.org/index.php?option=com_k2&view=item&id=11317:quick-paul-william&lang=en) (C<sub>4</sub> rice project)
+- [Dr Bob Furbank, CSIRO](http://www.csiro.au/Organisation-Structure/Divisions/Plant-Industry/RobertFurbank.aspx) (C<sub>4</sub> rice project)
+- [Dr Paul Quick, IRRI](http://irri.org/index.php?option=com_k2&view=item&id=11317:quick-paul-william&lang=en) (C<sub>4</sub> rice project)
 
 ### 1KP project
 
@@ -42,4 +42,4 @@ We are lucky to work with many excellent labs around the world. Below is a list 
 - [Prof. John Golbeck, Penn State University](http://bmb.psu.edu/directory/jhg5)
 - [Prof. Nigel Burroughs, Warwick University](http://homepages.warwick.ac.uk/~masau/)
 - [Prof. Cheryl Kerfeld, Berkeley](http://ed-structgen.jgi-psf.org/)
-- [Prof Nick Smirnoff, University of Exeter](http://biosciences.exeter.ac.uk/staff/index.php?web_id=nick_smirnoff)
+- [Prof. Nick Smirnoff, University of Exeter](http://biosciences.exeter.ac.uk/staff/index.php?web_id=nick_smirnoff)
