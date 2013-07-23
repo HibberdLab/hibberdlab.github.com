@@ -26,7 +26,7 @@ We are lucky to work with many excellent labs around the world. Below is a list 
 ### The role of C<sub>4</sub> proteins in C<sub>3</sub> plants
 
 - [Dr Ally Fernie, MPIMP](http://www.mpimp-golm.mpg.de/9205/Alisdair_Fernie) 
-- [Dr Peter Eastmond RRes](http://www.rothamsted.ac.uk/PersonDetails-Who=1045.html)
+- [Dr Peter Eastmond, RRes](http://www.rothamsted.ac.uk/PersonDetails-Who=1045.html)
 
 ### The role of C<sub>4</sub> proteins in guard cells of C<sub>3</sub> plants
 
