@@ -146,8 +146,18 @@ Our work on understanding the C<sub>4</sub> pathway makes use of model organisms
   </div>
 </div>
 
-## Past projects
+## Past projects and funding
 
 <div class="alert">
   <strong>Not yet!</strong> This section will be updated soon.
 </div>
+
+- Cleome as a model for C4 photosynthesis (The Leverhulme Trust)
+- The role and regulation of PPDK in C3 species (BBSRC Responsive mode)
+- The role of C4 acid decarboxylases in Arabidopsis (BBSRC Responsive mode)
+- Photosynthesis in discrete cell types. (BBSRC Sir David Phillips Research Fellowship)
+
+Collaborations:
+
+- With Dr Alex Webb. The circadian clock and photosynthesis. (BBSRC Responsive mode)
+- With Dr Mark Tester and Emmanuel Guiderdoni. Rice enhancer traps (BBSRC Responsive mode)
