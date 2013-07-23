@@ -29,7 +29,7 @@ Our work on understanding the C<sub>4</sub> pathway makes use of model organisms
       <div class="container">
         <div class="carousel-caption">
           <h1>The ancestral role of proteins used in C<sub>4</sub> photosynthesis</h1>
-          <p class="lead">The model C<sub>3</sub> plant  <i>A. thaliana</i> contains all the proteins used in the C<sub>4</sub> pathway.  We are using  <i>Arabidopsis</i> to define the ancestral role of these proteins in C<sub>3</sub> species prior to their recruitment into the C<sub>4</sub> pathway.</p>
+          <p class="lead">Despite having well-characterised functions in C<sub>4</sub> species, many of the core enzymes of the C<sub>4</sub> pathway have poorly understood roles in C3 plants. We are analyzing the roles that they play through analysis of when and where they are expressed, as well as the use of insertional mutants and overexpression, followed by in depth photosynthetic and metabolic phenotyping. Many of these proteins are members of multi-gene families, and belong to redundant networks, and so the analysis is often intellectually challenging.</p>
           <a class="btn btn-info" href="#">Read more...</a>
         </div>
       </div>
@@ -39,7 +39,7 @@ Our work on understanding the C<sub>4</sub> pathway makes use of model organisms
       <div class="container">
         <div class="carousel-caption">
           <h1>The C<sub>4</sub> rice project</h1>
-          <p class="lead">We are involved in building the basic biochemistry required for the C<sub>4</sub> pathway in leaves of rice, this is done in collaboration with <a href="http://photosynthome.irri.org/C4rice/index.php/">IRRI</a>. In addition, in we have identified candidate regulators of the patterns of C<sub>4</sub> gene expression and with Bob Furbank (CSIRO) are testing the role of these proteins in <i>Setaria italica</i>.</p>
+          <p class="lead">Our focus has been generating resources that allow us to test the extent to which the basic C<sub>4</sub> cycle can be installed in rice. This has involved analysis of the extent to which C<sub>4</sub> genes from maize are expressed in a cell specific manner in rice, and also investigating potential regulators of these genes. Clearly, this is a long-term, incredibly challenging project, but we are finding that we learn a lot about the fundamentals of C<sub>4</sub> photosynthesis along the way.</p>
           <a class="btn btn-info" href="#">Read more...</a>
         </div>
       </div>
@@ -49,7 +49,7 @@ Our work on understanding the C<sub>4</sub> pathway makes use of model organisms
       <div class="container">
         <div class="carousel-caption">
           <h1>Using synthetic approaches to increase CO<sub>2</sub> supply to RuBisCO</h1>
-          <p class="lead">In collaboration with <a href="(http://www.psrg.org.uk/">Mike Blatt, Nigel Burroughs, Cheryl Kerfield, Nick Smirnoff and John Golbeck</a> we are investigating whether photosynthesis can be enhanced using artificial protein scaffolds and light driven HCO3- pumps.</p>
+          <p class="lead">For many decades, work has been conducted that aims to increase the efficiency of RuBisCO by modifying its catalytic characteristics. We are taking an alternate approach inspired by Synthetic Biology in order to investigate whether artificial protein scaffolds can be used to improve the efficiency of photosynthesis. We hope that we can use this as proof of concept for engineering plant metabolism in general.</p>
           <a class="btn btn-info" href="#">Read more...</a>
         </div>
       </div>
