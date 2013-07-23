@@ -35,7 +35,7 @@ Our work on understanding the C<sub>4</sub> pathway makes use of model organisms
       </div>
     </div>
     <div class="item">
-      <img src="http://lorempixel.com/1200/400/nature/3" alt="">
+      <img src="{{%ASSET_PATH%}}../projects/c4_rice_project.png" alt="">
       <div class="container">
         <div class="carousel-caption">
           <h1>The C<sub>4</sub> rice project</h1>
@@ -45,7 +45,7 @@ Our work on understanding the C<sub>4</sub> pathway makes use of model organisms
       </div>
     </div>
     <div class="item">
-      <img src="http://lorempixel.com/1200/400/nature/4" alt="">
+      <img src="{{%ASSET_PATH%}}../projects/rubisco.png" alt="">
       <div class="container">
         <div class="carousel-caption">
           <h1>Using synthetic approaches to increase CO<sub>2</sub> supply to RuBisCO</h1>
