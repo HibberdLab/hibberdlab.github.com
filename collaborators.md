@@ -21,7 +21,7 @@ We are lucky to work with many excellent labs around the world. Below is a list 
 - [Prof Rowan Sage, University of Toronto](http://www.eeb.utoronto.ca/people/d-faculty/RSage.htm)
 - [Dr Xin-Guang Xhu, PICB, Shanghai](http://www.picb.ac.cn/PSB/)
 
-### Mathematical analysis of C,<sub>4</sub> evolution
+### Mathematical analysis of C<sub>4</sub> evolution
 - [Dr Iain Johnston](http://www3.imperial.ac.uk/people/iain.johnston)
 
 ### Transcriptomics of C<sub>3</sub> and C<sub>4</sub> species
