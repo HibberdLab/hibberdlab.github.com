@@ -20,7 +20,7 @@ Our work on understanding the C<sub>4</sub> pathway makes use of model organisms
         <div class="carousel-caption">
           <h1 class="media-heading">Comparative analysis of C<sub>3</sub> and C<sub>4</sub> gene expression</h1>
           <p>We are extending the phylogenetic breadth of RNAseq on closely related C<sub>3</sub> and C<sub>4</sub> species. This includes cell specific transcriptomes and will form the foundation for an understanding of the extent to which the M and BS transcriptomes of independent C<sub>4</sub> lineages are convergent.</p>
-          <a class="btn btn-info" href="#">Read more...DO WE NEED THIS?</a>
+          <a class="btn btn-info" href="#">Read more...</a>
         </div>
       </div>
     </div>
@@ -29,7 +29,7 @@ Our work on understanding the C<sub>4</sub> pathway makes use of model organisms
       <div class="container">
         <div class="carousel-caption">
           <h1>The ancestral role of proteins used in C<sub>4</sub> photosynthesis</h1>
-          <p class="lead">Despite having well-characterised functions in C<sub>4</sub> species, many of the core enzymes of the C<sub>4</sub> pathway have poorly understood roles in C3 plants. We are analyzing the roles that they play through analysis of when and where they are expressed, as well as the use of insertional mutants and overexpression, followed by in depth photosynthetic and metabolic phenotyping. Many of these proteins are members of multi-gene families, and belong to redundant networks, and so the analysis is often intellectually challenging.</p>
+          <p class="lead">The model C<sub>3</sub> plant <i>A. thaliana</i> contains all the proteins used in the C<sub>4</sub> pathway. We are using Arabidopsis to define the ancestral role of these proteins in C<sub>3</sub> species prior to their recruitment into the C<sub>4</sub> pathway.</p>
           <a class="btn btn-info" href="#">Read more...</a>
         </div>
       </div>
@@ -39,7 +39,7 @@ Our work on understanding the C<sub>4</sub> pathway makes use of model organisms
       <div class="container">
         <div class="carousel-caption">
           <h1>The C<sub>4</sub> rice project</h1>
-          <p class="lead">Our focus has been generating resources that allow us to test the extent to which the basic C<sub>4</sub> cycle can be installed in rice. This has involved analysis of the extent to which C<sub>4</sub> genes from maize are expressed in a cell specific manner in rice, and also investigating potential regulators of these genes. Clearly, this is a long-term, incredibly challenging project, but we are finding that we learn a lot about the fundamentals of C<sub>4</sub> photosynthesis along the way.</p>
+          <p class="lead">We are involved in building the basic biochemistry required for the C4 pathway in leaves of rice, this is done in collaboration with IRRI. In addition, in we have identified candidate regulators of the patterns of C4 gene expression and with Bob Furbank (CSIRO) are testing the role of these proteins in <i>Setaria italic</i>.</p>
           <a class="btn btn-info" href="#">Read more...</a>
         </div>
       </div>
@@ -49,7 +49,7 @@ Our work on understanding the C<sub>4</sub> pathway makes use of model organisms
       <div class="container">
         <div class="carousel-caption">
           <h1>Using synthetic approaches to increase CO<sub>2</sub> supply to RuBisCO</h1>
-          <p class="lead">For many decades, work has been conducted that aims to increase the efficiency of RuBisCO by modifying its catalytic characteristics. We are taking an alternate approach inspired by Synthetic Biology in order to investigate whether artificial protein scaffolds can be used to improve the efficiency of photosynthesis. We hope that we can use this as proof of concept for engineering plant metabolism in general.</p>
+          <p class="lead">In collaboration with <a href="http://www.psrg.org.uk/">Mike Blatt, Nigel Burroughs, Cheryl Kerfield, Nick Smirnoff and John Golbeck</a> we are investigating whether photosynthesis can be enhanced using artificial protein scaffolds and light driven HCO3- pumps.</p>
           <a class="btn btn-info" href="#">Read more...</a>
         </div>
       </div>
@@ -95,8 +95,7 @@ Our work on understanding the C<sub>4</sub> pathway makes use of model organisms
   <div class="media-body">
     <h3>The ancestral role of proteins used in C<sub>4</sub> photosynthesis</h3>
 
-    <p>The model C<sub>3</sub> plant <i>A. thaliana</i> contains all the proteins used in the C<sub>4</sub> pathway.  We are using Arabidopsis to define the ancestral role of these proteins in C<sub>3</sub> species prior to their recruitment into the C<sub>4</sub> pathway.</p>
-
+    <p>Despite having well-characterised functions in C<sub>4</sub> species, many of the core enzymes of the C<sub>4</sub> pathway have poorly understood roles in C3 plants. We are analyzing the roles that they play through analysis of when and where they are expressed, as well as the use of insertional mutants and overexpression, followed by in depth photosynthetic and metabolic phenotyping. Many of these proteins are members of multi-gene families, and belong to redundant networks, and so the analysis is often intellectually challenging.</p>
     <p>
       <button class="btn btn-small btn-info" type="button">Learn more...</button>
     </p>
@@ -110,7 +109,7 @@ Our work on understanding the C<sub>4</sub> pathway makes use of model organisms
   <div class="media-body">
     <h3>The C<sub>4</sub> rice project</h3>
 
-    <p>We are involved in building the basic biochemistry required for the <sub>C4</sub> pathway in leaves of rice, this is done in collaboration with <a href="http://photosynthome.irri.org/C4rice/index.php">IRRI</a>. In addition, in we have identified candidate regulators of the patterns of <sub>C4</sub> gene expression and with Bob Furbank (CSIRO) are testing the role of these proteins in <sub>Setaria italica</sub>.</p>
+    <p>Our focus has been generating resources that allow us to test the extent to which the basic C<sub>4</sub> cycle can be installed in rice. This has involved analysis of the extent to which C<sub>4</sub> genes from maize are expressed in a cell specific manner in rice, and also investigating potential regulators of these genes. Clearly, this is a long-term, incredibly challenging project, but we are finding that we learn a lot about the fundamentals of C<sub>4</sub> photosynthesis along the way.</p>
 
     <p>
       <button class="btn btn-small btn-info" type="button">Learn more...</button>
@@ -125,7 +124,7 @@ Our work on understanding the C<sub>4</sub> pathway makes use of model organisms
   <div class="media-body">
     <h3>Using synthetic approaches to increase CO<sub>2</sub> supply to RuBisCO</h3>
 
-    <p>In collaboration with <a href="http://www.psrg.org.uk/">Mike Blatt, Nigel Burroughs, Cheryl Kerfield, Nick Smirnoff and John Golbeck</a> we are investigating whether photosynthesis can be enhanced using artificial protein scaffolds and light driven HCO3- pumps.</p>
+    <p>For many decades, work has been conducted that aims to increase the efficiency of RuBisCO by modifying its catalytic characteristics. We are taking an alternate approach inspired by Synthetic Biology in order to investigate whether artificial protein scaffolds can be used to improve the efficiency of photosynthesis. We hope that we can use this as proof of concept for engineering plant metabolism in general.</p>
 
     <p>
       <button class="btn btn-small btn-info" type="button">Learn more...</button>
@@ -139,10 +138,7 @@ Our work on understanding the C<sub>4</sub> pathway makes use of model organisms
   <div class="media-body">
     <h3>Overcoming the domestication bottleneck in rice</h3>
 
-    <p>As with all major crops, rice went through a series of domestication bottlenecks
-    that reduced allelic variation compared with it ancestors and current wild species.
-    With <a href="http://irri.org/">IRRI</a> we are using wild species of rice and Multi Advanced Generation
-    Inter-Crossing to re-introduce tolerance to biotic and abiotic stresses.</p>
+    <p>A significant amount of work has been undertaken in which individual wild relatives of rice have been used as sources for useful traits in domesticated rice. In this project we are broadening this concept to source variation present in all the AA rice genomes, and increase it further using the multi advance generation intercrossing approach. Back crossing into <i>O. sativa</i> allows useful traits to transferred into elite germplasm. The wide crossing, and the subsequent analysis of gene expression and genomic structures represent significant technical and computational challenges.</p>
 
     <p>
       <button class="btn btn-small btn-info" type="button">Learn more...</button>
