@@ -19,7 +19,7 @@ We are lucky to work with many excellent labs around the world. Below is a list 
 
 - [Dr. Skeve Kelly, Oxford University](http://stevekelly.eu/)
 
-### Transcriptomics of C<sub>3</sub> and C<sub>4</sub> species)
+### Transcriptomics of C<sub>3</sub> and C<sub>4</sub> species
 
 - [Prof. Andreas Weber, Düsseldorf University](http://www.plant-biochemistry.hhu.de/)
 
@@ -30,16 +30,16 @@ We are lucky to work with many excellent labs around the world. Below is a list 
 
 ### The role of C<sub>4</sub> proteins in guard cells of C<sub>3</sub> plants
 
-- Dr. Bernard Genty, CEA Cadarache
+- [Dr Bernard Genty, CEA Cadarache](http://www-cadarache.cea.fr)
 
 ### Increasing tolerance to stress in rice
 
-- Dr. Ken McNally, IRRI
-- KK Jenna, IRRI
+- [Drs Ken McNally, KK Jenna, A Kumar, Paul Quick and H Leung, IRRI](http://irri.org)
 
 ### BBSRC & NSF joint project on increasing CO<sub>2</sub> supply to RuBisCO
 
 - [Prof. Mike Blatt, University of Glasgow](http://www.psrg.org.uk/)
 - [Prof. John Golbeck, Penn State University](http://bmb.psu.edu/directory/jhg5)
 - [Prof. Nigel Burroughs, Warwick University](http://homepages.warwick.ac.uk/~masau/)
-- [Cheryl Kerfeld, Berkeley](http://ed-structgen.jgi-psf.org/)
+- [Prof. Cheryl Kerfeld, Berkeley](http://ed-structgen.jgi-psf.org/)
+- [Prof Nick Smirnoff, University of Exeter](http://biosciences.exeter.ac.uk/staff/index.php?web_id=nick_smirnoff)
