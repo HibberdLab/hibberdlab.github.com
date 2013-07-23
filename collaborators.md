@@ -12,8 +12,8 @@ We are lucky to work with many excellent labs around the world. Below is a list 
 
 - [Prof. Jane Langdale, Oxford University](http://dps.plants.ox.ac.uk/langdalelab/)
 - [Prof. Peter Westhoff, Düsseldorf University](http://www.emp.hhu.de/)
-- [Dr Bob Furbank, CSIRO](http://www.csiro.au/Organisation-Structure/Divisions/Plant-Industry/RobertFurbank.aspx) (C<sub>4</sub> rice project)
-- [Dr Paul Quick, IRRI](http://irri.org/index.php?option=com_k2&view=item&id=11317:quick-paul-william&lang=en) (C<sub>4</sub> rice project)
+- [Dr Bob Furbank, CSIRO](http://www.csiro.au/Organisation-Structure/Divisions/Plant-Industry/RobertFurbank.aspx)
+- [Dr Paul Quick, IRRI](http://irri.org/index.php?option=com_k2&view=item&id=11317:quick-paul-william&lang=en)
 
 ### 1KP project
 
