@@ -80,7 +80,7 @@ Our work on understanding the C<sub>4</sub> pathway makes use of model organisms
   <div class="media-body">
     <h3 class="media-heading">Comparative analysis of C<sub>3</sub> and C<sub>4</sub> gene expression</h3>
 
-    <p>We are extending the phylogenetic breadth of RNAseq on closely related C<sub>3</sub> and C<sub>4</sub> species. This includes cell specific transcriptomes and will form the foundation for an understanding of the extent to which the M and BS transcriptomes of independent C<sub>4</sub> lineages are convergent.</p>
+    <p>With Andreas Weber’s lab we initially conducted analysis of RNA populations in whole leaves of C<sub>3</sub> and C<sub>4</sub> <i>Cleome</i> species. We are extending this to undertake large-scale analysis of many more lineages, of leaf maturation, and of mesophyll and bundle sheath transcriptomes. To fully understand these large dataset, significant investment in development of computational approaches is required!</p>
 
     <p>
       <button class="btn btn-small btn-info" type="button">Learn more...</button>
