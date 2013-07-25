@@ -235,7 +235,7 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
 ### Former PhD students
 
 - Ben Williams: *Mechanisms underlying the coordinated evolution of multiple C<sub>4</sub> genes*
-- Maria Hersa: *Crop improvement using synthetic variation*
+- Maria Herse: *Crop improvement using synthetic variation*
 - Ewan Gage: *The role of small RNAs in C<sub>4</sub> photosynthesis*
 - Ben Tolley: *Oat maize addition lines*
 - Kaisa Kajala: *Regulation of gene expression in C<sub>4</sub> plants*
@@ -252,5 +252,5 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
 - Dr. Naomi Brown: *Role of C<sub>4</sub> acid decarboxylases*
 - Dr. Kate Parsley: *Role and regulation of PPDK*
 - Dr. Alex Johnson: *Rice enhancer traps*
-- Dr. Zheng liu: *Developing Cleome as a model*
-- Dr. Elisabeth Truemit: *Chloroplast isolation from specific cell types*
+- Dr. Zheng Liu: *Developing Cleome as a model*
+- Dr. Elisabeth Truernit: *Chloroplast isolation from specific cell types*
