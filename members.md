@@ -244,7 +244,7 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
 - Lucy Taylor: *The role of PPDK in nitrogen remobilisation*
 - Sophie Janacek: *Understanding the role of photosynthesis in veing of C<sub>3</sub> plants*
 - Diana Marshall: *Using Cleome to understand C<sub>4</sub> photosynthesis*
-- Meridith Wilson: *Genome structure and function in parasitic angiosperms*
+- Meredith Wilson: *Genome structure and function in parasitic angiosperms*
 
 
 ## Former Post-Doctoral Research Associates
