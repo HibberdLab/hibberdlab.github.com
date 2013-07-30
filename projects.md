@@ -30,7 +30,7 @@ Our work on understanding the C<sub>4</sub> pathway makes use of model organisms
         <div class="carousel-caption">
           <h1>The ancestral role of proteins used in C<sub>4</sub> photosynthesis</h1>
           <p class="lead">The model C<sub>3</sub> plant <i>A. thaliana</i> contains all the proteins used in the C<sub>4</sub> pathway. We are using Arabidopsis to define the ancestral role of these proteins in C<sub>3</sub> species prior to their recruitment into the C<sub>4</sub> pathway.</p>
-          <a class="btn btn-info" href="#">Read more...</a>
+          <a class="btn btn-info" href="#ancestral">Read more...</a>
         </div>
       </div>
     </div>
@@ -40,7 +40,7 @@ Our work on understanding the C<sub>4</sub> pathway makes use of model organisms
         <div class="carousel-caption">
           <h1>The C<sub>4</sub> rice project</h1>
           <p class="lead">We are involved in building the basic biochemistry required for the C<sub>4</sub> pathway in leaves of rice, this is done in collaboration with IRRI. In addition, in we have identified candidate regulators of the patterns of C<sub>4</sub> gene expression and with Bob Furbank (CSIRO) are testing the role of these proteins in <i>Setaria italic</i>.</p>
-          <a class="btn btn-info" href="#">Read more...</a>
+          <a class="btn btn-info" href="#c4rice">Read more...</a>
         </div>
       </div>
     </div>
@@ -50,7 +50,7 @@ Our work on understanding the C<sub>4</sub> pathway makes use of model organisms
         <div class="carousel-caption">
           <h1>Using synthetic approaches to increase CO<sub>2</sub> supply to RuBisCO</h1>
           <p class="lead">In collaboration with <a href="http://www.psrg.org.uk/">Mike Blatt, Nigel Burroughs, Cheryl Kerfield, Nick Smirnoff and John Golbeck</a> we are investigating whether photosynthesis can be enhanced using artificial protein scaffolds and light driven HCO3- pumps.</p>
-          <a class="btn btn-info" href="#">Read more...</a>
+          <a class="btn btn-info" href="#rubisoc">Read more...</a>
         </div>
       </div>
     </div>
@@ -63,7 +63,7 @@ Our work on understanding the C<sub>4</sub> pathway makes use of model organisms
     that reduced allelic variation compared with it ancestors and current wild species.
     With <a href="http://photosynthome.irri.org/C4rice/index.php/">IRRI</a> we are using wild species of rice and Multi Advanced Generation
     Inter-Crossing to re-introduce tolerance to biotic and abiotic stresses.</p>
-          <a class="btn btn-info" href="#">Read more...</a>
+          <a class="btn btn-info" href="#wildrice">Read more...</a>
         </div>
       </div>
     </div>
@@ -91,7 +91,7 @@ Our work on understanding the C<sub>4</sub> pathway makes use of model organisms
 <div class="well media">
   <img class="media-object pull-left img-rounded" src="{{%ASSET_PATH%}}../projects/ppdk_thumb.jpg"
   style="width:150px; height:150px;">
-
+  <a name='ancestral' style='position:relative; top:-75px;'>&nbsp;</a>
   <div class="media-body">
     <h3>The ancestral role of proteins used in C<sub>4</sub> photosynthesis</h3>
 
@@ -105,7 +105,7 @@ Our work on understanding the C<sub>4</sub> pathway makes use of model organisms
 <div class="well media">
   <img class="media-object pull-left img-rounded" src="{{%ASSET_PATH%}}../projects/rice_thumb.jpg"
   style="width:150px; height:150px;">
-
+  <a name='c4rice' style='position:relative; top:-75px;'>&nbsp;</a>
   <div class="media-body">
     <h3>The C<sub>4</sub> rice project</h3>
 
@@ -120,7 +120,7 @@ Our work on understanding the C<sub>4</sub> pathway makes use of model organisms
 <div class="well media">
   <img class="media-object pull-left img-rounded" src="{{%ASSET_PATH%}}../projects/rice_thumb.jpg"
   style="width:150px; height:150px;">
-
+  <a name='rubisco' style='position:relative; top:-75px;'>&nbsp;</a>
   <div class="media-body">
     <h3>Using synthetic approaches to increase CO<sub>2</sub> supply to RuBisCO</h3>
 
@@ -134,7 +134,7 @@ Our work on understanding the C<sub>4</sub> pathway makes use of model organisms
 <div class="well media">
   <img class="media-object pull-left img-rounded" src="{{%ASSET_PATH%}}../projects/rice_thumb.jpg"
   style="width:150px; height:150px;">
-
+  <a name='wildrice' style='position:relative; top:-75px;'>&nbsp;</a>
   <div class="media-body">
     <h3>Overcoming the domestication bottleneck in rice</h3>
 
