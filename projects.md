@@ -76,9 +76,9 @@ Our work on understanding the C<sub>4</sub> pathway makes use of model organisms
 <div class="well media">
   <img class="media-object pull-left img-rounded" src="http://placekitten.com/150/150"
   style="width:150px; height:150px;">
-  
+  <a name='comparative' style='position:relative; top:-75px;'>&nbsp;</a>
   <div class="media-body">
-    <h3 class="media-heading"><a id="comparative">Comparative analysis of C<sub>3</sub> and C<sub>4</sub> gene expression</a></h3>
+    <h3 class="media-heading">Comparative analysis of C<sub>3</sub> and C<sub>4</sub> gene expression</h3>
 
     <p>With Andreas Weber’s lab we initially conducted analysis of RNA populations in whole leaves of C<sub>3</sub> and C<sub>4</sub> <i>Cleome</i> species. We are extending this to undertake large-scale analysis of many more lineages, of leaf maturation, and of mesophyll and bundle sheath transcriptomes. To fully understand these large dataset, significant investment in development of computational approaches is required!</p>
 
