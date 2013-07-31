@@ -165,7 +165,7 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
     </a>
     <div class="media-body">
       <h4 class="media-heading">Jana Knerova</h4>
-      Jane is improving our transformation of <i>Cleome gynandra</i> and is also contributing to our efforts to clone candidate regulators associated with maintaining the C<sub>4</sub cycle. She previously worked in James Hartwell's lab in Liverpool on Crassulacean Acid Metabolism!
+      Jane is improving our transformation of <i>Cleome gynandra</i> and is also contributing to our efforts to clone candidate regulators associated with maintaining the C<sub>4</sub cycle. She previously worked in James Hartwells lab in Liverpool on Crassulacean Acid Metabolism!
     </div>
   </div>
   <div class="span6 media">
