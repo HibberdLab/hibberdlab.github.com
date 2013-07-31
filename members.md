@@ -67,11 +67,12 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
 <div class="row-fluid">
   <div class="span6 media">
     <a class="pull-left" href="#">
-      <img class="media-object img-rounded" src="http://lorempixel.com/160/200/people/3">
+      <img class="media-object img-rounded" src="{{%ASSET_PATH%}}../members/sc.jpg">
     </a>
     <div class="media-body">
       <h4 class="media-heading">Sarah Covshoff</h4>
-      Before coming to the lab Sarah worked in Tom Brutnell's lab at the Boyce Thompson Institute, Cornell, USA, and then IRRI in The Philippines. She is part of the C<sub>4</sub> Rice project, and is interested in building the pathway and also understanding C<sub>4</sub> weeds that grow in paddy conditions.
+      <p>Sarah graduated with a B.Sc. in Agriculture from the University of Guelph (Canada). She then obtained a Ph.D. in Plant Biology from Cornell University, where she studied differentiation of the maize C4 leaf.</p>
+      <p>Sarah joined the lab in 2008 as part of the [C<sub>4</sub> Rice project](projects.html#c4rice) and is working on the molecular engineering of C<sub>4</sub> photosynthesis in rice and to identify genes necessary and/or sufficient for C<sub>4</sub> photosynthesis form and function.</p>
     </div>
   </div>
   <div class="span6 media">
