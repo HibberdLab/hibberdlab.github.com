@@ -217,12 +217,7 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
     </a>
     <div class="media-body">
       <h4 class="media-heading">Susan Stanley</h4>
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-      consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-      cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-      proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+      Susan is in charge of keeping the lab running! She has been instrumental in developing the transformation pipeline that we use for <i>Cleome gynandra</i>. She is also responsible for plant and seed stock maintenance, ordering lab stocks, and time permiting, helps with specific research projects in the lab. She joined the lab in 2000 after having worked in Industry.
     </div>
   </div>
 </div>
