@@ -71,12 +71,7 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
     </a>
     <div class="media-body">
       <h4 class="media-heading">Sarah Covshoff</h4>
-      Canada blah C4 rice Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-      consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-      cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-      proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+      Before coming to the lab Sarah worked in Tom Brutnell's lab at the Boyce Thompson Institute, Cornell, USA, and then IRRI in The Philippines. She is part of the C4 Rice project, and is interested in building the pathway and also understanding C4 weeds that grow in paddy conditions.
     </div>
   </div>
   <div class="span6 media">
@@ -85,12 +80,7 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
     </a>
     <div class="media-body">
       <h4 class="media-heading">Marek Szecowka</h4>
-      Canada blah C4 rice Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-      consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-      cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-      proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+      Marek came to the lab after doing his PhD at the Max Plank Institute, Golm. He is working on using artificial scaffolds to increase photosynthetic efficiency in C<sub>3</sub> plants.
     </div>
   </div>
 </div>
@@ -106,12 +96,7 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
     </a>
     <div class="media-body">
       <h4 class="media-heading">Helen Woodfield</h4>
-      Helen Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-      consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-      cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-      proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+      Helen's PhD has been focussed in two areas. First, she has been involved in providing maize genes to the C<sub>4</sub> rice project, and investigating the expression of these maize genes in rice. Second, she has been investigating how bundle sheath specificity is generated in ancestral C<sub>3</sub> species. 
     </div>
   </div>
   <div class="span6 media">
@@ -155,12 +140,7 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
     </a>
     <div class="media-body">
       <h4 class="media-heading">Britta Kuempers</h4>
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-      consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-      cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-      proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+      Britta came from Edinburgh, and during her PhD has been working on the patterns of gene expression during leaf maturation of congeneric C<sub>3</sub> and C<sub>4</sub> species. This will provide important insight into conservation in gene expressioin across independent C<sub>4</sub> lineages.
     </div>
   </div>
   <div class="span6 media">
