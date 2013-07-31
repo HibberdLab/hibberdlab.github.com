@@ -30,7 +30,7 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
 
 ## Current members
 
-### Post-doctoral researchers
+### Post-Doctoral Research Associates
 
 <div class="row-fluid">
   <div class="span6 media">
@@ -94,7 +94,7 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
 <div class="row-fluid">
   <div class="span6 media">
     <a class="pull-left" href="#">
-      <img class="media-object img-rounded" src="http://lorempixel.com/160/200/people/5">
+      <img class="media-object img-rounded" src="{{%ASSET_PATH%}}../members/blank.jpg">
     </a>
     <div class="media-body">
       <h4 class="media-heading">Helen Woodfield</h4>
@@ -107,8 +107,7 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
     </a>
     <div class="media-body">
       <h4 class="media-heading">Chris John</h4>
-      <p>Chris studied at Sheffield University from 2005 to 2008 and graduated with a BSc in Biochemistry; after a few years of travelling and looking for PhD positions he found Julian's lab and decided to join in 2011. He was always particularly interested in plant molecular biology and the physical sciences during his degree. Now he is pursuing a combination of molecular biology and computational work.</p>
-      <p>Chris is involved experimentally in high throughput RNA seq workflows and downstream statistical analysis of the data. He carries this out alongside molecular biology techniques such as Gibson assembly, transient and stable transformation, and motif searching in order to understand the mechanisms controlling C<sub>4</sub> gene cell specificity. He is enjoying programming in R, BASH, and Python.</p>
+      <p>Chris studied Biochemistry at Sheffield University from 2005 to 2008, he joined Julians lab in 2011. He pursues a combination of molecular biology and computational analysis. Chris is currently experimentally involved in high throughput RNA seq workflows and downstream statistical analysis of the data. He carries this out alongside standard molecular biology techniques such as Gibson assembly and transient transformation to understand the control of C4 genes. He is enjoying programming in R, BASH, and Python.</p>
     </div>
   </div>
 </div>
@@ -116,7 +115,7 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
 <div class="row-fluid">
   <div class="span6 media">
     <a class="pull-left" href="#">
-      <img class="media-object img-rounded" src="http://lorempixel.com/160/200/people/7">
+      <img class="media-object img-rounded" src="{{%ASSET_PATH%}}../members/irl.jpg">
     </a>
     <div class="media-body">
       <h4 class="media-heading">Ivan Reyna-Llorens</h4>
