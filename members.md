@@ -77,11 +77,12 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
   </div>
   <div class="span6 media">
     <a class="pull-left" href="#">
-      <img class="media-object img-rounded" src="http://lorempixel.com/160/200/people/4">
+      <img class="media-object img-rounded" src="{{%ASSET_PATH%}}../members/ms.jpg">
     </a>
     <div class="media-body">
       <h4 class="media-heading">Marek Szecowka</h4>
-      Marek came to the lab after doing his PhD at the Max Plank Institute, Golm. He is working on using artificial scaffolds to increase photosynthetic efficiency in C<sub>3</sub> plants.
+      <p>Marek’s PhD at the Max Plank Institute, Golm, focussed on the primary carbon metabolism of both heterotrophic and autotrophic tissue. He developed in vivo methods for metabolic flux studies using stable carbon isotope (<sup>13</sup>C) in combination with MS analytical methods. He also studied the influence of mitochondrial metabolism on the rate of starch biosynthesis in potato tubers.</p>
+      <p>He is currently working on using artificial scaffolds to increase photosynthetic efficiency in C<sub>3</sub> plants.</p>
     </div>
   </div>
 </div>
@@ -128,8 +129,8 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
     </a>
     <div class="media-body">
       <h4 class="media-heading">Richard Smith</h4>
-      <p>Richard has previously worked as a software developer, and took his BSc in Conservation Biology at the University of the West of England. He spent a sandwich year researching seed dormancy at the Millennium Seed Bank, and continued to work for the MSB as a data analyst during the final year of his degree.</p>
-      <p>His PhD, funded jointly by the MSB and the Department of Plant Sciences, focuses on combining computational and molecular tools to understand how C<sub>4</sub> operates in wetland conditions such as those found in rice paddies. His approach involves using cell-type specific and developmental deep sequencing in the C<sub>4</sub> weed of rice paddies, <i>Echinochloa glabrescens</i>. Richard is currently developing software for improving high throughput sequence analysis, especially <i>de-novo</i> transcriptomics and RNA-Seq.</p>
+      <p>Richard has previously worked as a software developer, and took his BSc in Conservation Biology at the University of the West of England. He spent a sandwich year researching seed dormancy at the Millennium Seed Bank, and continued to work for the MSB as a data analyst during the final year of his degree. His PhD involves investigating C<sub>4</sub> in wetland conditions.</p>
+      <p>Richard is currently developing software for improving high throughput biological data analysis, especially <i>de-novo</i> transcriptomics and regulatory motif discovery.</p>
     </div>
   </div>
 </div>
