@@ -71,7 +71,7 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
     </a>
     <div class="media-body">
       <h4 class="media-heading">Sarah Covshoff</h4>
-      Before coming to the lab Sarah worked in Tom Brutnell's lab at the Boyce Thompson Institute, Cornell, USA, and then IRRI in The Philippines. She is part of the C4 Rice project, and is interested in building the pathway and also understanding C4 weeds that grow in paddy conditions.
+      Before coming to the lab Sarah worked in Tom Brutnell's lab at the Boyce Thompson Institute, Cornell, USA, and then IRRI in The Philippines. She is part of the C<sub>4</sub> Rice project, and is interested in building the pathway and also understanding C<sub>4</sub> weeds that grow in paddy conditions.
     </div>
   </div>
   <div class="span6 media">
