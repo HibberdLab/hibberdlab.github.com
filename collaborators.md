@@ -27,10 +27,6 @@ We are lucky to work with many excellent labs around the world. Below is a list 
 - [Prof. Andreas Weber, Düsseldorf University](http://www.plant-biochemistry.hhu.de/)
 
 
-### <i>Cleome hassleriana/Tareneya hassleriana</i> related
-- [Dr Eric Shranz, Wageningen](http://www.wageningenur.nl/en/Persons/dr.-ME-Eric-Schranz.htm)
-
-
 ### Mathematical analysis of C<sub>4</sub> evolution
 - [Dr Iain Johnston, Imperial College London](http://www3.imperial.ac.uk/people/iain.johnston)
 
@@ -43,6 +39,9 @@ We are lucky to work with many excellent labs around the world. Below is a list 
 
 - [Dr Ally Fernie, MPIMP](http://www.mpimp-golm.mpg.de/9205/Alisdair_Fernie) 
 - [Dr Peter Eastmond, RRes](http://www.rothamsted.ac.uk/PersonDetails-Who=1045.html)
+
+### <i>Cleome hassleriana/Tareneya hassleriana</i> related
+- [Dr Eric Shranz, Wageningen](http://www.wageningenur.nl/en/Persons/dr.-ME-Eric-Schranz.htm)
 
 
 ### Increasing tolerance to stress in rice
