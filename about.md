@@ -10,7 +10,7 @@ description: ""
 We are interested in the evolution and assembly of photosynthetic apparatus in plants. In particular, we focus on the C<sub>4</sub> leaf, where photosynthesis is compartmented between mesophyll and bundle sheath cells.
 
 ## C<sub>4</sub> photosynthesis
-<img src="http://www.nature.com/scitable/content/ne0000/ne0000/ne0000/ne0000/13311179/taub_figure2_ksm.jpg" align="right">
+<img src="http://www.nature.com/scitable/content/ne0000/ne0000/ne0000/ne0000/13311179/taub_figure2_ksm.jpg" align="right" style='padding: 20px;'>
 
 C<sub>4</sub> leaves have higher photosynthetic capacities than those of C<sub>3</sub> species, and as a consequence, C<sub>4</sub> crops are the most productive on the planet. Because C<sub>4</sub> plants use the PEPC enzyme to initially fix carbon, and it has a higher affinity for carbon than RuBisCO, these species maintain lower stomatal conductances. Furthermore, as RuBisCO only accumulates in BS cells, each leaf has less RuBisCO protein. Together this leads to C<sub>4</sub> plants having superior nitrogen and water use efficiencies than C<sub>3</sub> species. They are therefore targets for future food and fuel needs. 
 
