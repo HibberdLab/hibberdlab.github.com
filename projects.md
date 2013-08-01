@@ -17,9 +17,9 @@ Our work on understanding the C<sub>4</sub> pathway makes use of model organisms
     <div class="item active">
       <img src="{{%ASSET_PATH%}}../projects/evolution.png" alt="">
       <div class="container">
-        <div class="carousel-caption" style='background: rgba(200, 200, 200, 0.5); color=#333333'>
-          <h1 class="media-heading">Comparative analysis of C<sub>3</sub> and C<sub>4</sub> gene expression</h1>
-          <p>We are extending the phylogenetic breadth of RNAseq on closely related C<sub>3</sub> and C<sub>4</sub> species. This includes cell specific transcriptomes and will form the foundation for an understanding of the extent to which the M and BS transcriptomes of independent C<sub>4</sub> lineages are convergent.</p>
+        <div class="carousel-caption">
+          <h1>Comparative analysis of C<sub>3</sub> and C<sub>4</sub> gene expression</h1>
+          <p class="lead">We are extending the phylogenetic breadth of RNAseq on closely related C<sub>3</sub> and C<sub>4</sub> species. This includes cell specific transcriptomes and will form the foundation for an understanding of the extent to which the M and BS transcriptomes of independent C<sub>4</sub> lineages are convergent.</p>
           <a class="btn btn-info" href="#comparative">Read more...</a>
         </div>
       </div>
@@ -27,7 +27,7 @@ Our work on understanding the C<sub>4</sub> pathway makes use of model organisms
     <div class="item">
       <img src="{{%ASSET_PATH%}}../projects/evolution2.png" alt="">
       <div class="container">
-        <div class="carousel-caption" style='background: rgba(200, 200, 200, 0.5); color=#333333'>
+        <div class="carousel-caption">
           <h1>The ancestral role of proteins used in C<sub>4</sub> photosynthesis</h1>
           <p class="lead">The model C<sub>3</sub> plant <i>A. thaliana</i> contains all the proteins used in the C<sub>4</sub> pathway. We are using Arabidopsis to define the ancestral role of these proteins in C<sub>3</sub> species prior to their recruitment into the C<sub>4</sub> pathway.</p>
           <a class="btn btn-info" href="#ancestral">Read more...</a>
@@ -37,9 +37,9 @@ Our work on understanding the C<sub>4</sub> pathway makes use of model organisms
     <div class="item">
       <img src="{{%ASSET_PATH%}}../projects/c4_rice_project.png" alt="">
       <div class="container">
-        <div class="carousel-caption" style='background: rgba(200, 200, 200, 0.5); color=#333333'>
+        <div class="carousel-caption">
           <h1>The C<sub>4</sub> rice project</h1>
-          <p class="lead">We are involved in building the basic biochemistry required for the C<sub>4</sub> pathway in leaves of rice, this is done in collaboration with IRRI. In addition, in we have identified candidate regulators of the patterns of C<sub>4</sub> gene expression and with Bob Furbank (CSIRO) are testing the role of these proteins in <i>Setaria italic</i>.</p>
+          <p class="lead">We are involved in building the basic biochemistry required for the C<sub>4</sub> pathway in leaves of rice, this is done in collaboration with <a href="http://photosynthome.irri.org/C4rice/index.php/">IRRI</a>. In addition, in we have identified candidate regulators of the patterns of C<sub>4</sub> gene expression and with Bob Furbank (CSIRO) are testing the role of these proteins in <i>Setaria italica</i>.</p>
           <a class="btn btn-info" href="#c4rice">Read more...</a>
         </div>
       </div>
@@ -47,22 +47,21 @@ Our work on understanding the C<sub>4</sub> pathway makes use of model organisms
     <div class="item">
       <img src="{{%ASSET_PATH%}}../projects/rubisco.png" alt="">
       <div class="container">
-        <div class="carousel-caption" style='background: rgba(200, 200, 200, 0.5); color=#333333'>
+        <div class="carousel-caption">
           <h1>Using synthetic approaches to increase CO<sub>2</sub> supply to RuBisCO</h1>
-          <p class="lead">In collaboration with <a href="http://www.psrg.org.uk/">Mike Blatt, Nigel Burroughs, Cheryl Kerfield, Nick Smirnoff and John Golbeck</a> we are investigating whether photosynthesis can be enhanced using artificial protein scaffolds and light driven HCO3- pumps.</p>
-          <a class="btn btn-info" href="#rubisoc">Read more...</a>
+          <p class="lead">In collaboration with <a href="http://www.psrg.org.uk/">Mike Blatt, Nigel Burroughs, Cheryl Kerfield, Nick Smirnoff and John Golbeck</a> we are investigating whether photosynthesis can be enhanced using artificial protein scaffolds and light driven HCO<sub>3</sub><sup>-</sup> pumps.</p>
+          <a class="btn btn-info" href="#rubiso">Read more...</a>
         </div>
       </div>
     </div>
     <div class="item">
       <img src="{{%ASSET_PATH%}}../projects/wild_rices.png" alt="">
       <div class="container">
-        <div class="carousel-caption" style='background: rgba(200, 200, 200, 0.5); color=#333333'>
+        <div class="carousel-caption">
           <h1>Overcoming the domestication bottleneck in rice</h1>
           <p class="lead">As with all major crops, rice went through a series of domestication bottlenecks
-    that reduced allelic variation compared with it ancestors and current wild species.
-    With <a href="http://photosynthome.irri.org/C4rice/index.php/">IRRI</a> we are using wild species of rice and Multi Advanced Generation
-    Inter-Crossing to re-introduce tolerance to biotic and abiotic stresses.</p>
+    that reduced allelic variation compared with its ancestors and current wild species.
+    With <a href="http://photosynthome.irri.org/C4rice/index.php/">IRRI</a> we are using wild species of rice and Multi Advanced Generation Inter-Crossing to re-introduce tolerance to biotic and abiotic stresses.</p>
           <a class="btn btn-info" href="#wildrice">Read more...</a>
         </div>
       </div>
