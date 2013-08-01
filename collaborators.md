@@ -21,6 +21,9 @@ We are lucky to work with many excellent labs around the world. Below is a list 
 - [Prof Rowan Sage, University of Toronto](http://www.eeb.utoronto.ca/people/d-faculty/RSage.htm)
 - [Dr Xin-Guang Xhu, PICB, Shanghai](http://www.picb.ac.cn/PSB/)
 
+### <i>Cleome hassleriana/Tareneya hassleriana</i> related
+- [Dr Eric Shranz, Wageningen](http://www.wageningenur.nl/en/Persons/dr.-ME-Eric-Schranz.htm)
+
 ### Mathematical analysis of C<sub>4</sub> evolution
 - [Dr Iain Johnston, Imperial College London](http://www3.imperial.ac.uk/people/iain.johnston)
 
