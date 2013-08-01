@@ -20,7 +20,16 @@ We are also currently using pairs of phylogenetically close species (rice and ma
 
 ## Our approach
 
-The approaches we take include, but are not limited to: standard biochemical and microbiological techniques; molecular cloning and standard molecular biological techniques; the use of molecular genetics and mutants to discover gene function; the use of transgenic plants (e.g for RNAi, antisense, overexpression and expression of reporter genes); imaging of GFP-tagged proteins to determine cellular and subcellular location, using epifluorescence or laser confocal scanning microscopy, using infra red gas analysis and pulse modulated fluorimetry to investigate different photosynthetic abilities; and, bioinformatics pipelines and computational development for analysing rich datasets.
+The approaches we take include, but are not limited to: 
+
+- standard biochemical and microbiological techniques
+- molecular cloning and standard molecular biological techniques
+- the use of molecular genetics and mutants to discover gene function
+- the use of transgenic plants (e.g for RNAi, antisense, overexpression and expression of reporter genes)
+- imaging of GFP-tagged proteins to determine cellular and subcellular location
+- using epifluorescence or laser confocal scanning microscopy
+- using infra red gas analysis and pulse modulated fluorimetry to investigate different photosynthetic abilities
+- development and use of computational tools for analysing rich datasets.
 
 ## International recognition
 
