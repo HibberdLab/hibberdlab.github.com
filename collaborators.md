@@ -27,6 +27,10 @@ We are lucky to work with many excellent labs around the world. Below is a list 
 - [Prof. Andreas Weber, Düsseldorf University](http://www.plant-biochemistry.hhu.de/)
 
 
+### Regulation of gene expression
+- [Prof. Peter Westhoff, Düsseldorf University](http://www.emp.hhu.de/)
+
+
 ### Mathematical analysis of C<sub>4</sub> evolution
 - [Dr Iain Johnston, Imperial College London](http://www3.imperial.ac.uk/people/iain.johnston)
 
