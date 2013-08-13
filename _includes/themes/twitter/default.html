@@ -14,6 +14,21 @@
     <script src="{{ ASSET_PATH }}/js/jquery.js"></script>
     <script src="{{ ASSET_PATH }}/js/bootstrap.min.js"></script>
 
+    <!-- FancyBox stuff -->
+<!--     <!-- Add mousewheel plugin (this is optional) -->
+    <script type="text/javascript" src="{{ ASSET_PATH }}../../../js/fancybox/lib/jquery.mousewheel-3.0.6.pack.js"></script>
+    <!-- Add fancyBox -->
+    <link rel="stylesheet" href="{{ ASSET_PATH }}../../../js/fancybox/source/jquery.fancybox.css" type="text/css" media="screen" />
+    <script type="text/javascript" src="{{ ASSET_PATH }}../../../js/fancybox/source/jquery.fancybox.pack.js?v=2.1.5"></script>
+
+    <!-- Optionally add helpers - button, thumbnail and/or media -->
+    <!-- <link rel="stylesheet" href="{{ ASSET_PATH }}../../js/fancybox/source/helpers/jquery.fancybox-buttons.css" type="text/css" media="screen" /> -->
+    <!-- // <script type="text/javascript" src="{{ ASSET_PATH }}../../../js/fancybox/source/helpers/jquery.fancybox-buttons.js?v=1.0.5"></script> -->
+    <!-- // <script type="text/javascript" src="{{ ASSET_PATH }}../../../js/fancybox/source/helpers/jquery.fancybox-media.js?v=1.0.6"></script> -->
+
+    <!-- <link rel="stylesheet" href="{{ ASSET_PATH }}../../../js/fancybox/source/helpers/jquery.fancybox-thumbs.css?v=1.0.7" type="text/css" media="screen" /> -->
+    <!-- // <script type="text/javascript" src="{{ ASSET_PATH }}../../../js/fancybox/source/helpers/jquery.fancybox-thumbs.js?v=1.0.7"></script> -->
+
     <!-- Le styles -->
     <!-- <link href="{{ ASSET_PATH }}/bootstrap/css/bootstrap.min.css" rel="stylesheet"> -->
     <link rel="stylesheet" href="{{ ASSET_PATH }}/bootstrap/css/bootstrap.css">
@@ -87,6 +102,21 @@
       .carousel-caption .btn {
         margin-top: 10px;
       }
+
+    /* photo-framing */
+    .picture {
+      background-color: #F9F9F9;
+      border: 1px solid #CCCCCC;
+      padding: 3px;
+      font: 11px/1.4em Arial, sans-serif;
+      margin: 20px;
+    }
+    .picture img {
+      border: 1px
+      solid #CCCCCC;
+      vertical-align:middle;
+      margin-bottom: 3px; 
+    }
 
     /* RESPONSIVE CSS
     -------------------------------------------------- */
@@ -172,6 +202,13 @@
       </footer>
 
     </div> <!-- /container -->
+
+    
+    <script type="text/javascript">
+      $(document).ready(function() {
+        $(".fancybox").fancybox();
+      });
+    </script>
 
     {% include JB/analytics %}
   </body>
