@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Publications | Hibberd Lab"
+title: "Publications | Journal articles | Hibberd Lab"
 header: Publications        
 group: navigation
 ---
