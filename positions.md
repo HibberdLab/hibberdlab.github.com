@@ -7,7 +7,7 @@ description: ""
 
 ♯♯♯ Coming to work in the lab
 
--[If you are interested in coming to work with us, either as a PhD student or as a post-doc, please contact Julian](jmh65@cam.ac.uk). Projects are available in the following areas:
+-If you are interested in coming to work with us, either as a PhD student or as a post-doc, please contact [Julian](jmh65@cam.ac.uk). Projects are available in the following areas:
 
 <i>1) Defining the degree to which BS and M gene expression is convergent in independent C<sub>4</sub>  lineages.</i>
 <p>This could be achieved using our new leaf rolling technique to separate M and BS RNA from multiple C4 lineages, followed by deep sequencing, and significant computational analysis. </p>
@@ -21,7 +21,7 @@ description: ""
 <i>4) Identifying regulators of cell specific expression in C<sub>4</sub> leaves</i>
 <p>We have found cis-elements that generate M specific expression of multiple genes, and others that generate BS specific expression of multiple genes. The race is on to determine how many genes these elements control, and to identify the <i>trans</i>-factors that interact with them. </p>
 
--[For PhD applicants, you will need to follow the application process that is defined by The University of Cambridge, and is described on the University Website]( https://www.admin.cam.ac.uk/students/gradadmissions/prospec/).
+-For PhD applicants, you will need to follow the application process that is defined by [The University of Cambridge, and is described on the University Website]( https://www.admin.cam.ac.uk/students/gradadmissions/prospec/).
 <p>We have many more applications than we can accept, and so the selection process is tough. In order to increase your chances, I recommend that you think in detail about the project that you would like to 
 work on. Once you have done this, I also recommend that you prepare a proposal that consists of:
 <i>Background</i> to the area that you want to work in, and the specific research question that you would like to address
