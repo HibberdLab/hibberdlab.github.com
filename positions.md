@@ -6,11 +6,14 @@ description: "Coming to work in the lab"
 {% include JB/setup %}
 
 <h2>Coming to work in the lab
+
 </h2>
 
 At present we do not have any funded positions available. However, if you are interested in coming to work with us, either as a PhD student or as a post-doc, projects are available in the following areas:
 
-<h4> Defining the degree to which BS and M gene expression is convergent in independent C<sub>4</sub> lineages.</h4>
+<h4> Defining the degree to which BS and M gene expression is convergent in independent C<sub>4</sub> lineages.
+
+</h4>
 <p>This could be achieved using our new leaf rolling technique to separate M and BS RNA from multiple C<sub>4</sub> lineages, followed by deep sequencing, and significant computational analysis. </p>
 
 
