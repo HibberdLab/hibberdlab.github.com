@@ -24,17 +24,16 @@ At present we do not have any funded positions available. However, if you are in
 <h4> Identifying regulators of cell specific expression in C<sub>4</sub> leaves</h4>
 <p>We have found cis-elements that generate M specific expression of multiple genes, and others that generate BS specific expression of multiple genes. The race is on to determine how many genes these elements control, and to identify the <i>trans</i>-factors that interact with them. </p>
 
-<div>
+  <div>
 <p>For PhD applicants, we have many more applications than we can accept, and so the selection process is tough. In order to increase your chances, I recommend that you think in detail about the project that you would like to 
 work on. Once you have done this, I also recommend that you prepare a proposal that consists of:
 <i>Background</i> to the area that you want to work in, and the specific research question that you would like to address
 <i>Experimental Approaches</i>, which outlines in detail how you would like to go about your project
 <i>Expected Ouptuts</i>, which places your results in context, explaining how they will impact on the broader field.] 
 
-I am happy to provide feedback on this document. You will then need to follow the application process that is defined by The University of Cambridge, and is described on the [University Website](https://www.admin.cam.ac.uk/students/gradadmissions/prospec/).</p>
-</div>
--Please investigate potential [Funding Routes]( https://www.admin.cam.ac.uk/students/gradadmissions/prospec/).
+I am happy to provide feedback on this document. You will then need to follow the application process that is defined by The University of Cambridge, and is described on the [University Website](https://www.admin.cam.ac.uk/students/gradadmissions/prospec/). Please investigate potential [Funding Routes]( https://www.admin.cam.ac.uk/students/gradadmissions/prospec/).</p>
 
+  </div>
 
 For Post-doctoral workers, please contact me with a summary of what you would like to work on, and any potential Fellowship Schemes that are relevant to you.
 
