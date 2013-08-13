@@ -20,6 +20,10 @@ tagline: Supporting tagline
 
 </div>
 
+<div class="alert alert-info">
+    Interested in joining the lab? See what <a href="positions.html">positions we have available.</a>
+</div>
+
 <div class="row main-features">
   <div class="span3">
     <div class="well">
