@@ -37,7 +37,7 @@ I am happy to provide feedback on this document. You will then need to follow th
 
 
 <h3>For Post-doctoral workers</h3>
-<p>Please contact [me](jmh65@cam.ac.uk) with a summary of what you would like to work on, and any potential Fellowship Schemes that are relevant to you.</p>
+Please contact [me](jmh65@cam.ac.uk) with a summary of what you would like to work on, and any potential Fellowship Schemes that are relevant to you.
 
 
 
