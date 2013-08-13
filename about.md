@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "About our work on C4 photosynthesis | Hibberd Lab"
+title: "About | Our work on C4 photosynthesis | Hibberd Lab"
 description: ""
 ---
 {% include JB/setup %}
