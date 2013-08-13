@@ -36,7 +36,7 @@ I am happy to provide feedback on this document. You will then need to follow th
 -Please investigate potential [Funding Routes]( https://www.admin.cam.ac.uk/students/gradadmissions/prospec/).
 
 
--[For Post-doctoral workers, please contact me with a summary of what you would like to work on, and any potential Fellowship Schemes that are relevant to you.]
+For Post-doctoral workers, please contact me with a summary of what you would like to work on, and any potential Fellowship Schemes that are relevant to you.
 
 Please contact [Julian](jmh65@cam.ac.uk) after you have investigated the points above.
 
