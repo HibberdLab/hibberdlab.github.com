@@ -9,8 +9,8 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 
-title : Hibberd Lab
-tagline: this is a test
+title : Hibberd Lab at Cambridge | C4 photosynthesis
+tagline: C4 photosynthesis, engineering and evolution
 author :
   name : Julian Hibberd
   email : jmh@plantsci.cam.ac.uk
@@ -26,7 +26,7 @@ author :
 # Else if you are pushing to username.github.com, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : hibberdlab
+production_url : hibberdlab.com
 
 # excerpt separator
 excerpt_separator: ">>>>>"
