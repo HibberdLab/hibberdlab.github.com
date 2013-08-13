@@ -13,10 +13,10 @@ description: "Coming to work in the lab"
 <p>This could be achieved using our new leaf rolling technique to separate M and BS RNA from multiple C<sub>4</sub> lineages, followed by deep sequencing, and significant computational analysis. </p>
 
 <i>2) The ancestral role of C<sub>4</sub> proteins in A. thaliana</i>
-<p>We now know that the C<sub>4</sub> acid decarboxylases and cytosolic PPDK play very important roles in leaves of C<sub>3</sub> species. However, in C<sub>3</sub> <i>A. thaliana</i>, the role of the chloroplastic PPDK that is co-opted into C<sub>4</sub> photosynthesis remains poorly defined in C<sub>3</sub> species. We would like to understand what it does. </p>
+<p>We now know that the C<sub>4</sub> acid decarboxylases and cytosolic PPDK play very important roles in leaves of C<sub>3</sub> species. However, in C<sub>3</sub>  <i>A. thaliana</i>, the role of the chloroplastic PPDK that is co-opted into C<sub>4</sub> photosynthesis remains poorly defined in C<sub>3</sub> species. We would like to understand what it does. </p>
 
 <i>3) Mechanisms driving increased expression of genes recruited into C<sub>4</sub> photosynthesis</i>
-<p>The C4<sub>4</sub> pathway demands high expression of the C<sub>4</sub> cycle genes in leaves. While a significant amount of work has been undertaken to investigate the control of cell specificity in C<sub>4</sub> leaves, how increased expression is brought about is less well understood. </p>
+<p>The C<sub>4</sub> pathway demands high expression of the C<sub>4</sub> cycle genes in leaves. While a significant amount of work has been undertaken to investigate the control of cell specificity in C<sub>4</sub> leaves, how increased expression is brought about is less well understood. </p>
 
 <i>4) Identifying regulators of cell specific expression in C<sub>4</sub> leaves</i>
 <p>We have found cis-elements that generate M specific expression of multiple genes, and others that generate BS specific expression of multiple genes. The race is on to determine how many genes these elements control, and to identify the <i>trans</i>-factors that interact with them. </p>
