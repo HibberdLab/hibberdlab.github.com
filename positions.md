@@ -7,9 +7,8 @@ description: ""
 
 ♯♯♯ Coming to work in the lab
 
--[If you are interested in coming to work with us, either as a PhD student or as a post-doc, please contact Julian](jmh65@cam.ac.uk).
+-[If you are interested in coming to work with us, either as a PhD student or as a post-doc, please contact Julian](jmh65@cam.ac.uk). Projects are available in the following areas:
 
-Projects are available in the following areas:
 <i>1) Defining the degree to which BS and M gene expression is convergent in independent C<sub>4</sub>  lineages.</i>
 <p>This could be achieved using our new leaf rolling technique to separate M and BS RNA from multiple C4 lineages, followed by deep sequencing, and significant computational analysis. </p>
 
