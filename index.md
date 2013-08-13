@@ -1,6 +1,6 @@
 ---
 layout: page 
-title: Hibberd Lab | C4 Photosynthesis and Molecular Plant Physiology
+title: Hibberd Lab | C4 Photosynthesis
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
