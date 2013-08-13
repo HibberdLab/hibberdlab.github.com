@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Members"
+title: "Members | Hibberd Lab"
 description: "Hibberd Lab members past and present"
 ---
 
