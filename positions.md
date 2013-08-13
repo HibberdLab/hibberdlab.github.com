@@ -5,7 +5,8 @@ description: "Coming to work in the lab"
 ---
 {% include JB/setup %}
 
-<h2>Coming to work in the lab</h2>
+<h2>Coming to work in the lab
+</h2>
 
 At present we do not have any funded positions available. However, if you are interested in coming to work with us, either as a PhD student or as a post-doc, projects are available in the following areas:
 
