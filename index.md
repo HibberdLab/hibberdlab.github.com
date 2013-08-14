@@ -1,7 +1,6 @@
 ---
 layout: page 
 title: Hibberd Lab | C4 Photosynthesis
-tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
