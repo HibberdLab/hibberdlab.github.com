@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Positions available"
+title: "Positions available | Hibberd Lab"
 description: "Coming to work in the lab"
 ---
 {% include JB/setup %}
