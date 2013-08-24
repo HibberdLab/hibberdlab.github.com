@@ -53,7 +53,7 @@ We are lucky to work with many excellent labs around the world. Below is a list 
 - [Drs Ken McNally, KK Jenna, A Kumar, Paul Quick and H Leung, IRRI](http://irri.org)
 
 ### BBSRC & NSF joint project on increasing CO<sub>2</sub> supply to RuBisCO
-Link to the [project website here](www.magic.psrg.org.uk) 
+Link to the [project website here](http://www.magic.psrg.org.uk) 
 
 - [Prof. Mike Blatt, University of Glasgow](http://www.psrg.org.uk/)
 - [Prof. John Golbeck, Penn State University](http://bmb.psu.edu/directory/jhg5)
