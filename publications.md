@@ -12,6 +12,7 @@ group: navigation
 
 ### 2013
 
+-[Cheng S, van den Bergh E, Zeng P, Zhong X, Xu J, Liu X, Hofberger J, de Bruijn S, Bhide AS, Kuelahoglu C, Biana C, Chena J, Fana G, Kaufmanne K, Hall JC, Beckerf A, Bräutigam A, Weber APM, Shia C, Zhenga Z, Lia W, Lv M, Taoc Y, Wanga J, Zoua H, Quana Z, **Hibberd JM**, Zhang G, Zhu XG, Xua X, Schranz ME. 2013. The <i>Tarenaya hassleriana</i> genome provides insight into reproductive trait and genome evolution of crucifers. The Plant Cell Online tpc.113.113480](http://www.plantcell.org/content/early/2013/08/27/tpc.113.113480.full.pdf+html?with-ds=yes).
 - [Bombelli P, Iyer DMR, **Covshoff S**, McCormick AJ, Yunus K, **Hibberd JM**, Fisher AC, Howe CJ. 2013. Comparison of power output by rice (<i>Oryza sativa</i>) and an associated weed (<i>Echinochloa glabrescens</i>) in vascular plant bio-photovoltaic (VP-BPV) systems. Appl Microbiol Biotechnol 97: 429–438.](http://dx.doi.org/10.1007/s00253-012-4473-6)
 - [Wang P, Fouracre J, Kelly S, Karki S, Gowik U, **Aubry S**, Shaw MK, Westhoff P, Slamet-Loedin IH, Quick WP, et al.. 2013. Evolution of GOLDEN2-LIKE gene function in C<sub>3</sub> and C<sub>4</sub> plants. Planta 237: 481–495.](http://dx.doi.org/10.1007/s00425-012-1754-3)
 - [**Covshoff S**, Furbank RT, Leegood RC, **Hibberd JM**. 2013. Leaf rolling allows quantification of mRNA abundance in mesophyll cells of sorghum. J Exp Bot 64: 807–813. \*](http://dx.doi.org/10.1093/jxb/ers286)
