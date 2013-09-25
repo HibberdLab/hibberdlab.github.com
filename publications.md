@@ -106,5 +106,5 @@ group: navigation
 
 ## Automatically curated lists
 
-* [Researchate](https://www.researchgate.net/profile/Julian_Hibberd/publications/)
+* [Researchgate](https://www.researchgate.net/profile/Julian_Hibberd/publications/)
 * [Google Scholar](http://scholar.google.co.uk/citations?user=VgjC<sub>4</sub>I4AAAAJ)
