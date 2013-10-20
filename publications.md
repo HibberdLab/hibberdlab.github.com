@@ -18,7 +18,7 @@ group: navigation
 - [Wang P, Fouracre J, Kelly S, Karki S, Gowik U, **Aubry S**, Shaw MK, Westhoff P, Slamet-Loedin IH, Quick WP, et al.. 2013. Evolution of GOLDEN2-LIKE gene function in C<sub>3</sub> and C<sub>4</sub> plants. Planta 237: 481–495.](http://dx.doi.org/10.1007/s00425-012-1754-3)
 - [**Covshoff S**, Furbank RT, Leegood RC, **Hibberd JM**. 2013. Leaf rolling allows quantification of mRNA abundance in mesophyll cells of sorghum. J Exp Bot 64: 807–813. \*\*](http://dx.doi.org/10.1093/jxb/ers286)
 
-	\*  **A meta-analysis of traits in C<sub>3</sub>-C<sub>4</sub> intermediate species combined with novel Bayesian mathematics predict the steps associated with the phenotypic evolution of C<sub>4</sub> photosynthesis. The Editor's choice. **
+	\*  **A meta-analysis of traits in C<sub>3</sub>-C<sub>4</sub> intermediate species combined with novel Bayesian mathematics predict the steps associated with the phenotypic evolution of C<sub>4</sub> photosynthesis. The Editors' choice. **
 	
 	\*\* **A simple approach to extract RNA from either M or BS cells of C<sub>4</sub> leaves. This new approach is low tech, does not require incubations that themselves induce alterations in gene expression (such as the production of protoplasts), and gives high quality RNA suitable for deep sequencing.**
 
