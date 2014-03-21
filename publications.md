@@ -10,8 +10,13 @@ group: navigation
 
 ## Manually curated list
 
-### 2013
+### 2014
+
 - [Aubry, S., Smith-Unna, R., Boursnell, C, Kopriva, S., Hibberd, J.M. (2014) Transcript residency on ribosomes reveals a key role for the Arabidopsis thaliana bundle sheath in sulphur and glucosinolate metabolism. Plant Journal doi:10.1111/tpj.12502.](http://onlinelibrary.wiley.com/store/10.1111/tpj.12502/asset/tpj12502.pdf?v=1&t=ht1eyafi&s=3ff0a9a4a2140f9db91da63c2445ea649c7bbf6b)
+- [Christin, P-A., Arakaki, M., Osborne, C.P., Bräutigam, A., Sage, R.F., Hibberd, J.M., Kelly, S., Covshoff, S., Wong, G.K-S., Hancock, L., Edwards, E.J. (2014) Shared origins of a key enzyme during the evolution of C<sub>4</sub> and CAM metabolism](http://jxb.oxfordjournals.org/content/early/2014/03/14/jxb.eru087.full?sid=d8ed9f23-74b0-4855-aab6-b67ec3d19a96)
+
+### 2013
+
 - [**Aubry, S., Knerova, J., Hibberd, J.M.** 2013. Endoreduplication is not involved in bundle-sheath formation in the C<sub>4</sub> species <i>Cleome gynandra</i>. Journal of Experimental Botany doi:10.1093/jxb/ert350](http://jxb.oxfordjournals.org/content/early/2013/11/11/jxb.ert350.full?keytype=ref&ijkey=YJdBzfjTUJZzBBt)
 - [**Williams, B.P., Johnston, I.G., Covshoff, S., Hibberd, J.M.** 2013. Phenotypic landscape inference reveals multiple evolutionary paths to C<sub>4</sub> photosynthesis. eLife 2:e00961. \*](http://elife.elifesciences.org/content/2/e00961)
 - [Cheng S, van den Bergh E, Zeng P, Zhong X, Xu J, Liu X, Hofberger J, de Bruijn S, Bhide AS, Kuelahoglu C, Biana C, Chena J, Fana G, Kaufmanne K, Hall JC, Beckerf A, Bräutigam A, Weber APM, Shia C, Zhenga Z, Lia W, Lv M, Taoc Y, Wanga J, Zoua H, Quana Z, **Hibberd JM**, Zhang G, Zhu XG, Xua X, Schranz ME. 2013. The <i>Tarenaya hassleriana</i> genome provides insight into reproductive trait and genome evolution of crucifers. The Plant Cell Online tpc.113.113480](http://www.plantcell.org/content/early/2013/08/27/tpc.113.113480.full.pdf+html?with-ds=yes)
