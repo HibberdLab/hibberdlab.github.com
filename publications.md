@@ -12,8 +12,8 @@ group: navigation
 
 ### 2014
 
-- [Aubry, S., Smith-Unna, R., Boursnell, C, Kopriva, S., Hibberd, J.M. (2014) Transcript residency on ribosomes reveals a key role for the Arabidopsis thaliana bundle sheath in sulphur and glucosinolate metabolism. Plant Journal doi:10.1111/tpj.12502.](http://onlinelibrary.wiley.com/store/10.1111/tpj.12502/asset/tpj12502.pdf?v=1&t=ht1eyafi&s=3ff0a9a4a2140f9db91da63c2445ea649c7bbf6b)
-- [Christin, P-A., Arakaki, M., Osborne, C.P., Bräutigam, A., Sage, R.F., Hibberd, J.M., Kelly, S., Covshoff, S., Wong, G.K-S., Hancock, L., Edwards, E.J. (2014) Shared origins of a key enzyme during the evolution of C<sub>4</sub> and CAM metabolism. J. Exp. Bot. doi:10.1093/jxb/eru087](http://jxb.oxfordjournals.org/content/early/2014/03/14/jxb.eru087.full?sid=d8ed9f23-74b0-4855-aab6-b67ec3d19a96)
+- [**Aubry, S., Smith-Unna, R., Boursnell, C, Kopriva, S., Hibberd, J.M.** (2014) Transcript residency on ribosomes reveals a key role for the Arabidopsis thaliana bundle sheath in sulphur and glucosinolate metabolism. Plant Journal doi:10.1111/tpj.12502.](http://onlinelibrary.wiley.com/store/10.1111/tpj.12502/asset/tpj12502.pdf?v=1&t=ht1eyafi&s=3ff0a9a4a2140f9db91da63c2445ea649c7bbf6b)
+- [Christin, P-A., Arakaki, M., Osborne, C.P., Bräutigam, A., Sage, R.F., **Hibberd, J.M., Kelly, S., Covshoff, S.,** Wong, G.K-S., Hancock, L., Edwards, E.J. (2014) Shared origins of a key enzyme during the evolution of C<sub>4</sub> and CAM metabolism. J. Exp. Bot. doi:10.1093/jxb/eru087](http://jxb.oxfordjournals.org/content/early/2014/03/14/jxb.eru087.full?sid=d8ed9f23-74b0-4855-aab6-b67ec3d19a96)
 
 ### 2013
 
