@@ -17,7 +17,7 @@ We are lucky to work with many excellent labs around the world. Below is a list 
 
 ### 1KP project
 
-- [Dr Skeve Kelly, Oxford University](http://stevekelly.eu/)
+- [Dr Steve Kelly, Oxford University](http://stevekelly.eu/)
 - [Prof Rowan Sage, University of Toronto](http://www.eeb.utoronto.ca/people/d-faculty/RSage.htm)
 - [Dr Xin-Guang Xhu, PICB, Shanghai](http://www.picb.ac.cn/PSB/)
 
