@@ -12,7 +12,8 @@ group: navigation
 
 ### 2014
 
-- [**John, C.R., Smith-Unna, R.D., Woodfield, H., Hibberd, J.M.** (2014) Evolutionary convergence of cell specific gene expression in independent lineages of C<sub>4</sub> grasses. Plant Physiology, doi:10.1104/pp.114.238667](doi:10.1104/pp.114.238667)
+- [Aubry, S., Kelly, S., Kümpers, B.M.C., Smith-Unna, R.D., Hibberd, J.M. (2014) Deep evolutionary comparison of gene expression identifies parallel recruitment of trans-factors in two independent origins of C4 photosynthesis. PLOS Genetics doi:10.1371/journal.pgen.1004365](doi:10.1371/journal.pgen.1004365)
+- [Smith-Unna, R.D., Woodfield, H., Hibberd, J.M.** (2014) Evolutionary convergence of cell specific gene expression in independent lineages of C<sub>4</sub> grasses. Plant Physiology, doi:10.1104/pp.114.238667](doi:10.1104/pp.114.238667)
 - [**Aubry, S., Smith-Unna, R., Boursnell, C, Kopriva, S., Hibberd, J.M.** (2014) Transcript residency on ribosomes reveals a key role for the Arabidopsis thaliana bundle sheath in sulphur and glucosinolate metabolism. Plant Journal doi:10.1111/tpj.12502.](http://onlinelibrary.wiley.com/doi/10.1111/tpj.12502/abstract)
 - [Christin, P-A., Arakaki, M., Osborne, C.P., Bräutigam, A., Sage, R.F., **Hibberd, J.M., Kelly, S., Covshoff, S.,** Wong, G.K-S., Hancock, L., Edwards, E.J. (2014) Shared origins of a key enzyme during the evolution of C<sub>4</sub> and CAM metabolism. J. Exp. Bot. doi:10.1093/jxb/eru087](http://jxb.oxfordjournals.org/content/early/2014/03/14/jxb.eru087.full?sid=d8ed9f23-74b0-4855-aab6-b67ec3d19a96)
 
