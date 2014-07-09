@@ -18,7 +18,7 @@ group: navigation
 - [**Bellasio, C., Burgess, S.J, Griffiths, H., Hibberd, J.M.** (2014) A high throughput gas exchange screen for determining rates of photorespiration or regulation of C4 activity. Journal of Experimental Botany, doi: 10.1093/jxb/eru238](http://jxb.oxfordjournals.org/cgi/content/full/eru238)
 - [Christin, P-A., Arakaki, M., Osborne, C.P., Bräutigam, A., Sage, R.F., **Hibberd, J.M., Kelly, S., Covshoff, S.,** Wong, G.K-S., Hancock, L., Edwards, E.J. (2014) Shared origins of a key enzyme during the evolution of C<sub>4</sub> and CAM metabolism. J. Exp. Bot. doi:10.1093/jxb/eru087](http://jxb.oxfordjournals.org/content/early/2014/03/14/jxb.eru087.full?sid=d8ed9f23-74b0-4855-aab6-b67ec3d19a96)
 
-	\*  **A new computational method developed by Steve Kelly applied to transcriptomes generated from distantly related species.  This approach shows that independent C<sub>4</sub> lineages have very likely recruited the same regulatory networks to generate the C,sub>4</sub> pathway**
+	\*  **A new computational method developed by Steve Kelly applied to transcriptomes generated from distantly related species.  This approach shows that independent C<sub>4</sub> lineages have very likely recruited the same regulatory networks to generate the C<sub>4</sub> pathway**
 	
 	\*\* **The first unbiased insight into the transcript populations within bundle sheath cells of C<sub>3</sub> plants. Insight into the role of these cells and also the extent to which they have altered their role as C<sub>4</sub> evolves.**
 
