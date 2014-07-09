@@ -10,7 +10,7 @@ group: navigation
 
 - [Transrate - transcriptome assembly quality analysis](/transrate)
 - [CRBB, Conditional annotation and Reciprocal Best Blast developed by Steve Kelly - web based implementation from Steve](www.bioinformatics.plants.ox.ac.uk/annot​ate/index.html)
-- [A short explanation of CRRB with Ruby script from Chris Boursnell](www.github.com.cboursnell/crb/blast)
+- [A short explanation of CRRB with Ruby script from Chris Boursnell](www.github.com/cboursnell/crb-blast)
 
 ## Datasets
 
