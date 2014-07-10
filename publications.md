@@ -20,7 +20,7 @@ group: navigation
 
 	\*  **A new computational method developed by Steve Kelly applied to transcriptomes generated from distantly related species.  This approach shows that independent C<sub>4</sub> lineages have very likely recruited the same regulatory networks to generate the C<sub>4</sub> pathway**
 	
-	\*\* **The first unbiased insight into the transcript populations within bundle sheath cells of C<sub>3</sub> plants. Insight into the role of these cells and also the extent to which they have altered their role as C<sub>4</sub> evolves.**
+	\*\* **The first unbiased analysis of transcript populations within bundle sheath cells of C<sub>3</sub> plants. Insight into the role of these cells and also the extent to which they have altered their role as C<sub>4</sub> evolves.**
 
 
 ### 2013
