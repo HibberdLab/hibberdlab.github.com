@@ -34,9 +34,7 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
 
 <div class="row-fluid">
   <div class="span6 media">
-    <a class="pull-left" href="#">
-      <img class="media-object img-rounded" src="{{%ASSET_PATH%}}../members/sb.jpg">
-    </a>
+    <img class="media-object img-rounded" src="{{%ASSET_PATH%}}../members/sb.jpg">
     <div class="media-body">
       <h4 class="media-heading">Steven Burgess</h4>
       <p>Steven graduated from the University of Edinburgh with a BSc in Biochemistry in
