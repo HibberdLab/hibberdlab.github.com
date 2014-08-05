@@ -104,8 +104,8 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
       <p>Chris studied Biochemistry at Sheffield University from 2005 to 2008, he joined Julians lab in 2011. He pursues a
       combination of molecular biology and computational analysis. Chris is currently experimentally involved in high
       throughput RNA seq workflows and downstream statistical analysis of the data. He carries this out alongside standard
-      molecular biology techniques such as Gibson assembly and transient transformation to understand the control of C4 genes.
-      He is enjoying programming in R, BASH, and Python.</p>
+      molecular biology techniques such as Gibson assembly and transient transformation to understand the control of
+      C<sub>4</sub> genes. He is enjoying programming in R, BASH, and Python.</p>
     </div>
   </div>
 </div>
