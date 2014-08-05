@@ -145,14 +145,10 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
     </a>
     <div class="media-body">
       <h4 class="media-heading">Britta Kuempers</h4>
-      Britta came from Edinburgh, and during her PhD has been working on the patterns of gene expression during leaf maturation of congeneric C<sub>3</sub> and C<sub>4</sub> species. This will provide important insight into conservation in gene expressioin across independent C<sub>4</sub> lineages.
+      Britta came from Edinburgh, and during her PhD has been working on the patterns of gene expression during leaf maturation
+      of congeneric C<sub>3</sub> and C<sub>4</sub> species. This will provide important insight into conservation in gene
+      expressioin across independent C<sub>4</sub> lineages.
     </div>
-  </div>
-  <div class="span6 media">
-    <a class="pull-left" href="#">
-      <img class="media-object img-rounded" src="{{%ASSET_PATH%}}../members/rn.jpg">
-    </a>
-  </div>
   </div>
 </div>
 
