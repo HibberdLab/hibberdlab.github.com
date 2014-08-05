@@ -14,9 +14,7 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
 
 <div class="row-fluid">
   <div class="span8 offset2 media">
-    <a class="pull-left" href="#">
-      <img class="media-object img-rounded" src="{{%ASSET_PATH%}}../members/jh.jpg">
-    </a>
+    <img class="pull-left media-object img-rounded" src="{{%ASSET_PATH%}}../members/jh.jpg">
     <div class="media-body">
       <h4 class="media-heading">Julian Hibberd</h4>
       <p>Julian did his PhD with John Farrar and Bob Whitbread at Bangor University.  He then moved to post-doctoral positions with Julie Scholes, Paul Quick and Malcolm Press in Sheffield, and then John Gray in Cambridge.  He started his own group in Cambridge while holding a BBSRC Sir David Phillips Fellowship. His interests in plant biology have focussed on various aspects of photosynthesis.</p>
@@ -25,7 +23,7 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
     </div>
   </div>
 </div>
-
+----
 ----  
 
 ## Current members
