@@ -35,20 +35,6 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
 <div class="row-fluid">
   <div class="span6 media">
     <a class="pull-left" href="#">
-      <img class="media-object img-rounded" src="{{%ASSET_PATH%}}../members/sa.jpg">
-    </a>
-    <div class="media-body">
-      <h4 class="media-heading">Sylvain Aubry</h4>
-      <p>Sylvain is interested in cellular and biochemical aspects of Photosynthesis. After having completed his PhD on chlorophyll degradation in Zurich (Switzerland), he joined the Hibberd lab to explore C<sub>4</sub> photosynthesis. He has been awarded the Swiss National Funds fellowship and the EU Marie Curie fellowship. He is currently working on various aspects of C<sub>4</sub> photosynthesis regulation using microgenomics approaches.</p>
-      <p>
-        <a href="http://scholar.google.co.uk/citations?user=G9CVQtkAAAAJ">
-            Syvlain's Google Scholar Citations
-        </a>
-      </p>
-    </div>
-  </div>
-  <div class="span6 media">
-    <a class="pull-left" href="#">
       <img class="media-object img-rounded" src="{{%ASSET_PATH%}}../members/sb.jpg">
     </a>
     <div class="media-body">
@@ -148,10 +134,7 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
     <a class="pull-left" href="#">
       <img class="media-object img-rounded" src="{{%ASSET_PATH%}}../members/rn.jpg">
     </a>
-    <div class="media-body">
-      <h4 class="media-heading">Risha Narayan</h4>
-      Risha previously worked in the David Baulcombe lab. She is now working as a bioinformatician on C<sub>4</sub> photosynthesis.
-    </div>
+  </div>
   </div>
 </div>
 
