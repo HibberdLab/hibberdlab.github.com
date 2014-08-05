@@ -71,6 +71,7 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
     </div>
   </div>
 </div>
+<br>
 
 ----
 
@@ -79,7 +80,7 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
 <div class="row-fluid">
   <div class="span6 media">
     <a class="pull-left" href="#">
-      <img class="media-object img-rounded" src="{{%ASSET_PATH%}}../members/irl.jpg">
+      <img class="pull-left media-object img-rounded" src="{{%ASSET_PATH%}}../members/irl.jpg">
     </a>
     <div class="media-body">
       <h4 class="media-heading">Ivan Reyna-Llorens</h4>
@@ -90,7 +91,7 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
   </div>
   <div class="span6 media">
     <a class="pull-left" href="#">
-      <img class="media-object img-rounded" src="{{%ASSET_PATH%}}../members/cj.jpg">
+      <img class="pull-left media-object img-rounded" src="{{%ASSET_PATH%}}../members/cj.jpg">
     </a>
     <div class="media-body">
       <h4 class="media-heading">Chris John</h4>
@@ -107,7 +108,7 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
 <div class="row-fluid">
   <div class="span6 media">
     <a class="pull-left" href="#">
-      <img class="media-object img-rounded" src="{{%ASSET_PATH%}}../members/lichenbeard.jpg">
+      <img class="pull-left media-object img-rounded" src="{{%ASSET_PATH%}}../members/lichenbeard.jpg">
     </a>
     <div class="media-body">
       <h4 class="media-heading">Richard Smith</h4>
@@ -121,7 +122,7 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
   </div>
   <div class="span6 media">
     <a class="pull-left" href="#">
-      <img class="media-object img-rounded" src="{{%ASSET_PATH%}}../members/bk.jpg">
+      <img class="pull-left media-object img-rounded" src="{{%ASSET_PATH%}}../members/bk.jpg">
     </a>
     <div class="media-body">
       <h4 class="media-heading">Britta Kuempers</h4>
@@ -136,7 +137,7 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
 <div class="row-fluid">
   <div class="span6 media">
     <a class="pull-left" href="#">
-      <img class="media-object img-rounded" src="{{%ASSET_PATH%}}../members/jk.jpg">
+      <img class="pull-left media-object img-rounded" src="{{%ASSET_PATH%}}../members/jk.jpg">
     </a>
     <div class="media-body">
       <h4 class="media-heading">Jana Knerova</h4>
@@ -146,7 +147,7 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
     </div>
   </div>
 </div>
-
+<br>
 ----
 
 ### Research staff
@@ -154,7 +155,7 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
 <div class="row-fluid">
   <div class="span6 media">
     <a class="pull-left" href="#">
-      <img class="media-object img-rounded" src="{{%ASSET_PATH%}}../members/cb.jpg">
+      <img class="pull-left media-object img-rounded" src="{{%ASSET_PATH%}}../members/cb.jpg">
     </a>
     <div class="media-body">
       <h4 class="media-heading">Chris Boursnell</h4>
@@ -163,10 +164,8 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
     </div>
   </div>
     <div class="span6 media">
-    <a class="pull-left" href="#">
-      <img class="media-object img-rounded" src="{{%ASSET_PATH%}}../members/ss.jpg">
-    </a>
-    <div class="media-body">
+      <img class="pull-left media-object img-rounded" src="{{%ASSET_PATH%}}../members/ss.jpg">
+      <div class="media-body">
       <h4 class="media-heading">Susan Stanley</h4>
       Susan is in charge of keeping the lab running! She has been instrumental in developing the transformation pipeline that
       we use for <i>Cleome gynandra</i>. She is also responsible for plant and seed stock maintenance, ordering lab stocks, and
