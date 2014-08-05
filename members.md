@@ -86,13 +86,13 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
 <div class="row-fluid">
   <div class="span6 media">
     <a class="pull-left" href="#">
-      <img class="media-object img-rounded" src="{{%ASSET_PATH%}}../members/blank.jpg">
+      <img class="media-object img-rounded" src="{{%ASSET_PATH%}}../members/irl.jpg">
     </a>
     <div class="media-body">
-      <h4 class="media-heading">Helen Woodfield</h4>
-      <p>Helen's PhD has been focussed in two areas. First, she has been involved in providing maize genes to the C<sub>4</sub>
-      rice project, and investigating the expression of these maize genes in rice. Second, she has been investigating how
-      bundle sheath specificity is generated in ancestral C<sub>3</sub> species.</p> 
+      <h4 class="media-heading">Ivan Reyna-Llorens</h4>
+      <p>Ivan did his BSc in Biology at UNAM (Mexico) and then an MSc in Biochemistry at the same university. He is interested
+      in the evolution of transcriptional regulation, especially in understanding the changes (both in <i>cis</i> and
+      <i>trans</i>) required to acquire the C<sub>4</sub> pathway.</p> 
     </div>
   </div>
   <div class="span6 media">
