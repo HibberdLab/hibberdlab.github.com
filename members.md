@@ -150,6 +150,17 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
       in gene expressioin across independent C<sub>4</sub> lineages.</p>
     </div>
   </div>
+  <div class="span6 media">
+    <a class="pull-left" href="#">
+      <img class="media-object img-rounded" src="{{%ASSET_PATH%}}../members/jk.jpg">
+    </a>
+    <div class="media-body">
+      <h4 class="media-heading">Jana Knerova</h4>
+      <p>Jane is improving our transformation of <i>Cleome gynandra</i> and is also contributing to our efforts to clone
+      candidate regulators associated with maintaining the C<sub>4</sub> cycle. She previously worked in James Hartwell's lab
+      in Liverpool on Crassulacean Acid Metabolism.</p>
+    </div>
+  </div>
 </div>
 
 ----
