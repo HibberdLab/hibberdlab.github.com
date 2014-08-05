@@ -46,14 +46,9 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
       expression in C<sub>4</sub> plants.</p>
     </div>
   </div>
-</div>
-<br>
-
 <div class="row-fluid">
   <div class="span6 media">
-    <a class="pull-left" href="#">
-      <img class="media-object img-rounded" src="{{%ASSET_PATH%}}../members/sc.jpg">
-    </a>
+  <img class="pull-left media-object img-rounded" src="{{%ASSET_PATH%}}../members/sc.jpg">
     <div class="media-body">
       <h4 class="media-heading">Sarah Covshoff</h4>
       <p>Sarah graduated with a B.Sc. in Agriculture from the University of Guelph (Canada). She then obtained a Ph.D. in Plant
