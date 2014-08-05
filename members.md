@@ -70,7 +70,8 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
     </div>
   </div>
 </div>
-<br>
+
+----
 
 ### PhD students
 
@@ -84,12 +85,11 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
       <i>trans</i>) required to acquire the C<sub>4</sub> pathway.</p> 
     </div>
   </div>
-  <div class="row-fluid">
-    <div class="span6 media">
-      <img class="pull-left media-object img-rounded" src="{{%ASSET_PATH%}}../members/cj.jpg">
+  <div class="span6 media">
+    <img class="pull-left media-object img-rounded" src="{{%ASSET_PATH%}}../members/cj.jpg">
       <div class="media-body">
-        <h4 class="media-heading">Chris John</h4>
-        <p>Chris studied Biochemistry at Sheffield University from 2005 to 2008, he joined Julians lab in 2011. He pursues a
+      <h4 class="media-heading">Chris John</h4>
+      <p>Chris studied Biochemistry at Sheffield University from 2005 to 2008, he joined Julians lab in 2011. He pursues a
       combination of molecular biology and computational analysis. Chris is currently experimentally involved in high
       throughput RNA seq workflows and downstream statistical analysis of the data. He carries this out alongside standard
       molecular biology techniques such as Gibson assembly and transient transformation to understand the control of
