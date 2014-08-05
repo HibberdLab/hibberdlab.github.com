@@ -73,11 +73,11 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
 </div>
 <br>
 
-###PhD students
+### PhD students
 
 <div class="row-fluid">
   <div class="span6 media">
-  <img class="pull-left media-object img-rounded" src="{{%ASSET_PATH%}}../members/irl.jpg">
+    <img class="pull-left media-object img-rounded" src="{{%ASSET_PATH%}}../members/irl.jpg">
     <div class="media-body">
       <h4 class="media-heading">Ivan Reyna-Llorens</h4>
       <p>Ivan did his BSc in Biology at UNAM (Mexico) and then an MSc in Biochemistry at the same university. He is interested
