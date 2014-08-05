@@ -18,12 +18,11 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
     <div class="media-body">
       <h4 class="media-heading">Julian Hibberd</h4>
       <p>Julian did his PhD with John Farrar and Bob Whitbread at Bangor University.  He then moved to post-doctoral positions with Julie Scholes, Paul Quick and Malcolm Press in Sheffield, and then John Gray in Cambridge.  He started his own group in Cambridge while holding a BBSRC Sir David Phillips Fellowship. His interests in plant biology have focussed on various aspects of photosynthesis.</p>
-
       <p>Julian has more recently become interested in using natural variation to improve our understanding of complex traits.  He is a team leader within both the C<sub>4</sub> Rice Project, and the EU 3to4 FP7 programme, and represents the photosynthesis and metabolism community on the Plant Section committee of the <a href="http://www.sebiology.org">Society of Experimental Biology</a>.  He is also an <a href="http://www.plantphysiol.org/site/misc/edboard.xhtml">Associate Editor</a> of <a href="http://www.plantphysiol.org"><i>Plant Physiology</i></a>, and from 2011-2014 was a member of the <a href="http://www.bbsrc.ac.uk/home/home.aspx">BBSRC</a> Responsive Mode Grants panel.</p>  
     </div>
   </div>
 </div>
-----
+
 ----  
 
 ## Current members
@@ -46,7 +45,7 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
   </div>
 <div class="row-fluid">
   <div class="span6 media">
-  <img class="pull-left media-object img-rounded" src="{{%ASSET_PATH%}}../members/sc.jpg">
+    <img class="pull-left media-object img-rounded" src="{{%ASSET_PATH%}}../members/sc.jpg">
     <div class="media-body">
       <h4 class="media-heading">Sarah Covshoff</h4>
       <p>Sarah graduated with a B.Sc. in Agriculture from the University of Guelph (Canada). She then obtained a Ph.D. in Plant
@@ -60,7 +59,7 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
 
 <div class="row-fluid">
   <div class="span6 media">
-  <img class="pull-left media-object img-rounded" src="{{%ASSET_PATH%}}../members/ms.jpg">
+    <img class="pull-left media-object img-rounded" src="{{%ASSET_PATH%}}../members/ms.jpg">
     <div class="media-body">
       <h4 class="media-heading">Marek Szecowka</h4>
       <p>Marek’s PhD at the Max Plank Institute, Golm, focussed on the primary carbon metabolism of both heterotrophic and
