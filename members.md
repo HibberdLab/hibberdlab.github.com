@@ -69,8 +69,8 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
     </a>
     <div class="media-body">
       <h4 class="media-heading">Marek Szecowka</h4>
-      <p>Marek’s PhD at the Max Plank Institute, Golm, focussed on the primary carbon metabolism of both heterotrophic and autotrophic tissue. He developed in vivo methods for metabolic flux studies using stable carbon isotope (<sup>13</sup>C) in combination with MS analytical methods. He also studied the influence of mitochondrial metabolism on the rate of starch biosynthesis in potato tubers.</p>
-      <p>He is currently working on using artificial scaffolds to increase photosynthetic efficiency in C<sub>3</sub> plants.</p>
+        <p>Marek’s PhD at the Max Plank Institute, Golm, focussed on the primary carbon metabolism of both heterotrophic and autotrophic tissue. He developed in vivo methods for metabolic flux studies using stable carbon isotope (<sup>13</sup>C) in combination with MS analytical methods. He also studied the influence of mitochondrial metabolism on the rate of starch biosynthesis in potato tubers.</p>
+        <p>He is currently working on using artificial scaffolds to increase photosynthetic efficiency in C<sub>3</sub> plants.</p>
     </div>
   </div>
 </div>
