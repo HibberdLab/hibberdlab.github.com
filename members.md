@@ -108,10 +108,8 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
 
 <div class="row-fluid">
   <div class="span6 media">
-    <a class="pull-left" href="#">
-      <img class="pull-left media-object img-rounded" src="{{%ASSET_PATH%}}../members/lichenbeard.jpg">
-    </a>
-    <div class="media-body">
+    <img class="pull-left media-object img-rounded" src="{{%ASSET_PATH%}}../members/lichenbeard.jpg">
+      <div class="media-body">
       <h4 class="media-heading">Richard Smith</h4>
       <p>Richard has previously worked as a software developer, and took his BSc in Conservation Biology at the University of
       the West of England. He spent a sandwich year researching seed dormancy at the Millennium Seed Bank, and continued to
@@ -122,9 +120,7 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
     </div>
   </div>
   <div class="span6 media">
-    <a class="pull-left" href="#">
-      <img class="pull-left media-object img-rounded" src="{{%ASSET_PATH%}}../members/bk.jpg">
-    </a>
+    <img class="pull-left media-object img-rounded" src="{{%ASSET_PATH%}}../members/bk.jpg">
     <div class="media-body">
       <h4 class="media-heading">Britta Kuempers</h4>
       <p>Britta came from Edinburgh, and during her PhD has been working on the patterns of gene expression during leaf
@@ -137,9 +133,7 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
 
 <div class="row-fluid">
   <div class="span6 media">
-    <a class="pull-left" href="#">
-      <img class="pull-left media-object img-rounded" src="{{%ASSET_PATH%}}../members/jk.jpg">
-    </a>
+  <img class="pull-left media-object img-rounded" src="{{%ASSET_PATH%}}../members/jk.jpg">
     <div class="media-body">
       <h4 class="media-heading">Jana Knerova</h4>
       <p>Jane is improving our transformation of <i>Cleome gynandra</i> and is focussing on assessing elements that generate
@@ -155,13 +149,13 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
 
 <div class="row-fluid">
   <div class="span6 media">
-    <a class="pull-left" href="#">
-      <img class="pull-left media-object img-rounded" src="{{%ASSET_PATH%}}../members/cb.jpg">
-    </a>
+  <img class="pull-left media-object img-rounded" src="{{%ASSET_PATH%}}../members/cb.jpg">
     <div class="media-body">
-      <h4 class="media-heading">Chris Boursnell</h4>
-      <p>Chris Boursnell earned his BSc at the University of Birmingham in Computer Science and Artificial Intelligence. After completing a Masters degree in Computational Biology at the University of East Anglia he started as a Research Assistant at Plant Sciences.</p>
-      <p>Chris is working on the Wild Rice MAGIC project in collaboration with IRRI. Chris enjoys programming in Ruby and Java.</p>
+    <h4 class="media-heading">Chris Boursnell</h4>
+    <p>Chris Boursnell earned his BSc at the University of Birmingham in Computer Science and Artificial Intelligence. After
+    completing a Masters degree in Computational Biology at the University of East Anglia he started as a Research Assistant at
+    Plant Sciences.</p>
+    <p>Chris is working on the Wild Rice MAGIC project in collaboration with IRRI. Chris enjoys programming in Ruby and Java.</p>
     </div>
   </div>
     <div class="span6 media">
