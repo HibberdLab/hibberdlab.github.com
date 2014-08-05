@@ -73,7 +73,7 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
 </div>
 <br>
 
-### PhD students
+###PhD students
 
 <div class="row-fluid">
   <div class="span6 media">
