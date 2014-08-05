@@ -97,7 +97,6 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
       </div>
     </div>
   </div>
-</div>
 
 <div class="row-fluid">
   <div class="span6 media">
@@ -136,6 +135,7 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
   </div>
 </div>
 <br>
+
 ----
 
 ### Research staff
