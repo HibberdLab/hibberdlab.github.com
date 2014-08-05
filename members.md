@@ -66,8 +66,12 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
   <img class="pull-left media-object img-rounded" src="{{%ASSET_PATH%}}../members/ms.jpg">
     <div class="media-body">
       <h4 class="media-heading">Marek Szecowka</h4>
-        <p>Marek’s PhD at the Max Plank Institute, Golm, focussed on the primary carbon metabolism of both heterotrophic and autotrophic tissue. He developed in vivo methods for metabolic flux studies using stable carbon isotope (<sup>13</sup>C) in combination with MS analytical methods. He also studied the influence of mitochondrial metabolism on the rate of starch biosynthesis in potato tubers.</p>
-        <p>He is currently working on using artificial scaffolds to increase photosynthetic efficiency in C<sub>3</sub> plants.</p>
+      <p>Marek’s PhD at the Max Plank Institute, Golm, focussed on the primary carbon metabolism of both heterotrophic and
+      autotrophic tissue. He developed in vivo methods for metabolic flux studies using stable carbon isotope (<sup>13</sup>C)
+      in combination with MS analytical methods. He also studied the influence of mitochondrial metabolism on the rate of
+      starch biosynthesis in potato tubers.</p>
+      <p>He is currently working on using artificial scaffolds to increase photosynthetic efficiency in C<sub>3</sub>
+      plants.</p>
     </div>
   </div>
 </div>
@@ -79,9 +83,7 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
 
 <div class="row-fluid">
   <div class="span6 media">
-    <a class="pull-left" href="#">
-      <img class="pull-left media-object img-rounded" src="{{%ASSET_PATH%}}../members/irl.jpg">
-    </a>
+  <img class="pull-left media-object img-rounded" src="{{%ASSET_PATH%}}../members/irl.jpg">
     <div class="media-body">
       <h4 class="media-heading">Ivan Reyna-Llorens</h4>
       <p>Ivan did his BSc in Biology at UNAM (Mexico) and then an MSc in Biochemistry at the same university. He is interested
@@ -89,20 +91,19 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
       <i>trans</i>) required to acquire the C<sub>4</sub> pathway.</p> 
     </div>
   </div>
-  <div class="span6 media">
-    <a class="pull-left" href="#">
-      <img class="pull-left media-object img-rounded" src="{{%ASSET_PATH%}}../members/cj.jpg">
-    </a>
-    <div class="media-body">
-      <h4 class="media-heading">Chris John</h4>
-      <p>Chris studied Biochemistry at Sheffield University from 2005 to 2008, he joined Julians lab in 2011. He pursues a
+  <div class="row-fluid">
+    <div class="span6 media">
+    <img class="pull-left media-object img-rounded" src="{{%ASSET_PATH%}}../members/cj.jpg">
+      <div class="media-body">
+        <h4 class="media-heading">Chris John</h4>
+        <p>Chris studied Biochemistry at Sheffield University from 2005 to 2008, he joined Julians lab in 2011. He pursues a
       combination of molecular biology and computational analysis. Chris is currently experimentally involved in high
       throughput RNA seq workflows and downstream statistical analysis of the data. He carries this out alongside standard
       molecular biology techniques such as Gibson assembly and transient transformation to understand the control of
       C<sub>4</sub> genes. He is enjoying programming in R, BASH, and Python.</p>
+      </div>
     </div>
   </div>
-</div>
 <br>
 
 <div class="row-fluid">
@@ -174,7 +175,7 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
     </div>
   </div>
 </div>
-
+<br>
 
 ----
 
