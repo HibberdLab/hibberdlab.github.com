@@ -39,17 +39,18 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
     </a>
     <div class="media-body">
       <h4 class="media-heading">Steven Burgess</h4>
-        <p>Steven graduated from the University of Edinburgh with a BSc in Biochemistry in
-        2007. From 2007-2011 he undertook a PhD at Imperial College London investigating
-        the use of RNAi as a means of remodelling metabolic pathways 
-        in the model alga <i>Chlamydomonas reinhardtii</i> for biofuel production.</p>
-        <p>In 2011 he moved to the University of Cambridge, and is currently investigating the
-        evolution of cis-regulatory networks controlling cell-specific gene
-        expression in C<sub>4</sub> plants.</p>
+      <p>Steven graduated from the University of Edinburgh with a BSc in Biochemistry in
+      2007. From 2007-2011 he undertook a PhD at Imperial College London investigating
+      the use of RNAi as a means of remodelling metabolic pathways 
+      in the model alga <i>Chlamydomonas reinhardtii</i> for biofuel production.</p>
+      <p>In 2011 he moved to the University of Cambridge, and is currently investigating the
+      evolution of cis-regulatory networks controlling cell-specific gene
+      expression in C<sub>4</sub> plants.</p>
     </div>
   </div>
 </div>
 <br>
+
 <div class="row-fluid">
   <div class="span6 media">
     <a class="pull-left" href="#">
@@ -57,8 +58,11 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
     </a>
     <div class="media-body">
       <h4 class="media-heading">Sarah Covshoff</h4>
-        <p>Sarah graduated with a B.Sc. in Agriculture from the University of Guelph (Canada). She then obtained a Ph.D. in Plant Biology from Cornell University, where she studied differentiation of the maize C<sub>4</sub> leaf.</p>
-        <p>Sarah joined the lab in 2008 as part of the <a href='projects.html#c4rice'>C<sub>4</sub> Rice project</a> and is working on the molecular engineering of C<sub>4</sub> photosynthesis in rice and to identify genes necessary and/or sufficient for C<sub>4</sub> photosynthesis form and function.</p>
+      <p>Sarah graduated with a B.Sc. in Agriculture from the University of Guelph (Canada). She then obtained a Ph.D. in Plant
+      Biology from Cornell University, where she studied differentiation of the maize C<sub>4</sub> leaf.</p>
+      <p>Sarah joined the lab in 2008 as part of the <a href='projects.html#c4rice'>C<sub>4</sub> Rice project</a> and is
+      working on the molecular engineering of C<sub>4</sub> photosynthesis in rice and to identify genes necessary and/or
+      sufficient for C<sub>4</sub> photosynthesis form and function.</p>
     </div>
   </div>
 </div>
