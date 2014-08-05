@@ -8,7 +8,7 @@ description: "Hibberd Lab members past and present"
 
 # Group members
 
-Julian established his laboratory in the Department of Plant Sciences at the University of Cambridge in 2001.  Since then, nine post-doctoral researchers, thirteen PhD students, and three research assistants have been part of the lab.  The group is currently 12-strong. Read more about them below.
+Julian established his laboratory in the Department of Plant Sciences at the University of Cambridge in 2001.  Since then, nine post-doctoral researchers, thirteen PhD students, and three research assistants have been part of the lab.  The group is currently 10-strong. Read more about them below.
 
 ----
 
@@ -63,9 +63,7 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
 
 <div class="row-fluid">
   <div class="span6 media">
-    <a class="pull-left" href="#">
-      <img class="media-object img-rounded" src="{{%ASSET_PATH%}}../members/ms.jpg">
-    </a>
+  <img class="pull-left media-object img-rounded" src="{{%ASSET_PATH%}}../members/ms.jpg">
     <div class="media-body">
       <h4 class="media-heading">Marek Szecowka</h4>
         <p>Marek’s PhD at the Max Plank Institute, Golm, focussed on the primary carbon metabolism of both heterotrophic and autotrophic tissue. He developed in vivo methods for metabolic flux studies using stable carbon isotope (<sup>13</sup>C) in combination with MS analytical methods. He also studied the influence of mitochondrial metabolism on the rate of starch biosynthesis in potato tubers.</p>
