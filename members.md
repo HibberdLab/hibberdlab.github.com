@@ -63,6 +63,7 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
   </div>
 </div>
 <br>
+<div class="row-fluid">
   <div class="span6 media">
     <a class="pull-left" href="#">
       <img class="media-object img-rounded" src="{{%ASSET_PATH%}}../members/ms.jpg">
