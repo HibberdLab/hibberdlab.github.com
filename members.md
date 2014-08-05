@@ -90,9 +90,9 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
     </a>
     <div class="media-body">
       <h4 class="media-heading">Helen Woodfield</h4>
-      Helen's PhD has been focussed in two areas. First, she has been involved in providing maize genes to the C<sub>4</sub>
+      <p>Helen's PhD has been focussed in two areas. First, she has been involved in providing maize genes to the C<sub>4</sub>
       rice project, and investigating the expression of these maize genes in rice. Second, she has been investigating how
-      bundle sheath specificity is generated in ancestral C<sub>3</sub> species. 
+      bundle sheath specificity is generated in ancestral C<sub>3</sub> species.</p> 
     </div>
   </div>
 <div class="span6 media">
@@ -145,9 +145,9 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
     </a>
     <div class="media-body">
       <h4 class="media-heading">Britta Kuempers</h4>
-      Britta came from Edinburgh, and during her PhD has been working on the patterns of gene expression during leaf maturation
-      of congeneric C<sub>3</sub> and C<sub>4</sub> species. This will provide important insight into conservation in gene
-      expressioin across independent C<sub>4</sub> lineages.
+      <p>Britta came from Edinburgh, and during her PhD has been working on the patterns of gene expression during leaf
+      maturation of congeneric C<sub>3</sub> and C<sub>4</sub> species. This will provide important insight into conservation
+      in gene expressioin across independent C<sub>4</sub> lineages.</p>
     </div>
   </div>
 </div>
