@@ -100,7 +100,7 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
       </div>
     </div>
   </div>
-<br>
+</div>
 
 <div class="row-fluid">
   <div class="span6 media">
