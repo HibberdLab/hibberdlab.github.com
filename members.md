@@ -95,7 +95,7 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
       bundle sheath specificity is generated in ancestral C<sub>3</sub> species.</p> 
     </div>
   </div>
-<div class="span6 media">
+  <div class="span6 media">
     <a class="pull-left" href="#">
       <img class="media-object img-rounded" src="{{%ASSET_PATH%}}../members/cj.jpg">
     </a>
