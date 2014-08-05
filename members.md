@@ -87,7 +87,7 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
   </div>
   <div class="span6 media">
     <img class="pull-left media-object img-rounded" src="{{%ASSET_PATH%}}../members/cj.jpg">
-      <div class="media-body">
+    <div class="media-body">
       <h4 class="media-heading">Chris John</h4>
       <p>Chris studied Biochemistry at Sheffield University from 2005 to 2008, he joined Julians lab in 2011. He pursues a
       combination of molecular biology and computational analysis. Chris is currently experimentally involved in high
@@ -101,7 +101,7 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
 <div class="row-fluid">
   <div class="span6 media">
     <img class="pull-left media-object img-rounded" src="{{%ASSET_PATH%}}../members/lichenbeard.jpg">
-      <div class="media-body">
+    <div class="media-body">
       <h4 class="media-heading">Richard Smith</h4>
       <p>Richard has previously worked as a software developer, and took his BSc in Conservation Biology at the University of
       the West of England. He spent a sandwich year researching seed dormancy at the Millennium Seed Bank, and continued to
@@ -125,7 +125,7 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
 
 <div class="row-fluid">
   <div class="span6 media">
-  <img class="pull-left media-object img-rounded" src="{{%ASSET_PATH%}}../members/jk.jpg">
+    <img class="pull-left media-object img-rounded" src="{{%ASSET_PATH%}}../members/jk.jpg">
     <div class="media-body">
       <h4 class="media-heading">Jana Knerova</h4>
       <p>Jane is improving our transformation of <i>Cleome gynandra</i> and is focussing on assessing elements that generate
