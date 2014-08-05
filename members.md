@@ -90,16 +90,22 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
     </a>
     <div class="media-body">
       <h4 class="media-heading">Helen Woodfield</h4>
-      Helen's PhD has been focussed in two areas. First, she has been involved in providing maize genes to the C<sub>4</sub> rice project, and investigating the expression of these maize genes in rice. Second, she has been investigating how bundle sheath specificity is generated in ancestral C<sub>3</sub> species. 
+      Helen's PhD has been focussed in two areas. First, she has been involved in providing maize genes to the C<sub>4</sub>
+      rice project, and investigating the expression of these maize genes in rice. Second, she has been investigating how
+      bundle sheath specificity is generated in ancestral C<sub>3</sub> species. 
     </div>
   </div>
-  <div class="span6 media">
+<div class="span6 media">
     <a class="pull-left" href="#">
       <img class="media-object img-rounded" src="{{%ASSET_PATH%}}../members/cj.jpg">
     </a>
     <div class="media-body">
       <h4 class="media-heading">Chris John</h4>
-      <p>Chris studied Biochemistry at Sheffield University from 2005 to 2008, he joined Julians lab in 2011. He pursues a combination of molecular biology and computational analysis. Chris is currently experimentally involved in high throughput RNA seq workflows and downstream statistical analysis of the data. He carries this out alongside standard molecular biology techniques such as Gibson assembly and transient transformation to understand the control of C4 genes. He is enjoying programming in R, BASH, and Python.</p>
+      <p>Chris studied Biochemistry at Sheffield University from 2005 to 2008, he joined Julians lab in 2011. He pursues a
+      combination of molecular biology and computational analysis. Chris is currently experimentally involved in high
+      throughput RNA seq workflows and downstream statistical analysis of the data. He carries this out alongside standard
+      molecular biology techniques such as Gibson assembly and transient transformation to understand the control of C4 genes.
+      He is enjoying programming in R, BASH, and Python.</p>
     </div>
   </div>
 </div>
@@ -111,7 +117,9 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
     </a>
     <div class="media-body">
       <h4 class="media-heading">Ivan Reyna-Llorens</h4>
-      <p>Ivan did his BSc in Biology at UNAM (Mexico) and then an MSc in Biochemistry at the same university. He is interested in the evolution of transcriptional regulation, especially in understanding the changes (both in <i>cis</i> and <i>trans</i>) required to acquire the C<sub>4</sub> pathway.</p>
+      <p>Ivan did his BSc in Biology at UNAM (Mexico) and then an MSc in Biochemistry at the same university. He is interested
+      in the evolution of transcriptional regulation, especially in understanding the changes (both in <i>cis</i> and
+      <i>trans</i>) required to acquire the C<sub>4</sub> pathway.</p>
     </div>
   </div>
   <div class="span6 media">
@@ -120,8 +128,12 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
     </a>
     <div class="media-body">
       <h4 class="media-heading">Richard Smith</h4>
-      <p>Richard has previously worked as a software developer, and took his BSc in Conservation Biology at the University of the West of England. He spent a sandwich year researching seed dormancy at the Millennium Seed Bank, and continued to work for the MSB as a data analyst during the final year of his degree. His PhD involves investigating C<sub>4</sub> in wetland conditions.</p>
-      <p>Richard is currently developing software for improving high throughput biological data analysis, especially <i>de-novo</i> transcriptomics and regulatory motif discovery.</p>
+      <p>Richard has previously worked as a software developer, and took his BSc in Conservation Biology at the University of
+      the West of England. He spent a sandwich year researching seed dormancy at the Millennium Seed Bank, and continued to
+      work for the MSB as a data analyst during the final year of his degree. His PhD involves investigating C<sub>4</sub> in
+      wetland conditions.</p>
+      <p>Richard is currently developing software for improving high throughput biological data analysis, especially
+      <i>de-novo</i> transcriptomics and regulatory motif discovery.</p>
     </div>
   </div>
 </div>
