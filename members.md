@@ -204,7 +204,7 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
 
 ## Former Post-Doctoral Research Associates
 
-- Dr. Sylvain Aubry *Molecular signature of the C<sub>4</sub> phenotype* 
+- Dr. Sylvain Aubry: *Molecular signature of the C<sub>4</sub> phenotype* 
 - Dr. Naomi Brown: *Role of C<sub>4</sub> acid decarboxylases*
 - Dr. Kate Parsley: *Role and regulation of PPDK*
 - Dr. Alex Johnson: *Rice enhancer traps*
