@@ -61,6 +61,8 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
       <p>Sarah joined the lab in 2008 as part of the <a href='projects.html#c4rice'>C<sub>4</sub> Rice project</a> and is working on the molecular engineering of C<sub>4</sub> photosynthesis in rice and to identify genes necessary and/or sufficient for C<sub>4</sub> photosynthesis form and function.</p>
     </div>
   </div>
+</div>
+<br>
   <div class="span6 media">
     <a class="pull-left" href="#">
       <img class="media-object img-rounded" src="{{%ASSET_PATH%}}../members/ms.jpg">
