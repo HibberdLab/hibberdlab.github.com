@@ -43,7 +43,6 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
       expression in C<sub>4</sub> plants.</p>
     </div>
   </div>
-<div class="row-fluid">
   <div class="span6 media">
     <img class="pull-left media-object img-rounded" src="{{%ASSET_PATH%}}../members/sc.jpg">
     <div class="media-body">
@@ -87,7 +86,7 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
   </div>
   <div class="row-fluid">
     <div class="span6 media">
-    <img class="pull-left media-object img-rounded" src="{{%ASSET_PATH%}}../members/cj.jpg">
+      <img class="pull-left media-object img-rounded" src="{{%ASSET_PATH%}}../members/cj.jpg">
       <div class="media-body">
         <h4 class="media-heading">Chris John</h4>
         <p>Chris studied Biochemistry at Sheffield University from 2005 to 2008, he joined Julians lab in 2011. He pursues a
