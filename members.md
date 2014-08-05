@@ -201,7 +201,7 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
 - Holly Astley: *The role of PPDK regulatory proteins in C<sub>3</sub> plants*
 - Anna Leiss: *The function of PEPCK in C<sub>3</sub> plants*
 - Lucy Taylor: *The role of PPDK in nitrogen remobilisation*
-- Sophie Janacek: *Understanding the role of photosynthesis in veing of C<sub>3</sub> plants*
+- Sophie Janacek: *Understanding the role of photosynthesis in veins of C<sub>3</sub> plants*
 - Diana Marshall: *Using Cleome to understand C<sub>4</sub> photosynthesis*
 - Meredith Wilson: *Genome structure and function in parasitic angiosperms*
 
