@@ -113,17 +113,6 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
 <div class="row-fluid">
   <div class="span6 media">
     <a class="pull-left" href="#">
-      <img class="media-object img-rounded" src="{{%ASSET_PATH%}}../members/irl.jpg">
-    </a>
-    <div class="media-body">
-      <h4 class="media-heading">Ivan Reyna-Llorens</h4>
-      <p>Ivan did his BSc in Biology at UNAM (Mexico) and then an MSc in Biochemistry at the same university. He is interested
-      in the evolution of transcriptional regulation, especially in understanding the changes (both in <i>cis</i> and
-      <i>trans</i>) required to acquire the C<sub>4</sub> pathway.</p>
-    </div>
-  </div>
-  <div class="span6 media">
-    <a class="pull-left" href="#">
       <img class="media-object img-rounded" src="{{%ASSET_PATH%}}../members/lichenbeard.jpg">
     </a>
     <div class="media-body">
@@ -136,9 +125,6 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
       <i>de-novo</i> transcriptomics and regulatory motif discovery.</p>
     </div>
   </div>
-</div>
-
-<div class="row-fluid">
   <div class="span6 media">
     <a class="pull-left" href="#">
       <img class="media-object img-rounded" src="{{%ASSET_PATH%}}../members/bk.jpg">
@@ -148,6 +134,20 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
       <p>Britta came from Edinburgh, and during her PhD has been working on the patterns of gene expression during leaf
       maturation of congeneric C<sub>3</sub> and C<sub>4</sub> species. This will provide important insight into conservation
       in gene expressioin across independent C<sub>4</sub> lineages.</p>
+    </div>
+  </div>
+</div>
+
+<div class="row-fluid">
+  <div class="span6 media">
+    <a class="pull-left" href="#">
+      <img class="media-object img-rounded" src="{{%ASSET_PATH%}}../members/jk.jpg">
+    </a>
+    <div class="media-body">
+      <h4 class="media-heading">Jana Knerova</h4>
+      <p>Jane is improving our transformation of <i>Cleome gynandra</i> and is focussing on assessing elements that generate
+      expression in BS cells of C<sub>3</sub> and C<sub>4</sub> plants. She previously worked in James Hartwell's lab in
+      Liverpool on Crassulacean Acid Metabolism.</p>
     </div>
   </div>
   <div class="span6 media">
