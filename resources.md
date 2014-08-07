@@ -22,3 +22,7 @@ group: navigation
 ## Protocols
 
 - [Mesophyll extraction by leaf rolling (video)](http://jxb.oxfordjournals.org/content/suppl/2012/09/24/ers286.DC1/jexbot084491_file001.mov)
+
+## Lab meeting timetable
+
+- [Summer 2014]
