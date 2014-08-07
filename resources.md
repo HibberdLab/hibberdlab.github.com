@@ -26,3 +26,4 @@ group: navigation
 ## Lab meeting timetable
 
 - [Summer 2014]
+-   <img class="pull-left media-object img-rounded" src="{{%ASSET_PATH%}}../members/jh.jpg">
