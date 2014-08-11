@@ -25,4 +25,4 @@ group: navigation
 
 ## Lab meeting timetable
 
-- [Summer 2014](src="{{%ASSET_PATH%}}../members/jh.jpg")
+- [Summer 2014](/assets/Lab%20meetings%20Summer%202014.pdf)
