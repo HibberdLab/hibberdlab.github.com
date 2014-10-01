@@ -17,6 +17,7 @@ group: navigation
 - [**Aubry, S., Smith-Unna, R., Boursnell, C, Kopriva, S., Hibberd, J.M.** (2014) Transcript residency on ribosomes reveals a key role for the Arabidopsis thaliana bundle sheath in sulphur and glucosinolate metabolism. Plant Journal doi:10.1111/tpj.12502.\*\*](http://onlinelibrary.wiley.com/doi/10.1111/tpj.12502/abstract)
 - [**Bellasio, C., Burgess, S.J, Griffiths, H., Hibberd, J.M.** (2014) A high throughput gas exchange screen for determining rates of photorespiration or regulation of C4 activity. Journal of Experimental Botany, doi: 10.1093/jxb/eru238](http://jxb.oxfordjournals.org/cgi/content/full/eru238)
 - [Christin, P-A., Arakaki, M., Osborne, C.P., Bräutigam, A., Sage, R.F., **Hibberd, J.M., Kelly, S., Covshoff, S.,** Wong, G.K-S., Hancock, L., Edwards, E.J. (2014) Shared origins of a key enzyme during the evolution of C<sub>4</sub> and CAM metabolism. J. Exp. Bot. doi:10.1093/jxb/eru087](http://jxb.oxfordjournals.org/content/65/13/3609)
+- [van den Bergh, E., Külahoglu, C., Bräutigam, A., Hibberd, J.M. Weber, A.P.M. Zhu, X-G, Schranz, E.M. (2014) Gene and Genome Duplications and the Origin of C4 Photosynthesis: Birth of a Trait in the Cleomaceae](Current Plant Biology. 01/2014)
 
 \*  **A new computational method developed by Steve Kelly applied to transcriptomes generated from distantly related species.  This approach shows that independent C<sub>4</sub> lineages have very likely recruited the same regulatory networks to generate the C<sub>4</sub> pathway**
 	
