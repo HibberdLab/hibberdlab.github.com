@@ -28,5 +28,5 @@ group: navigation
 ## Lab meeting timetable
 
 - [Summer 2014](/assets/Lab%20meetings%20Summer%2014.pdf)
-- [Autumn 2014](/assets/Lab meetings Autumn 2014.pdf)
+- [Autumn 2014](/assets/LabmeetingsAutumn2014.pdf)
 
