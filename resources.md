@@ -17,7 +17,7 @@ group: navigation
 
 - [Rice enhancer traps](http://www.plantsci.cam.ac.uk/research/julianhibberd/rice)
 - [RNAseq reads for <i>Cleome gynandra</i> leaf gradient](http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE30605)
-- [RNAsea reads for <i>Setaria viridis</i> mesophyll and bundle sheath cells](http://www.ebi.ac.uk/ena/data/view/PRJEB5074)
+- [RNAseq reads for <i>Setaria viridis</i> mesophyll and bundle sheath cells](http://www.ebi.ac.uk/ena/data/view/PRJEB5074)
 
 ## Protocols
 
