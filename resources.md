@@ -23,10 +23,9 @@ group: navigation
 
 - [Mesophyll extraction by leaf rolling (video)](http://jxb.oxfordjournals.org/content/suppl/2012/09/24/ers286.DC1/jexbot084491_file001.mov)
 - [Goldengate modification for Cter fusions](/assets/Level1Ctertagprotocol.pdf)
-- [Partical bombardment protocol](/assets/ParticleBombardment2.pdf)
+- [Partical bombardment protocol](/assets/ParticleBombardment.pdf)
 
 ## Lab meeting timetable
 
-- [Summer 2014](/assets/Lab%20meetings%20Summer%2014.pdf)
 - [Autumn 2014](/assets/LabmeetingsAutumn2014.pdf)
 
