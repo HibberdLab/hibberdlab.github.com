@@ -10,6 +10,12 @@ group: navigation
 
 ## Manually curated list
 
+### 2015
+
+- [Eastmond, P.J., **Astley, H.M. Parsley, K., Aubry, S., Williams, B.P.,** Menard, G.N., Craddock, C.P., Nunes-Nesi, A., Fernie, A.R., **Hibberd, J.M.** (2015) Arabidopsis uses two gluconeogenic gateways for organic acids to fuel seedling establishment. Nature Communications doi:10.1038/ncomms7659.\*](http://www.nature.com/ncomms/2015/150410/ncomms7659/full/ncomms7659.html)
+
+\*  **A modified view of gluconeogenesis, a ubiquitous metabolic pathway that was defined in the 1960s. Using genetics we identify and additional component of this pathway and a route that is important for mobilisation of seed protein**
+
 ### 2014
 
 - [**Aubry, S., Kelly, S., Kümpers, B.M.C., Smith-Unna, R.D., Hibberd, J.M.** (2014) Deep evolutionary comparison of gene expression identifies parallel recruitment of trans-factors in two independent origins of C<sub>4</sub> photosynthesis. PLOS Genetics doi:10.1371/journal.pgen.1004365 \*](http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1004365)
