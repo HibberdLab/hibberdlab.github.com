@@ -11,7 +11,8 @@ group: navigation
 ## Manually curated list
 
 ### 2015
-- **[Burgess, S.J. Hibberd, J.M.** (2015) Insights into C<sub>4</sub> metabolism from comparative deep sequencing. Current Opinion in Plant Biology 25:138-144.](http://www.sciencedirect.com/science/article/pii/S1369526615000680)
+- [**Burgess, S.J. Hibberd, J.M.** (2015) Insights into C<sub>4</sub> metabolism from comparative deep sequencing. Current Opinion in Plant Biology 25:138-144.](http://www.sciencedirect.com/science/article/pii/S1369526615000680)
+
 - [Eastmond, P.J., **Astley, H.M. Parsley, K., Aubry, S., Williams, B.P.,** Menard, G.N., Craddock, C.P., Nunes-Nesi, A., Fernie, A.R., **Hibberd, J.M.** (2015) Arabidopsis uses two gluconeogenic gateways for organic acids to fuel seedling establishment. Nature Communications doi:10.1038/ncomms7659.\*](http://www.nature.com/ncomms/2015/150410/ncomms7659/full/ncomms7659.html)
 
 \*  **A modified view of gluconeogenesis, a ubiquitous metabolic pathway that was defined in the 1960s. Using genetics we identify an additional component of this pathway and a route that is important for mobilisation of seed protein**
