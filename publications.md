@@ -12,6 +12,8 @@ group: navigation
 
 ### 2015
 - [**Burgess, S.J. Hibberd, J.M.** (2015) Insights into C<sub>4</sub> metabolism from comparative deep sequencing. Current Opinion in Plant Biology 25:138-144.](http://www.sciencedirect.com/science/article/pii/S1369526615000680)
+  
+- [Ort, D.R. Merchant, S.S., Alric, J., Barkan, A., Blankenship, R.E., Bock, R. Croce, R., Hanson, M.R., **Hibberd, J.M.,** Long, S.P., Moore, T.A., Moroney, J., Niyogi, K.K., Parry, M.A.J., Peralta-Yahya, P.P., Prince, R.C., Redding, K.E., Spalding, M., van Wijk, K.J., Vermaas, W.F.J., von Caemmerer, S., Weber, A.P.M., Yeates, T., Yuan, J.S., and Zhu, X.G. (2015) Redesigning photosynthesis to sustainably meet global food and bioenergy demand PNAS doi:10.1073/pnas.1424031112](http://www.pnas.org/content/early/2015/06/24/1424031112.full.pdf)
 
 - [Eastmond, P.J., **Astley, H.M. Parsley, K., Aubry, S., Williams, B.P.,** Menard, G.N., Craddock, C.P., Nunes-Nesi, A., Fernie, A.R., **Hibberd, J.M.** (2015) Arabidopsis uses two gluconeogenic gateways for organic acids to fuel seedling establishment. Nature Communications doi:10.1038/ncomms7659.\*](http://www.nature.com/ncomms/2015/150410/ncomms7659/full/ncomms7659.html)
 
