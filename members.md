@@ -115,7 +115,7 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
     <img class="pull-left media-object img-rounded" src="{{%ASSET_PATH%}}../members/">
     <div class="media-body">
       <h4 class="media-heading">Greg Reeves</h4>
-      <p>Greg joined us after studying Chilli Peppers in New Mexico. His PhD is focussed on engineering elements of the C<sub>4</sub> pathway into C3 plants C<sub>4</sub> lineages.</p>
+      <p>Greg joined us after studying Chilli Peppers in New Mexico. His PhD is focussed on engineering elements of the C<sub>4</sub> pathway into C<sub>3</sub> plants.</p>
     </div>
   </div>
 </div>
