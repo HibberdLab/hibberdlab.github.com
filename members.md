@@ -112,12 +112,10 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
     </div>
   </div>
   <div class="span6 media">
-    <img class="pull-left media-object img-rounded" src="{{%ASSET_PATH%}}../members/bk.jpg">
+    <img class="pull-left media-object img-rounded" src="{{%ASSET_PATH%}}../members/">
     <div class="media-body">
-      <h4 class="media-heading">Britta Kuempers</h4>
-      <p>Britta came from Edinburgh, and during her PhD has been working on the patterns of gene expression during leaf
-      maturation of congeneric C<sub>3</sub> and C<sub>4</sub> species. This will provide important insight into conservation
-      in gene expressioin across independent C<sub>4</sub> lineages.</p>
+      <h4 class="media-heading">Greg Reeves</h4>
+      <p>Greg joined us after studying Chilli Peppers in New Mexico. His PhD is focussed on engineering elements of the C<sub>4</sub> pathway into C3 plants C<sub>4</sub> lineages.</p>
     </div>
   </div>
 </div>
