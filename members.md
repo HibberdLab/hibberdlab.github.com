@@ -8,7 +8,7 @@ description: "Hibberd Lab members past and present"
 
 # Group members
 
-Julian established his laboratory in the Department of Plant Sciences at the University of Cambridge in 2001.  Since then, nine post-doctoral researchers, thirteen PhD students, and three research assistants have been part of the lab.  The group is currently 10-strong. Read more about them below.
+Julian established his laboratory in the Department of Plant Sciences at the University of Cambridge in 2001.  Since then, nine post-doctoral researchers, thirteen PhD students, and three research assistants have been part of the lab.  The group is currently nine-strong. Read more about them below.
 
 ----
 
