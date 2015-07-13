@@ -7,7 +7,7 @@ description: "Coming to work in the Hibberd lab"
 
 ## Coming to work in the lab
 
-At present we do not have any funded positions available. However, if you are interested in coming to work with us, either as a PhD student or as a post-doc, projects are available in the following areas:
+At present we do not have any funded positions available. However, if you are interested in coming to work with us, either as a PhD student or as a post-doc, please contact us, as we are looking to develop projects in the following areas:
 
 ### Defining the degree to which BS and M gene expression is convergent in independent C<sub>4</sub> lineages
 
@@ -27,8 +27,7 @@ At present we do not have any funded positions available. However, if you are in
 
 ## Advice for PhD applicants
 
-We have many more applications than we can accept, and so the selection process is tough. In order to increase your chances, I recommend that you think in detail about the project that you would like to 
-work on. Once you have done this, I also recommend that you prepare a proposal that consists of:
+We have many more applications than we can accept, and so the selection process is tough. In order to increase your chances, I recommend that you think in detail about the project that you would like to work on. Once you have done this, I also recommend that you prepare a proposal that consists of:
 
 * *Background* to the area that you want to work in, and the specific research question that you would like to address
 * *Experimental Approaches*, which outlines in detail how you would like to go about your project
