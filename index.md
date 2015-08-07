@@ -20,7 +20,7 @@ title: Hibberd Lab | C4 Photosynthesis
 </div>
 
 <div class="alert alert-info">
-    <h2>Interested in joining the lab? See what <a href="positions.html">positions we have available.</h2></a>
+    Interested in joining the lab? See what <a href="positions.html">positions we have available.</a>
 </div>
 
 <div class="row main-features">
