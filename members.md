@@ -115,7 +115,7 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
     <img class="pull-left media-object img-rounded" src="{{%ASSET_PATH%}}../members/">
     <div class="media-body">
       <h4 class="media-heading">Greg Reeves</h4>
-      <p>Greg joined us after studying Chilli Peppers in New Mexico. His PhD is focussed on engineering elements of the C<sub>4</sub> pathway into C<sub>3</sub> plants.</p>
+      <p> Greg has a BSc in Genetics and MSc in Horticulture both from New Mexico State University where he studied the inheritance of disease resistance and spicy flavour in chilli peppers. He discovered a new gene that inhibits disease resistance, helped sequence the chilli pepper genome and developed one of the hottest peppers in the world. Additionally, he helped identify novel genes involved in photosynthesis from large-scale mutant screening in green algae at the Carnegie Institute for Science, Stanford. At Cambridge, he is investigating the genetic basis for C4 photosynthesis from natural variation among C4 plants and traditional gene mapping approaches to identify which genes are involved in developing the C<sub>4</sub> pathway.</p>
     </div>
   </div>
 </div>
