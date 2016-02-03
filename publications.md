@@ -10,9 +10,18 @@ group: navigation
 
 ## Manually curated list
 
+### 2016
+- [**Aubry, S.,** Aresheva, O., **Reyna-Llorens, I., Smith-Unna, R.D., Hibberd, J.M.,** Genty, B. (2016) A specific transcriptome signature for guard cells from the C<sub>4</sub> plant Gynandropsis gynandra. Plant Physiology doi:10.1104/pp.15.01203]
+
+- [**Williams, B., Burgess, S.J., Reyna-Llorens, I., Knerova, J., Aubry, S., Stanley, S., Hibberd, J.M.** (2016) An untranslated cis-element regulates the accumulation of multiple C<sub>4</sub> enzymes in Gynandropsis gynandra mesophyll cells. Plant Cell. doi:10.1105/tpc.15.00570. \*]
+
+\*  **We report the first regulon that acts on multiple genes preferentially expressed in mesophyll cells of C<sub>4</sub> plants. The sequence is found in untranslated regions of CA and PPDK genes, and interestingly is found in ancestral C<sub>3</sub> genes.**
+
 ### 2015
 - [**Burgess, S.J. Hibberd, J.M.** (2015) Insights into C<sub>4</sub> metabolism from comparative deep sequencing. Current Opinion in Plant Biology 25:138-144.](http://www.sciencedirect.com/science/article/pii/S1369526615000680)
-  
+
+- [**Covshoff, S., Szecowka, M., Hughes, T.E, Smith-Unna, R.,** Kelly, S., Bailey, K.J., Sage, T.L., Pachebat, J.A., Leegood, R., **Hibberd, J.M.** (2015) C<sub>4</sub> photosynthesis in the rice paddy: insights from the noxious weed Echinochloa glabrescens Plant Physiology, doi: 10.1104/pp.15.00889.](http://www.plantphysiol.org/content/170/1/57.long)
+
 - [Ort, D.R. Merchant, S.S., Alric, J., Barkan, A., Blankenship, R.E., Bock, R. Croce, R., Hanson, M.R., **Hibberd, J.M.,** Long, S.P., Moore, T.A., Moroney, J., Niyogi, K.K., Parry, M.A.J., Peralta-Yahya, P.P., Prince, R.C., Redding, K.E., Spalding, M., van Wijk, K.J., Vermaas, W.F.J., von Caemmerer, S., Weber, A.P.M., Yeates, T., Yuan, J.S., and Zhu, X.G. (2015) Redesigning photosynthesis to sustainably meet global food and bioenergy demand PNAS doi:10.1073/pnas.1424031112](http://www.pnas.org/content/early/2015/06/24/1424031112.full.pdf)
 
 - [Eastmond, P.J., **Astley, H.M. Parsley, K., Aubry, S., Williams, B.P.,** Menard, G.N., Craddock, C.P., Nunes-Nesi, A., Fernie, A.R., **Hibberd, J.M.** (2015) Arabidopsis uses two gluconeogenic gateways for organic acids to fuel seedling establishment. Nature Communications doi:10.1038/ncomms7659.\*](http://www.nature.com/ncomms/2015/150410/ncomms7659/full/ncomms7659.html)
