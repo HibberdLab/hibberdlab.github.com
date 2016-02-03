@@ -11,9 +11,9 @@ group: navigation
 ## Manually curated list
 
 ### 2016
-- [**Aubry, S.,** Aresheva, O., **Reyna-Llorens, I., Smith-Unna, R.D., Hibberd, J.M.,** Genty, B. (2016) A specific transcriptome signature for guard cells from the C<sub>4</sub> plant Gynandropsis gynandra. Plant Physiology doi:10.1104/pp.15.01203]
+- [**Aubry, S.,** Aresheva, O., **Reyna-Llorens, I., Smith-Unna, R.D., Hibberd, J.M.,** Genty, B. (2016) A specific transcriptome signature for guard cells from the C<sub>4</sub> plant Gynandropsis gynandra. Plant Physiology doi:10.1104/pp.15.01203](http://www.plantphysiol.org/content/early/2016/01/27/pp.15.01203.abstract)
 
-- [**Williams, B., Burgess, S.J., Reyna-Llorens, I., Knerova, J., Aubry, S., Stanley, S., Hibberd, J.M.** (2016) An untranslated cis-element regulates the accumulation of multiple C<sub>4</sub> enzymes in Gynandropsis gynandra mesophyll cells. Plant Cell. doi:10.1105/tpc.15.00570. \*]
+- [**Williams, B., Burgess, S.J., Reyna-Llorens, I., Knerova, J., Aubry, S., Stanley, S., Hibberd, J.M.** (2016) An untranslated cis-element regulates the accumulation of multiple C<sub>4</sub> enzymes in Gynandropsis gynandra mesophyll cells. Plant Cell. doi:10.1105/tpc.15.00570. \*](http://www.plantcell.org/content/early/2016/01/14/tpc.15.00570.full.pdf+html)
 
 \*  **We report the first regulon that acts on multiple genes preferentially expressed in mesophyll cells of C<sub>4</sub> plants. The sequence is found in untranslated regions of CA and PPDK genes, and interestingly is found in ancestral C<sub>3</sub> genes.**
 
