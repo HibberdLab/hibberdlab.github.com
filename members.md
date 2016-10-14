@@ -14,7 +14,7 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
 
 <div class="row-fluid">
   <div class="span8 offset2 media">
-    <img class="pull-left media-object img-rounded" src="{{%ASSET_PATH%}}../members/jh.jpg">
+    <img class="pull-left media-object img-rounded" src="../assets/members/jh.jpg">
     <div class="media-body">
       <h4 class="media-heading">Julian Hibberd</h4>
       <p>Julian did his PhD with John Farrar and Bob Whitbread at Bangor University.  He then moved to post-doctoral positions with Julie Scholes, Paul Quick and Malcolm Press in Sheffield, and then John Gray in Cambridge.  He started his own group in Cambridge while holding a BBSRC Sir David Phillips Fellowship. His interests in plant biology have focussed on various aspects of photosynthesis.</p>
@@ -31,7 +31,7 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
 
 <div class="row-fluid">
   <div class="span6 media">
-    <img class="pull-left media-object img-rounded" src="{{%ASSET_PATH%}}../members/sb.jpg">
+    <img class="pull-left media-object img-rounded" src="../assets/members/sb.jpg">
     <div class="media-body">
       <h4 class="media-heading">Steven Burgess</h4>
       <p>Steven graduated from the University of Edinburgh with a BSc in Biochemistry in
@@ -44,7 +44,7 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
     </div>
   </div>
   <div class="span6 media">
-    <img class="pull-left media-object img-rounded" src="{{%ASSET_PATH%}}../members/sc.jpg">
+    <img class="pull-left media-object img-rounded" src="../assets/members/sc.jpg">
     <div class="media-body">
       <h4 class="media-heading">Sarah Covshoff</h4>
       <p>Sarah graduated with a B.Sc. in Agriculture from the University of Guelph (Canada). She then obtained a Ph.D. in Plant
@@ -58,7 +58,7 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
 
 <div class="row-fluid">
   <div class="span6 media">
-    <img class="pull-left media-object img-rounded" src="{{%ASSET_PATH%}}../members/ms.jpg">
+    <img class="pull-left media-object img-rounded" src="../assets/members/ms.jpg">
     <div class="media-body">
       <h4 class="media-heading">Marek Szecowka</h4>
       <p>Marek’s PhD at the Max Plank Institute, Golm, focussed on the primary carbon metabolism of both heterotrophic and
@@ -77,7 +77,7 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
 
 <div class="row-fluid">
   <div class="span6 media">
-    <img class="pull-left media-object img-rounded" src="{{%ASSET_PATH%}}../members/irl.jpg">
+    <img class="pull-left media-object img-rounded" src="../assets/members/irl.jpg">
     <div class="media-body">
       <h4 class="media-heading">Ivan Reyna-Llorens</h4>
       <p>Ivan did his BSc in Biology at UNAM (Mexico) and then an MSc in Biochemistry at the same university. He is interested
@@ -86,7 +86,7 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
     </div>
   </div>
   <div class="span6 media">
-    <img class="pull-left media-object img-rounded" src="{{%ASSET_PATH%}}../members/cj.jpg">
+    <img class="pull-left media-object img-rounded" src="../assets/members/cj.jpg">
     <div class="media-body">
       <h4 class="media-heading">Chris John</h4>
       <p>Chris studied Biochemistry at Sheffield University from 2005 to 2008, he joined Julians lab in 2011. He pursues a
@@ -100,7 +100,7 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
 
 <div class="row-fluid">
   <div class="span6 media">
-    <img class="pull-left media-object img-rounded" src="{{%ASSET_PATH%}}../members/lichenbeard.jpg">
+    <img class="pull-left media-object img-rounded" src="../assets/members/lichenbeard.jpg">
     <div class="media-body">
       <h4 class="media-heading">Richard Smith</h4>
       <p>Richard has previously worked as a software developer, and took his BSc in Conservation Biology at the University of
@@ -112,7 +112,7 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
     </div>
   </div>
   <div class="span6 media">
-    <img class="pull-left media-object img-rounded" src="{{%ASSET_PATH%}}../members/GG.jpg">
+    <img class="pull-left media-object img-rounded" src="../assets/members/GG.jpg">
     <div class="media-body">
       <h4 class="media-heading">Greg Reeves</h4>
       <p> Greg has a BSc in Genetics and MSc in Horticulture both from New Mexico State University where he studied the inheritance of disease resistance and spicy flavour in chilli peppers. He discovered a new gene that inhibits disease resistance, helped sequence the chilli pepper genome and developed one of the hottest peppers in the world. Additionally, he helped identify novel genes involved in photosynthesis from large-scale mutant screening in green algae at the Carnegie Institute for Science, Stanford. At Cambridge, he is investigating the genetic basis for C4 photosynthesis from natural variation among C4 plants and traditional gene mapping approaches to identify which genes are involved in developing the C<sub>4</sub> pathway.</p>
@@ -123,7 +123,7 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
 
 <div class="row-fluid">
   <div class="span6 media">
-    <img class="pull-left media-object img-rounded" src="{{%ASSET_PATH%}}../members/jk.jpg">
+    <img class="pull-left media-object img-rounded" src="../assets/members/jk.jpg">
     <div class="media-body">
       <h4 class="media-heading">Jana Knerova</h4>
       <p>Jane is improving our transformation of <i>Cleome gynandra</i> and is focussing on assessing elements that generate
@@ -140,7 +140,7 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
 
 <div class="row-fluid">
   <div class="span6 media">
-  <img class="pull-left media-object img-rounded" src="{{%ASSET_PATH%}}../members/cb.jpg">
+  <img class="pull-left media-object img-rounded" src="../assets/members/cb.jpg">
     <div class="media-body">
     <h4 class="media-heading">Chris Boursnell</h4>
     <p>Chris Boursnell earned his BSc at the University of Birmingham in Computer Science and Artificial Intelligence. After
@@ -150,7 +150,7 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
     </div>
   </div>
     <div class="span6 media">
-      <img class="pull-left media-object img-rounded" src="{{%ASSET_PATH%}}../members/ss.jpg">
+      <img class="pull-left media-object img-rounded" src="../assets/members/ss.jpg">
       <div class="media-body">
       <h4 class="media-heading">Susan Stanley</h4>
       Susan is in charge of keeping the lab running! She has been instrumental in developing the transformation pipeline that

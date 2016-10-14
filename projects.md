@@ -15,7 +15,7 @@ Our work on understanding the C<sub>4</sub> pathway makes use of model organisms
 <div id="myCarousel" class="carousel slide">
   <div class="carousel-inner">
     <div class="item active">
-      <img src="{{%ASSET_PATH%}}../projects/evolution.png" alt="">
+      <img src="../assets/projects/evolution.png" alt="">
       <div class="container">
         <div class="carousel-caption">
           <h1>Comparative analysis of C<sub>3</sub> and C<sub>4</sub> gene expression</h1>
@@ -25,7 +25,7 @@ Our work on understanding the C<sub>4</sub> pathway makes use of model organisms
       </div>
     </div>
     <div class="item">
-      <img src="{{%ASSET_PATH%}}../projects/evolution2.png" alt="">
+      <img src="../assets/projects/evolution2.png" alt="">
       <div class="container">
         <div class="carousel-caption">
           <h1>The ancestral role of proteins used in C<sub>4</sub> photosynthesis</h1>
@@ -35,7 +35,7 @@ Our work on understanding the C<sub>4</sub> pathway makes use of model organisms
       </div>
     </div>
     <div class="item">
-      <img src="{{%ASSET_PATH%}}../projects/c4_rice_project.png" alt="">
+      <img src="../assets/projects/c4_rice_project.png" alt="">
       <div class="container">
         <div class="carousel-caption">
           <h1>The C<sub>4</sub> rice project</h1>
@@ -45,7 +45,7 @@ Our work on understanding the C<sub>4</sub> pathway makes use of model organisms
       </div>
     </div>
     <div class="item">
-      <img src="{{%ASSET_PATH%}}../projects/rubisco.png" alt="">
+      <img src="../assets/projects/rubisco.png" alt="">
       <div class="container">
         <div class="carousel-caption">
           <h1>Using synthetic approaches to increase CO<sub>2</sub> supply to RuBisCO</h1>
@@ -55,7 +55,7 @@ Our work on understanding the C<sub>4</sub> pathway makes use of model organisms
       </div>
     </div>
     <div class="item">
-      <img src="{{%ASSET_PATH%}}../projects/wild_rices.png" alt="">
+      <img src="../assets/projects/wild_rices.png" alt="">
       <div class="container">
         <div class="carousel-caption">
           <h1>Overcoming the domestication bottleneck in rice</h1>
@@ -73,7 +73,7 @@ Our work on understanding the C<sub>4</sub> pathway makes use of model organisms
 <!-- end of carousel -->
 
 <div class="well media">
-  <img class="media-object pull-left img-rounded" src="{{%ASSET_PATH%}}../projects/evolutio_small.png" style="width:150px; height:150px;">
+  <img class="media-object pull-left img-rounded" src="../assets/projects/evolutio_small.png" style="width:150px; height:150px;">
   <a name='comparative' style='position:relative; top:-75px;'>&nbsp;</a>
   <div class="media-body">
     <h3 class="media-heading">Comparative analysis of C<sub>3</sub> and C<sub>4</sub> gene expression</h3>
@@ -85,7 +85,7 @@ Our work on understanding the C<sub>4</sub> pathway makes use of model organisms
 </div>
 
 <div class="well media">
-  <img class="media-object pull-left img-rounded" src="{{%ASSET_PATH%}}../projects/evolution2_small.png" style="width:150px; height:150px;">
+  <img class="media-object pull-left img-rounded" src="../assets/projects/evolution2_small.png" style="width:150px; height:150px;">
   <a name='ancestral' style='position:relative; top:-75px;'>&nbsp;</a>
   <div class="media-body">
     <h3>The ancestral role of proteins used in C<sub>4</sub> photosynthesis</h3>
@@ -97,7 +97,7 @@ Our work on understanding the C<sub>4</sub> pathway makes use of model organisms
 </div>
 
 <div class="well media">
-  <img class="media-object pull-left img-rounded" src="{{%ASSET_PATH%}}../projects/rice_thumb.jpg" style="width:150px; height:150px;">
+  <img class="media-object pull-left img-rounded" src="../assets/projects/rice_thumb.jpg" style="width:150px; height:150px;">
   <a name='c4rice' style='position:relative; top:-75px;'>&nbsp;</a>
   <div class="media-body">
     <h3>The C<sub>4</sub> rice project</h3>
@@ -109,7 +109,7 @@ Our work on understanding the C<sub>4</sub> pathway makes use of model organisms
 </div>
 
 <div class="well media">
-  <img class="media-object pull-left img-rounded" src="{{%ASSET_PATH%}}../projects/rubisco_small.png" style="width:150px; height:150px;">
+  <img class="media-object pull-left img-rounded" src="../assets/projects/rubisco_small.png" style="width:150px; height:150px;">
   <a name='rubisco' style='position:relative; top:-75px;'>&nbsp;</a>
   <div class="media-body">
     <h3>Using synthetic approaches to increase CO<sub>2</sub> supply to RuBisCO</h3>
@@ -120,7 +120,7 @@ Our work on understanding the C<sub>4</sub> pathway makes use of model organisms
   </div>
 </div>
 <div class="well media">
-  <img class="media-object pull-left img-rounded" src="{{%ASSET_PATH%}}../projects/rice_thumb.jpg" style="width:150px; height:150px;">
+  <img class="media-object pull-left img-rounded" src="../assets/projects/rice_thumb.jpg" style="width:150px; height:150px;">
   <a name='wildrice' style='position:relative; top:-75px;'>&nbsp;</a>
   <div class="media-body">
     <h3>Overcoming the domestication bottleneck in rice</h3>
