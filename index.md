@@ -15,12 +15,12 @@ title: Hibberd Lab | C4 Photosynthesis
 
 <p>Currently our work focusses on understanding how the efficient C<sub>4</sub> photosynthetic pathway works.  In addition, we are generating increased genetic variation in domesticated rice, and screening for increased tolerance to stresses.  By understanding the genetic basis of these complex traits we aim in the long term to contribute to improving crop productivity.</p>
 </div>
-<a class="btn btn-large btn-primary btn-block visible-phone" href="about.html"><span class="btn-label">read more...</span></a>
+<a class="btn btn-large btn-primary btn-block visible-phone" href="about/index.html"><span class="btn-label">read more...</span></a>
 
 </div>
 
 <div class="alert alert-info">
-    Interested in joining the lab? See what <a href="positions.html">positions we have available.</a>
+    Interested in joining the lab? See what <a href="positions/index.html">positions we have available.</a>
 </div>
 
 <div class="row main-features">
