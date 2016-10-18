@@ -66,7 +66,11 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
       in the evolution of transcriptional regulation, especially in understanding the changes (both in <i>cis</i> and
       <i>trans</i>) required to acquire the C<sub>4</sub> pathway.</p> 
     </div>
-   </div>
+  </div>
+ </div>
+</div>
+<br>
+
 ----
 
 ### PhD students
@@ -140,6 +144,7 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
     </div>
   </div>
 </div>
+<br>
 
 ----
 
