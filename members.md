@@ -156,7 +156,7 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
 
 ### Former PhD students
 
-- Richard Smith: *Computational analysis of C<sub>4</sub>
+- Richard Smith: *Computational analysis of C<sub>4</sub>*
 - Chris John: *Comparative transcriptomics of C<sub>4</sub>*
 - Helen Woodfield: *Engineering C<sub>4</sub> genes into C<sub>3</sub> species*
 - Ben Williams: *Mechanisms underlying the coordinated evolution of multiple C<sub>4</sub> genes*
