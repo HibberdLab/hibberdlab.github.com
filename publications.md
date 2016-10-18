@@ -13,7 +13,7 @@ group: navigation
 ### 2016
 - [**Hibberd, J.M.** And Furbank, R.T. (2016) Fifty years of C4 photosynthesis. Nature, 538: 177-179.](http://www.nature.com/nature/journal/v538/n7624/full/538177b.html)
 
-- [**Burgess, S.J.**, Granero-Moya, I.,** Grangé-Guermente, M.J., Boursnell, C.**, Terry, M.J. and** Hibberd J.M.** (2016) Ancestral light and chloroplast regulation form the foundations for C4 gene expression. Nature Plants, doi: 10.1038/NPLANTS.2016.161](http://www.nature.com/articles/nplants2016161)
+- [**Burgess, S.J.**, Granero-Moya, I., **Grangé-Guermente, M.J., Boursnell, C.**, Terry, M.J. and **Hibberd J.M.** (2016) Ancestral light and chloroplast regulation form the foundations for C4 gene expression. Nature Plants, doi: 10.1038/NPLANTS.2016.161](http://www.nature.com/articles/nplants2016161)
 
 - [**Smith-Unna, R., Boursnell, C.**, Patro, R.,**Hibberd, J.M.**, Kelly, S. (2016). TransRate: reference free quality assessment of de-novo transcriptome assemblies. Genome Research, doi: 10.1101/gr.196469.115.](http://genome.cshlp.org/content/early/2016/06/01/gr.196469.115.abstract)
 
