@@ -11,6 +11,12 @@ group: navigation
 ## Manually curated list
 
 ### 2016
+- [**Hibberd, J.M.** And Furbank, R.T. (2016) Fifty years of C4 photosynthesis. Nature, 538: 177-179.](http://www.nature.com/nature/journal/v538/n7624/full/538177b.html)
+
+- [**Burgess, S.J.**, Granero-Moya, I.,** Grangé-Guermente, M.J., Boursnell, C.**, Terry, M.J. and** Hibberd J.M.** (2016) Ancestral light and chloroplast regulation form the foundations for C4 gene expression. Nature Plants, doi: 10.1038/NPLANTS.2016.161](http://www.nature.com/articles/nplants2016161)
+
+- [**Smith-Unna, R., Boursnell, C.**, Patro, R.,**Hibberd, J.M.**, Kelly, S. (2016). TransRate: reference free quality assessment of de-novo transcriptome assemblies. Genome Research, doi: 10.1101/gr.196469.115.](http://genome.cshlp.org/content/early/2016/06/01/gr.196469.115.abstract)
+
 - [**Aubry, S.,** Aresheva, O., **Reyna-Llorens, I., Smith-Unna, R.D., Hibberd, J.M.,** Genty, B. (2016) A specific transcriptome signature for guard cells from the C<sub>4</sub> plant <i>Gynandropsis gynandra</i>. Plant Physiology doi:10.1104/pp.15.01203](http://www.plantphysiol.org/content/early/2016/01/27/pp.15.01203.abstract)
 
 - [**Williams, B., Burgess, S.J., Reyna-Llorens, I., Knerova, J., Aubry, S., Stanley, S., Hibberd, J.M.** (2016) An untranslated cis-element regulates the accumulation of multiple C<sub>4</sub> enzymes in <i>Gynandropsis gynandra</i> mesophyll cells. Plant Cell. doi:10.1105/tpc.15.00570. \*](http://www.plantcell.org/content/early/2016/01/14/tpc.15.00570.full.pdf+html)
@@ -18,6 +24,7 @@ group: navigation
 \*  **We report the first regulon that acts on multiple genes expressed preferentially in mesophyll cells of C<sub>4</sub> plants. The sequence is found in untranslated regions of <i>CA</i> and <i>PPDK</i> genes, and interestingly is found in ancestral C<sub>3</sub> genes.**
 
 ### 2015
+
 - [**Burgess, S.J. Hibberd, J.M.** (2015) Insights into C<sub>4</sub> metabolism from comparative deep sequencing. Current Opinion in Plant Biology 25:138-144.](http://www.sciencedirect.com/science/article/pii/S1369526615000680)
 
 - [**Covshoff, S., Szecowka, M., Hughes, T.E, Smith-Unna, R.,** Kelly, S., Bailey, K.J., Sage, T.L., Pachebat, J.A., Leegood, R., **Hibberd, J.M.** (2015) C<sub>4</sub> photosynthesis in the rice paddy: insights from the noxious weed Echinochloa glabrescens Plant Physiology, doi: 10.1104/pp.15.00889.](http://www.plantphysiol.org/content/170/1/57.long)
