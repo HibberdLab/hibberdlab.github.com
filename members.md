@@ -18,7 +18,7 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
     <div class="media-body">
       <h4 class="media-heading">Julian Hibberd</h4>
       <p>Julian did his PhD with John Farrar and Bob Whitbread at Bangor University.  He then moved to post-doctoral positions with Julie Scholes, Paul Quick and Malcolm Press in Sheffield, and then John Gray in Cambridge.  He started his own group in Cambridge while holding a BBSRC Sir David Phillips Fellowship. His interests in plant biology have focussed on various aspects of photosynthesis.</p>
-      <p>Julian has more recently become interested in using natural variation to improve our understanding of complex traits.  He is a team leader within both the C<sub>4</sub> Rice Project, and the EU 3to4 FP7 programme, and represents the photosynthesis and metabolism community on the Plant Section committee of the <a href="http://www.sebiology.org">Society of Experimental Biology</a>.  He is also an <a href="http://www.plantphysiol.org/site/misc/edboard.xhtml">Associate Editor</a> of <a href="http://www.plantphysiol.org"><i>Plant Physiology</i></a>, and from 2011-2014 was a member of the <a href="http://www.bbsrc.ac.uk/home/home.aspx">BBSRC</a> Responsive Mode Grants panel.</p>  
+      <p>Julian has more recently become interested in using natural variation to improve our understanding of complex traits.  He is a team leader within both the C<sub>4</sub> Rice Project, and represents the photosynthesis and metabolism community on the Plant Section committee of the <a href="http://www.sebiology.org">Society of Experimental Biology</a>.  He is also an <a href="http://www.plantphysiol.org/site/misc/edboard.xhtml">Associate Editor</a> of <a href="http://www.plantphysiol.org"><i>Plant Physiology</i></a>, and from 2011-2014 was a member of the <a href="http://www.bbsrc.ac.uk/home/home.aspx">BBSRC</a> Responsive Mode Grants panel.</p>  
     </div>
   </div>
 </div>
@@ -43,17 +43,6 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
       expression in C<sub>4</sub> plants.</p>
     </div>
   </div>
-  <div class="span6 media">
-    <img class="pull-left media-object img-rounded" src="../assets/members/sc.jpg">
-    <div class="media-body">
-      <h4 class="media-heading">Sarah Covshoff</h4>
-      <p>Sarah graduated with a B.Sc. in Agriculture from the University of Guelph (Canada). She then obtained a Ph.D. in Plant
-      Biology from Cornell University, where she studied differentiation of the maize C<sub>4</sub> leaf.</p>
-      <p>Sarah joined the lab in 2008 as part of the <a href='projects.html#c4rice'>C<sub>4</sub> Rice project</a> and is
-      working on the molecular engineering of C<sub>4</sub> photosynthesis in rice and to identify genes necessary and/or
-      sufficient for C<sub>4</sub> photosynthesis form and function.</p>
-    </div>
-  </div>
 </div>
 
 <div class="row-fluid">
@@ -69,13 +58,6 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
       plants.</p>
     </div>
   </div>
-</div>
-
-----
-
-### PhD students
-
-<div class="row-fluid">
   <div class="span6 media">
     <img class="pull-left media-object img-rounded" src="../assets/members/irl.jpg">
     <div class="media-body">
@@ -84,33 +66,12 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
       in the evolution of transcriptional regulation, especially in understanding the changes (both in <i>cis</i> and
       <i>trans</i>) required to acquire the C<sub>4</sub> pathway.</p> 
     </div>
-  </div>
-  <div class="span6 media">
-    <img class="pull-left media-object img-rounded" src="../assets/members/cj.jpg">
-    <div class="media-body">
-      <h4 class="media-heading">Chris John</h4>
-      <p>Chris studied Biochemistry at Sheffield University from 2005 to 2008, he joined Julian's lab in 2011. He pursues a
-      combination of molecular biology and computational analysis. Chris is currently experimentally involved in high
-      throughput RNA seq workflows and downstream statistical analysis of the data. He carries this out alongside standard
-      molecular biology techniques such as Gibson assembly and transient transformation to understand the control of
-      C<sub>4</sub> genes. He is enjoying programming in R, BASH, and Python.</p>
-      </div>
-    </div>
-  </div>
+   </div>
+----
+
+### PhD students
 
 <div class="row-fluid">
-  <div class="span6 media">
-    <img class="pull-left media-object img-rounded" src="../assets/members/lichenbeard.jpg">
-    <div class="media-body">
-      <h4 class="media-heading">Richard Smith</h4>
-      <p>Richard has previously worked as a software developer, and took his BSc in Conservation Biology at the University of
-      the West of England. He spent a sandwich year researching seed dormancy at the Millennium Seed Bank, and continued to
-      work for the MSB as a data analyst during the final year of his degree. His PhD involves investigating C<sub>4</sub> in
-      wetland conditions.</p>
-      <p>Richard is currently developing software for improving high throughput biological data analysis, especially
-      <i>de-novo</i> transcriptomics and regulatory motif discovery.</p>
-    </div>
-  </div>
   <div class="span6 media">
     <img class="pull-left media-object img-rounded" src="../assets/members/GG.jpg">
     <div class="media-body">
@@ -119,7 +80,6 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
     </div>
   </div>
 </div>
-<br>
 
 <div class="row-fluid">
   <div class="span6 media">
@@ -158,9 +118,28 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
       time permiting, helps with specific research projects in the lab. She joined the lab in 2000 after having worked in
       Industry.
     </div>
+    <div class="span6 media">
+      <img class="pull-left media-object img-rounded" src="../assets/members/mgg.jpg">
+      <div class="media-body">
+      <h4 class="media-heading">Mathieu Grangé-Guermente  </h4>
+      Mathieu earned his BSc at the Université Paul Sabatier Toulouse 3 in Plant Genetics. He is now a research technician for Julian Hibberd's Lab and currently working on the C4 rice project.
   </div>
 </div>
 <br>
+
+----
+
+### Visitors
+
+<div class="row-fluid">
+  <div class="span6 media">
+    <img class="pull-left media-object img-rounded" src="../assets/members/yl.jpg">
+    <div class="media-body">
+      <h4 class="media-heading">Yingrui Li</h4>
+      <p> Yingrui Li graduated from the Nanjing Agricultural University with a BSc in Agronomy then doing MSc in Plant Nutrition at the same university. In 2016 she came to Cambridge as a visiting student. </p>
+    </div>
+  </div>
+</div>
 
 ----
 
@@ -168,6 +147,8 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
 
 ### Former PhD students
 
+- Richard Smith: *Computational analysis of C<sub>4</sub>
+- Chris John: *Comparative transcriptomics of C<sub>4</sub>*
 - Helen Woodfield: *Engineering C<sub>4</sub> genes into C<sub>3</sub> species*
 - Ben Williams: *Mechanisms underlying the coordinated evolution of multiple C<sub>4</sub> genes*
 - Maria Herse: *Crop improvement using synthetic variation*
@@ -184,6 +165,7 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
 
 ## Former Post-Doctoral Research Associates
 
+- Dr. Sarah Covshoff: *C4 rice*
 - Dr. Sylvain Aubry: *Molecular signature of the C<sub>4</sub> phenotype* 
 - Dr. Naomi Brown: *Role of C<sub>4</sub> acid decarboxylases*
 - Dr. Kate Parsley: *Role and regulation of PPDK*
