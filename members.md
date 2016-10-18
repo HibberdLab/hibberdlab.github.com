@@ -55,6 +55,10 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
       plants.</p>
     </div>
   </div>
+ </div>
+ <br>
+ 
+ <div class="row-fluid">
   <div class="span6 media">
     <img class="pull-left media-object img-rounded" src="../assets/members/irl.jpg">
     <div class="media-body">
