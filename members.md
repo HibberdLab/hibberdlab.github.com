@@ -122,12 +122,16 @@ Julian established his laboratory in the Department of Plant Sciences at the Uni
       time permiting, helps with specific research projects in the lab. She joined the lab in 2000 after having worked in
       Industry.
     </div>
-    <div class="span6 media">
+   </div>
+  </div>
+<div class="row-fluid"> 
+ <div class="span6 media">
       <img class="pull-left media-object img-rounded" src="../assets/members/mgg.jpg">
       <div class="media-body">
       <h4 class="media-heading">Mathieu Grangé-Guermente  </h4>
       Mathieu earned his BSc at the Université Paul Sabatier Toulouse 3 in Plant Genetics. He is now a research technician for Julian Hibberd's Lab and currently working on the C4 rice project.
-  </div>
+  </div> 
+ </div>
 </div>
 <br>
 
