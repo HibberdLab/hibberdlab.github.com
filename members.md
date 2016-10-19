@@ -79,6 +79,15 @@ strong. Read more about them below.
     </div>
   </div>
  </div>
+ <div class="row-fluid">
+  <div class="span6 media">
+    <img class="pull-left media-object img-rounded" src="../assets/members/lh.jpg">
+    <div class="media-body">
+      <h4 class="media-heading">Lei Hua</h4>
+      <p>Lei got his PhD in Crop Genetics and Breeding at China Agricultural University in 2015, during his PhD study, he identified and characterized a domestication gene controlling long and barbed awns from the progenitor of cultivated rice, common wild rice (Oryza rufipogon). Lei joined Hibberd lab in 2016; he is investigating the regulatory mechanisms of cell-specific gene expression in C<sub>3</sub> leaves.</p> 
+    </div>
+  </div>
+ </div>
 <br>
 
 ----
