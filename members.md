@@ -94,6 +94,7 @@ strong. Read more about them below.
 
 <div class="row-fluid">
   <div class="span6 media">
+  <img class="pull-left media-object img-rounded" src="../assets/members/gr.jpg">
     <div class="media-body">
       <h4 class="media-heading">Greg Reeves</h4>
       <p> Greg has a BSc in Genetics and MSc in Horticulture both from New Mexico State University where he studied the inheritance of 
