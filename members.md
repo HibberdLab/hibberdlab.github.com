@@ -147,8 +147,8 @@ strong. Read more about them below.
  <div class="span6 media">
       <div class="media-body">
       <h4 class="media-heading">Mathieu Grangé-Guermente  </h4>
-      Mathieu earned his BSc at the Université Paul Sabatier Toulouse 3 in Plant Genetics. He is now a research technician for Julian 
-      Hibberd's Lab and currently working on the C4 rice project.
+      Mathieu earned his BSc at the Université Paul Sabatier Toulouse 3 in Plant Genetics. He joined Julian 
+      Hibberd's Lab in 2016 as research technician to work on the C<sub>4</sub> rice project.
   </div> 
  </div>
 </div>
