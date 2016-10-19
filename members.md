@@ -94,7 +94,6 @@ strong. Read more about them below.
 
 <div class="row-fluid">
   <div class="span6 media">
-    <img class="pull-left media-object img-rounded" src="../assets/members/GG.jpg">
     <div class="media-body">
       <h4 class="media-heading">Greg Reeves</h4>
       <p> Greg has a BSc in Genetics and MSc in Horticulture both from New Mexico State University where he studied the inheritance of 
@@ -145,7 +144,6 @@ strong. Read more about them below.
   </div>
 <div class="row-fluid"> 
  <div class="span6 media">
-      <img class="pull-left media-object img-rounded" src="../assets/members/mgg.jpg">
       <div class="media-body">
       <h4 class="media-heading">Mathieu Grangé-Guermente  </h4>
       Mathieu earned his BSc at the Université Paul Sabatier Toulouse 3 in Plant Genetics. He is now a research technician for Julian 
