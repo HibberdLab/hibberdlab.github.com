@@ -78,8 +78,6 @@ strong. Read more about them below.
       <i>trans</i>) required to acquire the C<sub>4</sub> pathway.</p> 
     </div>
   </div>
- </div>
- <div class="row-fluid">
   <div class="span6 media">
     <img class="pull-left media-object img-rounded" src="../assets/members/lh.jpg">
     <div class="media-body">
