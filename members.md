@@ -82,12 +82,29 @@ strong. Read more about them below.
     <img class="pull-left media-object img-rounded" src="../assets/members/lh.jpg">
     <div class="media-body">
       <h4 class="media-heading">Lei Hua</h4>
-      <p>Lei got his PhD in Crop Genetics and Breeding at China Agricultural University in 2015, during his PhD study, he identified and characterized a domestication gene controlling long and barbed awns from the progenitor of cultivated rice, common wild rice (Oryza rufipogon). Lei joined Hibberd lab in 2016; he is investigating the regulatory mechanisms of cell-specific gene expression in C<sub>3</sub> leaves.</p> 
+      <p>Lei got his PhD in Crop Genetics and Breeding at China Agricultural University in 2015, during his PhD study, he identified and 
+      characterized a domestication gene controlling long and barbed awns from the progenitor of cultivated rice, common wild rice (Oryza 
+      rufipogon). Lei joined Hibberd lab in 2016; he is investigating the regulatory mechanisms of cell-specific gene expression in 
+      C<sub>3</sub> leaves.</p> 
     </div>
   </div>
  </div>
 <br>
 
+<div class="row-fluid">
+  <div class="span6 media">
+    <img class="pull-left media-object img-rounded" src="../assets/members/ses.jpg">
+    <div class="media-body">
+      <h4 class="media-heading">Sherif El-Sharnouby</h4>
+      <p>Sherif joined the Hibberd lab as a postdoc in January 2016 where he is currently working on the C<sub>4</sub> Rice Project. He 
+      is using his past experience to shed light on the transcriptional regulation of chloroplast biogenesis, by performing cell type-
+      specific analyses comparing mesophyll and bundle sheath cell nuclei. He did his PhD in Rob White’s lab at the University of 
+      Cambridge where he worked on the Drosophila spermatogenesis cell differentiation pathway and developed an experimental framework 
+      for genome-wide epigenetic profiling of individual cell stages of the Drosophila male germline.</p>
+    </div>
+  </div>
+ </div>
+<br>
 ----
 
 ### PhD students
