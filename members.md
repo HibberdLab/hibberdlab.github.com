@@ -135,6 +135,17 @@ strong. Read more about them below.
 </div>
 <br>
 
+<div class="row-fluid">
+  <div class="span6 media">
+  <img class="pull-left media-object img-rounded" src="../assets/members/rp.jpg">
+    <div class="media-body">
+      <h4 class="media-heading">Robyn Phillips</h4>
+      <p> Robyn graduated with a BA in Biological Sciences from the University of Oxford in 2013. She joined the lab as a BBSRC DTP student in 2016 to work on activating photosynthesis in non-photosynthetic cells for improved crop productivity.</p>
+    </div>
+  </div>
+</div>
+<br>
+
 ----
 
 ### Research staff
