@@ -99,8 +99,18 @@ strong. Read more about them below.
       <p>Sherif joined the Hibberd lab as a postdoc in January 2016 where he is currently working on the C<sub>4</sub> Rice Project. He 
       is using his past experience to shed light on the transcriptional regulation of chloroplast biogenesis, by performing cell 
       type-specific analyses comparing mesophyll and bundle sheath cell nuclei. He did his PhD in Rob White’s lab at the University of 
-      Cambridge where he worked on the <i>Drosophila spermatogenesis</i> cell differentiation pathway and developed an experimental framework 
-      for genome-wide epigenetic profiling of individual cell stages of the <i>Drosophila</i> male germline.</p>
+      Cambridge where he worked on the <i>Drosophila spermatogenesis</i> cell differentiation pathway and developed an experimental 
+      framework for genome-wide epigenetic profiling of individual cell stages of the <i>Drosophila</i> male germline.</p>
+    </div>
+  </div>
+  <div class="span6 media">
+    <img class="pull-left media-object img-rounded" src="../assets/members/hx.jpg">
+    <div class="media-body">
+      <h4 class="media-heading">Hayan Xiong</h4>
+      <p>Haiyan got her PhD in 2014 from the Department of Plant Genetics and Breeding in China Agriculture University (CAU) at Prof. 
+      Zichao Li’ laboratory and then she started a postdoc research under supervision of Prof. Yan Guo at the same university. During her 
+      work in CAU, she focused on characterization of drought-resistance genes in upland rice. In October 2016, Haiyan joined the Hibberd 
+      lab, and is currently investigating the regulatory mechanism of light stress response in rice bundle sheath cells.</p>
     </div>
   </div>
  </div>
