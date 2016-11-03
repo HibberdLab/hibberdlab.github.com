@@ -106,7 +106,7 @@ strong. Read more about them below.
   <div class="span6 media">
     <img class="pull-left media-object img-rounded" src="../assets/members/hx.jpg">
     <div class="media-body">
-      <h4 class="media-heading">Hayan Xiong</h4>
+      <h4 class="media-heading">Haiyan Xiong</h4>
       <p>Haiyan got her PhD in 2014 from the Department of Plant Genetics and Breeding in China Agriculture University (CAU) at Prof. 
       Zichao Li’ laboratory and then she started a postdoc research under supervision of Prof. Yan Guo at the same university. During her 
       work in CAU, she focused on characterization of drought-resistance genes in upland rice. In October 2016, Haiyan joined the Hibberd 
