@@ -20,5 +20,5 @@ CB2 3EA <br>
 
 **Telephone:** 01223 766547
 
-**Email:** jmh65 &lt;theatkey&gt; cam.ac.uk
+**Email:** jmh65@cam.ac.uk
 
