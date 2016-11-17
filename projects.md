@@ -120,7 +120,7 @@ Our work on understanding the C<sub>4</sub> pathway makes use of model organisms
   </div>
 </div>
 <div class="well media">
-  <img class="media-object pull-left img-rounded" src="../assets/projects/wild_rice.jpg" style="width:150px; height:150px;">
+  <img class="media-object pull-left img-rounded" src="../assets/projects/wild_rices.jpg" style="width:150px; height:150px;">
   <a name='wildrice' style='position:relative; top:-75px;'>&nbsp;</a>
   <div class="media-body">
     <h3>Overcoming the domestication bottleneck in rice</h3>
