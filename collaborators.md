@@ -12,8 +12,8 @@ We are lucky to work with many excellent labs around the world. Below is a list 
 
 - [Prof. Jane Langdale, Oxford University](http://dps.plants.ox.ac.uk/langdalelab/)
 - [Prof. Peter Westhoff, Düsseldorf University](http://www.emp.hhu.de/)
-- [Dr Bob Furbank, CSIRO](http://www.csiro.au/Organisation-Structure/Divisions/Plant-Industry/RobertFurbank.aspx)
-- [Dr Paul Quick, IRRI](http://irri.org/index.php?option=com_k2&view=item&id=11317:quick-paul-william&lang=en)
+- [Dr Bob Furbank, ANU](http://biology.anu.edu.au/people/robert-furbank)
+- [Dr Paul Quick, IRRI](http://irri.org/about-us/our-people/specialists/william-paul-quick)
 
 ### 1KP project
 
@@ -42,7 +42,7 @@ We are lucky to work with many excellent labs around the world. Below is a list 
 ### The role of C<sub>4</sub> proteins in C<sub>3</sub> plants
 
 - [Dr Ally Fernie, MPIMP](http://www.mpimp-golm.mpg.de/9205/Alisdair_Fernie) 
-- [Dr Peter Eastmond, RRes](http://www.rothamsted.ac.uk/PersonDetails-Who=1045.html)
+- [Dr Peter Eastmond, RRes](http://www.rothamsted.ac.uk/people/eastmond)
 
 ### <i>Cleome hassleriana/Tareneya hassleriana</i> related
 - [Dr Eric Shranz, Wageningen](http://www.wageningenur.nl/en/Persons/dr.-ME-Eric-Schranz.htm)
