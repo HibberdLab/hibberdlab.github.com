@@ -234,7 +234,7 @@ strong. Read more about them below.
 
 ## Former Post-Doctoral Research Associates
 
-- Dr. Sarah Covshoff: *C4 rice*
+- Dr. Sarah Covshoff: *C<sub>4</sub> rice*
 - Dr. Sylvain Aubry: *Molecular signature of the C<sub>4</sub> phenotype* 
 - Dr. Naomi Brown: *Role of C<sub>4</sub> acid decarboxylases*
 - Dr. Kate Parsley: *Role and regulation of PPDK*
