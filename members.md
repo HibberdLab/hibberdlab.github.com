@@ -215,7 +215,7 @@ strong. Read more about them below.
 
 ### Former PhD students
 
-- Britta Kümpers
+- Britta Kümpers: *Analysis of C<sub>4</sub> photosynthesis using Flaveria*
 - Richard Smith: *Computational analysis of C<sub>4</sub>*
 - Chris John: *Comparative transcriptomics of C<sub>4</sub>*
 - Helen Woodfield: *Engineering C<sub>4</sub> genes into C<sub>3</sub> species*
