@@ -12,7 +12,7 @@ group: navigation
 
 ### 2016
 
-- [**Reeves, G., Grangé-Guermente, M. J. & Hibberd, J. M.** (2016) Regulatory gateways for cell-specific gene expression in C<sub>4</sub> leaves with Kranz anatomy. J. Exp. Bot. doi:10.1093/jxb/erw438](http://jxb.oxfordjournals.org/content/early/2016/12/10/jxb.erw438)
+- [**Reeves, G., Grangé-Guermente, M. J. And Hibberd, J. M.** (2016) Regulatory gateways for cell-specific gene expression in C<sub>4</sub> leaves with Kranz anatomy. J. Exp. Bot. doi:10.1093/jxb/erw438](http://jxb.oxfordjournals.org/content/early/2016/12/10/jxb.erw438)
 
 - [**Hibberd, J. M.** And Furbank, R. T. (2016) Wheat genomics: Seeds of C<sub>4</sub> photosynthesis. Nature Plants 2, doi: 10.1038/NPLANTS.2016.172](http://www.nature.com/articles/nplants2016172)
 
