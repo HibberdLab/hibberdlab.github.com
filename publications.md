@@ -12,11 +12,11 @@ group: navigation
 
 ### 2016
 
--[**Reeves, G., Grangé-Guermente, M. J. & Hibberd, J. M.** (2016) Regulatory gateways for cell-specific gene expression in C<sub>4</sub> leaves with Kranz anatomy. J. Exp. Bot. doi:10.1093/jxb/erw438](http://jxb.oxfordjournals.org/content/early/2016/12/10/jxb.erw438)
+- [**Reeves, G., Grangé-Guermente, M. J. & Hibberd, J. M.** (2016) Regulatory gateways for cell-specific gene expression in C<sub>4</sub> leaves with Kranz anatomy. J. Exp. Bot. doi:10.1093/jxb/erw438](http://jxb.oxfordjournals.org/content/early/2016/12/10/jxb.erw438)
 
--[**Hibberd, J. M.** And Furbank, R. T. (2016) Wheat genomics: Seeds of C<sub>4</sub> photosynthesis. Nature Plants 2, doi: 10.1038/NPLANTS.2016.172](http://www.nature.com/articles/nplants2016172)
+- [**Hibberd, J. M.** And Furbank, R. T. (2016) Wheat genomics: Seeds of C<sub>4</sub> photosynthesis. Nature Plants 2, doi: 10.1038/NPLANTS.2016.172](http://www.nature.com/articles/nplants2016172)
 
--[Ladejobi, O., Elderfield, J., Gardner, K.A., Gaynor, R.C., Hickey, J., **Hibberd, J.M.**, Mackay, I.J., Bentley, A.R. (2016) Maximizing the potential of multi-parental crop populations. Applied & Translational Genomics 11, 9–17.](http://www.sciencedirect.com/science/article/pii/S2212066116300321)
+- [Ladejobi, O., Elderfield, J., Gardner, K.A., Gaynor, R.C., Hickey, J., **Hibberd, J.M.**, Mackay, I.J., Bentley, A.R. (2016) Maximizing the potential of multi-parental crop populations. Applied & Translational Genomics 11, 9–17.](http://www.sciencedirect.com/science/article/pii/S2212066116300321)
 
 - [**Hibberd, J.M.** And Furbank, R.T. (2016) Fifty years of C4 photosynthesis. Nature, 538: 177-179.](http://www.nature.com/nature/journal/v538/n7624/full/538177b.html)
 
