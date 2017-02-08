@@ -116,6 +116,18 @@ strong. Read more about them below.
  </div>
 <br>
 
+<div class="row-fluid">
+  <div class="span6 media">
+    <img class="pull-left media-object img-rounded" src="../assets/members/ps.png">
+    <div class="media-body">
+      <h4 class="media-heading">Pallavi Singh</h4>
+      <p>Pallavi did a PhD in 2015 at National Institute of Plant Genome Research, India. She worked on investigating the role of Mitogen Activated Protein Kinase (MAPK) signaling networks in imparting flooding tolerance in rice. In October 2015, she moved as a post-doctoral associate to Cornell University, US, where her research interests focused on the interaction of rice with its bacterial pathogen Xanthomonas and the role of transcription activator-like (TAL) effector proteins facilitating this interplay.
+In 2017 she started a post-doctoral position at the University of Cambridge, and is currently working on elucidating the spectrum of regulatory networks governing the evolution of C<sub>4</sub> photosynthesis.</p> 
+    </div>
+  </div>
+ </div>
+<br>
+
 ----
 
 ### PhD students
