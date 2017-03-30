@@ -127,7 +127,7 @@ In 2017 she started a post-doctoral position at the University of Cambridge, and
   </div>
  <div class="row-fluid">
   <div class="span6 media">
-    <img class="pull-left media-object img-rounded" src="../assets/members/sean.jpg">
+    <img class="pull-left media-object img-rounded" src="../assets/members/sst.jpg">
     <div class="media-body">
       <h4 class="media-heading">Sean Stevenson</h4>
       <p>Sean got his PhD from the University of Leeds where he studied abscisic acid (ABA) signalling in the model bryophyte Physcomitrella patens. This work identified a novel ABA regulator that was likely important in plant's conquest of land. After leaving the north for warmer climes, Sean joined the Hibberd lab at the start of 2017. He will be using another bryophyte model (Marchantia this time) to study light signalling and regulation and how this is integrated in early plant development and photosynthesis.
@@ -139,7 +139,7 @@ In 2017 she started a post-doctoral position at the University of Cambridge, and
 
 ----
 
-### PhD students
+PhD students
 
 <div class="row-fluid">
   <div class="span6 media">
@@ -179,7 +179,7 @@ In 2017 she started a post-doctoral position at the University of Cambridge, and
 
 ----
 
-### Research staff
+Research staff
 
 <div class="row-fluid">
   <div class="span6 media">
@@ -216,7 +216,7 @@ In 2017 she started a post-doctoral position at the University of Cambridge, and
 
 ----
 
-### Visitors
+Visitors
 
 <div class="row-fluid">
   <div class="span6 media">
@@ -232,9 +232,9 @@ In 2017 she started a post-doctoral position at the University of Cambridge, and
 
 ----
 
-## Past members
+Past members
 
-### Former PhD students
+Former PhD students
 
 - Britta Kümpers: *Analysis of C<sub>4</sub> photosynthesis using Flaveria*
 - Richard Smith: *Computational analysis of C<sub>4</sub>*
@@ -253,7 +253,7 @@ In 2017 she started a post-doctoral position at the University of Cambridge, and
 - Meredith Wilson: *Genome structure and function in parasitic angiosperms*
 
 
-## Former Post-Doctoral Research Associates
+Former Post-Doctoral Research Associates
 
 - Dr. Sarah Covshoff: *C<sub>4</sub> rice*
 - Dr. Sylvain Aubry: *Molecular signature of the C<sub>4</sub> phenotype* 
