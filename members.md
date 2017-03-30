@@ -121,8 +121,8 @@ strong. Read more about them below.
     <img class="pull-left media-object img-rounded" src="../assets/members/ps.jpg">
     <div class="media-body">
       <h4 class="media-heading">Pallavi Singh</h4>
-      <p>Pallavi did a PhD in 2015 at National Institute of Plant Genome Research, India. She worked on investigating the role of Mitogen Activated Protein Kinase (MAPK) signaling networks in imparting flooding tolerance in rice. In October 2015, she moved as a post-doctoral associate to Cornell University, US, where her research interests focused on the interaction of rice with its bacterial pathogen Xanthomonas and the role of transcription activator-like (TAL) effector proteins facilitating this interplay.
-In 2017 she started a post-doctoral position at the University of Cambridge, and is currently working on elucidating the spectrum of regulatory networks governing the evolution of C<sub>4</sub> photosynthesis.</p> 
+      <p>Pallavi did a PhD in 2015 at National Institute of Plant Genome Research, India. She worked on investigating the role of Mitogen       Activated Protein Kinase (MAPK) signaling networks in imparting flooding tolerance in rice. In October 2015, she moved as a post-         doctoral associate to Cornell University, US, where her research interests focused on the interaction of rice with its bacterial         pathogen Xanthomonas and the role of transcription activator-like (TAL) effector proteins facilitating this interplay.
+      In 2017 she started a post-doctoral position at the University of Cambridge, and is currently working on elucidating the spectrum         of regulatory networks governing the evolution of C<sub>4</sub> photosynthesis.</p> 
     </div>
   </div>
  <div class="row-fluid">
@@ -130,14 +130,11 @@ In 2017 she started a post-doctoral position at the University of Cambridge, and
     <img class="pull-left media-object img-rounded" src="../assets/members/sst.jpg">
     <div class="media-body">
       <h4 class="media-heading">Sean Stevenson</h4>
-      <p>Sean got his PhD from the University of Leeds where he studied abscisic acid (ABA) signalling in the model bryophyte Physcomitrella patens. This work identified a novel ABA regulator that was likely important in plant's conquest of land. After leaving the north for warmer climes, Sean joined the Hibberd lab at the start of 2017. He will be using another bryophyte model (Marchantia this time) to study light signalling and regulation and how this is integrated in early plant development and photosynthesis.
-</p> 
+      <p>Sean got his PhD from the University of Leeds where he studied abscisic acid (ABA) signalling in the model bryophyte                   Physcomitrella patens. This work identified a novel ABA regulator that was likely important in plant's conquest of land. After           leaving the north for warmer climes, Sean joined the Hibberd lab at the start of 2017. He will be using another bryophyte model           (Marchantia this time) to study light signalling and regulation and how this is integrated in early plant development and                 photosynthesis.</p> 
     </div>
   </div>
  </div>
 <br>
-
-----
 
 PhD students
 
@@ -177,8 +174,6 @@ PhD students
 </div>
 <br>
 
-----
-
 Research staff
 
 <div class="row-fluid">
@@ -214,8 +209,6 @@ Research staff
 </div>
 <br>
 
-----
-
 Visitors
 
 <div class="row-fluid">
@@ -230,35 +223,35 @@ Visitors
 </div>
 <br>
 
-----
-
-Past members
-
-Former PhD students
-
-- Britta Kümpers: *Analysis of C<sub>4</sub> photosynthesis using Flaveria*
-- Richard Smith: *Computational analysis of C<sub>4</sub>*
-- Chris John: *Comparative transcriptomics of C<sub>4</sub>*
-- Helen Woodfield: *Engineering C<sub>4</sub> genes into C<sub>3</sub> species*
-- Ben Williams: *Mechanisms underlying the coordinated evolution of multiple C<sub>4</sub> genes*
-- Maria Herse: *Crop improvement using synthetic variation*
-- Ewan Gage: *The role of small RNAs in C<sub>4</sub> photosynthesis*
-- Ben Tolley: *Oat maize addition lines*
-- Kaisa Kajala: *Regulation of gene expression in C<sub>4</sub> plants*
-- Holly Astley: *The role of PPDK regulatory proteins in C<sub>3</sub> plants*
-- Anna Leiss: *The function of PEPCK in C<sub>3</sub> plants*
-- Lucy Taylor: *The role of PPDK in nitrogen remobilisation*
-- Sophie Janacek: *Understanding the role of photosynthesis in veins of C<sub>3</sub> plants*
-- Diana Marshall: *Using Cleome to understand C<sub>4</sub> photosynthesis*
-- Meredith Wilson: *Genome structure and function in parasitic angiosperms*
-
-
-Former Post-Doctoral Research Associates
-
-- Dr. Sarah Covshoff: *C<sub>4</sub> rice*
-- Dr. Sylvain Aubry: *Molecular signature of the C<sub>4</sub> phenotype* 
-- Dr. Naomi Brown: *Role of C<sub>4</sub> acid decarboxylases*
-- Dr. Kate Parsley: *Role and regulation of PPDK*
-- Dr. Alex Johnson: *Rice enhancer traps*
-- Dr. Zheng Liu: *Developing Cleome as a model*
-- Dr. Elisabeth Truernit: *Chloroplast isolation from specific cell types*
+<div>Past members</div>
+<div>
+<div>Former PhD students</div>
+<div>
+<div>- Britta Kümpers: *Analysis of C<sub>4</sub> photosynthesis using Flaveria*</div>
+<div>- Richard Smith: *Computational analysis of C<sub>4</sub>*</div>
+<div>- Chris John: *Comparative transcriptomics of C<sub>4</sub>*</div>
+<div>- Helen Woodfield: *Engineering C<sub>4</sub> genes into C<sub>3</sub> species*</div>
+<div>- Ben Williams: *Mechanisms underlying the coordinated evolution of multiple C<sub>4</sub> genes*</div>
+<div>- Maria Herse: *Crop improvement using synthetic variation*</div>
+<div>- Ewan Gage: *The role of small RNAs in C<sub>4</sub> photosynthesis*</div>
+<div>- Ben Tolley: *Oat maize addition lines*</div>
+<div>- Kaisa Kajala: *Regulation of gene expression in C<sub>4</sub> plants*</div>
+<div>- Holly Astley: *The role of PPDK regulatory proteins in C<sub>3</sub> plants*</div>
+<div>- Anna Leiss: *The function of PEPCK in C<sub>3</sub> plants*</div>
+<div>- Lucy Taylor: *The role of PPDK in nitrogen remobilisation*</div>
+<div>- Sophie Janacek: *Understanding the role of photosynthesis in veins of C<sub>3</sub> plants*</div>
+<div>- Diana Marshall: *Using Cleome to understand C<sub>4</sub> photosynthesis*</div>
+<div>- Meredith Wilson: *Genome structure and function in parasitic angiosperms*</div>
+</div>
+</div>
+<div>Former Post-Doctoral Research Associates</div>
+<div>
+<div>- Dr. Sarah Covshoff: *C<sub>4</sub> rice*</div>
+<div>- Dr. Sylvain Aubry: *Molecular signature of the C<sub>4</sub> phenotype* </div>
+<div>- Dr. Naomi Brown: *Role of C<sub>4</sub> acid decarboxylases*</div>
+<div>- Dr. Kate Parsley: *Role and regulation of PPDK*</div>
+<div>- Dr. Alex Johnson: *Rice enhancer traps*</div>
+<div>- Dr. Zheng Liu: *Developing Cleome as a model*</div>
+<div>- Dr. Elisabeth Truernit: *Chloroplast isolation from specific cell types*</div>
+</div>
+</div>
