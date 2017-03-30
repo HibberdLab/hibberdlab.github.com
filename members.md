@@ -125,6 +125,15 @@ strong. Read more about them below.
 In 2017 she started a post-doctoral position at the University of Cambridge, and is currently working on elucidating the spectrum of regulatory networks governing the evolution of C<sub>4</sub> photosynthesis.</p> 
     </div>
   </div>
+ <div class="row-fluid">
+  <div class="span6 media">
+    <img class="pull-left media-object img-rounded" src="../assets/members/st.jpg">
+    <div class="media-body">
+      <h4 class="media-heading">Sean Stevenson</h4>
+      <p>Sean got his PhD from the University of Leeds where he studied abscisic acid (ABA) signalling in the model bryophyte Physcomitrella patens. This work identified a novel ABA regulator that was likely important in plant's conquest of land. After leaving the north for warmer climes, Sean joined the Hibberd lab at the start of 2017. He will be using another bryophyte model (Marchantia this time) to study light signalling and regulation and how this is integrated in early plant development and photosynthesis.
+</p> 
+    </div>
+  </div>
  </div>
 <br>
 
