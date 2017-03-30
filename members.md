@@ -225,29 +225,29 @@ strong. Read more about them below.
 ### Past members
 ## Former PhD students
 <br>
-<div>- Britta Kümpers: * Analysis of C<sub>4</sub> photosynthesis using Flaveria *</div>
-<div>- Richard Smith: *Computational analysis of C<sub>4</sub>*</div>
-<div>- Chris John: *Comparative transcriptomics of C<sub>4</sub>*</div>
-<div>- Helen Woodfield: *Engineering C<sub>4</sub> genes into C<sub>3</sub> species*</div>
-<div>- Ben Williams: *Mechanisms underlying the coordinated evolution of multiple C<sub>4</sub> genes*</div>
-<div>- Maria Herse: *Crop improvement using synthetic variation*</div>
-<div>- Ewan Gage: *The role of small RNAs in C<sub>4</sub> photosynthesis*</div>
-<div>- Ben Tolley: *Oat maize addition lines*</div>
-<div>- Kaisa Kajala: *Regulation of gene expression in C<sub>4</sub> plants*</div>
-<div>- Holly Astley: *The role of PPDK regulatory proteins in C<sub>3</sub> plants*</div>
-<div>- Anna Leiss: *The function of PEPCK in C<sub>3</sub> plants*</div>
-<div>- Lucy Taylor: *The role of PPDK in nitrogen remobilisation*</div>
-<div>- Sophie Janacek: *Understanding the role of photosynthesis in veins of C<sub>3</sub> plants*</div>
-<div>- Diana Marshall: *Using Cleome to understand C<sub>4</sub> photosynthesis*</div>
-<div>- Meredith Wilson: *Genome structure and function in parasitic angiosperms*</div>
+<div>- Britta Kümpers: Analysis of C<sub>4</sub> photosynthesis using Flaveria </div>
+<div>- Richard Smith: Computational analysis of C<sub>4</sub></div>
+<div>- Chris John: Comparative transcriptomics of C<sub>4</sub></div>
+<div>- Helen Woodfield: Engineering C<sub>4</sub> genes into C<sub>3</sub> species</div>
+<div>- Ben Williams: Mechanisms underlying the coordinated evolution of multiple C<sub>4</sub> genes</div>
+<div>- Maria Herse: Crop improvement using synthetic variation</div>
+<div>- Ewan Gage: The role of small RNAs in C<sub>4</sub> photosynthesis</div>
+<div>- Ben Tolley: Oat maize addition lines</div>
+<div>- Kaisa Kajala: Regulation of gene expression in C<sub>4</sub> plants</div>
+<div>- Holly Astley: The role of PPDK regulatory proteins in C<sub>3</sub> plants</div>
+<div>- Anna Leiss: The function of PEPCK in C<sub>3</sub> plants</div>
+<div>- Lucy Taylor: The role of PPDK in nitrogen remobilisation</div>
+<div>- Sophie Janacek: Understanding the role of photosynthesis in veins of C<sub>3</sub> plants</div>
+<div>- Diana Marshall: Using Cleome to understand C<sub>4</sub> photosynthesis</div>
+<div>- Meredith Wilson: Genome structure and function in parasitic angiosperms</div>
 <br>
 ## Former Post-Doctoral Research Associates
 <br>
-<div>- Dr. Sarah Covshoff: * C<sub>4</sub> rice *</div>
-<div>- Dr. Sylvain Aubry: *Molecular signature of the C<sub>4</sub> phenotype* </div>
-<div>- Dr. Naomi Brown: *Role of C<sub>4</sub> acid decarboxylases*</div>
-<div>- Dr. Kate Parsley: *Role and regulation of PPDK*</div>
-<div>- Dr. Alex Johnson: *Rice enhancer traps*</div>
-<div>- Dr. Zheng Liu: *Developing Cleome as a model*</div>
-<div>- Dr. Elisabeth Truernit: *Chloroplast isolation from specific cell types*</div>
+<div>- Dr. Sarah Covshoff: C<sub>4</sub> rice </div>
+<div>- Dr. Sylvain Aubry: Molecular signature of the C<sub>4</sub> phenotype </div>
+<div>- Dr. Naomi Brown: Role of C<sub>4</sub> acid decarboxylases</div>
+<div>- Dr. Kate Parsley: Role and regulation of PPDK</div>
+<div>- Dr. Alex Johnson: Rice enhancer traps</div>
+<div>- Dr. Zheng Liu: Developing Cleome as a model</div>
+<div>- Dr. Elisabeth Truernit: Chloroplast isolation from specific cell types</div>
 <br>
