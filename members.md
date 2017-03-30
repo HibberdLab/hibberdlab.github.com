@@ -125,7 +125,6 @@ strong. Read more about them below.
       In 2017 she started a post-doctoral position at the University of Cambridge, and is currently working on elucidating the spectrum         of regulatory networks governing the evolution of C<sub>4</sub> photosynthesis.</p> 
     </div>
   </div>
- <div class="row-fluid">
   <div class="span6 media">
     <img class="pull-left media-object img-rounded" src="../assets/members/sst.jpg">
     <div class="media-body">
@@ -224,9 +223,9 @@ Visitors
 <br>
 
 <div>Past members</div>
-<div>
+<br>
 <div>Former PhD students</div>
-<div>
+<br>
 <div>- Britta Kümpers: *Analysis of C<sub>4</sub> photosynthesis using Flaveria*</div>
 <div>- Richard Smith: *Computational analysis of C<sub>4</sub>*</div>
 <div>- Chris John: *Comparative transcriptomics of C<sub>4</sub>*</div>
@@ -242,10 +241,9 @@ Visitors
 <div>- Sophie Janacek: *Understanding the role of photosynthesis in veins of C<sub>3</sub> plants*</div>
 <div>- Diana Marshall: *Using Cleome to understand C<sub>4</sub> photosynthesis*</div>
 <div>- Meredith Wilson: *Genome structure and function in parasitic angiosperms*</div>
-</div>
-</div>
+<br>
 <div>Former Post-Doctoral Research Associates</div>
-<div>
+<br>
 <div>- Dr. Sarah Covshoff: *C<sub>4</sub> rice*</div>
 <div>- Dr. Sylvain Aubry: *Molecular signature of the C<sub>4</sub> phenotype* </div>
 <div>- Dr. Naomi Brown: *Role of C<sub>4</sub> acid decarboxylases*</div>
@@ -253,5 +251,4 @@ Visitors
 <div>- Dr. Alex Johnson: *Rice enhancer traps*</div>
 <div>- Dr. Zheng Liu: *Developing Cleome as a model*</div>
 <div>- Dr. Elisabeth Truernit: *Chloroplast isolation from specific cell types*</div>
-</div>
-</div>
+<br>
