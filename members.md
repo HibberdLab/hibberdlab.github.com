@@ -225,7 +225,7 @@ strong. Read more about them below.
 ### Past members
 ## Former PhD students
 <br>
-<div>- Britta Kümpers: *Analysis of C<sub>4</sub> photosynthesis using Flaveria*</div>
+<div>- Britta Kümpers: * Analysis of C<sub>4</sub> photosynthesis using Flaveria *</div>
 <div>- Richard Smith: *Computational analysis of C<sub>4</sub>*</div>
 <div>- Chris John: *Comparative transcriptomics of C<sub>4</sub>*</div>
 <div>- Helen Woodfield: *Engineering C<sub>4</sub> genes into C<sub>3</sub> species*</div>
@@ -243,7 +243,7 @@ strong. Read more about them below.
 <br>
 ## Former Post-Doctoral Research Associates
 <br>
-<div>- Dr. Sarah Covshoff: *C<sub>4</sub> rice*</div>
+<div>- Dr. Sarah Covshoff: * C<sub>4</sub> rice *</div>
 <div>- Dr. Sylvain Aubry: *Molecular signature of the C<sub>4</sub> phenotype* </div>
 <div>- Dr. Naomi Brown: *Role of C<sub>4</sub> acid decarboxylases*</div>
 <div>- Dr. Kate Parsley: *Role and regulation of PPDK*</div>
