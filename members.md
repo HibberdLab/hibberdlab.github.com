@@ -223,7 +223,6 @@ strong. Read more about them below.
 <br>
 
 ### Past members
-<br>
 ## Former PhD students
 <br>
 <div>- Britta Kümpers: *Analysis of C<sub>4</sub> photosynthesis using Flaveria*</div>
