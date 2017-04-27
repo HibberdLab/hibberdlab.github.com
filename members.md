@@ -229,7 +229,7 @@ strong. Read more about them below.
 <br>
 
 ### Past members
-## Former PhD students
+<sub>## Former PhD students</sub>
 <br>
 <div>- Britta Kümpers: Analysis of C<sub>4</sub> photosynthesis using Flaveria </div>
 <div>- Richard Smith: Computational analysis of C<sub>4</sub></div>
@@ -247,7 +247,7 @@ strong. Read more about them below.
 <div>- Diana Marshall: Using Cleome to understand C<sub>4</sub> photosynthesis</div>
 <div>- Meredith Wilson: Genome structure and function in parasitic angiosperms</div>
 <br>
-## Former Post-Doctoral Research Associates
+<sub>## Former Post-Doctoral Research Associates</sub>
 <br>
 <div>- Dr. Sarah Covshoff: C<sub>4</sub> rice </div>
 <div>- Dr. Sylvain Aubry: Molecular signature of the C<sub>4</sub> phenotype </div>
