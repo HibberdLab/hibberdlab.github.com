@@ -254,4 +254,3 @@ strong. Read more about them below.
 <div>- Dr. Alex Johnson: Rice enhancer traps</div>
 <div>- Dr. Zheng Liu: Developing Cleome as a model</div>
 <div>- Dr. Elisabeth Truernit: Chloroplast isolation from specific cell types</div>
-<br>
