@@ -129,6 +129,16 @@ strong. Read more about them below.
     </div>
   </div>
  </div>
+ 
+ <div class="row-fluid">
+  <div class="span6 media">
+    <img class="pull-left media-object img-rounded" src="../assets/members/mtl.jpg">
+    <div class="media-body">
+      <h4 class="media-heading">Ming-Tsung Louis Wu</h4>
+      <p>Louis graduated from National Taiwan University with a Phd in Plant Science in 2015. His doctoral research focused on miRNA mediated regulation under oxidative stress in rice. In 2016, he started a post-doctoral position at the Institute of Plant and Microbial Biology of Academia Sinica where he studied the role of coilin protein in the alternative splicing of pre-mRNA in Arabidopsis thaliana. In 2017, he joined the Hibberd lab and is currently working on developing an analysis pipeline of de novo transcriptome to conduct a large-scale modeling analysis of C<sub>4</sub> photosynthesis.</p>
+    </div>
+  </div>
+ </div>
 <br>
 
 ### PhD students
