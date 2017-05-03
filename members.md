@@ -138,7 +138,15 @@ strong. Read more about them below.
       <p>Louis graduated from National Taiwan University with a Phd in Plant Science in 2015. His doctoral research focused on miRNA mediated regulation under oxidative stress in rice. In 2016, he started a post-doctoral position at the Institute of Plant and Microbial Biology of Academia Sinica where he studied the role of coilin protein in the alternative splicing of pre-mRNA in Arabidopsis thaliana. In 2017, he joined the Hibberd lab and is currently working on developing an analysis pipeline of de novo transcriptome to conduct a large-scale modeling analysis of C<sub>4</sub> photosynthesis.</p>
     </div>
   </div>
+  <div class="span6 media">
+    <img class="pull-left media-object img-rounded" >
+    <div class="media-body">
+      <h4 class="media-heading">Andy Plackett</h4>
+      <p>Andy did his PhD at Rothamsted Research (2007-2011), studying how the plant hormone gibberellin regulates floral and pollen development in the model flowering plant Arabidopsis thaliana. As a postdoc in jane Langdale’s lab at the University of Oxford (2011-2017) Andy worked to investigate the evolution of plant shoots, helping to establish a transgenic system for the candidate model fern Ceratopteris richardii via microparticle bombardment and then using this system to study the regulatory functions of the plant hormone auxin and the transcription factor LEAFY in the fern shoot.  Andy joined the Hibberd lab in May 2017 as part of a project to understand the differential regulation of chloroplast development between mesophyll and bundle sheath cells in rice (Oryza sativa).</p>
+    </div>
+  </div>
  </div>
+
 <br>
 
 ### PhD students
