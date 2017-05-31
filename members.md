@@ -9,8 +9,8 @@ description: "Hibberd Lab members past and present"
 # Group members
 
 Julian established his laboratory in the Department of Plant Sciences at the University of Cambridge in 2001.  Since then, nine post-
-doctoral researchers, thirteen PhD students, and three research assistants have been part of the lab.  The group is currently nine-
-strong. Read more about them below.
+doctoral researchers, thirteen PhD students, and three research assistants have been part of the lab.  The group is currently eighteen-strong. 
+Read more about them below.
 
 ----
 
@@ -41,19 +41,6 @@ strong. Read more about them below.
 
 <div class="row-fluid">
   <div class="span6 media">
-    <img class="pull-left media-object img-rounded" src="../assets/members/sb.jpg">
-    <div class="media-body">
-      <h4 class="media-heading">Steven Burgess</h4>
-      <p>Steven graduated from the University of Edinburgh with a BSc in Biochemistry in
-      2007. From 2007-2011 he undertook a PhD at Imperial College London investigating
-      the use of RNAi as a means of remodelling metabolic pathways 
-      in the model alga <i>Chlamydomonas reinhardtii</i> for biofuel production.</p>
-      <p>In 2011 he moved to the University of Cambridge, and is currently investigating the
-      evolution of cis-regulatory networks controlling cell-specific gene
-      expression in C<sub>4</sub> plants.</p>
-    </div>
-  </div>
-  <div class="span6 media">
     <img class="pull-left media-object img-rounded" src="../assets/members/ms.jpg">
     <div class="media-body">
       <h4 class="media-heading">Marek Szecowka</h4>
@@ -65,11 +52,7 @@ strong. Read more about them below.
       plants.</p>
     </div>
   </div>
- </div>
- <br>
- 
- <div class="row-fluid">
-  <div class="span6 media">
+    <div class="span6 media">
     <img class="pull-left media-object img-rounded" src="../assets/members/irl.jpg">
     <div class="media-body">
       <h4 class="media-heading">Ivan Reyna-Llorens</h4>
@@ -78,6 +61,10 @@ strong. Read more about them below.
       <i>trans</i>) required to acquire the C<sub>4</sub> pathway.</p> 
     </div>
   </div>
+ </div>
+ <br>
+ 
+ <div class="row-fluid">
   <div class="span6 media">
     <img class="pull-left media-object img-rounded" src="../assets/members/lh.jpg">
     <div class="media-body">
@@ -88,17 +75,17 @@ strong. Read more about them below.
       C<sub>3</sub> leaves.</p> 
     </div>
   </div>
- </div>
-<br>
-
-<div class="row-fluid">
-  <div class="span6 media">
+    <div class="span6 media">
     <img class="pull-left media-object img-rounded" src="../assets/members/ses.jpg">
     <div class="media-body">
       <h4 class="media-heading">Sherif El-Sharnouby</h4>
       <p>Sherif joined the Hibberd lab as a postdoc in January 2016 where he is currently working on the C<sub>4</sub> Rice Project. He is using his past experience to shed light on the transcriptional regulation of chloroplast biogenesis, by performing cell type-specific analyses comparing mesophyll and bundle sheath cells. He did his PhD in Rob White’s lab at the University of Cambridge where he worked on the Drosophila spermatogenesis cell differentiation pathway and developed an experimental framework for genome-wide epigenetic profiling of individual cell stages of the Drosophila male germline.</p>
     </div>
   </div>
+ </div>
+<br>
+
+<div class="row-fluid">
   <div class="span6 media">
     <img class="pull-left media-object img-rounded" src="../assets/members/hx.jpg">
     <div class="media-body">
@@ -109,11 +96,7 @@ strong. Read more about them below.
       lab, and is currently investigating the regulatory mechanism of light stress response in rice bundle sheath cells.</p>
     </div>
   </div>
- </div>
-<br>
-
-<div class="row-fluid">
-  <div class="span6 media">
+    <div class="span6 media">
     <img class="pull-left media-object img-rounded" src="../assets/members/ps.jpg">
     <div class="media-body">
       <h4 class="media-heading">Pallavi Singh</h4>
@@ -121,6 +104,10 @@ strong. Read more about them below.
       In 2017 she started a post-doctoral position at the University of Cambridge, and is currently working on elucidating the spectrum         of regulatory networks governing the evolution of C<sub>4</sub> photosynthesis.</p> 
     </div>
   </div>
+ </div>
+<br>
+
+<div class="row-fluid">
   <div class="span6 media">
     <img class="pull-left media-object img-rounded" src="../assets/members/sst.jpg">
     <div class="media-body">
@@ -128,18 +115,18 @@ strong. Read more about them below.
       <p>Sean got his PhD from the University of Leeds where he studied abscisic acid (ABA) signalling in the model bryophyte                   Physcomitrella patens. This work identified a novel ABA regulator that was likely important in plant's conquest of land. After           leaving the north for warmer climes, Sean joined the Hibberd lab at the start of 2017. He will be using another bryophyte model           (Marchantia this time) to study light signalling and regulation and how this is integrated in early plant development and                 photosynthesis.</p> 
     </div>
   </div>
- </div>
- 
- <div class="row-fluid">
-  <div class="span6 media">
+    <div class="span6 media">
     <img class="pull-left media-object img-rounded" src="../assets/members/mtl.jpg">
     <div class="media-body">
       <h4 class="media-heading">Ming-Tsung Louis Wu</h4>
       <p>Louis graduated from National Taiwan University with a Phd in Plant Science in 2015. His doctoral research focused on miRNA mediated regulation under oxidative stress in rice. In 2016, he started a post-doctoral position at the Institute of Plant and Microbial Biology of Academia Sinica where he studied the role of coilin protein in the alternative splicing of pre-mRNA in Arabidopsis thaliana. In 2017, he joined the Hibberd lab and is currently working on developing an analysis pipeline of de novo transcriptome to conduct a large-scale modeling analysis of C<sub>4</sub> photosynthesis.</p>
     </div>
   </div>
+ </div>
+ 
+ <div class="row-fluid">
   <div class="span6 media">
-    <img class="pull-left media-object img-rounded" >
+    <img class="pull-left media-object img-rounded" src="../assets/members/ap.jpg" >
     <div class="media-body">
       <h4 class="media-heading">Andy Plackett</h4>
       <p>Andy did his PhD at Rothamsted Research (2007-2011), studying how the plant hormone gibberellin regulates floral and pollen development in the model flowering plant Arabidopsis thaliana. As a postdoc in jane Langdale’s lab at the University of Oxford (2011-2017) Andy worked to investigate the evolution of plant shoots, helping to establish a transgenic system for the candidate model fern Ceratopteris richardii via microparticle bombardment and then using this system to study the regulatory functions of the plant hormone auxin and the transcription factor LEAFY in the fern shoot.  Andy joined the Hibberd lab in May 2017 as part of a project to understand the differential regulation of chloroplast development between mesophyll and bundle sheath cells in rice (Oryza sativa).</p>
@@ -211,16 +198,29 @@ strong. Read more about them below.
     </div>
    </div>
   </div>
-<div class="row-fluid"> 
- <div class="span6 media">
+ <div class="row-fluid">
+  <div class="span6 media">
+  <img class="pull-left media-object img-rounded" src="../assets/members/nw.jpg">
+    <div class="media-body">
+    <h4 class="media-heading">Na Wang</h4>
+    <p>Na did her MSc in Plant Genetics and Breeding at CAU (China Agricultural University), then she went to Biotech center of Beijing 
+	Da Bei Nong Technology Group Co. Ltd., she got 5 year rich experience of cereal genetic transformation there. She joined the Hibberd 
+	lab in 2017 as a research technician.</p>
+    </div>
+  </div>
+    <div class="span6 media">
+      <img class="pull-left media-object img-rounded" src="../assets/members/rd.jpg">
       <div class="media-body">
-      <h4 class="media-heading">Mathieu Grangé-Guermente  </h4>
-      Mathieu earned his BSc at the Université Paul Sabatier Toulouse 3 in Plant Genetics. He joined Julian 
-      Hibberd's Lab in 2016 as research technician to work on the C<sub>4</sub> rice project.
-  </div> 
- </div>
-</div>
-<br>
+      <h4 class="media-heading">Ruth Donald</h4>
+	  <p>Ruth has a PhD in Plant Biochemistry from the University of Warwick where she studied the targeting of chloroplast proteins into 
+	  the thylakoid membrane and found that multiple pathways exist.  She then went to a postdoctoral post at the University of Auckland, 
+	  before coming to Plant Sciences Cambridge work on the import, assembly and turn-over of chloroplast proteins in John Gray’s lab, and 
+	  then as a Royal Society Research Fellow. Since then she has worked at Biogemma on useful oil production in oilseed rape and screening 
+	  of wheat cultivars for marker-gene trait associations, and has also worked for Syngene.  She returned to Plant Sciences in May 2017, 
+	  joining the Hibberd lab to work on crop transformation.</p>
+    </div>
+   </div>
+  </div>
 
 ### Visitors
 
@@ -262,3 +262,8 @@ strong. Read more about them below.
 <div>- Dr. Alex Johnson: Rice enhancer traps</div>
 <div>- Dr. Zheng Liu: Developing Cleome as a model</div>
 <div>- Dr. Elisabeth Truernit: Chloroplast isolation from specific cell types</div>
+<div>- Dr. Steven Burgess: C<sub>4</sub> rice </div>
+<br>
+#### Former Research Staff
+<div>- Mathieu Grangé-Guerment: C<sub>4</sub> rice</div>
+<br>
