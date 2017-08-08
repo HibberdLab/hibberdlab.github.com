@@ -19,7 +19,7 @@ We are lucky to work with many excellent labs around the world. Below is a list 
 
 - [Dr Steve Kelly, Oxford University](http://stevekelly.eu/)
 - [Prof Rowan Sage, University of Toronto](http://www.eeb.utoronto.ca/people/d-faculty/RSage.htm)
-- [Dr Xin-Guang Xhu, PICB, Shanghai](http://www.picb.ac.cn/PSB/)
+- [Dr Xin-Guang Zhu, PICB, Shanghai](http://www.picb.ac.cn/PSB/)
 
 
 ### Transcriptomics of C<sub>3</sub> and C<sub>4</sub> species
