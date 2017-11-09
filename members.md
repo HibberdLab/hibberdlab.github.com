@@ -8,8 +8,8 @@ description: "Hibberd Lab members past and present"
 
 # Group members
 
-Julian established his laboratory in the Department of Plant Sciences at the University of Cambridge in 2001.  Since then, nine post-
-doctoral researchers, thirteen PhD students, and three research assistants have been part of the lab.  The group is currently eighteen-strong. 
+Julian established his laboratory in the Department of Plant Sciences at the University of Cambridge in 2001.  Since then, nineteen post-
+doctoral researchers, nineteen PhD students, and five research assistants have been part of the lab.  The group is currently seventeen-strong. 
 Read more about them below.
 
 ----
@@ -40,18 +40,6 @@ Read more about them below.
 ### Post-Doctoral Research Associates
 
 <div class="row-fluid">
-  <div class="span6 media">
-    <img class="pull-left media-object img-rounded" src="../assets/members/ms.jpg">
-    <div class="media-body">
-      <h4 class="media-heading">Marek Szecowka</h4>
-      <p>Marek’s PhD at the Max Plank Institute, Golm, focussed on the primary carbon metabolism of both heterotrophic and
-      autotrophic tissue. He developed in vivo methods for metabolic flux studies using stable carbon isotope (<sup>13</sup>C)
-      in combination with MS analytical methods. He also studied the influence of mitochondrial metabolism on the rate of
-      starch biosynthesis in potato tubers.</p>
-      <p>He is currently working on using artificial scaffolds to increase photosynthetic efficiency in C<sub>3</sub>
-      plants.</p>
-    </div>
-  </div>
     <div class="span6 media">
     <img class="pull-left media-object img-rounded" src="../assets/members/irl.jpg">
     <div class="media-body">
@@ -61,10 +49,6 @@ Read more about them below.
       <i>trans</i>) required to acquire the C<sub>4</sub> pathway.</p> 
     </div>
   </div>
- </div>
- <br>
- 
- <div class="row-fluid">
   <div class="span6 media">
     <img class="pull-left media-object img-rounded" src="../assets/members/lh.jpg">
     <div class="media-body">
@@ -75,6 +59,10 @@ Read more about them below.
       C<sub>3</sub> leaves.</p> 
     </div>
   </div>
+ </div>
+ <br>
+ 
+ <div class="row-fluid">
     <div class="span6 media">
     <img class="pull-left media-object img-rounded" src="../assets/members/ses.jpg">
     <div class="media-body">
@@ -82,11 +70,7 @@ Read more about them below.
       <p>Sherif joined the Hibberd lab as a postdoc in January 2016 where he is currently working on the C<sub>4</sub> Rice Project. He is using his past experience to shed light on the transcriptional regulation of chloroplast biogenesis, by performing cell type-specific analyses comparing mesophyll and bundle sheath cells. He did his PhD in Rob White’s lab at the University of Cambridge where he worked on the Drosophila spermatogenesis cell differentiation pathway and developed an experimental framework for genome-wide epigenetic profiling of individual cell stages of the Drosophila male germline.</p>
     </div>
   </div>
- </div>
-<br>
-
-<div class="row-fluid">
-  <div class="span6 media">
+    <div class="span6 media">
     <img class="pull-left media-object img-rounded" src="../assets/members/hx.jpg">
     <div class="media-body">
       <h4 class="media-heading">Haiyan Xiong</h4>
@@ -96,6 +80,10 @@ Read more about them below.
       lab, and is currently investigating the regulatory mechanism of light stress response in rice bundle sheath cells.</p>
     </div>
   </div>
+ </div>
+<br>
+
+<div class="row-fluid">
     <div class="span6 media">
     <img class="pull-left media-object img-rounded" src="../assets/members/ps.jpg">
     <div class="media-body">
@@ -104,17 +92,17 @@ Read more about them below.
       In 2017 she started a post-doctoral position at the University of Cambridge, and is currently working on elucidating the spectrum         of regulatory networks governing the evolution of C<sub>4</sub> photosynthesis.</p> 
     </div>
   </div>
- </div>
-<br>
-
-<div class="row-fluid">
-  <div class="span6 media">
+    <div class="span6 media">
     <img class="pull-left media-object img-rounded" src="../assets/members/sst.jpg">
     <div class="media-body">
       <h4 class="media-heading">Sean Stevenson</h4>
       <p>Sean got his PhD from the University of Leeds where he studied abscisic acid (ABA) signalling in the model bryophyte                   Physcomitrella patens. This work identified a novel ABA regulator that was likely important in plant's conquest of land. After           leaving the north for warmer climes, Sean joined the Hibberd lab at the start of 2017. He will be using another bryophyte model           (Marchantia this time) to study light signalling and regulation and how this is integrated in early plant development and                 photosynthesis.</p> 
     </div>
-  </div>
+</div>
+ </div>
+<br>
+
+<div class="row-fluid">
     <div class="span6 media">
     <img class="pull-left media-object img-rounded" src="../assets/members/mtl.jpg">
     <div class="media-body">
@@ -122,10 +110,7 @@ Read more about them below.
       <p>Louis graduated from National Taiwan University with a Phd in Plant Science in 2015. His doctoral research focused on miRNA mediated regulation under oxidative stress in rice. In 2016, he started a post-doctoral position at the Institute of Plant and Microbial Biology of Academia Sinica where he studied the role of coilin protein in the alternative splicing of pre-mRNA in Arabidopsis thaliana. In 2017, he joined the Hibberd lab and is currently working on developing an analysis pipeline of de novo transcriptome to conduct a large-scale modeling analysis of C<sub>4</sub> photosynthesis.</p>
     </div>
   </div>
- </div>
- 
- <div class="row-fluid">
-  <div class="span6 media">
+   <div class="span6 media">
     <img class="pull-left media-object img-rounded" src="../assets/members/ap.jpg" >
     <div class="media-body">
       <h4 class="media-heading">Andy Plackett</h4>
@@ -133,7 +118,6 @@ Read more about them below.
     </div>
   </div>
  </div>
-
 <br>
 
 ### PhD students
@@ -151,20 +135,7 @@ Read more about them below.
       mapping approaches to identify which genes are involved in developing the C<sub>4</sub> pathway.</p>
     </div>
   </div>
-  <div class="span6 media">
-    <img class="pull-left media-object img-rounded" src="../assets/members/jk.jpg">
-    <div class="media-body">
-      <h4 class="media-heading">Jana Knerova</h4>
-      <p>Jane is improving our transformation of <i>Cleome gynandra</i> and is focussing on assessing elements that generate
-      expression in BS cells of C<sub>3</sub> and C<sub>4</sub> plants. She previously worked in James Hartwell's lab in
-      Liverpool on Crassulacean Acid Metabolism.</p>
-    </div>
-  </div>
-</div>
-<br>
-
-<div class="row-fluid">
-  <div class="span6 media">
+ <div class="span6 media">
   <img class="pull-left media-object img-rounded" src="../assets/members/rp.jpg">
     <div class="media-body">
       <h4 class="media-heading">Robyn Phillips</h4>
@@ -174,40 +145,32 @@ Read more about them below.
 </div>
 <br>
 
+
 ### Research staff
 
 <div class="row-fluid">
   <div class="span6 media">
-  <img class="pull-left media-object img-rounded" src="../assets/members/cb.jpg">
-    <div class="media-body">
-    <h4 class="media-heading">Chris Boursnell</h4>
-    <p>Chris Boursnell earned his BSc at the University of Birmingham in Computer Science and Artificial Intelligence. After
-    completing a Masters degree in Computational Biology at the University of East Anglia he started as a Research Assistant at
-    Plant Sciences.</p>
-    <p>Chris is working on the Wild Rice MAGIC project in collaboration with IRRI. Chris enjoys programming in Ruby and Java.</p>
-    </div>
-  </div>
-    <div class="span6 media">
       <img class="pull-left media-object img-rounded" src="../assets/members/ss.jpg">
       <div class="media-body">
       <h4 class="media-heading">Susan Stanley</h4>
-      Susan is in charge of keeping the lab running! She has been instrumental in developing the transformation pipeline that
+      <p> Susan is in charge of keeping the lab running! She has been instrumental in developing the transformation pipeline that
       we use for <i>Cleome gynandra</i>. She is also responsible for plant and seed stock maintenance, ordering lab stocks, and
       time permiting, helps with specific research projects in the lab. She joined the lab in 2000 after having worked in
-      Industry.
+      Industry.</p>
     </div>
-   </div>
-  </div>
- <div class="row-fluid">
+    </div>
   <div class="span6 media">
-  <img class="pull-left media-object img-rounded" src="../assets/members/nw.jpg">
+    <img class="pull-left media-object img-rounded" src="../assets/members/nw.jpg">
     <div class="media-body">
     <h4 class="media-heading">Na Wang</h4>
     <p>Na did her MSc in Plant Genetics and Breeding at CAU (China Agricultural University), then she went to Biotech center of Beijing 
-	Da Bei Nong Technology Group Co. Ltd., she got 5 year rich experience of cereal genetic transformation there. She joined the Hibberd 
-	lab in 2017 as a research technician.</p>
+  Da Bei Nong Technology Group Co. Ltd., she got 5 year rich experience of cereal genetic transformation there. She joined the Hibberd 
+  lab in 2017 as a research technician.</p>
     </div>
-  </div>
+    </div>
+</div>
+
+<div class="row-fluid">
     <div class="span6 media">
       <img class="pull-left media-object img-rounded" src="../assets/members/rd.jpg">
       <div class="media-body">
@@ -220,22 +183,9 @@ Read more about them below.
 	  joining the Hibberd lab to work on crop transformation.</p>
     </div>
    </div>
-  </div>
-
-### Visitors
-
-<div class="row-fluid">
-  <div class="span6 media">
-    <img class="pull-left media-object img-rounded" src="../assets/members/yl.jpg">
-    <div class="media-body">
-      <h4 class="media-heading">Yingrui Li</h4>
-      <p> Yingrui Li graduated from the Nanjing Agricultural University with a BSc in Agronomy then doing MSc in Plant Nutrition at the 
-      same university. In 2016 she came to Cambridge as a visiting student. </p>
-    </div>
-  </div>
 </div>
-<br>
-<br>
+
+
 ## Past members
 #### Former PhD students
 <div>- Britta Kümpers: Analysis of C<sub>4</sub> photosynthesis using Flaveria </div>
@@ -253,6 +203,7 @@ Read more about them below.
 <div>- Sophie Janacek: Understanding the role of photosynthesis in veins of C<sub>3</sub> plants</div>
 <div>- Diana Marshall: Using Cleome to understand C<sub>4</sub> photosynthesis</div>
 <div>- Meredith Wilson: Genome structure and function in parasitic angiosperms</div>
+<div>- Jana Knerova: BS cell-specific expression of C<sub>3</sub> and C<sub>4</sub> plants</div>
 <br>
 #### Former Post-Doctoral Research Associates
 <div>- Dr. Sarah Covshoff: C<sub>4</sub> rice </div>
@@ -262,8 +213,10 @@ Read more about them below.
 <div>- Dr. Alex Johnson: Rice enhancer traps</div>
 <div>- Dr. Zheng Liu: Developing Cleome as a model</div>
 <div>- Dr. Elisabeth Truernit: Chloroplast isolation from specific cell types</div>
-<div>- Dr. Steven Burgess: C<sub>4</sub> rice </div>
+<div>- Dr. Steven Burgess: Gene regulation of C<sub>4</sub> photosynthesis in Cleome</div>
+<div>- Dr. Marek Szecowka: Using artificial scaffolds to increase photosynthetic efficiency in C<sub>3</sub> plants</div>
 <br>
 #### Former Research Staff
 <div>- Mathieu Grangé-Guerment: C<sub>4</sub> rice</div>
+<div>- Chris Boursnell: Wild Rice MAGIC project and <i>de novo</i> transcriptome assembly</div>
 <br>
