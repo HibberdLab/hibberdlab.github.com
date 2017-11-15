@@ -120,6 +120,17 @@ Read more about them below.
  </div>
 <br>
 
+<div class="row-fluid">
+    <div class="span6 media">
+    <img class="pull-left media-object img-rounded" src="../assets/members/pd.jpg">
+    <div class="media-body">
+      <h4 class="media-heading">Patrick Dickinson</h4>
+      <p>Patrick did his PhD with Phil Wigge at the Sainsbury Laboratory Cambridge University working on how plants sense temperature and how temperature is integrated with other environmental signals to control adaptive responses in Arabidopsis. This work found a role for chloroplast signalling in controlling diurnal patterns of thermotolerance. Since moving across Cambridge to the Hibberd lab in summer 2017, Patrick is working on how cell-type sepcific expression is controlled in <i>Arabidopsis</i> and how large increases in the expression of genes required for C<sub>4</sub> photosynthesis have evolved using <i>Arabidopsis</i> and the C<sub>4</sub> model species <i>Gynandropsis gynandra</i>. </p>
+    </div>
+    </div>
+  </div>
+  <br>
+
 ### PhD students
 
 <div class="row-fluid">
@@ -144,8 +155,18 @@ Read more about them below.
   </div>
 </div>
 <br>
+<div class="row-fluid">
+  <div class="span6 media">
+  <img class="pull-left media-object img-rounded" src="../assets/members/zad.jpg">
+    <div class="media-body">
+      <h4 class="media-heading">Zheng-Ao Di</h4>
+      <p> Zhengao got a BSc in Chemistry from Nankai University, China, in 2016. After graduation, he took an intern in Shanghai Institute of Plant Physiology & Ecology for 6 months investigating the functional targets of secondary metabolites by chemical proteomics. Zhengao joined the Hibberd lab in Sep 2017 as a PhD student. He is now studying how modifications to the spatial organisation of metabolic pathways can be used to manipulate their efficiency in two complementary strands of research. In the first, he aims to better understand how assembly of synthetic protein scaffolds affects pathway efficiency in plants. In the second, he aims to increase the distance between enzymes of photosynthesis by engineering a synthetic C<sub>4</sub> cycle in leaves of C<sub>3</sub> <i>A. thaliana</i>.</p>
+    </div>
+  </div>
 
 
+
+ </div>
 ### Research staff
 
 <div class="row-fluid">
@@ -154,7 +175,7 @@ Read more about them below.
       <div class="media-body">
       <h4 class="media-heading">Susan Stanley</h4>
       <p> Susan is in charge of keeping the lab running! She has been instrumental in developing the transformation pipeline that
-      we use for <i>Cleome gynandra</i>. She is also responsible for plant and seed stock maintenance, ordering lab stocks, and
+      we use for <i>Gynandropsis gynandra</i>. She is also responsible for plant and seed stock maintenance, ordering lab stocks, and
       time permiting, helps with specific research projects in the lab. She joined the lab in 2000 after having worked in
       Industry.</p>
     </div>
