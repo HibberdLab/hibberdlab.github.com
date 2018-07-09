@@ -162,6 +162,7 @@ Read more about them below.
   </div>
 </div>
 <br>
+
 <div class="row-fluid">
   <div class="span6 media">
   <img class="pull-left media-object img-rounded" src="../assets/members/zad.jpg">
@@ -170,6 +171,24 @@ Read more about them below.
       <p> Zhengao got a BSc in Chemistry from Nankai University, China, in 2016. After graduation, he took an intern in Shanghai Institute of Plant Physiology & Ecology for 6 months investigating the functional targets of secondary metabolites by chemical proteomics. Zhengao joined the Hibberd lab in Sep 2017 as a PhD student. He is now studying how modifications to the spatial organisation of metabolic pathways can be used to manipulate their efficiency in two complementary strands of research. In the first, he aims to better understand how assembly of synthetic protein scaffolds affects pathway efficiency in plants. In the second, he aims to increase the distance between enzymes of photosynthesis by engineering a synthetic C<sub>4</sub> cycle in leaves of C<sub>3</sub> <i>A. thaliana</i>.</p>
     </div>
   </div>
+ <div class="span6 media">
+  <img class="pull-left media-object img-rounded" src="../assets/members/cs.jpg">
+    <div class="media-body">
+      <h4 class="media-heading">Conor Simpson</h4>
+      <p> Conor is a BBSRC DTP student. He graduated with an MSci from the University of Nottingham. For his masters project at Nottingham he worked on the N-end rule pathway of programmed protein degradation. Currently, through exploiting the natural variation in the C<sub>4</sub> species
+      Gynanropsis gynandra, Conor is using specific breeding methods in
+      conjunction with quantitative genetics to calculate the heritability
+      and number of genes responsible for certain C<sub>4</sub> characteristics.
+      Additionally, with the aim of identifying loci responsible for complex
+      C<sub>4</sub> phenotypes, such as Kranz anatomy, he is using quantitative trait
+      loci (QTL) analysis to generate a high-density genetic map in G.
+      gynandra.</p>
+    </div>
+  </div>
+</div>
+<br>
+
+
 
 
 
