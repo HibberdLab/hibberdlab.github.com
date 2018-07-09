@@ -132,7 +132,7 @@ Read more about them below.
     <img class="pull-left media-object img-rounded" src="../assets/members/ai.jpg" >
     <div class="media-body">
       <h4 class="media-heading">Andy Plackett</h4>
-      <p>Ahmed ISMAIL got his PhD degree from Karlsruhe Institute of Technology (KIT), Germany, under the academic supervision of Prof. Dr. Peter Nick. He have got his PhD degree with SUMMA CUM LAUDE (1.0) in July 19th, 2013. In his PhD, he worked with stress signalling, in general, and salinity signalling, in particular. After getting his PhD degree, he had the chance to do part of his research under the supervision of Prof. Dr. Shin Takeda, Bioscience and Biotechnology Center, Nagoya University, Japan, investigating the role of Jasmonate signals in the response of rice to stress.  Afterward, he went to Belgium, working on analyzing water channels “Aquaporins” under the supervision of Prof. Dr. FRANCOIS CHAUMONT, UCL, Louvain, Belgium. In June, 2018, he join the lab of  Prof. Hibberd at Cambridge Univ. UK, as a Marie Sklodowska-Curie Individual European Fellow aiming to better understand the genetic basis of C<sub>4</sub>  photosynthesis. Specifically regions of the rice and sorghum genomes that are bound by transcription factors as leaves develop.</p>
+      <p>Ahmed ISMAIL got his PhD degree from Karlsruhe Institute of Technology (KIT), Germany, under the academic supervision of Prof. Dr. Peter Nick. He have got his PhD degree with SUMMA CUM LAUDE (1.0) in July 19th, 2013. In his PhD, he worked with stress signalling, in general, and salinity signalling, in particular. After getting his PhD degree, he had the chance to do part of his research under the supervision of Prof. Dr. Shin Takeda, Bioscience and Biotechnology Center, Nagoya University, Japan, investigating the role of Jasmonate signals in the response of rice to stress. Afterward, he went to Belgium, working on analyzing water channels “Aquaporins” under the supervision of Prof. Dr. FRANCOIS CHAUMONT, UCL, Louvain, Belgium. In June, 2018, he join the lab of  Prof. Hibberd at Cambridge Univ. UK, as a Marie Sklodowska-Curie Individual European Fellow aiming to better understand the genetic basis of C<sub>4</sub>  photosynthesis. Specifically regions of the rice and sorghum genomes that are bound by transcription factors as leaves develop.</p>
     </div>
   </div>
  </div>
@@ -176,7 +176,7 @@ Read more about them below.
     <div class="media-body">
       <h4 class="media-heading">Conor Simpson</h4>
       <p> Conor is a BBSRC DTP student. He graduated with an MSci from the University of Nottingham. For his masters project at Nottingham he worked on the N-end rule pathway of programmed protein degradation. Currently, through exploiting the natural variation in the C<sub>4</sub> species
-      Gynanropsis gynandra, Conor is using specific breeding methods in
+      <i>Gynanropsis gynandra</i>, Conor is using specific breeding methods in
       conjunction with quantitative genetics to calculate the heritability
       and number of genes responsible for certain C<sub>4</sub> characteristics.
       Additionally, with the aim of identifying loci responsible for complex
@@ -189,10 +189,6 @@ Read more about them below.
 <br>
 
 
-
-
-
- </div>
 ### Research staff
 
 <div class="row-fluid">
