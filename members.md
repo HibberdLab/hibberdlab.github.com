@@ -176,13 +176,10 @@ Read more about them below.
     <div class="media-body">
       <h4 class="media-heading">Conor Simpson</h4>
       <p> Conor is a BBSRC DTP student. He graduated with an MSci from the University of Nottingham. For his masters project at Nottingham he worked on the N-end rule pathway of programmed protein degradation. Currently, through exploiting the natural variation in the C<sub>4</sub> species
-      <i>Gynanropsis gynandra</i>, Conor is using specific breeding methods in
-      conjunction with quantitative genetics to calculate the heritability
-      and number of genes responsible for certain C<sub>4</sub> characteristics.
-      Additionally, with the aim of identifying loci responsible for complex
-      C<sub>4</sub> phenotypes, such as Kranz anatomy, he is using quantitative trait
-      loci (QTL) analysis to generate a high-density genetic map in G.
-      gynandra.</p>
+      <i>Gynanropsis gynandra</i>, Conor is using specific breeding methods in conjunction with quantitative genetics to calculate the heritability
+      and number of genes responsible for certain C<sub>4</sub> characteristics. Additionally, with the aim of identifying loci responsible for complex
+      C<sub>4</sub> phenotypes, such as Kranz anatomy, he is using quantitative trait loci (QTL) analysis to generate a high-density genetic map in <i>G.
+      gynandra</i>.</p>
     </div>
   </div>
 </div>
