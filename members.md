@@ -140,13 +140,14 @@ Read more about them below.
 
 <div class="row-fluid">
     <div class="span6 media">
-    <img class="pull-left media-object img-rounded" src="../assets/members/pd.jpg">
+    <img class="pull-left media-object img-rounded" src="../assets/members/ll.jpg">
     <div class="media-body">
       <h4 class="media-heading">Leonie Luginbuehl</h4>
       <p>Leonie did her PhD with Professor Giles Oldroyd at the John Innes Centre in Norwich, where she investigated the downstream transcriptional targets of three GRAS-domain transcription factors required for the establishment of the arbuscular mycorrhizal symbiosis in the model legume <i>Medicago truncatula</i>. Her work identified a lipid biosynthesis pathway that is upregulated in root cells colonized by arbuscular mycorrhizal fungi and provides the obligate biotrophic fungus with fatty acids as a major carbon source. In November 2017, Leonie joined the Hibberd lab as a postdoctoral scientist. Her research focuses on understanding the cell type specific regulation of photosynthetic capacity in rice leaves. </p>
     </div>
   </div>
-
+ </div>
+<br>
 
 
 ### PhD students
