@@ -129,22 +129,22 @@ Read more about them below.
     </div>
   </div>
    <div class="span6 media">
-    <img class="pull-left media-object img-rounded" src="../assets/members/ai.jpg" >
+      <img class="pull-left media-object img-rounded" src="../assets/members/ll.jpg">
     <div class="media-body">
-      <h4 class="media-heading">Ahmed Ismail</h4>
-      <p>Ahmed ISMAIL got his PhD degree from Karlsruhe Institute of Technology (KIT), Germany, under the academic supervision of Prof. Dr. Peter Nick. He have got his PhD degree with SUMMA CUM LAUDE (1.0) in July 19th, 2013. In his PhD, he worked with stress signalling, in general, and salinity signalling, in particular. After getting his PhD degree, he had the chance to do part of his research under the supervision of Prof. Dr. Shin Takeda, Bioscience and Biotechnology Center, Nagoya University, Japan, investigating the role of Jasmonate signals in the response of rice to stress. Afterward, he went to Belgium, working on analyzing water channels “Aquaporins” under the supervision of Prof. Dr. FRANCOIS CHAUMONT, UCL, Louvain, Belgium. In June, 2018, he join the lab of  Prof. Hibberd at Cambridge Univ. UK, as a Marie Sklodowska-Curie Individual European Fellow aiming to better understand the genetic basis of C<sub>4</sub>  photosynthesis. Specifically regions of the rice and sorghum genomes that are bound by transcription factors as leaves develop.</p>
-    </div>
+      <h4 class="media-heading">Leonie Luginbuehl</h4>
+      <p>Leonie did her PhD with Professor Giles Oldroyd at the John Innes Centre in Norwich, where she investigated the downstream transcriptional targets of three GRAS-domain transcription factors required for the establishment of the arbuscular mycorrhizal symbiosis in the model legume <i>Medicago truncatula</i>. Her work identified a lipid biosynthesis pathway that is upregulated in root cells colonized by arbuscular mycorrhizal fungi and provides the obligate biotrophic fungus with fatty acids as a major carbon source. In November 2017, Leonie joined the Hibberd lab as a postdoctoral scientist. Her research focuses on understanding the cell type specific regulation of photosynthetic capacity in rice leaves. </p>
+      </div>
   </div>
  </div>
 <br>
 
 <div class="row-fluid">
     <div class="span6 media">
-    <img class="pull-left media-object img-rounded" src="../assets/members/ll.jpg">
+	  <img class="pull-left media-object img-rounded" src="../assets/members/ai.jpg" >
     <div class="media-body">
-      <h4 class="media-heading">Leonie Luginbuehl</h4>
-      <p>Leonie did her PhD with Professor Giles Oldroyd at the John Innes Centre in Norwich, where she investigated the downstream transcriptional targets of three GRAS-domain transcription factors required for the establishment of the arbuscular mycorrhizal symbiosis in the model legume <i>Medicago truncatula</i>. Her work identified a lipid biosynthesis pathway that is upregulated in root cells colonized by arbuscular mycorrhizal fungi and provides the obligate biotrophic fungus with fatty acids as a major carbon source. In November 2017, Leonie joined the Hibberd lab as a postdoctoral scientist. Her research focuses on understanding the cell type specific regulation of photosynthetic capacity in rice leaves. </p>
-    </div>
+      <h4 class="media-heading">Ahmed Ismail</h4>
+      <p>Ahmed ISMAIL got his PhD degree from Karlsruhe Institute of Technology (KIT), Germany, under the academic supervision of Prof. Dr. Peter Nick. He have got his PhD degree with SUMMA CUM LAUDE (1.0) in July 19th, 2013. In his PhD, he worked with stress signalling, in general, and salinity signalling, in particular. After getting his PhD degree, he had the chance to do part of his research under the supervision of Prof. Dr. Shin Takeda, Bioscience and Biotechnology Center, Nagoya University, Japan, investigating the role of Jasmonate signals in the response of rice to stress. Afterward, he went to Belgium, working on analyzing water channels “Aquaporins” under the supervision of Prof. Dr. FRANCOIS CHAUMONT, UCL, Louvain, Belgium. In June, 2018, he join the lab of  Prof. Hibberd at Cambridge Univ. UK, as a Marie Sklodowska-Curie Individual European Fellow aiming to better understand the genetic basis of C<sub>4</sub>  photosynthesis. Specifically regions of the rice and sorghum genomes that are bound by transcription factors as leaves develop.</p>
+      </div>
   </div>
  </div>
 <br>
