@@ -146,8 +146,23 @@ Read more about them below.
       <p>Ahmed ISMAIL got his PhD degree from Karlsruhe Institute of Technology (KIT), Germany, under the academic supervision of Prof. Dr. Peter Nick. He have got his PhD degree with SUMMA CUM LAUDE (1.0) in July 19th, 2013. In his PhD, he worked with stress signalling, in general, and salinity signalling, in particular. After getting his PhD degree, he had the chance to do part of his research under the supervision of Prof. Dr. Shin Takeda, Bioscience and Biotechnology Center, Nagoya University, Japan, investigating the role of Jasmonate signals in the response of rice to stress. Afterward, he went to Belgium, working on analyzing water channels “Aquaporins” under the supervision of Prof. Dr. FRANCOIS CHAUMONT, UCL, Louvain, Belgium. In June, 2018, he join the lab of  Prof. Hibberd at Cambridge Univ. UK, as a Marie Sklodowska-Curie Individual European Fellow aiming to better understand the genetic basis of C<sub>4</sub>  photosynthesis. Specifically regions of the rice and sorghum genomes that are bound by transcription factors as leaves develop.</p>
       </div>
   </div>
+  <div class="span6 media">
+      <img class="pull-left media-object img-rounded" src="../assets/members/tbs.jpg">
+    <div class="media-body">
+      <h4 class="media-heading">Leonie Luginbuehl</h4>
+      <p>Tina did her PhD in plant biochemistry at ETH Zurich, and her main research interest lies in plant metabolism and photosynthesis. She joined the lab of Julian Hibberd in October 2018 as a Swiss National Science Foundation Research Fellow, studying cell-to-cell connectivity in leaves of the <i>Cleome</i> family and how this trait might have facilitated the evolution of C<sub>4</sub> photosynthesis. During her PhD in the lab of Professor Sam Zeeman, she discovered two chloroplast proteins that were originally thought to act as enzymes play other important non-canonical roles. This includes the plastidial NAD-dependent malate dehydrogenase, where the protein but not the enzymatic activity is required for proper chloroplast development. After her PhD, she worked at the John Innes Centre in the group of Professor Alison Smith, studying transgenic wheat lines with altered carbohydrate metabolism in the grain.</p>
+      </div>
+  </div>
+  
+  
  </div>
 <br>
+
+
+
+
+
+
 
 
 ### PhD students
