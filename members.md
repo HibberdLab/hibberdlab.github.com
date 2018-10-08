@@ -149,7 +149,7 @@ Read more about them below.
   <div class="span6 media">
       <img class="pull-left media-object img-rounded" src="../assets/members/tbs.jpg">
     <div class="media-body">
-      <h4 class="media-heading">Leonie Luginbuehl</h4>
+      <h4 class="media-heading">Tina B. Schreier</h4>
       <p>Tina did her PhD in plant biochemistry at ETH Zurich, and her main research interest lies in plant metabolism and photosynthesis. She joined the lab of Julian Hibberd in October 2018 as a Swiss National Science Foundation Research Fellow, studying cell-to-cell connectivity in leaves of the <i>Cleome</i> family and how this trait might have facilitated the evolution of C<sub>4</sub> photosynthesis. During her PhD in the lab of Professor Sam Zeeman, she discovered two chloroplast proteins that were originally thought to act as enzymes play other important non-canonical roles. This includes the plastidial NAD-dependent malate dehydrogenase, where the protein but not the enzymatic activity is required for proper chloroplast development. After her PhD, she worked at the John Innes Centre in the group of Professor Alison Smith, studying transgenic wheat lines with altered carbohydrate metabolism in the grain.</p>
       </div>
   </div>
