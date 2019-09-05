@@ -11,7 +11,7 @@ group: navigation
 ## Manually curated list
 ### 2019
 
-- [**Burgess, S.J. Reyna-Llorens, I., Stevenson, S.R., Singh, P., Jaeger, K.., Hibberd, J.M.** (2019) Genome-wide transcription factor binding in leaves from C<sub>3</sub> and C<sub>4</sub> grasses. The Plant Cell doi.org/10.1105/tpc.19.00078](http://www.plantcell.org/content/early/2019/08/19/tpc.19.00078)
+- [**Burgess, S.J. Reyna-Llorens, I., Stevenson, S.R., Singh, P., Jaeger, K.., Hibberd, J.M.** (2019) Genome-wide transcription factor binding in leaves from C<sub>3</sub> and C<sub>4</sub> grasses. The Plant Cell doi.org/10.1105/tpc.19.00078.\*](http://www.plantcell.org/content/early/2019/08/19/tpc.19.00078)
 
 - [**Hua, L. Hibberd, J.M.**(2019) An optimised protocol for isolation of high-quality RNA through laser capture microdissection of leaf material. Plant Direct doi: 10.1002/pld3.156](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6710646/)
 
