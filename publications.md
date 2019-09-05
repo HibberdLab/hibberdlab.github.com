@@ -42,12 +42,15 @@ group: navigation
 - [**Reyna-Llorens I., and Hibberd J.M. (2017)** Recruitment of pre-existing networks during the evolution of C4 photosynthesis. Philosophical Transactions Royal Society B.] doi:10.1098/rstb.2016.0386]
 
 - [**Ladejobi, O., Elderfield, J., Gardner, K.A., Gaynor, C., Hickey, J., Hibberd, J.M., Mackay, I.A., and Bentley, A.R.** (2017) Maximizing the potential of multi-parental crop populations. Applied and Translational Genomics 11: 9-17]
+(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5167364/)
 
 - [**Reeves, G. and Hibberd, J.M.** (2017) Broadening the spectrum of photosynthesis in the grass, Alloteropsis semialata. Plant Cell and Environment 39: 1871-1873]
+(https://onlinelibrary.wiley.com/doi/10.1111/pce.12685)
 
 ### 2016
 
 - [**Hibberd J.M.** (2017) A major advance in plastid transformation. Plant Physiology doi:doi.org/10.1104/pp.17.00992]
+(http://www.plantphysiol.org/content/175/1/5)
 
 - [**Reeves, G., Grangé-Guermente, M. J. And Hibberd, J. M.** (2016) Regulatory gateways for cell-specific gene expression in C<sub>4</sub> leaves with Kranz anatomy. J. Exp. Bot. doi:10.1093/jxb/erw438](http://jxb.oxfordjournals.org/content/early/2016/12/10/jxb.erw438)
 
