@@ -21,6 +21,7 @@ group: navigation
 (https://academic.oup.com/jxb/article/70/10/2773/5370418)
 
 - [**Giuliani, R., Karki, S. Covshoff, S., Lin, H-C., Coe, R.A., Koteyeva, N.K., Evans, M.A., Quick, W.P.., von Caemmerer, S., Furbank, R.T., Hibberd, J.M., Edwards, G.E., Cousins, A.B.** (2019) Transgenic maize phosphoenolpyruvate carboxylase alters leaf–atmosphere CO2 and 13CO2 exchanges in Oryza sativa Photosynthesis Research doi.org/10.1007/s11120-019-00655-4]
+(https://link.springer.com/article/10.1007/s11120-019-00655-4)
 
 - [**Schreier, T.B. and Hibberd J.M.** (2019) Variations in the Calvin–Benson cycle: selection pressures and optimization? Journal of Experimental Botany doi.org/10.1093/jxb/erz215.
 (https://academic.oup.com/jxb/article/70/6/1697/5420666)
