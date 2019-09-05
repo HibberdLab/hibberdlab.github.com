@@ -35,7 +35,7 @@ group: navigation
 
 - [Feroz, H. Ferlez, B., Lefoulon, C., Ren, T., Baker, C.S., Gajewski, J.P., Lugar, D.J., Gaudana, S.B., Butler, P.J., Hühn, J., Lamping, M., Parak, W.J., **Hibberd, J.M.,** Kerfeld, C.A., Smirnoff, N., Blatt, M. R., Golbeck, J.H., and Kumar, M.** (2018) Light-Driven Chloride Transport Kinetics of Halorhodopsin. Biophysical Journal 115: 353-360](http://www.cell.com/biophysj/fulltext/S0006-3495(18)30685-4)
 
-\*  **We report two cis-elements found in coding sequence (duons) that control bundle sheath expression in C<sub>4</sub> leaves. These duons appear ancient, being found in ancestral C<syb>3</sub> leaves as well as the genomes of algae. These ancient sequencs appear to have been excapted during evolution of the C<sub>4</sub> pathway.**
+\*  **We report two cis-elements found in coding sequence (duons) that control bundle sheath expression in C<sub>4</sub> leaves. These duons appear ancient, being found in ancestral C<syb>3<</sub> leaves as well as the genomes of algae. These ancient sequencs appear to have been excapted during evolution of the C<sub>4</sub> pathway.**
 
 \**  **We report that within sexually compatible accesions of the C<sub>4</sub>) species G. gynandra, which is sister to A. thaliana, there is significant natural varation for multiple traits that underpin the C<sub>4</sub> pathway.**
 
