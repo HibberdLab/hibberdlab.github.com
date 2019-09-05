@@ -21,17 +21,23 @@ group: navigation
 
 - [**Schreier, T.B. and Hibberd J.M.** (2019) Variations in the Calvin–Benson cycle: selection pressures and optimization? Journal of Experimental Botany doi.org/10.1093/jxb/erz215.](https://academic.oup.com/jxb/article/70/6/1697/5420666)
 
+\*  **We report ancient cis-elements, conserved in sequence and position in C<sub>3</sub> and C<sub>4</sub> grasses, as well as a genome-wide landscape of transcription factor binding in these leaves.**
+
 ### 2018
 
-- [**Reyna-Llorens I, Burgess S.J., Reeves G., Singh P., Stevenson S.R., Williams B.P., Stanley S. and Hibberd J.M.** (2018) Ancient duons may underpin spatial patterning of gene expression in C<sub>4</sub> leaves. Proceedings of the National Academy of Sciences USA doi/10.1073/pnas.1720576115.](https://www.pnas.org/content/115/8/1931.short)
+- [**Reyna-Llorens I, Burgess S.J., Reeves G., Singh P., Stevenson S.R., Williams B.P., Stanley S. and Hibberd J.M.** (2018) Ancient duons may underpin spatial patterning of gene expression in C<sub>4</sub> leaves. Proceedings of the National Academy of Sciences USA doi/10.1073/pnas.1720576115.\*](https://www.pnas.org/content/115/8/1931.short)
 
 - [Kirschner, S., **Woodfield,** H., Prusko, K., Koczor, M., Gowik, U., **Hibberd, J.M.** and Westhoff, P. (2018) Expression of SULTR2;2 in the Arabidopsis bundle sheath and vein cells is mediated by a positive regulator. Journal of Experimental Botany https://doi.org/10.1093/jxb/ery263.](https//academic.oup.com/jxb/article/69/20/4897/5056055)
 
 - [**Borba, A.R,** Serra, T.S., Gorska, A., Gouveia, P., Cordeiro, A.M, **Reyna-Llorens, I, Knevrova, J.,** Barros, P.M, Abreu, I.A, Oliveira, M.M., **Hibberd J.M.** and Saibo, N.** (2018) Synergistic binding of bHLH transcription factors to the promoter of the maize NADP-ME gene used in C<sub>4</sub> photosynthesis is based on an ancient code found in the ancestral C<sub>3</sub> state (2018) Molecular Biology and Evolution doi:10.1093/molbev/msy060](https://academic.oup.com/mbe/article/35/7/1690/4962173)
 
-- [**Reeves, G. Singh, P., Rossberg, T.A,** Sogbohossou, D., Schranz, M.E., **Hibberd, J.M.** (2018) Natural variation within a species for traits underpinning C<sub>4</sub> photosynthesis. Plant Physiology doi.org/10.1104/pp.18.00168](http://www.plantphysiol.org/content/177/2/504)
+- [**Reeves, G. Singh, P., Rossberg, T.A,** Sogbohossou, D., Schranz, M.E., **Hibberd, J.M.** (2018) Natural variation within a species for traits underpinning C<sub>4</sub> photosynthesis. Plant Physiology doi.org/10.1104/pp.18.00168.\*](http://www.plantphysiol.org/content/177/2/504)
 
 - [Feroz, H. Ferlez, B., Lefoulon, C., Ren, T., Baker, C.S., Gajewski, J.P., Lugar, D.J., Gaudana, S.B., Butler, P.J., Hühn, J., Lamping, M., Parak, W.J., **Hibberd, J.M.,** Kerfeld, C.A., Smirnoff, N., Blatt, M. R., Golbeck, J.H., and Kumar, M.** (2018) Light-Driven Chloride Transport Kinetics of Halorhodopsin. Biophysical Journal 115: 353-360](http://www.cell.com/biophysj/fulltext/S0006-3495(18)30685-4)
+
+\*  **We report two cis-elements found in coding sequence (duons) that control bundle sheath expression in C<sub>4</sub> leaves. These duons appear ancient, being found in ancestral C<syb>3</sub> leaves as well as the genomes of algae. These ancient sequencs appear to have been excapted during evolution of hte C<sub>4</sub> pathway.**
+
+\*  **We report that within sexually compatible accesions of the C<sub>4</sub>) species G. gynandra, which is sister to A. thaliana, there is significant natural varation for multiple traits that underpin the C<sub>4</sub> pathway.**
 
 ### 2017
 
@@ -57,13 +63,15 @@ group: navigation
 
 - [**Hibberd, J.M.** and Furbank, R.T. (2016) Fifty years of C4 photosynthesis. Nature, 538: 177-179.](http://www.nature.com/nature/journal/v538/n7624/full/538177b.html)
 
-- [**Burgess, S.J.**, Granero-Moya, I., **Grangé-Guermente, M.J., Boursnell, C.**, Terry, M.J. and **Hibberd J.M.** (2016) Ancestral light and chloroplast regulation form the foundations for C<sub>4</sub> gene expression. Nature Plants, doi: 10.1038/NPLANTS.2016.161](http://www.nature.com/articles/nplants2016161)
+- [**Burgess, S.J.**, Granero-Moya, I., **Grangé-Guermente, M.J., Boursnell, C.**, Terry, M.J. and **Hibberd J.M.** (2016) Ancestral light and chloroplast regulation form the foundations for C<sub>4</sub> gene expression. Nature Plants, doi: 10.1038/NPLANTS.2016.161.\*](http://www.nature.com/articles/nplants2016161)
 
 - [**Smith-Unna, R., Boursnell, C.**, Patro, R.,**Hibberd, J.M.**, Kelly, S. (2016). TransRate: reference free quality assessment of de-novo transcriptome assemblies. Genome Research, doi: 10.1101/gr.196469.115.](http://genome.cshlp.org/content/early/2016/06/01/gr.196469.115.abstract)
 
 - [**Aubry, S.,** Aresheva, O., **Reyna-Llorens, I., Smith-Unna, R.D., Hibberd, J.M.,** Genty, B. (2016) A specific transcriptome signature for guard cells from the C<sub>4</sub> plant <i>Gynandropsis gynandra</i>. Plant Physiology doi:10.1104/pp.15.01203](http://www.plantphysiol.org/content/early/2016/01/27/pp.15.01203.abstract)
 
-- [**Williams, B., Burgess, S.J., Reyna-Llorens, I., Knerova, J., Aubry, S., Stanley, S., Hibberd, J.M.** (2016) An untranslated cis-element regulates the accumulation of multiple C<sub>4</sub> enzymes in <i>Gynandropsis gynandra</i> mesophyll cells. Plant Cell. doi:10.1105/tpc.15.00570. \*](http://www.plantcell.org/content/early/2016/01/14/tpc.15.00570.full.pdf+html)
+- [**Williams, B., Burgess, S.J., Reyna-Llorens, I., Knerova, J., Aubry, S., Stanley, S., Hibberd, J.M.** (2016) An untranslated cis-element regulates the accumulation of multiple C<sub>4</sub> enzymes in <i>Gynandropsis gynandra</i> mesophyll cells. Plant Cell. doi:10.1105/tpc.15.00570.\*](http://www.plantcell.org/content/early/2016/01/14/tpc.15.00570.full.pdf+html)
+
+\*  **We show that C<sub>4</sub> ortholog genes in C<sub>3</sub> plants are under control of light and chloroplast signalling, strongly implying they below to gene regulatory networks associated with photosynthesis in the ancestral C<sub>3</sub> state, and therefore that as the C<sub>4</sub> pathway evolves, their integration into these networks simply become strenghtened.**
 
 \*  **We report the first regulon that acts on multiple genes expressed preferentially in mesophyll cells of C<sub>4</sub> plants. The sequence is found in untranslated regions of <i>CA</i> and <i>PPDK</i> genes, and interestingly is found in ancestral C<sub>3</sub> genes.**
 
