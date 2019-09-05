@@ -9,8 +9,45 @@ group: navigation
 # Publications
 
 ## Manually curated list
+### 2019
+
+- [**Burgess, S.J. Reyna-Llorens, I., Stevenson, S.R., Singh, P., Jaeger, K.., Hibberd, J.M.** (2019) Genome-wide transcription factor binding in leaves from C<sub>3</sub> and C<sub>4</sub> grasses. The Plant Cell doi.org/10.1105/tpc.19.00078]
+
+- [**Hua, L. Hibberd, J.M.**(2019) An optimised protocol for isolation of high-quality RNA through laser capture microdissection of leaf material. Plant Direct doi: 10.1002/pld3.156]
+
+- [**Giuliani R, Karki S, Covshoff S, Lin H-C, Coe RA, Koteyeva NC, WP Quick, Von Caemmerer S, Furbank RT, Hibberd JM, Edwards GE, Cousins AB.** (2019) Knockdown of glycine decarboxylase complex alters photorespiratory carbon isotope fractionation in Oryza sativa leaves. Journal of Experimental Botany doi: 10.1093/jxb/erz083]
+
+- [**Giuliani, R., Karki, S. Covshoff, S., Lin, H-C., Coe, R.A., Koteyeva, N.K., Evans, M.A., Quick, W.P.., von Caemmerer, S., Furbank, R.T., Hibberd, J.M., Edwards, G.E., Cousins, A.B.** (2019) Transgenic maize phosphoenolpyruvate carboxylase alters leaf–atmosphere CO2 and 13CO2 exchanges in Oryza sativa Photosynthesis Research doi.org/10.1007/s11120-019-00655-4]
+
+- [**Schreier, T.B. and Hibberd J.M.** (2019) Variations in the Calvin–Benson cycle: selection pressures and optimization? Journal of Experimental Botany doi.org/10.1093/jxb/erz215.
+
+### 2018
+
+- [**Reyna-Llorens I, Burgess S.J., Reeves G., Singh P., Stevenson S.R., Williams B.P., Stanley S. and Hibberd J.M.** (2018) Ancient duons may underpin spatial patterning of gene expression in C<sub>4</sub> leaves. Proceedings of the National Academy of Sciences USA doi/10.1073/pnas.1720576115.]
+
+- [**Kirschner, S., Woodfield, H., Prusko, K., Koczor, M., Gowik, U., Hibberd, J.M. and Westhoff, P.** (2018) Expression of SULTR2;2 in the Arabidopsis bundle sheath and vein cells is mediated by a positive regulator. Journal of Experimental Botany https://doi.org/10.1093/jxb/ery263.]
+
+- [**Borba, A.R, Serra, T.S., Gorska, A., Gouveia, P., Cordeiro, A.M, Reyna-Llorens, I, Knevrova, J., Barros, P.M, Abreu, I.A, Oliveira, M.M., Hibberd J.M. and Saibo, N.** (2018) Synergistic binding of bHLH transcription factors to the promoter of the maize NADP-ME gene used in C<sub>4</sub> photosynthesis is based on an ancient code found in the ancestral C<sub>3</sub> state (2018) Molecular Biology and Evolution doi:10.1093/molbev/msy060]
+
+- [**Reeves, G. Singh, P., Rossberg, T.A, Sogbohossou, D., Schranz, M.E., Hibberd, J.M.** (2018) Natural variation within a species for traits underpinning C<sub>4</sub> photosynthesis. Plant Physiology doi.org/10.1104/pp.18.00168]
+
+- [**Feroz, H. Ferlez, B., Lefoulon, C., Ren, T., Baker, C.S., Gajewski, J.P., Lugar, D.J., Gaudana, S.B., Butler, P.J., Hühn, J., Lamping, M., Parak, W.J., Hibberd, J.M., Kerfeld, C.A., Smirnoff, N., Blatt, M. R., Golbeck, J.H., and Kumar, M.** (2018) Light-Driven Chloride Transport Kinetics of Halorhodopsin. Biophysical Journal 115: 353-360]
+
+### 2017
+
+- [**Kümpers, B.M.C., Burgess, S.J. Reyna-Llorens, I., Smith-Unna, R., Boursnell, C., and Hibberd, J.M**(2017) Shared characteristics underpinning C4 leaf maturation derived from analysis of multiple C<sub>3</sub> and C<sub>4</sub> species of Flaveria. Journal of Experimental Botany doi:10.1093/jxb/erw488]
+
+- [**Juric, I., Gonzalez-Perez, V., Hibberd, J. M., Edwards, G., Burroughs, N.J.** (2017) Size matters for single-cell C<sub>4</sub> photosynthesis in Bienertia. Journal of Experimental Botany] doi:10.1093/jxb/erq374]
+
+- [**Reyna-Llorens I., and Hibberd J.M. (2017)** Recruitment of pre-existing networks during the evolution of C4 photosynthesis. Philosophical Transactions Royal Society B.] doi:10.1098/rstb.2016.0386]
+
+- [**Ladejobi, O., Elderfield, J., Gardner, K.A., Gaynor, C., Hickey, J., Hibberd, J.M., Mackay, I.A., and Bentley, A.R.** (2017) Maximizing the potential of multi-parental crop populations. Applied and Translational Genomics 11: 9-17]
+
+- [**Reeves, G. and Hibberd, J.M.** (2017) Broadening the spectrum of photosynthesis in the grass, Alloteropsis semialata. Plant Cell and Environment 39: 1871-1873]
 
 ### 2016
+
+- [**Hibberd J.M.** (2017) A major advance in plastid transformation. Plant Physiology doi:doi.org/10.1104/pp.17.00992]
 
 - [**Reeves, G., Grangé-Guermente, M. J. And Hibberd, J. M.** (2016) Regulatory gateways for cell-specific gene expression in C<sub>4</sub> leaves with Kranz anatomy. J. Exp. Bot. doi:10.1093/jxb/erw438](http://jxb.oxfordjournals.org/content/early/2016/12/10/jxb.erw438)
 
@@ -20,7 +57,7 @@ group: navigation
 
 - [**Hibberd, J.M.** And Furbank, R.T. (2016) Fifty years of C4 photosynthesis. Nature, 538: 177-179.](http://www.nature.com/nature/journal/v538/n7624/full/538177b.html)
 
-- [**Burgess, S.J.**, Granero-Moya, I., **Grangé-Guermente, M.J., Boursnell, C.**, Terry, M.J. and **Hibberd J.M.** (2016) Ancestral light and chloroplast regulation form the foundations for C4 gene expression. Nature Plants, doi: 10.1038/NPLANTS.2016.161](http://www.nature.com/articles/nplants2016161)
+- [**Burgess, S.J.**, Granero-Moya, I., **Grangé-Guermente, M.J., Boursnell, C.**, Terry, M.J. and **Hibberd J.M.** (2016) Ancestral light and chloroplast regulation form the foundations for C<sub>4</sub> gene expression. Nature Plants, doi: 10.1038/NPLANTS.2016.161](http://www.nature.com/articles/nplants2016161)
 
 - [**Smith-Unna, R., Boursnell, C.**, Patro, R.,**Hibberd, J.M.**, Kelly, S. (2016). TransRate: reference free quality assessment of de-novo transcriptome assemblies. Genome Research, doi: 10.1101/gr.196469.115.](http://genome.cshlp.org/content/early/2016/06/01/gr.196469.115.abstract)
 
