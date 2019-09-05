@@ -29,15 +29,15 @@ group: navigation
 
 - [Kirschner, S., **Woodfield,** H., Prusko, K., Koczor, M., Gowik, U., **Hibberd, J.M.** and Westhoff, P. (2018) Expression of SULTR2;2 in the Arabidopsis bundle sheath and vein cells is mediated by a positive regulator. Journal of Experimental Botany https://doi.org/10.1093/jxb/ery263.](https//academic.oup.com/jxb/article/69/20/4897/5056055)
 
-- [**Borba, A.R,** Serra, T.S., Gorska, A., Gouveia, P., Cordeiro, A.M, **Reyna-Llorens, I, Knevrova, J.,** Barros, P.M, Abreu, I.A, Oliveira, M.M., **Hibberd J.M.** and Saibo, N.** (2018) Synergistic binding of bHLH transcription factors to the promoter of the maize NADP-ME gene used in C<sub>4</sub> photosynthesis is based on an ancient code found in the ancestral C<sub>3</sub> state (2018) Molecular Biology and Evolution doi:10.1093/molbev/msy060](https://academic.oup.com/mbe/article/35/7/1690/4962173)
+- [**Borba, A.R,** Serra, T.S., Gorska, A., Gouveia, P., Cordeiro, A.M, **Reyna-Llorens, I, Knevrova, J.,** Barros, P.M, Abreu, I.A, Oliveira, M.M., **Hibberd J.M.** and Saibo, N. (2018) Synergistic binding of bHLH transcription factors to the promoter of the maize NADP-ME gene used in C<sub>4</sub> photosynthesis is based on an ancient code found in the ancestral C<sub>3</sub> state (2018) Molecular Biology and Evolution doi:10.1093/molbev/msy060](https://academic.oup.com/mbe/article/35/7/1690/4962173)
 
-- [**Reeves, G. Singh, P., Rossberg, T.A,** Sogbohossou, D., Schranz, M.E., **Hibberd, J.M.** (2018) Natural variation within a species for traits underpinning C<sub>4</sub> photosynthesis. Plant Physiology doi.org/10.1104/pp.18.00168.\*](http://www.plantphysiol.org/content/177/2/504)
+- [**Reeves, G. Singh, P., Rossberg, T.A,** Sogbohossou, D., Schranz, M.E., **Hibberd, J.M.** (2018) Natural variation within a species for traits underpinning C<sub>4</sub> photosynthesis. Plant Physiology doi.org/10.1104/pp.18.00168.\**](http://www.plantphysiol.org/content/177/2/504)
 
 - [Feroz, H. Ferlez, B., Lefoulon, C., Ren, T., Baker, C.S., Gajewski, J.P., Lugar, D.J., Gaudana, S.B., Butler, P.J., Hühn, J., Lamping, M., Parak, W.J., **Hibberd, J.M.,** Kerfeld, C.A., Smirnoff, N., Blatt, M. R., Golbeck, J.H., and Kumar, M.** (2018) Light-Driven Chloride Transport Kinetics of Halorhodopsin. Biophysical Journal 115: 353-360](http://www.cell.com/biophysj/fulltext/S0006-3495(18)30685-4)
 
 \*  **We report two cis-elements found in coding sequence (duons) that control bundle sheath expression in C<sub>4</sub> leaves. These duons appear ancient, being found in ancestral C<syb>3</sub> leaves as well as the genomes of algae. These ancient sequencs appear to have been excapted during evolution of hte C<sub>4</sub> pathway.**
 
-\*  **We report that within sexually compatible accesions of the C<sub>4</sub>) species G. gynandra, which is sister to A. thaliana, there is significant natural varation for multiple traits that underpin the C<sub>4</sub> pathway.**
+\**  **We report that within sexually compatible accesions of the C<sub>4</sub>) species G. gynandra, which is sister to A. thaliana, there is significant natural varation for multiple traits that underpin the C<sub>4</sub> pathway.**
 
 ### 2017
 
