@@ -180,15 +180,15 @@ Read more about them below.
       <h4 class="media-heading">Robyn Phillips</h4>
       <p> Robyn graduated with a BA in Biological Sciences from the University of Oxford in 2015. She joined the lab as a BBSRC DTP student in 2016 to work on activating photosynthesis in non-photosynthetic cells for improved crop productivity.</p>
     </div>
-</div>
-<div class="row-fluid">
+  </div>
   <div class="span6 media">
   <img class="pull-left media-object img-rounded" src="../assets/members/zad.jpg">
     <div class="media-body">
       <h4 class="media-heading">Zheng-Ao Di</h4>
       <p> Zhengao got a BSc in Chemistry from Nankai University, China, in 2016. After graduation, he took an intern in Shanghai Institute of Plant Physiology & Ecology for 6 months investigating the functional targets of secondary metabolites by chemical proteomics. Zhengao joined the Hibberd lab in Sep 2017 as a PhD student. He is now studying how modifications to the spatial organisation of metabolic pathways can be used to manipulate their efficiency in two complementary strands of research. In the first, he aims to better understand how assembly of synthetic protein scaffolds affects pathway efficiency in plants. In the second, he aims to increase the distance between enzymes of photosynthesis by engineering a synthetic C<sub>4</sub> cycle in leaves of C<sub>3</sub> <i>A. thaliana</i>.</p>
-    </div>
-</div>
+  </div>
+  </div>
+ </div>
 <br>
 
  <div class="row-fluid">
@@ -203,9 +203,6 @@ Read more about them below.
       gynandra</i>.</p>
     </div>
   </div>
-</div>
-<br>
-
 
 ### Masters Students
 
@@ -218,8 +215,6 @@ Read more about them below.
     </div>
   </div>
 </div>
-<br>
-
 
 ### Research staff
 
