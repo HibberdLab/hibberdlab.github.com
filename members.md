@@ -104,17 +104,17 @@ Read more about them below.
 
 <div class="row-fluid">
     <div class="span6 media">
-    <img class="pull-left media-object img-rounded" src="../assets/members/mtl.jpg">
+    <img class="pull-left media-object img-rounded" src="../assets/members/ne.jpg">
     <div class="media-body">
-      <h4 class="media-heading">Ming-Tsung Louis Wu</h4>
-      <p>Louis graduated from National Taiwan University with a Phd in Plant Science in 2015. His doctoral research focused on miRNA mediated regulation under oxidative stress in rice. In 2016, he started a post-doctoral position at the Institute of Plant and Microbial Biology of Academia Sinica where he studied the role of coilin protein in the alternative splicing of pre-mRNA in Arabidopsis thaliana. In 2017, he joined the Hibberd lab and is currently working on developing an analysis pipeline of de novo transcriptome to conduct a large-scale modeling analysis of C<sub>4</sub> photosynthesis.</p>
+      <h4 class="media-heading">Natasha Elina</h4>
+      <p>Natasha's aim is to understand the assembly of the photosynthetic apparatus and then manipulate it to induce chloroplast development in cells that are not normally green with the overarching aim to increase photosynthetic efficiency and crop productivity. Studies in Arabidopsis thaliana provide good understanding of how photosynthetic apparatus in assembled, however, this knowledge is not easily translated into grasses (including a staple monocot crop, rice). This is due to a number of whole genome duplication events and a whole genome triplication event that separate grasses from Arabidopsis. She is using a liverwort, Marchantia polymorpha, which, due to a low complexity of its genome, is an excellent tool to gain understanding of the basic ancestral pathways of the photosynthetic machinery development enabling translation of this knowledge into monocot crops.</p>
     </div>
   </div>
    <div class="span6 media">
-    <img class="pull-left media-object img-rounded" src="../assets/members/ap.jpg" >
+    <img class="pull-left media-object img-rounded" src="../assets/members/lc.jpg" >
     <div class="media-body">
-      <h4 class="media-heading">Andy Plackett</h4>
-      <p>Andy did his PhD at Rothamsted Research (2007-2011), studying how the plant hormone gibberellin regulates floral and pollen development in the model flowering plant Arabidopsis thaliana. As a postdoc in jane Langdale’s lab at the University of Oxford (2011-2017) Andy worked to investigate the evolution of plant shoots, helping to establish a transgenic system for the candidate model fern Ceratopteris richardii via microparticle bombardment and then using this system to study the regulatory functions of the plant hormone auxin and the transcription factor LEAFY in the fern shoot.  Andy joined the Hibberd lab in May 2017 as part of a project to understand the differential regulation of chloroplast development between mesophyll and bundle sheath cells in rice (Oryza sativa).</p>
+      <h4 class="media-heading">Lee Cackett</h4>
+      <p>Lee got her PhD in 2020 from the Molecular and Cellular Biology Department at the University of Cape Town, South Africa. During her PhD, she identified a role for auxin and auxin-related genes during the plant response to the ionic component of salinity stress. Lee joined the Hibberd lab in March 2020. Here she will be working to identify and characterise master transcriptional regulators of photosynthesis in rice and analyse the transcriptional changes in maize bundle sheath and mesophyll cells during growth in photoinhibitory conditions. </p>
     </div>
   </div>
  </div>
@@ -140,10 +140,10 @@ Read more about them below.
 
 <div class="row-fluid">
     <div class="span6 media">
-	  <img class="pull-left media-object img-rounded" src="../assets/members/ai.jpg" >
+	  <img class="pull-left media-object img-rounded" src="../assets/members/kb.jpg" >
     <div class="media-body">
-      <h4 class="media-heading">Ahmed Ismail</h4>
-      <p>Ahmed ISMAIL got his PhD degree from Karlsruhe Institute of Technology (KIT), Germany, under the academic supervision of Prof. Dr. Peter Nick. He have got his PhD degree with SUMMA CUM LAUDE (1.0) in July 19th, 2013. In his PhD, he worked with stress signalling, in general, and salinity signalling, in particular. After getting his PhD degree, he had the chance to do part of his research under the supervision of Prof. Dr. Shin Takeda, Bioscience and Biotechnology Center, Nagoya University, Japan, investigating the role of Jasmonate signals in the response of rice to stress. Afterward, he went to Belgium, working on analyzing water channels “Aquaporins” under the supervision of Prof. Dr. FRANCOIS CHAUMONT, UCL, Louvain, Belgium. In June, 2018, he join the lab of  Prof. Hibberd at Cambridge Univ. UK, as a Marie Sklodowska-Curie Individual European Fellow aiming to better understand the genetic basis of C<sub>4</sub>  photosynthesis. Specifically regions of the rice and sorghum genomes that are bound by transcription factors as leaves develop.</p>
+      <h4 class="media-heading">Kumari Billakurthi</h4>
+      <p>Kumari got her PhD in December 2018 from Heinrich Heine University, Germany. She had performed EMS mutagenesis and activation tagging screens in Arabidopsis thaliana and had analysed comparative transcriptomics of leaf developmental gradients from C3 and C4 Flaveria species to identify novel genes that determine C4 leaf anatomy. She then continued in the same group as a postdoctoral researcher until the end of 2019. In April 2020, she has joined the Hibberd’s group as a research associate to investigate how chloroplasts biogenesis is regulated by cell division patterns in rice (Oryza sativa) bundle sheath cells.</p>
       </div>
   </div>
   <div class="span6 media">
@@ -153,7 +153,21 @@ Read more about them below.
       <p>Tina did her PhD in plant biochemistry at ETH Zurich, and her main research interest lies in plant metabolism and photosynthesis. She joined the lab of Julian Hibberd in October 2018 as a Swiss National Science Foundation Research Fellow, studying cell-to-cell connectivity in leaves of the <i>Cleome</i> family and how this trait might have facilitated the evolution of C<sub>4</sub> photosynthesis. During her PhD in the lab of Professor Sam Zeeman, she discovered two chloroplast proteins that were originally thought to act as enzymes play other important non-canonical roles. This includes the plastidial NAD-dependent malate dehydrogenase, where the protein but not the enzymatic activity is required for proper chloroplast development. After her PhD, she worked at the John Innes Centre in the group of Professor Alison Smith, studying transgenic wheat lines with altered carbohydrate metabolism in the grain.</p>
       </div>
   </div>
-  
+  <br>
+
+<div class="row-fluid">
+  <div class="span6 media">
+  <img class="pull-left media-object img-rounded" src="../assets/members/gr.jpg">
+    <div class="media-body">
+      <h4 class="media-heading">Greg Reeves</h4>
+      <p> Greg has a BSc in Genetics and MSc in Horticulture both from New Mexico State University where he studied the inheritance of 
+      disease resistance and spicy flavour in chilli peppers. He discovered a new gene that inhibits disease resistance, helped sequence 
+      the chilli pepper genome and developed one of the hottest peppers in the world. Additionally, he helped identify novel genes 
+      involved in photosynthesis from large-scale mutant screening in green algae at the Carnegie Institute for Science, Stanford. At 
+      Cambridge, he completed his PhD investigating the genetic basis for C4 photosynthesis from natural variation among C4 plants and traditional gene 
+      mapping approaches to identify which genes are involved in developing the C<sub>4</sub> pathway. </p>
+    </div>
+  </div>
   
  </div>
 <br>
@@ -169,27 +183,12 @@ Read more about them below.
 
 <div class="row-fluid">
   <div class="span6 media">
-  <img class="pull-left media-object img-rounded" src="../assets/members/gr.jpg">
-    <div class="media-body">
-      <h4 class="media-heading">Greg Reeves</h4>
-      <p> Greg has a BSc in Genetics and MSc in Horticulture both from New Mexico State University where he studied the inheritance of 
-      disease resistance and spicy flavour in chilli peppers. He discovered a new gene that inhibits disease resistance, helped sequence 
-      the chilli pepper genome and developed one of the hottest peppers in the world. Additionally, he helped identify novel genes 
-      involved in photosynthesis from large-scale mutant screening in green algae at the Carnegie Institute for Science, Stanford. At 
-      Cambridge, he is investigating the genetic basis for C4 photosynthesis from natural variation among C4 plants and traditional gene 
-      mapping approaches to identify which genes are involved in developing the C<sub>4</sub> pathway.</p>
-    </div>
-  </div>
- <div class="span6 media">
   <img class="pull-left media-object img-rounded" src="../assets/members/rp.jpg">
     <div class="media-body">
       <h4 class="media-heading">Robyn Phillips</h4>
       <p> Robyn graduated with a BA in Biological Sciences from the University of Oxford in 2015. She joined the lab as a BBSRC DTP student in 2016 to work on activating photosynthesis in non-photosynthetic cells for improved crop productivity.</p>
     </div>
-  </div>
 </div>
-<br>
-
 <div class="row-fluid">
   <div class="span6 media">
   <img class="pull-left media-object img-rounded" src="../assets/members/zad.jpg">
@@ -197,8 +196,11 @@ Read more about them below.
       <h4 class="media-heading">Zheng-Ao Di</h4>
       <p> Zhengao got a BSc in Chemistry from Nankai University, China, in 2016. After graduation, he took an intern in Shanghai Institute of Plant Physiology & Ecology for 6 months investigating the functional targets of secondary metabolites by chemical proteomics. Zhengao joined the Hibberd lab in Sep 2017 as a PhD student. He is now studying how modifications to the spatial organisation of metabolic pathways can be used to manipulate their efficiency in two complementary strands of research. In the first, he aims to better understand how assembly of synthetic protein scaffolds affects pathway efficiency in plants. In the second, he aims to increase the distance between enzymes of photosynthesis by engineering a synthetic C<sub>4</sub> cycle in leaves of C<sub>3</sub> <i>A. thaliana</i>.</p>
     </div>
-  </div>
- <div class="span6 media">
+</div>
+<br>
+
+ <div class="row-fluid">
+  <div class="span6 media">
   <img class="pull-left media-object img-rounded" src="../assets/members/cs.jpg">
     <div class="media-body">
       <h4 class="media-heading">Conor Simpson</h4>
@@ -207,6 +209,20 @@ Read more about them below.
       and number of genes responsible for certain C<sub>4</sub> characteristics. Additionally, with the aim of identifying loci responsible for complex
       C<sub>4</sub> phenotypes, such as Kranz anatomy, he is using quantitative trait loci (QTL) analysis to generate a high-density genetic map in <i>G.
       gynandra</i>.</p>
+    </div>
+  </div>
+</div>
+<br>
+
+
+### Masters Students
+
+ <div class="row-fluid">
+  <div class="span6 media">
+  <img class="pull-left media-object img-rounded" src="../assets/members/js.jpg">
+    <div class="media-body">
+      <h4 class="media-heading">Jessica Shadbolt</h4>
+      <p>Jessica is currently on the placement year of her Molecular and Cellular Biology integrated MSci from the University of Glasgow. She Joined the lab in September of 2019 to work with Dr Leonie Luginbuehl on elucidation of the gene regulatory mechanisms underlying cell type specific gene expression in C<sub>3</sub> species.</p>
     </div>
   </div>
 </div>
@@ -282,7 +298,9 @@ Read more about them below.
 <div>- Dr. Elisabeth Truernit: Chloroplast isolation from specific cell types</div>
 <div>- Dr. Steven Burgess: Gene regulation of C<sub>4</sub> photosynthesis in Cleome</div>
 <div>- Dr. Marek Szecowka: Using artificial scaffolds to increase photosynthetic efficiency in C<sub>3</sub> plants</div>
-<div>- Dr. Ahmed Ismail
+<div>- Dr. Ming-Tsung Louis Wu: Large-scale modeling analysis of C4 photosynthesis using de novo transcriptomics.</div>
+<div>- Dr. Andy Plackett: Understanding differential regulation of chloroplast development between mesophyll and bundle sheath cells in rice (Oryza sativa).</div>
+<div>- Dr. Ahmed Ismail: Understanding the genetic basis of C<sub>4</sub> photosynthesis during leaf development in rice and sorghum</div>
 
 <br>
 #### Former Research Staff
