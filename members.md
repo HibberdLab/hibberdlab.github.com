@@ -170,8 +170,6 @@ Read more about them below.
     </div>
   </div>
  </div>
-<br>
-
 
 ### PhD students
 
