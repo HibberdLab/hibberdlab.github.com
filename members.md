@@ -1,7 +1,7 @@
 ---
-layout: page
 title: "Members | Hibberd Lab"
-description: "Hibberd Lab members past and present"
+layout: page
+description: Hibberd Lab members past and present
 ---
 
 {% include JB/setup %}
@@ -282,6 +282,8 @@ Read more about them below.
 <div>- Dr. Elisabeth Truernit: Chloroplast isolation from specific cell types</div>
 <div>- Dr. Steven Burgess: Gene regulation of C<sub>4</sub> photosynthesis in Cleome</div>
 <div>- Dr. Marek Szecowka: Using artificial scaffolds to increase photosynthetic efficiency in C<sub>3</sub> plants</div>
+<div>- Dr. Ahmed Ismail
+
 <br>
 #### Former Research Staff
 <div>- Mathieu Grangé-Guerment: C<sub>4</sub> rice</div>
