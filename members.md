@@ -98,7 +98,7 @@ Read more about them below.
       <h4 class="media-heading">Sean Stevenson</h4>
       <p>Sean got his PhD from the University of Leeds where he studied abscisic acid (ABA) signalling in the model bryophyte                   Physcomitrella patens. This work identified a novel ABA regulator that was likely important in plant's conquest of land. After           leaving the north for warmer climes, Sean joined the Hibberd lab at the start of 2017. He will be using another bryophyte model           (Marchantia this time) to study light signalling and regulation and how this is integrated in early plant development and                 photosynthesis.</p> 
     </div>
-</div>
+  </div>
  </div>
 <br>
 
@@ -151,9 +151,10 @@ Read more about them below.
     <div class="media-body">
       <h4 class="media-heading">Tina B. Schreier</h4>
       <p>Tina did her PhD in plant biochemistry at ETH Zurich, and her main research interest lies in plant metabolism and photosynthesis. She joined the lab of Julian Hibberd in October 2018 as a Swiss National Science Foundation Research Fellow, studying cell-to-cell connectivity in leaves of the <i>Cleome</i> family and how this trait might have facilitated the evolution of C<sub>4</sub> photosynthesis. During her PhD in the lab of Professor Sam Zeeman, she discovered two chloroplast proteins that were originally thought to act as enzymes play other important non-canonical roles. This includes the plastidial NAD-dependent malate dehydrogenase, where the protein but not the enzymatic activity is required for proper chloroplast development. After her PhD, she worked at the John Innes Centre in the group of Professor Alison Smith, studying transgenic wheat lines with altered carbohydrate metabolism in the grain.</p>
-      </div>
+    </div>
   </div>
-  <br>
+ </div>
+<br>
 
 <div class="row-fluid">
   <div class="span6 media">
@@ -168,6 +169,7 @@ Read more about them below.
       mapping approaches to identify which genes are involved in developing the C<sub>4</sub> pathway. </p>
     </div>
   </div>
+ </div>
 <br>
 
 
