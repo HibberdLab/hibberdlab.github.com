@@ -168,15 +168,7 @@ Read more about them below.
       mapping approaches to identify which genes are involved in developing the C<sub>4</sub> pathway. </p>
     </div>
   </div>
-  
- </div>
 <br>
-
-
-
-
-
-
 
 
 ### PhD students
