@@ -203,6 +203,7 @@ Read more about them below.
       gynandra</i>.</p>
     </div>
   </div>
+</div>
 
 ### Masters Students
 
