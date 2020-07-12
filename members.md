@@ -254,8 +254,14 @@ Read more about them below.
 	  joining the Hibberd lab to work on crop transformation.</p>
     </div>
    </div>
+ <div class="span6 media">
+    <img class="pull-left media-object img-rounded" src="../assets/members/at.jpg">
+    <div class="media-body">
+    <h4 class="media-heading">Anoop Tripathi</h4>
+    <p>Anoop did his MSc in Biochemistry at University of Lucknow, India. Then he worked as Senior Research Fellow at National Bureau of Plant Genetic Resources (ICAR-NBPGR), New Delhi, India, where his research focused on understanding the gene regulatory networks in cereal crops. He joined the Hibberd lab as a Senior Research Technician in January 2020 and is currently working on grafting and somatic hybridisation.</p>
+    </div>
+    </div>
 </div>
-
 
 ## Past members
 #### Former PhD students
@@ -288,7 +294,7 @@ Read more about them below.
 <div>- Dr. Marek Szecowka: Using artificial scaffolds to increase photosynthetic efficiency in C<sub>3</sub> plants</div>
 <div>- Dr. Ming-Tsung Louis Wu: Large-scale modeling analysis of C4 photosynthesis using de novo transcriptomics.</div>
 <div>- Dr. Andy Plackett: Understanding differential regulation of chloroplast development between mesophyll and bundle sheath cells in rice (Oryza sativa).</div>
-<div>- Dr. Ahmed Ismail: Understanding the genetic basis of C<sub>4</sub> photosynthesis during leaf development in rice and sorghum. Read more [here](ahmed) </div>
+<div>- Dr. Ahmed Ismail: Understanding the genetic basis of C<sub>4</sub> photosynthesis during leaf development in rice and sorghum. Read more [here](http://hibberdlab.com/members/ahmed) </div>
 
 <br>
 #### Former Research Staff
