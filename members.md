@@ -294,7 +294,7 @@ Read more about them below.
 <div>- Dr. Marek Szecowka: Using artificial scaffolds to increase photosynthetic efficiency in C<sub>3</sub> plants</div>
 <div>- Dr. Ming-Tsung Louis Wu: Large-scale modeling analysis of C4 photosynthesis using de novo transcriptomics.</div>
 <div>- Dr. Andy Plackett: Understanding differential regulation of chloroplast development between mesophyll and bundle sheath cells in rice (Oryza sativa).</div>
-<div>- Dr. Ahmed Ismail: Understanding the genetic basis of C<sub>4</sub> photosynthesis during leaf development in rice and sorghum. Read more [here](http://hibberdlab.com/members/ahmed) </div>
+<div>- Dr. Ahmed Ismail: Understanding the genetic basis of C<sub>4</sub> photosynthesis during leaf development in rice and sorghum. Read more <a href="http://hibberdlab.com/members/ahmed">here</a> </div>
 
 <br>
 #### Former Research Staff
