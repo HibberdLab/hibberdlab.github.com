@@ -1,7 +1,7 @@
 ---
 title: "Ahmed's Work"
 layout: page
-description: Hibberd Lab members past and present
+permalink: /members/ahmed
 ---
 
 {% include JB/setup %}
