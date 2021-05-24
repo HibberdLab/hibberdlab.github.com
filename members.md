@@ -41,37 +41,17 @@ Read more about them below.
 
 <div class="row-fluid">
     <div class="span6 media">
-    <img class="pull-left media-object img-rounded" src="../assets/members/irl.jpg">
-    <div class="media-body">
-      <h4 class="media-heading">Ivan Reyna-Llorens</h4>
-      <p>Ivan did his BSc in Biology at UNAM (Mexico) and then an MSc in Biochemistry at the same university. He is interested
-      in the evolution of transcriptional regulation, especially in understanding the changes (both in <i>cis</i> and
-      <i>trans</i>) required to acquire the C<sub>4</sub> pathway.</p> 
-    </div>
-  </div>
-  <div class="span6 media">
-    <img class="pull-left media-object img-rounded" src="../assets/members/lh.jpg">
+	<img class="pull-left media-object img-rounded" src="../assets/members/lh.jpg">
     <div class="media-body">
       <h4 class="media-heading">Lei Hua</h4>
       <p>Lei got his PhD in Crop Genetics and Breeding at China Agricultural University in 2015, during his PhD study, he identified and 
       characterized a domestication gene controlling long and barbed awns from the progenitor of cultivated rice, common wild rice (Oryza 
       rufipogon). Lei joined Hibberd lab in 2016; he is investigating the regulatory mechanisms of cell-specific gene expression in 
-      C<sub>3</sub> leaves.</p> 
+      C<sub>3</sub> leaves.</p>
     </div>
   </div>
- </div>
- <br>
- 
- <div class="row-fluid">
-    <div class="span6 media">
-    <img class="pull-left media-object img-rounded" src="../assets/members/ses.jpg">
-    <div class="media-body">
-      <h4 class="media-heading">Sherif El-Sharnouby</h4>
-      <p>Sherif joined the Hibberd lab as a postdoc in January 2016 where he is currently working on the C<sub>4</sub> Rice Project. He is using his past experience to shed light on the transcriptional regulation of chloroplast biogenesis, by performing cell type-specific analyses comparing mesophyll and bundle sheath cells. He did his PhD in Rob White’s lab at the University of Cambridge where he worked on the Drosophila spermatogenesis cell differentiation pathway and developed an experimental framework for genome-wide epigenetic profiling of individual cell stages of the Drosophila male germline.</p>
-    </div>
-  </div>
-    <div class="span6 media">
-    <img class="pull-left media-object img-rounded" src="../assets/members/hx.jpg">
+  <div class="span6 media">
+     <img class="pull-left media-object img-rounded" src="../assets/members/hx.jpg">
     <div class="media-body">
       <h4 class="media-heading">Haiyan Xiong</h4>
       <p>Haiyan got her PhD in 2014 from the Department of Plant Genetics and Breeding in China Agriculture University (CAU) at Prof. 
@@ -81,8 +61,8 @@ Read more about them below.
     </div>
   </div>
  </div>
-<br>
-
+ <br>
+ 
 <div class="row-fluid">
     <div class="span6 media">
     <img class="pull-left media-object img-rounded" src="../assets/members/ps.jpg">
@@ -207,16 +187,6 @@ Read more about them below.
 
 ### Masters Students
 
- <div class="row-fluid">
-  <div class="span6 media">
-  <img class="pull-left media-object img-rounded" src="../assets/members/js.jpg">
-    <div class="media-body">
-      <h4 class="media-heading">Jessica Shadbolt</h4>
-      <p>Jessica is currently on the placement year of her Molecular and Cellular Biology integrated MSci from the University of Glasgow. She Joined the lab in September of 2019 to work with Dr Leonie Luginbuehl on elucidation of the gene regulatory mechanisms underlying cell type specific gene expression in C<sub>3</sub> species.</p>
-    </div>
-  </div>
-</div>
-
 ### Research staff
 
 <div class="row-fluid">
@@ -282,6 +252,7 @@ Read more about them below.
 <div>- Meredith Wilson: Genome structure and function in parasitic angiosperms</div>
 <div>- Jana Knerova: BS cell-specific expression of C<sub>3</sub> and C<sub>4</sub> plants</div>
 <br>
+
 #### Former Post-Doctoral Research Associates
 <div>- Dr. Sarah Covshoff: C<sub>4</sub> rice </div>
 <div>- Dr. Sylvain Aubry: Molecular signature of the C<sub>4</sub> phenotype </div>
@@ -295,8 +266,9 @@ Read more about them below.
 <div>- Dr. Ming-Tsung Louis Wu: Large-scale modeling analysis of C4 photosynthesis using de novo transcriptomics.</div>
 <div>- Dr. Andy Plackett: Understanding differential regulation of chloroplast development between mesophyll and bundle sheath cells in rice (Oryza sativa).</div>
 <div>- Dr. Ahmed Ismail: Understanding the genetic basis of C<sub>4</sub> photosynthesis during leaf development in rice and sorghum. Read more <a href="http://hibberdlab.com/members/ahmed">here</a> </div>
-
+<div>- Dr. Ivan Reyna-Llorens: Transcriptional regulations of the C<sub>4</sub> pathway </div>
 <br>
+
 #### Former Research Staff
 <div>- Mathieu Grangé-Guerment: C<sub>4</sub> rice</div>
 <div>- Chris Boursnell: Wild Rice MAGIC project and <i>de novo</i> transcriptome assembly</div>
