@@ -9,11 +9,26 @@ group: navigation
 # Publications
 
 ## Manually curated list
+
+### 2021
+
+- [**Hua, L., Stevenson, S.R., Reyna-Llorens, I., Xiong, H., Kopriva, S., Hibberd, J.M.** (2021) The bundle sheath of rice is conditioned to play an active role in water transport as well as sulfur assimilation and jasmonic acid synthesis. The Plant Journal doi.org/10.1111/tpj.15292.](https://pubmed.ncbi.nlm.nih.gov/33901336/)
+
+- [**Maheshwari C., Coe, R.A., Karki, S., Covshoff, S., Tapia, R., Tyagi, A., Hibberd, J.M., Furbank, R.T. Quick, W.P., Lin, H-C.** (2021) Targeted knockdown of ribulose-1, 5-bisphosphate carboxylase-oxygenase in rice mesophyll cells. Journal of Plant Physiology doi.org/10.1016/j.jplph.2021.153395.](https://www.sciencedirect.com/science/article/pii/S0176161721000341) 
+
+### 2020
+
+- [**Dickinson, P., Kneřová, J., Szecówka, M., Stevenson, S.R., Burgess, S.J., Mulvey, H., Bågman, A-M., Gaudinier, A., Brady, S.M., Hibberd, J.M.** (2020) A bipartite transcription factor module controlling expression in the bundle sheath of Arabidopsis thaliana. Nature Plants doi10.1038/s41477-020-00805-w](https://www.nature.com/articles/s41477-020-00805-w)
+
+- [**Luginbuehl, L.H., El-Sharnouby, S., Wang, N., Hibberd, J.M.** (2020) Fluorescent reporters for functional analysis in rice leaves. Plant Direct doi: 10.1002/pld3.188](https://doi.org/10.1002/pld3.188)
+
+
+
 ### 2019
 
-- [**Burgess, S.J. Reyna-Llorens, I., Stevenson, S.R., Singh, P., Jaeger, K.., Hibberd, J.M.** (2019) Genome-wide transcription factor binding in leaves from C<sub>3</sub> and C<sub>4</sub> grasses. The Plant Cell doi.org/10.1105/tpc.19.00078.\*](http://www.plantcell.org/content/early/2019/08/19/tpc.19.00078)
+- [**Burgess, S.J. Reyna-Llorens, I., Stevenson, S.R., Singh, P., Jaeger, K.., Hibberd, J.M.** (2019) Genome-wide transcription factor binding in leaves from C<sub>3</sub> and C<sub>4</sub> grasses. The Plant Cell doi.org/10.1105/tpc.19.00078](https://www.plantcell.org/content/early/2019/08/19/tpc.19.00078) 
 
-- [**Hua, L. Hibberd, J.M.**(2019) An optimised protocol for isolation of high-quality RNA through laser capture microdissection of leaf material. Plant Direct doi: 10.1002/pld3.156](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6710646/)
+- [**Hua, L. Hibberd, J.M.** (2019) An optimised protocol for isolation of high-quality RNA through laser capture microdissection of leaf material. Plant Direct doi: 10.1002/pld3.156](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6710646/)
 
 - [Giuliani R, Karki S, Covshoff S, Lin H-C, Coe RA, Koteyeva NC, WP Quick, Von Caemmerer S, Furbank RT, **Hibberd J.M,** Edwards GE, Cousins AB. (2019) Knockdown of glycine decarboxylase complex alters photorespiratory carbon isotope fractionation in Oryza sativa leaves. Journal of Experimental Botany doi: 10.1093/jxb/erz083](https://academic.oup.com/jxb/article/70/10/2773/5370418)
 
