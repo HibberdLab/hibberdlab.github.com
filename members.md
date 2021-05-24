@@ -267,7 +267,8 @@ Read more about them below.
 <div>- Dr. Andy Plackett: Understanding differential regulation of chloroplast development between mesophyll and bundle sheath cells in rice (Oryza sativa).</div>
 <div>- Dr. Ahmed Ismail: Understanding the genetic basis of C<sub>4</sub> photosynthesis during leaf development in rice and sorghum. Read more <a href="http://hibberdlab.com/members/ahmed">here</a> </div>
 <div>- Dr. Ivan Reyna-Llorens: Transcriptional regulations of the C<sub>4</sub> pathway </div>
-<br>
+<div>- Dr. Sherif El-Sharnouby </div>
+<br> 
 
 #### Former Research Staff
 <div>- Mathieu Grangé-Guerment: C<sub>4</sub> rice</div>
