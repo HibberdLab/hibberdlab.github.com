@@ -167,6 +167,8 @@ Read more about them below.
       <p>Tianshu got her PhD in 2018 at Peking University, where she studied the genetic basis of adaptation to alpine environments in <i>Arabidopsis thaliana</i> populations in Tibet. Later, she worked as a research assistant at the Chinese Academy of Agricultural Science and focused on population genomics and transcriptomics in crop plants. She joined the Hibberd lab in November 2020 where she is currently investigating the regulation of photosynthesis gene expression variation at intra- and interspecific levels using genomics approaches such as eQTL-mapping and single-cell sequencing.</p> 
     </div> 
   </div> 
+</div>
+<br>
 
 
 ### PhD students
