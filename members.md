@@ -51,13 +51,10 @@ Read more about them below.
     </div>
   </div>
   <div class="span6 media">
-     <img class="pull-left media-object img-rounded" src="../assets/members/hx.jpg">
+     <img class="pull-left media-object img-rounded" src="../assets/members/ts.jpg">
     <div class="media-body">
-      <h4 class="media-heading">Haiyan Xiong</h4>
-      <p>Haiyan got her PhD in 2014 from the Department of Plant Genetics and Breeding in China Agriculture University (CAU) at Prof. 
-      Zichao Li’ laboratory and then she started a postdoc research under supervision of Prof. Yan Guo at the same university. During her 
-      work in CAU, she focused on characterization of drought-resistance genes in upland rice. In October 2016, Haiyan joined the Hibberd 
-      lab, and is currently investigating the regulatory mechanism of light stress response in rice bundle sheath cells.</p>
+      <h4 class="media-heading">Tianshu Sun</h4>
+      <p>Tianshu got her PhD in 2018 at Peking University, where she studied the genetic basis of adaptation to alpine environments in <i>Arabidopsis thaliana</i> populations in Tibet. Later, she worked as a research assistant at the Chinese Academy of Agricultural Science and focused on population genomics and transcriptomics in crop plants. She joined the Hibberd lab in November 2020 where she is currently investigating the regulation of photosynthesis gene expression variation at intra- and interspecific levels using genomics approaches such as eQTL-mapping and single-cell sequencing.</p>
     </div>
   </div>
  </div>
@@ -163,8 +160,8 @@ Read more about them below.
     <div class="span6 media"> 
 	<img class="pull-left media-object img-rounded" src="../assets/members/ts.jpg"> 
     <div class="media-body"> 
-      <h4 class="media-heading">Tianshu Sun</h4> 
-      <p>Tianshu got her PhD in 2018 at Peking University, where she studied the genetic basis of adaptation to alpine environments in <i>Arabidopsis thaliana</i> populations in Tibet. Later, she worked as a research assistant at the Chinese Academy of Agricultural Science and focused on population genomics and transcriptomics in crop plants. She joined the Hibberd lab in November 2020 where she is currently investigating the regulation of photosynthesis gene expression variation at intra- and interspecific levels using genomics approaches such as eQTL-mapping and single-cell sequencing.</p> 
+      <h4 class="media-heading"></h4> 
+      <p></p> 
     </div> 
   </div> 
 </div>
@@ -175,10 +172,14 @@ Read more about them below.
 
 <div class="row-fluid">
   <div class="span6 media">
-  <img class="pull-left media-object img-rounded" src="../assets/members/rp.jpg">
+  <img class="pull-left media-object img-rounded" src="../assets/members/cs.jpg">
     <div class="media-body">
-      <h4 class="media-heading">Robyn Phillips</h4>
-      <p> Robyn graduated with a BA in Biological Sciences from the University of Oxford in the year 2015. She joined the lab as a BBSRC DTP student in 2016 to work on activating photosynthesis in non-photosynthetic cells for improved crop productivity.</p>
+      <h4 class="media-heading">Conor Simpson</h4>
+      <p>Conor is a BBSRC DTP student. He graduated with an MSci from the University of Nottingham. For his masters project at Nottingham he worked on the N-end rule pathway of programmed protein degradation. Currently, through exploiting the natural variation in the C<sub>4</sub> species
+      <i>Gynanropsis gynandra</i>, Conor is using specific breeding methods in conjunction with quantitative genetics to calculate the heritability
+      and number of genes responsible for certain C<sub>4</sub> characteristics. Additionally, with the aim of identifying loci responsible for complex
+      C<sub>4</sub> phenotypes, such as Kranz anatomy, he is using quantitative trait loci (QTL) analysis to generate a high-density genetic map in <i>G.
+      gynandra</i>. </p>
     </div>
   </div>
   <div class="span6 media">
@@ -190,20 +191,6 @@ Read more about them below.
   </div>
  </div>
 <br>
-
- <div class="row-fluid">
-  <div class="span6 media">
-  <img class="pull-left media-object img-rounded" src="../assets/members/cs.jpg">
-    <div class="media-body">
-      <h4 class="media-heading">Conor Simpson</h4>
-      <p> Conor is a BBSRC DTP student. He graduated with an MSci from the University of Nottingham. For his masters project at Nottingham he worked on the N-end rule pathway of programmed protein degradation. Currently, through exploiting the natural variation in the C<sub>4</sub> species
-      <i>Gynanropsis gynandra</i>, Conor is using specific breeding methods in conjunction with quantitative genetics to calculate the heritability
-      and number of genes responsible for certain C<sub>4</sub> characteristics. Additionally, with the aim of identifying loci responsible for complex
-      C<sub>4</sub> phenotypes, such as Kranz anatomy, he is using quantitative trait loci (QTL) analysis to generate a high-density genetic map in <i>G.
-      gynandra</i>.</p>
-    </div>
-  </div>
-</div>
 
 ### Masters Students
 
@@ -271,6 +258,7 @@ Read more about them below.
 <div>- Diana Marshall: Using Cleome to understand C<sub>4</sub> photosynthesis</div>
 <div>- Meredith Wilson: Genome structure and function in parasitic angiosperms</div>
 <div>- Jana Knerova: BS cell-specific expression of C<sub>3</sub> and C<sub>4</sub> plants</div>
+<div>- Robyn Phillips: Activating photosynthesis in non-photosynthetic cells for improved crop productivity</div>
 <br>
 
 #### Former Post-Doctoral Research Associates
@@ -287,7 +275,8 @@ Read more about them below.
 <div>- Dr. Andy Plackett: Understanding differential regulation of chloroplast development between mesophyll and bundle sheath cells in rice (Oryza sativa).</div>
 <div>- Dr. Ahmed Ismail: Understanding the genetic basis of C<sub>4</sub> photosynthesis during leaf development in rice and sorghum. Read more <a href="http://hibberdlab.com/members/ahmed">here</a> </div>
 <div>- Dr. Ivan Reyna-Llorens: Transcriptional regulations of the C<sub>4</sub> pathway </div>
-<div>- Dr. Sherif El-Sharnouby </div>
+<div>- Dr. Sherif El-Sharnouby </div> 
+<div>- Dr. Haiyan Xiong: The regulatory mechanism of light stress response in rice bundle sheath cells </div>
 <br> 
 
 #### Former Research Staff
