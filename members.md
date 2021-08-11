@@ -155,17 +155,7 @@ Read more about them below.
   </div>
  </div>
  <br>
- 
- <div class="row-fluid"> 
-    <div class="span6 media"> 
-	<img class="pull-left media-object img-rounded" src="../assets/members/ts.jpg"> 
-    <div class="media-body"> 
-      <h4 class="media-heading"></h4> 
-      <p></p> 
-    </div> 
-  </div> 
-</div>
-<br>
+
 
 
 ### PhD students
