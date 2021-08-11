@@ -282,4 +282,4 @@ Read more about them below.
 #### Former Research Staff
 <div>- Mathieu Grangé-Guerment: C<sub>4</sub> rice</div>
 <div>- Chris Boursnell: Wild Rice MAGIC project and <i>de novo</i> transcriptome assembly</div>
-<br>
+<br> 
