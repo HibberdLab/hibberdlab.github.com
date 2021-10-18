@@ -144,8 +144,18 @@ Read more about them below.
       involved in photosynthesis from large-scale mutant screening in green algae at the Carnegie Institute for Science, Stanford. At 
       Cambridge, he completed his PhD investigating the genetic basis for C4 photosynthesis from natural variation among C4 plants and traditional gene 
       mapping approaches to identify which genes are involved in developing the C<sub>4</sub> pathway. </p>
-	 </div>
-
+	</div>
+  </div>
+  <div class="span6 media">
+      <img class="pull-left media-object img-rounded" src="../assets/members/CC.jpg">
+    <div class="media-body">
+      <h4 class="media-heading">Caijin Chen</h4>
+      <p>Caijin got her PhD in plant molecular genetics in 2021 in University of Aberdeen, UK, where she worked on genome-wide association mapping of salt tolerance and arsenic accumulation in rice. Caijin joined the Hibberd Lab in September 2021, she will be working to increase chloroplast content of rice bundle sheath cells to resemble more closely the bundle sheath of C4 leaves.</p>
+    </div>
+  </div>
+ </div>
+<br>
+	  
   <div class="span6 media">
       <img class="pull-left media-object img-rounded" src="../assets/members/EF_edit .jpg">
     <div class="media-body">
