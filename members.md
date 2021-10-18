@@ -155,7 +155,8 @@ Read more about them below.
   </div>
  </div>
 <br>
-	  
+
+<div class="row-fluid">
   <div class="span6 media">
       <img class="pull-left media-object img-rounded" src="../assets/members/EF_edit .jpg">
     <div class="media-body">
@@ -163,7 +164,7 @@ Read more about them below.
       <p>Eftychis did his PhD with Jane Langdale at the University of Oxford, working on plant evo-devo. He joined the Hibberd lab in March 2020. Here he is exploring synthetic biology approaches to increase the chloroplast compartment in Arabidopsis bundle sheath cells.</p>
     </div>
   </div>
- </div>
+</div>
 <br>
 
 
