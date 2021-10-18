@@ -155,7 +155,7 @@ Read more about them below.
   </div>
  </div>
  <br>
-  </div>
+
   <div class="span6 media">
       <img class="pull-left media-object img-rounded" src="../assets/members/CC.jpg">
     <div class="media-body">
