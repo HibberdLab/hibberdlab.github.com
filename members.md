@@ -155,7 +155,16 @@ Read more about them below.
   </div>
  </div>
  <br>
-
+  </div>
+  <div class="span6 media">
+      <img class="pull-left media-object img-rounded" src="../assets/members/CC.jpg">
+    <div class="media-body">
+      <h4 class="media-heading">Caijin Chen</h4>
+      <p>Caijin got her PhD in plant molecular genetics in 2021 in University of Aberdeen, UK, where she worked on genome-wide association mapping of salt tolerance and arsenic accumulation in rice. Caijin joined the Hibberd Lab in September 2021, she will be working to increase chloroplast content of rice bundle sheath cells to resemble more closely the bundle sheath of C4 leaves.</p>
+    </div>
+  </div>
+ </div>
+ <br>
 
 
 ### PhD students
