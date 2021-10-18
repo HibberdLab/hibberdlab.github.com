@@ -163,7 +163,7 @@ Read more about them below.
       <p>Eftychis did his PhD with Jane Langdale at the University of Oxford, working on plant evo-devo. He joined the Hibberd lab in March 2020. Here he is exploring synthetic biology approaches to increase the chloroplast compartment in Arabidopsis bundle sheath cells.</p>
     </div>
   </div>
-<div>
+<br>
 
 
 
