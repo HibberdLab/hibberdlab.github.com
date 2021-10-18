@@ -154,7 +154,7 @@ Read more about them below.
     </div>
   </div>
  </div>
- <br>
+</div>
 
 
 
