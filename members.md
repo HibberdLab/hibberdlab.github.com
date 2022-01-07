@@ -238,8 +238,8 @@ Read more about them below.
 <div>- Meredith Wilson: Genome structure and function in parasitic angiosperms</div>
 <div>- Jana Knerova: BS cell-specific expression of C<sub>3</sub> and C<sub>4</sub> plants</div>
 <div>- Robyn Phillips: Activating photosynthesis in non-photosynthetic cells for improved crop productivity</div>
-<div>- Greg Reeves: Investigating the genetic basis for C4 photosynthesis from natural variation among C4 plants and developing a method to grafti monocot plants</div>
-<div>- Natasha Elina: Understanding the assembly of the photosynthetic to induce chloroplast development in non-green cells</div>
+<div>- Greg Reeves: Investigating the genetic basis for C4 photosynthesis from natural variation among C4 plants and developing a method to graft monocot plants</div>
+<div>- Natasha Elina: Understanding the assembly of the photosynthetic apparatus to induce chloroplast development in non-green cells</div>
 
 <br>
 
