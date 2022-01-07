@@ -81,10 +81,10 @@ Read more about them below.
 
 <div class="row-fluid">
     <div class="span6 media">
-    <img class="pull-left media-object img-rounded" src="../assets/members/ne.jpg">
+    <img class="pull-left media-object img-rounded" src="../assets/members/CC.jpg">
     <div class="media-body">
-      <h4 class="media-heading">Natasha Elina</h4>
-      <p>Natasha's aim is to understand the assembly of the photosynthetic apparatus and then manipulate it to induce chloroplast development in cells that are not normally green with the overarching aim to increase photosynthetic efficiency and crop productivity. Studies in Arabidopsis thaliana provide good understanding of how photosynthetic apparatus in assembled, however, this knowledge is not easily translated into grasses (including a staple monocot crop, rice). This is due to a number of whole genome duplication events and a whole genome triplication event that separate grasses from Arabidopsis. She is using a liverwort, Marchantia polymorpha, which, due to a low complexity of its genome, is an excellent tool to gain understanding of the basic ancestral pathways of the photosynthetic machinery development enabling translation of this knowledge into monocot crops.</p>
+      <h4 class="media-heading">Caijin Chen</h4>
+      <p>Caijin got her PhD in plant molecular genetics in 2021 in University of Aberdeen, UK, where she worked on genome-wide association mapping of salt tolerance and arsenic accumulation in rice. Caijin joined the Hibberd Lab in September 2021, she will be working to increase chloroplast content of rice bundle sheath cells to resemble more closely the bundle sheath of C4 leaves.</p>
     </div>
   </div>
    <div class="span6 media">
@@ -128,29 +128,6 @@ Read more about them below.
     <div class="media-body">
       <h4 class="media-heading">Tina B. Schreier</h4>
       <p>Tina did her PhD in plant biochemistry at ETH Zurich, and her main research interest lies in plant metabolism and photosynthesis. She joined the lab of Julian Hibberd in October 2018 as a Swiss National Science Foundation Research Fellow, studying cell-to-cell connectivity in leaves of the <i>Cleome</i> family and how this trait might have facilitated the evolution of C<sub>4</sub> photosynthesis. During her PhD in the lab of Professor Sam Zeeman, she discovered two chloroplast proteins that were originally thought to act as enzymes play other important non-canonical roles. This includes the plastidial NAD-dependent malate dehydrogenase, where the protein but not the enzymatic activity is required for proper chloroplast development. After her PhD, she worked at the John Innes Centre in the group of Professor Alison Smith, studying transgenic wheat lines with altered carbohydrate metabolism in the grain.</p>
-    </div>
-  </div>
- </div>
-<br>
-
-<div class="row-fluid">
-  <div class="span6 media">
-  <img class="pull-left media-object img-rounded" src="../assets/members/gr.jpg">
-    <div class="media-body">
-      <h4 class="media-heading">Greg Reeves</h4>
-      <p> Greg has a BSc in Genetics and MSc in Horticulture both from New Mexico State University where he studied the inheritance of 
-      disease resistance and spicy flavour in chilli peppers. He discovered a new gene that inhibits disease resistance, helped sequence 
-      the chilli pepper genome and developed one of the hottest peppers in the world. Additionally, he helped identify novel genes 
-      involved in photosynthesis from large-scale mutant screening in green algae at the Carnegie Institute for Science, Stanford. At 
-      Cambridge, he completed his PhD investigating the genetic basis for C4 photosynthesis from natural variation among C4 plants and traditional gene 
-      mapping approaches to identify which genes are involved in developing the C<sub>4</sub> pathway. </p>
-	</div>
-  </div>
-  <div class="span6 media">
-      <img class="pull-left media-object img-rounded" src="../assets/members/CC.jpg">
-    <div class="media-body">
-      <h4 class="media-heading">Caijin Chen</h4>
-      <p>Caijin got her PhD in plant molecular genetics in 2021 in University of Aberdeen, UK, where she worked on genome-wide association mapping of salt tolerance and arsenic accumulation in rice. Caijin joined the Hibberd Lab in September 2021, she will be working to increase chloroplast content of rice bundle sheath cells to resemble more closely the bundle sheath of C4 leaves.</p>
     </div>
   </div>
  </div>
@@ -261,6 +238,9 @@ Read more about them below.
 <div>- Meredith Wilson: Genome structure and function in parasitic angiosperms</div>
 <div>- Jana Knerova: BS cell-specific expression of C<sub>3</sub> and C<sub>4</sub> plants</div>
 <div>- Robyn Phillips: Activating photosynthesis in non-photosynthetic cells for improved crop productivity</div>
+<div>- Greg Reeves: Investigating the genetic basis for C4 photosynthesis from natural variation among C4 plants and developing a method to grafti monocot plants</div>
+<div>- Natasha Elina: Understanding the assembly of the photosynthetic to induce chloroplast development in non-green cells</div>
+
 <br>
 
 #### Former Post-Doctoral Research Associates
