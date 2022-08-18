@@ -139,9 +139,16 @@ Read more about them below.
     <div class="media-body">
       <h4 class="media-heading">Eftychios Frangedakis</h4>
       <p>Eftychis did his PhD with Jane Langdale at the University of Oxford, working on plant evo-devo. He joined the Hibberd lab in March 2020. Here he is exploring synthetic biology approaches to increase the chloroplast compartment in Arabidopsis bundle sheath cells.</p>
+     </div>
+  </div>
+  <div class="span6 media">
+      <img class="pull-left media-object img-rounded" src="../assets/members/zad.jpg">
+    <div class="media-body">
+      <h4 class="media-heading">Zheng-Ao Di</h4>
+      <p>Zhengao did his PhD in the Hibberd lab, and is currently conitnuing his work on engineering a reverse C4 photosynthetic pathway in C3 species Arabidopsis thaliana. The reverse C4 photosynthesis system introduced C4 biochemistry in the opposite cell types from those used by C4 species, which aimed at replicating the spatial patterning of the C4 biochemical pathway and making use of the native leaf anatomy of C3 species. At the same time, he is also using betalain biosynthetic pathway to understand how the assembly of synthetic protein scaffolds could be used to improve metabolic pathway efficiency in plants.</p>
     </div>
   </div>
-</div>
+ </div>
 <br>
 
 
@@ -160,13 +167,6 @@ Read more about them below.
       C<sub>4</sub> phenotypes, such as Kranz anatomy, he is using quantitative trait loci (QTL) analysis to generate a high-density genetic map in <i>G.
       gynandra</i>. </p>
     </div>
-  </div>
-  <div class="span6 media">
-  <img class="pull-left media-object img-rounded" src="../assets/members/zad.jpg">
-    <div class="media-body">
-      <h4 class="media-heading">Zheng-Ao Di</h4>
-      <p> Zhengao got a BSc in Chemistry from Nankai University, China, in 2016. After graduation, he took an intern in Shanghai Institute of Plant Physiology & Ecology for 6 months investigating the functional targets of secondary metabolites by chemical proteomics. Zhengao joined the Hibberd lab in Sep 2017 as a PhD student. He is now studying how modifications to the spatial organisation of metabolic pathways can be used to manipulate their efficiency in two complementary strands of research. In the first, he aims to better understand how assembly of synthetic protein scaffolds affects pathway efficiency in plants. In the second, he aims to increase the distance between enzymes of photosynthesis by engineering a synthetic C<sub>4</sub> cycle in leaves of C<sub>3</sub> <i>A. thaliana</i>.</p>
-  </div>
   </div>
  </div>
 <br>
@@ -240,7 +240,7 @@ Read more about them below.
 <div>- Ivan Reyna-Llorens: Transcriptional regulations of the C<sub>4</sub> pathway </div>
 <div>- Greg Reeves: Investigating the genetic basis for C4 photosynthesis from natural variation among C4 plants and developing a method to graft monocot plants</div>
 <div>- Robyn Phillips: Activating photosynthesis in non-photosynthetic cells for improved crop productivity</div>
-<br>
+<br>- Zhengao Di:Engineering a reverse C4 photosynthetic pathway in C3 species Arabidopsis thaliana</div>
 
 #### Former Post-Doctoral Research Associates
 <div>- Dr. Sarah Covshoff: C<sub>4</sub> rice </div>
