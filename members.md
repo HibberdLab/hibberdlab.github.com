@@ -240,7 +240,7 @@ Read more about them below.
 <div>- Ivan Reyna-Llorens: Transcriptional regulations of the C<sub>4</sub> pathway </div>
 <div>- Greg Reeves: Investigating the genetic basis for C4 photosynthesis from natural variation among C4 plants and developing a method to graft monocot plants</div>
 <div>- Robyn Phillips: Activating photosynthesis in non-photosynthetic cells for improved crop productivity</div>
-<br>- Zhengao Di:Engineering a reverse C4 photosynthetic pathway in C3 species <i>Arabidopsis thaliana</i></div>
+<div>- Zhengao Di:Engineering a reverse C4 photosynthetic pathway in C3 species <i>Arabidopsis thaliana</i></div>
 
 #### Former Post-Doctoral Research Associates
 <div>- Dr. Sarah Covshoff: C<sub>4</sub> rice </div>
