@@ -59,25 +59,6 @@ Read more about them below.
   </div>
  </div>
  <br>
- 
-<div class="row-fluid">
-    <div class="span6 media">
-    <img class="pull-left media-object img-rounded" src="../assets/members/ps.jpg">
-    <div class="media-body">
-      <h4 class="media-heading">Pallavi Singh</h4>
-      <p>Pallavi did a PhD in 2015 at National Institute of Plant Genome Research, India. She worked on investigating the role of Mitogen       Activated Protein Kinase (MAPK) signaling networks in imparting flooding tolerance in rice. In October 2015, she moved as a post-         doctoral associate to Cornell University, US, where her research interests focused on the interaction of rice with its bacterial         pathogen Xanthomonas and the role of transcription activator-like (TAL) effector proteins facilitating this interplay.
-      In 2017 she started a post-doctoral position at the University of Cambridge, and is currently working on elucidating the spectrum         of regulatory networks governing the evolution of C<sub>4</sub> photosynthesis.</p> 
-    </div>
-  </div>
-    <div class="span6 media">
-    <img class="pull-left media-object img-rounded" src="../assets/members/sst.jpg">
-    <div class="media-body">
-      <h4 class="media-heading">Sean Stevenson</h4>
-      <p>Sean got his PhD from the University of Leeds where he studied abscisic acid (ABA) signalling in the model bryophyte                   Physcomitrella patens. This work identified a novel ABA regulator that was likely important in plant's conquest of land. After           leaving the north for warmer climes, Sean joined the Hibberd lab at the start of 2017. He will be using another bryophyte model           (Marchantia this time) to study light signalling and regulation and how this is integrated in early plant development and                 photosynthesis.</p> 
-    </div>
-  </div>
- </div>
-<br>
 
 <div class="row-fluid">
     <div class="span6 media">
@@ -106,10 +87,10 @@ Read more about them below.
     </div>
   </div>
    <div class="span6 media">
-      <img class="pull-left media-object img-rounded" src="../assets/members/ll.jpg">
+      <img class="pull-left media-object img-rounded" src="../assets/members/kb.jpg">
     <div class="media-body">
-      <h4 class="media-heading">Leonie Luginbuehl</h4>
-      <p>Leonie did her PhD with Professor Giles Oldroyd at the John Innes Centre in Norwich, where she investigated the downstream transcriptional targets of three GRAS-domain transcription factors required for the establishment of the arbuscular mycorrhizal symbiosis in the model legume <i>Medicago truncatula</i>. Her work identified a lipid biosynthesis pathway that is upregulated in root cells colonized by arbuscular mycorrhizal fungi and provides the obligate biotrophic fungus with fatty acids as a major carbon source. In November 2017, Leonie joined the Hibberd lab as a postdoctoral scientist. Her research focuses on understanding the cell type specific regulation of photosynthetic capacity in rice leaves. </p>
+     <h4 class="media-heading">Kumari Billakurthi</h4>
+      <p>Kumari got her PhD in December 2018 from Heinrich Heine University, Germany. She had performed EMS mutagenesis and activation tagging screens in Arabidopsis thaliana and had analysed comparative transcriptomics of leaf developmental gradients from C3 and C4 Flaveria species to identify novel genes that determine C4 leaf anatomy. She then continued in the same group as a postdoctoral researcher until the end of 2019. In April 2020, she has joined the Hibberd’s group as a research associate to investigate how chloroplasts biogenesis is regulated by cell division patterns in rice (Oryza sativa) bundle sheath cells.</p>
       </div>
   </div>
  </div>
@@ -117,59 +98,34 @@ Read more about them below.
 
 <div class="row-fluid">
     <div class="span6 media">
-	  <img class="pull-left media-object img-rounded" src="../assets/members/kb.jpg" >
-    <div class="media-body">
-      <h4 class="media-heading">Kumari Billakurthi</h4>
-      <p>Kumari got her PhD in December 2018 from Heinrich Heine University, Germany. She had performed EMS mutagenesis and activation tagging screens in Arabidopsis thaliana and had analysed comparative transcriptomics of leaf developmental gradients from C3 and C4 Flaveria species to identify novel genes that determine C4 leaf anatomy. She then continued in the same group as a postdoctoral researcher until the end of 2019. In April 2020, she has joined the Hibberd’s group as a research associate to investigate how chloroplasts biogenesis is regulated by cell division patterns in rice (Oryza sativa) bundle sheath cells.</p>
-      </div>
-  </div>
-  <div class="span6 media">
-      <img class="pull-left media-object img-rounded" src="../assets/members/tbs.jpg">
+	   <img class="pull-left media-object img-rounded" src="../assets/members/tbs.jpg">
     <div class="media-body">
       <h4 class="media-heading">Tina B. Schreier</h4>
       <p>Tina did her PhD in plant biochemistry at ETH Zurich, and her main research interest lies in plant metabolism and photosynthesis. She joined the lab of Julian Hibberd in October 2018 as a Swiss National Science Foundation Research Fellow, studying cell-to-cell connectivity in leaves of the <i>Cleome</i> family and how this trait might have facilitated the evolution of C<sub>4</sub> photosynthesis. During her PhD in the lab of Professor Sam Zeeman, she discovered two chloroplast proteins that were originally thought to act as enzymes play other important non-canonical roles. This includes the plastidial NAD-dependent malate dehydrogenase, where the protein but not the enzymatic activity is required for proper chloroplast development. After her PhD, she worked at the John Innes Centre in the group of Professor Alison Smith, studying transgenic wheat lines with altered carbohydrate metabolism in the grain.</p>
-    </div>
+      </div>
   </div>
- </div>
-<br>
-
-<div class="row-fluid">
   <div class="span6 media">
-      <img class="pull-left media-object img-rounded" src="../assets/members/EF_edit .jpg">
+     <img class="pull-left media-object img-rounded" src="../assets/members/EF_edit .jpg">
     <div class="media-body">
       <h4 class="media-heading">Eftychios Frangedakis</h4>
       <p>Eftychis did his PhD with Jane Langdale at the University of Oxford, working on plant evo-devo. He joined the Hibberd lab in March 2020. Here he is exploring synthetic biology approaches to increase the chloroplast compartment in Arabidopsis bundle sheath cells.</p>
-     </div>
-  </div>
-  <div class="span6 media">
-      <img class="pull-left media-object img-rounded" src="../assets/members/zad.jpg">
-    <div class="media-body">
-      <h4 class="media-heading">Zheng-Ao Di</h4>
-      <p>Zhengao did his PhD in the Hibberd lab, and is currently conitnuing his work on engineering a reverse C4 photosynthetic pathway in C3 species Arabidopsis thaliana. The reverse C4 photosynthesis system introduced C4 biochemistry in the opposite cell types from those used by C4 species, which aimed at replicating the spatial patterning of the C4 biochemical pathway and making use of the native leaf anatomy of C3 species. At the same time, he is also using betalain biosynthetic pathway to understand how the assembly of synthetic protein scaffolds could be used to improve metabolic pathway efficiency in plants.</p>
     </div>
   </div>
  </div>
 <br>
-
-
-
-
-### PhD students
 
 <div class="row-fluid">
   <div class="span6 media">
-  <img class="pull-left media-object img-rounded" src="../assets/members/cs.jpg">
+       <img class="pull-left media-object img-rounded" src="../assets/members/zad.jpg">
     <div class="media-body">
-      <h4 class="media-heading">Conor Simpson</h4>
-      <p>Conor is a BBSRC DTP student. He graduated with an MSci from the University of Nottingham. For his masters project at Nottingham he worked on the N-end rule pathway of programmed protein degradation. Currently, through exploiting the natural variation in the C<sub>4</sub> species
-      <i>Gynanropsis gynandra</i>, Conor is using specific breeding methods in conjunction with quantitative genetics to calculate the heritability
-      and number of genes responsible for certain C<sub>4</sub> characteristics. Additionally, with the aim of identifying loci responsible for complex
-      C<sub>4</sub> phenotypes, such as Kranz anatomy, he is using quantitative trait loci (QTL) analysis to generate a high-density genetic map in <i>G.
-      gynandra</i>. </p>
-    </div>
+      <h4 class="media-heading">Zheng-Ao Di</h4>
+      <p>Zhengao did his PhD in the Hibberd lab, and is currently conitnuing his work on engineering a reverse C4 photosynthetic pathway in C3 species Arabidopsis thaliana. The reverse C4 photosynthesis system introduced C4 biochemistry in the opposite cell types from those used by C4 species, which aimed at replicating the spatial patterning of the C4 biochemical pathway and making use of the native leaf anatomy of C3 species. At the same time, he is also using betalain biosynthetic pathway to understand how the assembly of synthetic protein scaffolds could be used to improve metabolic pathway efficiency in plants.</p>
+  </div>
   </div>
  </div>
 <br>
+
+### PhD students
 
 ### Masters Students
 
@@ -260,6 +216,10 @@ Read more about them below.
 <div>- Dr. Haiyan Xiong: The regulatory mechanism of light stress response in rice bundle sheath cells </div>
 <div>- Dr. Greg Reeves: Investigating the genetic basis for C4 photosynthesis from natural variation among C4 plants and developing a method to graft monocot plants</div>
 <div>- Dr. Natasha Elina: Understanding the assembly of the photosynthetic apparatus to induce chloroplast development in non-green cells</div>
+<div>- Dr. Pallavi Singh: Elucidating the spectrum of regulatory networks governing the evolution of C<sub>4</sub> photosynthesis</div>
+<div>- Dr. Sean Stevenson: Using the bryophyte model (Marchantia) to study light signalling and regulation and how this is integrated in early plant development and photosynthesis</div>
+<div>- Dr. Leonie Luginbuehl: Understanding the cell type specific regulation of photosynthetic capacity in rice leaves</div>
+<div>- Dr Conor Simpson: Calculating the heritability and number of genes responsible for certain C<sub>4</sub> characteristics</div>
 <br> 
 
 #### Former Research Staff
