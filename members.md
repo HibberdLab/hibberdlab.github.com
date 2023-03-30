@@ -129,6 +129,14 @@ Read more about them below.
 
 ### Masters Students
 
+<div class="row-fluid">
+  <div class="span6 media">
+      <img class="pull-left media-object img-rounded" src="../assets/members/ss.jpg">
+      <div class="media-body">
+      <h4 class="media-heading">Susan Stanley</h4>
+      <p> Becca completed her undergraduate degree in Natural Sciences at the University of Cambridge, specialising in Plant Sciences in her final year and graduating in June 2022. She joined the Hibberd lab in September 2022 as an MPhil student, where she is currently investigating chloroplast positioning in bundle sheath cells of C4 plant <i>Gynandropsis gynandra</i>.</p>
+    </div>
+    </div>
 ### Research staff
 
 <div class="row-fluid">
