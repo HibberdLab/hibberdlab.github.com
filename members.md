@@ -131,7 +131,7 @@ Read more about them below.
       <img class="pull-left media-object img-rounded" src="../assets/members/at.jpg">
       <div class="media-body">
       <h4 class="media-heading">Anoop Tripathi</h4>
-      <p> Anoop is Gates Cambridge PhD Scholar working on various aspects of grafting and somatic hybridization. Prior to this, he worked as a Senior Research Technician in the Hibberd lab where he was involved in establishing the method of monocot grafting which overturned the long-standing consensus that monocots cannot graft.  Back in India he worked as a Senior Research Fellow at the National Bureau of Plant Genetic Resources (ICAR-NBPGR), New Delhi, where his research focused on understanding the gene regulatory networks in cereal crops. He has a Masters in Biochemistry from the University of Lucknow, India.</i>.</p>
+      <p> Anoop is Gates Cambridge PhD Scholar working on various aspects of grafting and somatic hybridization. Prior to this, he worked as a Senior Research Technician in the Hibberd lab where he was involved in establishing the method of monocot grafting which overturned the long-standing consensus that monocots cannot graft.  Back in India he worked as a Senior Research Fellow at the National Bureau of Plant Genetic Resources (ICAR-NBPGR), New Delhi, where his research focused on understanding the gene regulatory networks in cereal crops. He has a Masters in Biochemistry from the University of Lucknow, India.</p>
     </div>
   </div>
  </div>
