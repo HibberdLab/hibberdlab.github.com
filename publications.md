@@ -11,6 +11,7 @@ group: navigation
 ## Manually curated list
 
 ### 2023
+- [Fichman, Y., Xiong, H., Sengupta, S., Morrow, J., Loog, H., Azad, R. K., Hibberd, J. M., Liscum, E., Mittler, R. (2023) Phytochrome B regulates reactive oxygen signaling during abiotic and biotic stress in plants. New Phytologist. /doi.org/10.1111/nph.18626](https://doi.org/10.1111/nph.18626) 
 
 - [Hoang, N. V.,S ogbohossou, E. O. D., Xiong, W., **Simpson, C. J. C.**, **Singh, P.**, Walden, N., van den Bergh, E., Becker, F. F. M., Li, Z., Zhu, X. G., Brautigam, A., Weber, A. P. M., van Haarst, J. C., Schijlen, Egwm, Hendre, P. S., Van Deynze, A., Achigan-Dako, E. G., **Hibberd, J. M.**, Schranz, M. E. (2023) <i>The Gynandropsis gynandra</i> genome provides insights into whole-genome duplications and the evolution of C4 photosynthesis in Cleomaceae. The Plant Cell. doi.org/10.1093/plcell/koad018](https://doi.org/10.1093/plcell/koad018) 
 
@@ -22,15 +23,15 @@ group: navigation
 
 - [**Simpson, C.J.C., Reeves, G., Tripathi, A., Singh, P., Hibberd, J.M.** (2021) Using breeding and quantitative genetics to understand the C4 pathway. Journal of Experimental Botany doi.org/10.1093/jxb/erab486](https://academic.oup.com/jxb/advance-article/doi/10.1093/jxb/erab486/6423292) 
 
-- [**Washburn, J. D., Strable, J., Dickinson, P., Kothapalli, S. S., Brose, J. M., Covshoff, S., Conant, G. C., Hibberd, J. M., Pires, J. C.** (2021) Distinct C4 sub-types and C3 bundle sheath isolation in the Paniceae grasses. Plant Direct doi.org/10.1002/pld3.373.](https://doi.org/10.1002/pld3.373)
+- [Washburn, J. D., Strable, J., **Dickinson, P.**, Kothapalli, S. S., Brose, J. M., Covshoff, S., Conant, G. C., **Hibberd, J. M.**, Pires, J. C. (2021) Distinct C4 sub-types and C3 bundle sheath isolation in the Paniceae grasses. Plant Direct doi.org/10.1002/pld3.373.](https://doi.org/10.1002/pld3.373)
 
 - [**Reeves, G., Tripathi, A., Singh, P. et al.** (2021) Monocotyledonous plants graft at the embryonic root–shoot interface. Nature doi.org/10.1038/s41586-021-04247-y.](https://doi.org/10.1038/s41586-021-04247-y)
 
-- [**Cackett, L., Luginbuehl, L.H., Schreier, T.B., Lopez-Juez, E., Hibberd, J.M.** (2021) Chloroplast development in green plant tissues: the interplay between light, hormone, and transcriptional regulation. New Phytol. doi.org/10.1111/nph.17839.](https://doi.org/10.1111/nph.17839)
+- [**Cackett, L., Luginbuehl, L.H., Schreier, T.B.**, Lopez-Juez, E., **Hibberd, J.M.** (2021) Chloroplast development in green plant tissues: the interplay between light, hormone, and transcriptional regulation. New Phytol. doi.org/10.1111/nph.17839.](https://doi.org/10.1111/nph.17839)
 
-- [**Hua, L., Stevenson, S.R., Reyna-Llorens, I., Xiong, H., Kopriva, S., Hibberd, J.M.** (2021) The bundle sheath of rice is conditioned to play an active role in water transport as well as sulfur assimilation and jasmonic acid synthesis. The Plant Journal doi.org/10.1111/tpj.15292.](https://pubmed.ncbi.nlm.nih.gov/33901336/)
+- [**Hua, L.**, Stevenson, S.R., Reyna-Llorens, I., **Xiong, H.**, Kopriva, S., **Hibberd, J.M.** (2021) The bundle sheath of rice is conditioned to play an active role in water transport as well as sulfur assimilation and jasmonic acid synthesis. The Plant Journal doi.org/10.1111/tpj.15292.](https://pubmed.ncbi.nlm.nih.gov/33901336/)
 
-- [**Maheshwari C., Coe, R.A., Karki, S., Covshoff, S., Tapia, R., Tyagi, A., Hibberd, J.M., Furbank, R.T. Quick, W.P., Lin, H-C.** (2021) Targeted knockdown of ribulose-1, 5-bisphosphate carboxylase-oxygenase in rice mesophyll cells. Journal of Plant Physiology doi.org/10.1016/j.jplph.2021.153395.](https://www.sciencedirect.com/science/article/pii/S0176161721000341) 
+- [Maheshwari C., Coe, R.A., Karki, S., Covshoff, S., Tapia, R., Tyagi, A.,** Hibberd, J.M.**, Furbank, R.T. Quick, W.P., Lin, H-C. (2021) Targeted knockdown of ribulose-1, 5-bisphosphate carboxylase-oxygenase in rice mesophyll cells. Journal of Plant Physiology doi.org/10.1016/j.jplph.2021.153395.](https://www.sciencedirect.com/science/article/pii/S0176161721000341) 
 
 ### 2020
 
