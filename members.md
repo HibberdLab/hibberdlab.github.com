@@ -156,7 +156,6 @@ Read more about them below.
  </div>
 <br>
 
-
 ### Research staff
 
 <div class="row-fluid">
