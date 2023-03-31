@@ -10,6 +10,14 @@ group: navigation
 
 ## Manually curated list
 
+### 2023
+
+- [Hoang, N. V.,S ogbohossou, E. O. D., Xiong, W., **Simpson, C. J. C.**, **Singh, P.**, Walden, N., van den Bergh, E., Becker, F. F. M., Li, Z., Zhu, X. G., Brautigam, A., Weber, A. P. M., van Haarst, J. C., Schijlen, Egwm, Hendre, P. S., Van Deynze, A., Achigan-Dako, E. G., **Hibberd, J. M.**, Schranz, M. E. (2023) <i>The Gynandropsis gynandra</i> genome provides insights into whole-genome duplications and the evolution of C4 photosynthesis in Cleomaceae. The Plant Cell. doi.org/10.1093/plcell/koad018](https://doi.org/10.1093/plcell/koad018) 
+
+### 2022
+
+- [**Hibberd, J.M.** (2021) Using breeding and quantitative genetics to understand the C4 pathway. Journal of Experimental Botany doi.org/10.1093/jxb/erab486](https://doi.org/10.1016/j.cub.2022.08.078)
+
 ### 2021
 
 - [**Simpson, C.J.C., Reeves, G., Tripathi, A., Singh, P., Hibberd, J.M.** (2021) Using breeding and quantitative genetics to understand the C4 pathway. Journal of Experimental Botany doi.org/10.1093/jxb/erab486](https://academic.oup.com/jxb/advance-article/doi/10.1093/jxb/erab486/6423292) 
