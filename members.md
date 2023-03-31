@@ -147,13 +147,12 @@ Read more about them below.
       <p> Becca completed her undergraduate degree in Natural Sciences at the University of Cambridge, specialising in Plant Sciences in her final year and graduating in June 2022. She joined the Hibberd lab in September 2022 as an MPhil student, where she is currently investigating chloroplast positioning in bundle sheath cells of C4 plant <i>Gynandropsis gynandra</i>.</p>
     </div>
   </div>
- <div class="span6 media">
-     <img class="pull-left media-object img-rounded" src="../assets/members/zg.jpg">
-    <div class="media-body">
+  <div class="span6 media">
+      <img class="pull-left media-object img-rounded" src="../assets/members/zg.jpg">
+      <div class="media-body">
       <h4 class="media-heading">Zara Guppy</h4>
       <p>Zara did her undergrad at the University of Cambridge, specialising in plant sciences, before starting her masters in the Hibberd lab. Here she is looking at understanding the regulation of bundle sheath specific genes in C3 Arabidopsis and developing a cell-specific reporter for promoter studies based on the betalain synthesis pathway.</p>
     </div>
-  </div>
  </div>
 <br>
 
