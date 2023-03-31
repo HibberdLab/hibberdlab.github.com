@@ -40,7 +40,7 @@ group: navigation
 
 - [**Hua, L.**, Stevenson, S.R., Reyna-Llorens, I., **Xiong, H.**, Kopriva, S., **Hibberd, J.M.** (2021) The bundle sheath of rice is conditioned to play an active role in water transport as well as sulfur assimilation and jasmonic acid synthesis. The Plant Journal doi.org/10.1111/tpj.15292.](https://pubmed.ncbi.nlm.nih.gov/33901336/)
 
-- [Maheshwari C., Coe, R.A., Karki, S., Covshoff, S., Tapia, R., Tyagi, A.,** Hibberd, J.M.**, Furbank, R.T. Quick, W.P., Lin, H-C. (2021) Targeted knockdown of ribulose-1, 5-bisphosphate carboxylase-oxygenase in rice mesophyll cells. Journal of Plant Physiology doi.org/10.1016/j.jplph.2021.153395.](https://www.sciencedirect.com/science/article/pii/S0176161721000341) 
+- [Maheshwari C., Coe, R.A., Karki, S., Covshoff, S., Tapia, R., Tyagi, A.,**Hibberd, J.M.**, Furbank, R.T. Quick, W.P., Lin, H-C. (2021) Targeted knockdown of ribulose-1, 5-bisphosphate carboxylase-oxygenase in rice mesophyll cells. Journal of Plant Physiology doi.org/10.1016/j.jplph.2021.153395.](https://www.sciencedirect.com/science/article/pii/S0176161721000341) 
 
 ### 2020
 
