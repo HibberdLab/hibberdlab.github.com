@@ -151,7 +151,7 @@ Read more about them below.
       <img class="pull-left media-object img-rounded" src="../assets/members/zg-new.jpeg">
       <div class="media-body">
       <h4 class="media-heading">Zara Guppy</h4>
-      <p>Zara did her undergrad at the University of Cambridge, specialising in plant sciences, before starting her masters in the Hibberd lab at October 2022. Here she is looking at understanding the regulation of bundle sheath specific genes in C3 Arabidopsis and developing a cell-specific reporter for promoter studies based on the betalain synthesis pathway.</p>
+      <p>Zara did her undergrad at the University of Cambridge, specialising in plant sciences, before starting her masters in the Hibberd lab in October 2022. Here she is looking at understanding the regulation of bundle sheath specific genes in C3 Arabidopsis and developing a cell-specific reporter for promoter studies based on the betalain synthesis pathway.</p>
     </div>
  </div>
 </div>
