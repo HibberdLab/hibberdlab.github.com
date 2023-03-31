@@ -126,7 +126,16 @@ Read more about them below.
 <br>
 
 ### PhD students
-
+<div class="row-fluid">
+  <div class="span6 media">
+      <img class="pull-left media-object img-rounded" src="../assets/members/at.jpg">
+      <div class="media-body">
+      <h4 class="media-heading">Anoop Tripathi</h4>
+      <p> Anoop is Gates Cambridge PhD Scholar working on various aspects of grafting and somatic hybridization. Prior to this, he worked as a Senior Research Technician in the Hibberd lab where he was involved in establishing the method of monocot grafting which overturned the long-standing consensus that monocots cannot graft.  Back in India he worked as a Senior Research Fellow at the National Bureau of Plant Genetic Resources (ICAR-NBPGR), New Delhi, where his research focused on understanding the gene regulatory networks in cereal crops. He has a Masters in Biochemistry from the University of Lucknow, India.</i>.</p>
+    </div>
+  </div>
+ </div>
+<br>
 ### Masters Students
 
 <div class="row-fluid">
@@ -177,13 +186,6 @@ Read more about them below.
 	  joining the Hibberd lab to work on crop transformation.</p>
     </div>
    </div>
- <div class="span6 media">
-    <img class="pull-left media-object img-rounded" src="../assets/members/at.jpg">
-    <div class="media-body">
-    <h4 class="media-heading">Anoop Tripathi</h4>
-    <p>Anoop did his MSc in Biochemistry at University of Lucknow, India. Then he worked as Senior Research Fellow at National Bureau of Plant Genetic Resources (ICAR-NBPGR), New Delhi, India, where his research focused on understanding the gene regulatory networks in cereal crops. He joined the Hibberd lab as a Senior Research Technician in January 2020 and is currently working on grafting and somatic hybridisation.</p>
-    </div>
-    </div>
 </div>
 
 ## Past members
