@@ -11,13 +11,19 @@ group: navigation
 ## Manually curated list
 
 ### 2023
-- [Fichman, Y., Xiong, H., Sengupta, S., Morrow, J., Loog, H., Azad, R. K., Hibberd, J. M., Liscum, E., Mittler, R. (2023) Phytochrome B regulates reactive oxygen signaling during abiotic and biotic stress in plants. New Phytologist. /doi.org/10.1111/nph.18626](https://doi.org/10.1111/nph.18626) 
+- [Fichman, Y., **Xiong, H.**, Sengupta, S., Morrow, J., Loog, H., Azad, R. K., **Hibberd, J. M.**, Liscum, E., Mittler, R. (2023) Phytochrome B regulates reactive oxygen signaling during abiotic and biotic stress in plants. New Phytologist. /doi.org/10.1111/nph.18626](https://doi.org/10.1111/nph.18626) 
 
 - [Hoang, N. V.,S ogbohossou, E. O. D., Xiong, W., **Simpson, C. J. C.**, **Singh, P.**, Walden, N., van den Bergh, E., Becker, F. F. M., Li, Z., Zhu, X. G., Brautigam, A., Weber, A. P. M., van Haarst, J. C., Schijlen, Egwm, Hendre, P. S., Van Deynze, A., Achigan-Dako, E. G., **Hibberd, J. M.**, Schranz, M. E. (2023) <i>The Gynandropsis gynandra</i> genome provides insights into whole-genome duplications and the evolution of C4 photosynthesis in Cleomaceae. The Plant Cell. doi.org/10.1093/plcell/koad018](https://doi.org/10.1093/plcell/koad018) 
 
 ### 2022
+- [**Billakurthi, K.**, Schulze, S., Schulz, E. L. M., Sage, T. L., **Schreier, T. B.**, **Hibberd, J. M.**, Ludwig, M.
+, Westhoff, P.(2022) Using breeding and quantitative genetics to understand the C4 pathway. Journal of Experimental Botany doi.org/10.1093/jxb/erab486](https://doi.org/10.1016/j.cub.2022.08.078)
+- 
+- [Danila, F., **Schreiber, T.**, Ermakova, M., **Hua, L.**, Vlad, D., Lo, S. F., Chen, Y. S., Lambret-Frotte, J., Hermanns, A. S., Athmer, B., von Caemmerer, S., Yu, S. M., **Hibberd, J. M.**, Tissier, A., Furbank, R. T., Kelly, S., Langdale, J. A. (2022) ). A single promoter‐TALE system for tissue‐specific and tuneable expression of multiple genes in rice. Plant Biotechnology Journal. doi.org/10.1111/pbi.13864](https://doi.org/10.1111/pbi.13864)
+- 
+- [Waller, M., **Frangedakis, E..**, Marron, A. O., Sauret‐Gueto, S., Rever, J., Sabbagh, C. R. R., .**Hibberd, J. M..**, Haseloff, J., Renzaglia, K., Szovenyi (2022) An optimised transformation protocol for Anthoceros agrestis and three more hornwort species. The Plant Journal. doi.org/10.1111/tpj.16161](https://doi.org/10.1111/tpj.16161)
 
-- [**Hibberd, J.M.** (2021) Using breeding and quantitative genetics to understand the C4 pathway. Journal of Experimental Botany doi.org/10.1093/jxb/erab486](https://doi.org/10.1016/j.cub.2022.08.078)
+- [**Hibberd, J.M.** (2022) Photosynthesis: Compatibility between incompatible pathways explained. Current Biology. doi.org/10.1016/j.cub.2022.08.078](https://doi.org/10.1016/j.cub.2022.08.078)
 
 ### 2021
 
