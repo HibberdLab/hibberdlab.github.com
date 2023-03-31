@@ -17,15 +17,18 @@ group: navigation
 
 ### 2022
 - [**Billakurthi, K.**, Schulze, S., Schulz, E. L. M., Sage, T. L., **Schreier, T. B.**, **Hibberd, J. M.**, Ludwig, M.
-, Westhoff, P.(2022) Using breeding and quantitative genetics to understand the C4 pathway. Journal of Experimental Botany doi.org/10.1093/jxb/erab486](https://doi.org/10.1016/j.cub.2022.08.078)
-- 
+, Westhoff, P.(2022) Shedding light on AT1G29480 of Arabidopsis thaliana—An enigmatic locus restricted to Brassicacean genomes. Plant direct. doi.org/10.1002/pld3.455](https://doi.org/10.1002/pld3.455)
+
 - [Danila, F., **Schreiber, T.**, Ermakova, M., **Hua, L.**, Vlad, D., Lo, S. F., Chen, Y. S., Lambret-Frotte, J., Hermanns, A. S., Athmer, B., von Caemmerer, S., Yu, S. M., **Hibberd, J. M.**, Tissier, A., Furbank, R. T., Kelly, S., Langdale, J. A. (2022) ). A single promoter‐TALE system for tissue‐specific and tuneable expression of multiple genes in rice. Plant Biotechnology Journal. doi.org/10.1111/pbi.13864](https://doi.org/10.1111/pbi.13864)
-- 
+
 - [Waller, M., **Frangedakis, E..**, Marron, A. O., Sauret‐Gueto, S., Rever, J., Sabbagh, C. R. R., .**Hibberd, J. M..**, Haseloff, J., Renzaglia, K., Szovenyi (2022) An optimised transformation protocol for Anthoceros agrestis and three more hornwort species. The Plant Journal. doi.org/10.1111/tpj.16161](https://doi.org/10.1111/tpj.16161)
 
 - [**Hibberd, J.M.** (2022) Photosynthesis: Compatibility between incompatible pathways explained. Current Biology. doi.org/10.1016/j.cub.2022.08.078](https://doi.org/10.1016/j.cub.2022.08.078)
 
 ### 2021
+- [**Xiong, H.**, **Hua, L.**, Reyna-Llorens, I., Shi, Y., Chen, K. M., Smirnoff, N., ... & **Hibberd, J. M**. (2021). Photosynthesis-independent production of reactive oxygen species in the rice bundle sheath during high light is mediated by NADPH oxidase. Proceedings of the National Academy of Sciences. doi.org/10.1073/pnas.202270211](https://doi.org/10.1073/pnas.202270211) 
+
+- [Lee, D. Y., **Hua, L.**, Khoshravesh, R., Giuliani, R., Kumar, I., Cousins, A., Sage, T. L., **Hibberd, J. M.**, Brutnell, T. P. (2021). Engineering chloroplast development in rice through cell‐specific control of endogenous genetic circuits. Plant biotechnology journal. doi.org/10.1111/pbi.13660](https://doi.org/10.1111/pbi.13660) 
 
 - [**Simpson, C.J.C., Reeves, G., Tripathi, A., Singh, P., Hibberd, J.M.** (2021) Using breeding and quantitative genetics to understand the C4 pathway. Journal of Experimental Botany doi.org/10.1093/jxb/erab486](https://academic.oup.com/jxb/advance-article/doi/10.1093/jxb/erab486/6423292) 
 
