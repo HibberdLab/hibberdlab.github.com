@@ -218,6 +218,7 @@ Read more about them below.
 <div>- Greg Reeves: Investigating the genetic basis for C4 photosynthesis from natural variation among C4 plants and developing a method to graft monocot plants</div>
 <div>- Robyn Phillips: Activating photosynthesis in non-photosynthetic cells for improved crop productivity</div>
 <div>- Zhengao Di:Engineering a reverse C4 photosynthetic pathway in C3 species <i>Arabidopsis thaliana</i></div>
+<div>- Conor Simpson: Understanding C4 photosynthesis through quantitative genetics</div>
 
 #### Former Post-Doctoral Research Associates
 <div>- Dr. Sarah Covshoff: C<sub>4</sub> rice </div>
@@ -240,7 +241,7 @@ Read more about them below.
 <div>- Dr. Pallavi Singh: Elucidating the spectrum of regulatory networks governing the evolution of C<sub>4</sub> photosynthesis</div>
 <div>- Dr. Sean Stevenson: Using the bryophyte model (Marchantia) to study light signalling and regulation and how this is integrated in early plant development and photosynthesis</div>
 <div>- Dr. Leonie Luginbuehl: Understanding the cell type specific regulation of photosynthetic capacity in rice leaves</div>
-<div>- Dr Conor Simpson: Calculating the heritability and number of genes responsible for certain C<sub>4</sub> characteristics</div>
+<div>- Dr Conor Simpson: High-throughput phenotyping of vein density and genetic assessment of a MAGIC C<sub>4</sub> <i>Gynandropsis gynandra</i> population</div>
 <br> 
 
 #### Former Research Staff
