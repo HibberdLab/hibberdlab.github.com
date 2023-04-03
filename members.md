@@ -69,7 +69,7 @@ Read more about them below.
     </div>
   </div>
    <div class="span6 media">
-    <img class="pull-left media-object img-rounded" src="../assets/members/EF_edit .jpg.jpg" >
+    <img class="pull-left media-object img-rounded" src="../assets/members/EF_edit .jpg" >
     <div class="media-body">
       <h4 class="media-heading">Eftychios Frangedakis</h4>
       <p>Eftychis did his PhD with Jane Langdale at the University of Oxford, working on plant evo-devo. He joined the Hibberd lab in March 2020. Here he is exploring synthetic biology approaches to increase the chloroplast compartment in Arabidopsis bundle sheath cells.</p>
