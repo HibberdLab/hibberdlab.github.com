@@ -224,7 +224,7 @@ Read more about them below.
 <div>- Dr. Sean Stevenson: Using the bryophyte model (Marchantia) to study light signalling and regulation and how this is integrated in early plant development and photosynthesis</div>
 <div>- Dr. Leonie Luginbuehl: Understanding the cell type specific regulation of photosynthetic capacity in rice leaves</div>
 <div>- Dr. Conor Simpson: High-throughput phenotyping of vein density and genetic assessment of a MAGIC C<sub>4</sub> <i>Gynandropsis gynandra</i> population</div>
-<div>- Dr. Zhengao Di:Engineering a reverse C4 photosynthetic pathway in C3 species <i>Arabidopsis thaliana</i></div>
+<div>- Dr. Zhengao Di: Engineering a reverse C4 photosynthetic pathway in C3 species <i>Arabidopsis thaliana</i></div>
 <br> 
 
 #### Former Research Staff
