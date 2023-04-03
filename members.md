@@ -69,10 +69,10 @@ Read more about them below.
     </div>
   </div>
    <div class="span6 media">
-    <img class="pull-left media-object img-rounded" src="../assets/members/lc.jpg" >
+    <img class="pull-left media-object img-rounded" src="../assets/members/EF_edit .jpg.jpg" >
     <div class="media-body">
-      <h4 class="media-heading">Lee Cackett</h4>
-      <p>Lee got her PhD in 2020 from the Molecular and Cellular Biology Department at the University of Cape Town, South Africa. During her PhD, she identified a role for auxin and auxin-related genes during the plant response to the ionic component of salinity stress. Lee joined the Hibberd lab in March 2020. Here she will be working to identify and characterise master transcriptional regulators of photosynthesis in rice and analyse the transcriptional changes in maize bundle sheath and mesophyll cells during growth in photoinhibitory conditions. </p>
+      <h4 class="media-heading">Eftychios Frangedakis</h4>
+      <p>Eftychis did his PhD with Jane Langdale at the University of Oxford, working on plant evo-devo. He joined the Hibberd lab in March 2020. Here he is exploring synthetic biology approaches to increase the chloroplast compartment in Arabidopsis bundle sheath cells.</p>
     </div>
   </div>
  </div>
@@ -103,24 +103,6 @@ Read more about them below.
       <h4 class="media-heading">Tina B. Schreier</h4>
       <p>Tina did her PhD in plant biochemistry at ETH Zurich, and her main research interest lies in plant metabolism and photosynthesis. She joined the lab of Julian Hibberd in October 2018 as a Swiss National Science Foundation Research Fellow, studying cell-to-cell connectivity in leaves of the <i>Cleome</i> family and how this trait might have facilitated the evolution of C<sub>4</sub> photosynthesis. During her PhD in the lab of Professor Sam Zeeman, she discovered two chloroplast proteins that were originally thought to act as enzymes play other important non-canonical roles. This includes the plastidial NAD-dependent malate dehydrogenase, where the protein but not the enzymatic activity is required for proper chloroplast development. After her PhD, she worked at the John Innes Centre in the group of Professor Alison Smith, studying transgenic wheat lines with altered carbohydrate metabolism in the grain.</p>
       </div>
-  </div>
-  <div class="span6 media">
-     <img class="pull-left media-object img-rounded" src="../assets/members/EF_edit .jpg">
-    <div class="media-body">
-      <h4 class="media-heading">Eftychios Frangedakis</h4>
-      <p>Eftychis did his PhD with Jane Langdale at the University of Oxford, working on plant evo-devo. He joined the Hibberd lab in March 2020. Here he is exploring synthetic biology approaches to increase the chloroplast compartment in Arabidopsis bundle sheath cells.</p>
-    </div>
-  </div>
- </div>
-<br>
-
-<div class="row-fluid">
-  <div class="span6 media">
-       <img class="pull-left media-object img-rounded" src="../assets/members/zad.jpg">
-    <div class="media-body">
-      <h4 class="media-heading">Zheng-Ao Di</h4>
-      <p>Zhengao did his PhD in the Hibberd lab, and is currently conitnuing his work on engineering a reverse C4 photosynthetic pathway in C3 species Arabidopsis thaliana. The reverse C4 photosynthesis system introduced C4 biochemistry in the opposite cell types from those used by C4 species, which aimed at replicating the spatial patterning of the C4 biochemical pathway and making use of the native leaf anatomy of C3 species. At the same time, he is also using betalain biosynthetic pathway to understand how the assembly of synthetic protein scaffolds could be used to improve metabolic pathway efficiency in plants.</p>
-  </div>
   </div>
  </div>
 <br>
@@ -241,7 +223,8 @@ Read more about them below.
 <div>- Dr. Pallavi Singh: Elucidating the spectrum of regulatory networks governing the evolution of C<sub>4</sub> photosynthesis</div>
 <div>- Dr. Sean Stevenson: Using the bryophyte model (Marchantia) to study light signalling and regulation and how this is integrated in early plant development and photosynthesis</div>
 <div>- Dr. Leonie Luginbuehl: Understanding the cell type specific regulation of photosynthetic capacity in rice leaves</div>
-<div>- Dr Conor Simpson: High-throughput phenotyping of vein density and genetic assessment of a MAGIC C<sub>4</sub> <i>Gynandropsis gynandra</i> population</div>
+<div>- Dr. Conor Simpson: High-throughput phenotyping of vein density and genetic assessment of a MAGIC C<sub>4</sub> <i>Gynandropsis gynandra</i> population</div>
+<div>- Dr. Zhengao Di:Engineering a reverse C4 photosynthetic pathway in C3 species <i>Arabidopsis thaliana</i></div>
 <br> 
 
 #### Former Research Staff
