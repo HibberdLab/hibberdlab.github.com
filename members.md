@@ -21,8 +21,8 @@ Read more about them below.
       <h4 class="media-heading">Julian Hibberd</h4>
       <p>Julian did his PhD with John Farrar and Bob Whitbread at Bangor University. He then moved to post-doctoral positions with Julie Scholes, Paul Quick and Malcolm Press in Sheffield, and then John Gray in Cambridge. He started his own group in Cambridge while holding a BBSRC Sir David Phillips Fellowship. Julian’s interests in plant biology have focussed on various aspects of photosynthesis, but most work relates to the evolution and function of the C4 pathway.</p>
       <p>Julian represented the photosynthesis and metabolism community from 2005-2012 on the Plant Section committee of the <a href="http://www.sebiology.org">Society of Experimental Biology</a>, and in 2013 was elected as a European Representative of the International Photosynthesis Society. He has served on numerous BBSRC committees, and from 2012-2022 was an Associate Editor of <a href="http://www.plantphysiol.org"><i>Plant Physiology</i></a>. Julian is currently a team leader within both the C4 Rice Project, on the Management Board of the Sainsbury Laboratory Cambridge University, and is Head of the Plant Sciences Department.
+    </div>
   </div>
- </div>
 </div>
 
 ----  
