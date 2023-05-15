@@ -221,6 +221,7 @@ Read more about them below.
 <br> 
 
 #### Former Research Staff
+<div>- Dr. Satish Kumar Eeda: C<sub>4</sub> rice</div>
 <div>- Mathieu Grangé-Guerment: C<sub>4</sub> rice</div>
 <div>- Chris Boursnell: Wild Rice MAGIC project and <i>de novo</i> transcriptome assembly</div>
 <br> 
