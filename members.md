@@ -93,7 +93,13 @@ Read more about them below.
 	   <img class="pull-left media-object img-rounded" src="../assets/members/tbs.jpg">
     <div class="media-body">
       <h4 class="media-heading">Tina B. Schreier</h4>
-      <p>Tina did her PhD in plant biochemistry at ETH Zurich, and her main research interest lies in plant metabolism and photosynthesis. She joined the lab of Julian Hibberd in October 2018 as a Swiss National Science Foundation Research Fellow, studying cell-to-cell connectivity in leaves of the <i>Cleome</i> family and how this trait might have facilitated the evolution of C<sub>4</sub> photosynthesis. During her PhD in the lab of Professor Sam Zeeman, she discovered two chloroplast proteins that were originally thought to act as enzymes play other important non-canonical roles. This includes the plastidial NAD-dependent malate dehydrogenase, where the protein but not the enzymatic activity is required for proper chloroplast development. After her PhD, she worked at the John Innes Centre in the group of Professor Alison Smith, studying transgenic wheat lines with altered carbohydrate metabolism in the grain.</p>
+      <p>Tina did her PhD in plant biochemistry at ETH Zurich, and her main research interest lies in plant metabolism and photosynthesis. She joined the lab of Julian Hibberd in October 2018 as a Swiss National Science Foundation Research Fellow, studying cell-to-cell connectivity in leaves of the <i>Cleome</i> family and how this trait might have facilitated the evolution of C<sub>4</sub> photosynthesis. During her PhD in the lab of Professor Sam Zeeman, she discovered two chloroplast proteins that were originally thought to act as enzymes play other important non-canonical roles. This includes the plastidial NAD-dependent malate dehydrogenase, where the protein but not the enzymatic activity is required for proper chloroplast development. After her PhD, she worked at the John Innes Centre in the group of Professor Alison Smith, studying transgenic wheat lines with altered carbohydrate metabolism in the grain.</p>     </div>
+  </div>
+   <div class="span6 media">
+      <img class="pull-left media-object img-rounded" src="../assets/members/rr.jpg">
+    <div class="media-body">
+     <h4 class="media-heading">Rohan Richard</h4>
+      <p>Rohan got his PhD at the University of Reading in 2023 where he studied the stability of QTL associated to bread-making quality traits and conducted a QTL analysis on the trait Grain Protein Deviation (GPD) in wheat. He also investigated the senescence dynamic in the mapping population and performed a QTL detection for senescence traits. Since April 2023, he is hosted joinly by the Hibberd and Kromdijk labs where he is finalizing the development of a <i>Cleome gynandra</i> mapping population and carrying out association analysis on <i>C. gynandra</i> photosynthetic traits.</p>
       </div>
   </div>
  </div>
