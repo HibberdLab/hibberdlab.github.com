@@ -11,7 +11,7 @@ group: navigation
 ## Manually curated list
 
 ### 2023
-- [Simpson, C.J.C., Singh, P., Sogbohossou, D.E.O., Eric Schranz, M., and Hibberd, J.M. (2023). A rapid method to quantify vein density in <sub>4</sub> plants using starch staining. Plant, Cell & Environment. /doi.org/10.1111/pce.14656.](https://doi.org/10.1111/pce.14656)
+- [**Simpson, C.J.C.**,** Singh, P.**, Sogbohossou, D.E.O., Eric Schranz, M., and **Hibberd, J.M.** (2023). A rapid method to quantify vein density in <sub>4</sub> plants using starch staining. Plant, Cell & Environment. /doi.org/10.1111/pce.14656.](https://doi.org/10.1111/pce.14656)
   
 - [**Singh, P.**, **Stevenson, S.R.**, **Dickinson, P.J.**, **Reyna-Llorens, I.**, **Tripathi, A.**, **Reeves, G.**, **Schreier, T.B.**, and **Hibberd, J.M.** (2023). <sub>4</sub> gene induction during de-etiolation evolved through changes in cis to allow integration with ancestral <sub>3</sub> gene regulatory networks. Science Advances. /doi.org/20.1126/sciadv.ade9756](https://doi.org/20.1126/sciadv.ade9756)
   
