@@ -11,6 +11,10 @@ group: navigation
 ## Manually curated list
 
 ### 2023
+- [Simpson, C.J.C., Singh, P., Sogbohossou, D.E.O., Eric Schranz, M., and Hibberd, J.M. (2023). A rapid method to quantify vein density in <sub>4</sub> plants using starch staining. Plant, Cell & Environment. /doi.org/10.1111/pce.14656.](https://doi.org/10.1111/pce.14656)
+  
+- [**Singh, P.**, **Stevenson, S.R.**, **Dickinson, P.J.**, **Reyna-Llorens, I.**, **Tripathi, A.**, **Reeves, G.**, **Schreier, T.B.**, and **Hibberd, J.M.** (2023). <sub>4</sub> gene induction during de-etiolation evolved through changes in cis to allow integration with ancestral <sub>3</sub> gene regulatory networks. Science Advances. /doi.org/20.1126/sciadv.ade9756](https://doi.org/20.1126/sciadv.ade9756)
+  
 - [Fichman, Y., **Xiong, H.**, Sengupta, S., Morrow, J., Loog, H., Azad, R. K., **Hibberd, J. M.**, Liscum, E., Mittler, R. (2023) Phytochrome B regulates reactive oxygen signaling during abiotic and biotic stress in plants. New Phytologist. /doi.org/10.1111/nph.18626](https://doi.org/10.1111/nph.18626) 
 
 - [Hoang, N. V.,S ogbohossou, E. O. D., Xiong, W., **Simpson, C. J. C.**, **Singh, P.**, Walden, N., van den Bergh, E., Becker, F. F. M., Li, Z., Zhu, X. G., Brautigam, A., Weber, A. P. M., van Haarst, J. C., Schijlen, Egwm, Hendre, P. S., Van Deynze, A., Achigan-Dako, E. G., **Hibberd, J. M.**, Schranz, M. E. (2023) <i>The Gynandropsis gynandra</i> genome provides insights into whole-genome duplications and the evolution of C4 photosynthesis in Cleomaceae. The Plant Cell. doi.org/10.1093/plcell/koad018](https://doi.org/10.1093/plcell/koad018) 
