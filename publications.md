@@ -11,8 +11,10 @@ group: navigation
 ## Manually curated list
 
 ### 2023
-- [**Simpson, C.J.C.**,**Singh, P.**, Sogbohossou, D.E.O., Eric Schranz, M., and **Hibberd, J.M.** (2023). A rapid method to quantify vein density in <sub>4</sub> plants using starch staining. Plant, Cell & Environment. /doi.org/10.1111/pce.14656.](https://doi.org/10.1111/pce.14656)
+- [**Billakurthi, K.**, and **Hibberd, J.M.** (2023). A rapid and robust leaf ablation method to visualize bundle sheath cells and chloroplasts in C(3) and C(4) grasses. Plant Methods. DOI: 10.1186/s13007-023-01041-x](https://doi.org/10.1186/s13007-023-01041-x)
   
+- [**Simpson, C.J.C.**,**Singh, P.**, Sogbohossou, D.E.O., Eric Schranz, M., and **Hibberd, J.M.** (2023). A rapid method to quantify vein density in <sub>4</sub> plants using starch staining. Plant, Cell & Environment. /doi.org/10.1111/pce.14656.](https://doi.org/10.1111/pce.14656)
+
 - [**Singh, P.**, **Stevenson, S.R.**, **Dickinson, P.J.**, **Reyna-Llorens, I.**, **Tripathi, A.**, **Reeves, G.**, **Schreier, T.B.**, and **Hibberd, J.M.** (2023). <sub>4</sub> gene induction during de-etiolation evolved through changes in cis to allow integration with ancestral <sub>3</sub> gene regulatory networks. Science Advances. /doi.org/20.1126/sciadv.ade9756](https://doi.org/20.1126/sciadv.ade9756)
   
 - [Fichman, Y., **Xiong, H.**, Sengupta, S., Morrow, J., Loog, H., Azad, R. K., **Hibberd, J. M.**, Liscum, E., Mittler, R. (2023) Phytochrome B regulates reactive oxygen signaling during abiotic and biotic stress in plants. New Phytologist. /doi.org/10.1111/nph.18626](https://doi.org/10.1111/nph.18626) 
