@@ -174,6 +174,13 @@ Read more about them below.
 	  joining the Hibberd lab to work on crop transformation.</p>
     </div>
    </div>
+   <div class="span6 media">
+    <img class="pull-left media-object img-rounded" src="../assets/members/af.jpg">
+    <div class="media-body">
+    <h4 class="media-heading">Alexandros Fragkidis</h4>
+    <p>Alexandros completed his undergraduate degree in Biology at the University of Leeds in June 2023. In his final year project, he identified proteins part of repressive complexes in <i>Arabidopsis.</i> He joined Hibberd lab as a lab technician in August 2023 and his main interest will be the optimisation of date palm grafting.</p>
+    </div>
+    </div>	
 </div>
 
 ## Past members
