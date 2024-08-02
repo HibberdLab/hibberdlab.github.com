@@ -152,7 +152,7 @@ Read more about them below.
     <img class="pull-left media-object img-rounded" src="../assets/members/zg-new.jpg">
     <div class="media-body">
     <h4 class="media-heading">Zara Guppy</h4>
-    <p>I will mostly be supporting the work of Dr Kumari Billakurthi, looking at the regulation of chloroplast biogenesis.</p>
+    <p>Zara will mostly be supporting the work of Dr Kumari Billakurthi, looking at the regulation of chloroplast biogenesis.</p>
     </div>
     </div>	
 </div>
