@@ -109,6 +109,7 @@ Read more about them below.
       <p> </p>
     </div>
   </div>
+ </div>
 <br>
 
 ### Research staff
