@@ -72,28 +72,10 @@ Read more about them below.
 
 <div class="row-fluid">
     <div class="span6 media">
-    <img class="pull-left media-object img-rounded" src="../assets/members/pd.jpg">
-    <div class="media-body">
-      <h4 class="media-heading">Patrick Dickinson</h4>
-      <p>Patrick did his PhD with Phil Wigge at the Sainsbury Laboratory Cambridge University working on how plants sense temperature and how temperature is integrated with other environmental signals to control adaptive responses in Arabidopsis. This work found a role for chloroplast signalling in controlling diurnal patterns of thermotolerance. Since moving across Cambridge to the Hibberd lab in summer 2017, Patrick is working on how cell-type sepcific expression is controlled in <i>Arabidopsis</i> and how large increases in the expression of genes required for C<sub>4</sub> photosynthesis have evolved using <i>Arabidopsis</i> and the C<sub>4</sub> model species <i>Gynandropsis gynandra</i>. </p>
-    </div>
-  </div>
-   <div class="span6 media">
-      <img class="pull-left media-object img-rounded" src="../assets/members/kb.jpg">
-    <div class="media-body">
-     <h4 class="media-heading">Kumari Billakurthi</h4>
-      <p>Kumari got her PhD in December 2018 from Heinrich Heine University, Germany. She had performed EMS mutagenesis and activation tagging screens in Arabidopsis thaliana and had analysed comparative transcriptomics of leaf developmental gradients from C3 and C4 Flaveria species to identify novel genes that determine C4 leaf anatomy. She then continued in the same group as a postdoctoral researcher until the end of 2019. In April 2020, she has joined the Hibberd’s group as a research associate to investigate how chloroplasts biogenesis is regulated by cell division patterns in rice (Oryza sativa) bundle sheath cells.</p>
-      </div>
-  </div>
- </div>
-<br>
-
-<div class="row-fluid">
-    <div class="span6 media">
 	   <img class="pull-left media-object img-rounded" src="../assets/members/tbs.jpg">
     <div class="media-body">
-      <h4 class="media-heading">Tina B. Schreier</h4>
-      <p>Tina did her PhD in plant biochemistry at ETH Zurich, and her main research interest lies in plant metabolism and photosynthesis. She joined the lab of Julian Hibberd in October 2018 as a Swiss National Science Foundation Research Fellow, studying cell-to-cell connectivity in leaves of the <i>Cleome</i> family and how this trait might have facilitated the evolution of C<sub>4</sub> photosynthesis. During her PhD in the lab of Professor Sam Zeeman, she discovered two chloroplast proteins that were originally thought to act as enzymes play other important non-canonical roles. This includes the plastidial NAD-dependent malate dehydrogenase, where the protein but not the enzymatic activity is required for proper chloroplast development. After her PhD, she worked at the John Innes Centre in the group of Professor Alison Smith, studying transgenic wheat lines with altered carbohydrate metabolism in the grain.</p>     </div>
+      <h4 class="media-heading">Kumari Billakurthi</h4>
+      <p>Kumari got her PhD in December 2018 from Heinrich Heine University, Germany. She had performed EMS mutagenesis and activation tagging screens in Arabidopsis thaliana and had analysed comparative transcriptomics of leaf developmental gradients from C3 and C4 Flaveria species to identify novel genes that determine C4 leaf anatomy. She then continued in the same group as a postdoctoral researcher until the end of 2019. In April 2020, she has joined the Hibberd’s group as a research associate to investigate how chloroplasts biogenesis is regulated by cell division patterns in rice (Oryza sativa) bundle sheath cells.</p>     </div>
   </div>
    <div class="span6 media">
       <img class="pull-left media-object img-rounded" src="../assets/members/rr.jpg">
@@ -121,20 +103,12 @@ Read more about them below.
 
 <div class="row-fluid">
   <div class="span6 media">
-      <img class="pull-left media-object img-rounded" src="../assets/members/bt.jpg">
+      <img class="pull-left media-object img-rounded" src="../assets/members/leaf.jpg">
       <div class="media-body">
-      <h4 class="media-heading">Becca Testa</h4>
-      <p> Becca completed her undergraduate degree in Natural Sciences at the University of Cambridge, specialising in Plant Sciences in her final year and graduating in June 2022. She joined the Hibberd lab in September 2022 as an MPhil student, where she is currently investigating chloroplast positioning in bundle sheath cells of C4 plant <i>Gynandropsis gynandra</i>.</p>
+      <h4 class="media-heading">Carmen de Luis Watson</h4>
+      <p> </i>.</p>
     </div>
   </div>
-  <div class="span6 media">
-      <img class="pull-left media-object img-rounded" src="../assets/members/zg-new.jpeg">
-      <div class="media-body">
-      <h4 class="media-heading">Zara Guppy</h4>
-      <p>Zara did her undergrad at the University of Cambridge, specialising in plant sciences, before starting her masters in the Hibberd lab in October 2022. Here she is looking at understanding the regulation of bundle sheath specific genes in C3 Arabidopsis and developing a cell-specific reporter for promoter studies based on the betalain synthesis pathway.</p>
-    </div>
- </div>
-</div>
 <br>
 
 ### Research staff
@@ -175,10 +149,10 @@ Read more about them below.
     </div>
    </div>
    <div class="span6 media">
-    <img class="pull-left media-object img-rounded" src="../assets/members/af.jpg">
+    <img class="pull-left media-object img-rounded" src="../assets/members/zg-new.jpg">
     <div class="media-body">
-    <h4 class="media-heading">Alexandros Fragkidis</h4>
-    <p>Alexandros completed his undergraduate degree in Biology at the University of Leeds in June 2023. In his final year project, he identified proteins part of repressive complexes in <i>Arabidopsis.</i> He joined Hibberd lab as a lab technician in August 2023 and his main interest will be the optimisation of date palm grafting.</p>
+    <h4 class="media-heading">Zara Guppy</h4>
+    <p>I will mostly be supporting the work of Dr Kumari Billakurthi, looking at the regulation of chloroplast biogenesis.</p>
     </div>
     </div>	
 </div>
@@ -231,9 +205,11 @@ Read more about them below.
 <div>- Dr. Conor Simpson: High-throughput phenotyping of vein density and genetic assessment of a MAGIC C<sub>4</sub> <i>Gynandropsis gynandra</i> population</div>
 <div>- Dr. Zhengao Di: Engineering a reverse C4 photosynthetic pathway in C3 species <i>Arabidopsis thaliana</i></div>
 <div>- Dr. Lee Cackett: Identifying and characterising candidate genes which control rice bundle sheath chloroplast development</div>
+<div>- Dr. Tina B. Schreier: Studying cell-to-cell connectivity in leaves of the Cleome family and how this trait might have facilitated the evolution of C4 photosynthesis.</div>
 <br> 
 
 #### Former Research Staff
+<div>- Alexandros Fragkidis: Optimisation of date palm grafting</div>
 <div>- Dr. Satish Kumar Eeda: C<sub>4</sub> rice</div>
 <div>- Mathieu Grangé-Guerment: C<sub>4</sub> rice</div>
 <div>- Chris Boursnell: Wild Rice MAGIC project and <i>de novo</i> transcriptome assembly</div>
