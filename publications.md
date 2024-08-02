@@ -9,6 +9,8 @@ group: navigation
 # Publications
 
 ## Manually curated list
+### 2024
+- [**Frangedakis, E.**, Yelina, N. E., **Billakurthi, K.**, **Hua, L.**, **Schreier, T.**, **Dickinson, P.J.**, Tomaselli, M., Haseloff, J. and **Hibberd, J.M.** (2024). <i>MYB</i>-related transcription factors control chloroplast biogenesis. Plant Methods. DOI: doi.org/10.1016/j.cell.2024.06.039](https://doi.org/10.1016/j.cell.2024.06.039)
 
 ### 2023
 - [**Billakurthi, K.**, and **Hibberd, J.M.** (2023). A rapid and robust leaf ablation method to visualize bundle sheath cells and chloroplasts in C<sub>3</sub> and C<sub>4</sub> grasses. Plant Methods. DOI: 10.1186/s13007-023-01041-x](https://doi.org/10.1186/s13007-023-01041-x)
