@@ -61,10 +61,10 @@ Read more about them below.
     </div>
   </div>
    <div class="span6 media">
-    <img class="pull-left media-object img-rounded" src="../assets/members/EF_edit .jpg" >
+    <img class="pull-left media-object img-rounded" src="../assets/members/rr.jpg" >
     <div class="media-body">
-      <h4 class="media-heading">Eftychios Frangedakis</h4>
-      <p>Eftychis did his PhD with Jane Langdale at the University of Oxford, working on plant evo-devo. He joined the Hibberd lab in March 2020. Here he is exploring synthetic biology approaches to increase the chloroplast compartment in Arabidopsis bundle sheath cells.</p>
+      <h4 class="media-heading">Rohan Richard</h4>
+      <p>Rohan got his PhD at the University of Reading in 2023 where he studied the stability of QTL associated to bread-making quality traits and conducted a QTL analysis on the trait Grain Protein Deviation (GPD) in wheat. He also investigated the senescence dynamic in the mapping population and performed a QTL detection for senescence traits. Since April 2023, he is hosted joinly by the Hibberd and Kromdijk labs where he is finalizing the development of a <i>Cleome gynandra</i> mapping population and carrying out association analysis on <i>C. gynandra</i> photosynthetic traits.</p>
     </div>
   </div>
  </div>
@@ -76,13 +76,6 @@ Read more about them below.
     <div class="media-body">
       <h4 class="media-heading">Kumari Billakurthi</h4>
       <p>Kumari got her PhD in December 2018 from Heinrich Heine University, Germany. She had performed EMS mutagenesis and activation tagging screens in Arabidopsis thaliana and had analysed comparative transcriptomics of leaf developmental gradients from C3 and C4 Flaveria species to identify novel genes that determine C4 leaf anatomy. She then continued in the same group as a postdoctoral researcher until the end of 2019. In April 2020, she has joined the Hibberd’s group as a research associate to investigate how chloroplasts biogenesis is regulated by cell division patterns in rice (Oryza sativa) bundle sheath cells.</p>     </div>
-  </div>
-   <div class="span6 media">
-      <img class="pull-left media-object img-rounded" src="../assets/members/rr.jpg">
-    <div class="media-body">
-     <h4 class="media-heading">Rohan Richard</h4>
-      <p>Rohan got his PhD at the University of Reading in 2023 where he studied the stability of QTL associated to bread-making quality traits and conducted a QTL analysis on the trait Grain Protein Deviation (GPD) in wheat. He also investigated the senescence dynamic in the mapping population and performed a QTL detection for senescence traits. Since April 2023, he is hosted joinly by the Hibberd and Kromdijk labs where he is finalizing the development of a <i>Cleome gynandra</i> mapping population and carrying out association analysis on <i>C. gynandra</i> photosynthetic traits.</p>
-      </div>
   </div>
  </div>
 <br>
@@ -101,11 +94,11 @@ Read more about them below.
 
 ### Masters Students
 
-<div class="row-fluid">
+ <div class="row-fluid">
   <div class="span6 media">
-      <img class="pull-left media-object img-rounded" src="../assets/members/leaf.jpg">
+      <img class="pull-left media-object img-rounded" src="">
       <div class="media-body">
-      <h4 class="media-heading">Carmen de Luis Watson</h4>
+      <h4 class="media-heading"></h4>
       <p> </p>
     </div>
   </div>
@@ -121,7 +114,7 @@ Read more about them below.
       <h4 class="media-heading">Susan Stanley</h4>
       <p> Susan is in charge of keeping the lab running! She has been instrumental in developing the transformation pipeline that
       we use for <i>Gynandropsis gynandra</i>. She is also responsible for plant and seed stock maintenance, ordering lab stocks, and
-      time permiting, helps with specific research projects in the lab. She joined the lab in 2000 after having worked in
+      time permitting, helps with specific research projects in the lab. She joined the lab in 2000 after having worked in
       Industry.</p>
     </div>
     </div>
@@ -130,32 +123,20 @@ Read more about them below.
     <div class="media-body">
     <h4 class="media-heading">Na Wang</h4>
     <p>Na did her MSc in Plant Genetics and Breeding at CAU (China Agricultural University), then she went to Biotech center of Beijing 
-  Da Bei Nong Technology Group Co. Ltd., she got 5 year rich experience of cereal genetic transformation there. She joined the Hibberd 
-  lab in 2017 as a research technician.</p>
+    Da Bei Nong Technology Group Co. Ltd., she got 5 years rich experience of cereal genetic transformation there. She joined the Hibberd 
+    lab in 2017 as a research technician.</p>
     </div>
     </div>
 </div>
 
 <div class="row-fluid">
     <div class="span6 media">
-      <img class="pull-left media-object img-rounded" src="../assets/members/rd.jpg">
+      <img class="pull-left media-object img-rounded" src="../assets/members/zg-new.jpeg">
       <div class="media-body">
-      <h4 class="media-heading">Ruth Donald</h4>
-	  <p>Ruth has a PhD in Plant Biochemistry from the University of Warwick where she studied the targeting of chloroplast proteins into 
-	  the thylakoid membrane and found that multiple pathways exist.  She then went to a postdoctoral post at the University of Auckland, 
-	  before coming to Plant Sciences Cambridge work on the import, assembly and turn-over of chloroplast proteins in John Gray’s lab, and 
-	  then as a Royal Society Research Fellow. Since then she has worked at Biogemma on useful oil production in oilseed rape and screening 
-	  of wheat cultivars for marker-gene trait associations, and has also worked for Syngene.  She returned to Plant Sciences in May 2017, 
-	  joining the Hibberd lab to work on crop transformation.</p>
-    </div>
-   </div>
-   <div class="span6 media">
-    <img class="pull-left media-object img-rounded" src="../assets/members/zg-new.jpeg">
-    <div class="media-body">
-    <h4 class="media-heading">Zara Guppy</h4>
-    <p>Zara will mostly be supporting the work of Dr Kumari Billakurthi, looking at the regulation of chloroplast biogenesis.</p>
-    </div>
-    </div>	
+      <h4 class="media-heading">Zara Guppy</h4>
+      <p>Zara will mostly be supporting the work of Dr Kumari Billakurthi, looking at the regulation of chloroplast biogenesis.</p>
+      </div>
+    </div>    
 </div>
 
 ## Past members
@@ -207,9 +188,11 @@ Read more about them below.
 <div>- Dr. Zhengao Di: Engineering a reverse C4 photosynthetic pathway in C3 species <i>Arabidopsis thaliana</i></div>
 <div>- Dr. Lee Cackett: Identifying and characterising candidate genes which control rice bundle sheath chloroplast development</div>
 <div>- Dr. Tina B. Schreier: Studying cell-to-cell connectivity in leaves of the Cleome family and how this trait might have facilitated the evolution of C4 photosynthesis.</div>
+<div>- Dr. Eftychios Frangedakis: Exploring synthetic biology approaches to increase the chloroplast compartment in Arabidopsis bundle sheath cells.</div>
 <br> 
 
 #### Former Research Staff
+<div>- Ruth: crop transformation</div>
 <div>- Alexandros Fragkidis: Optimisation of date palm grafting</div>
 <div>- Dr. Satish Kumar Eeda: C<sub>4</sub> rice</div>
 <div>- Mathieu Grangé-Guerment: C<sub>4</sub> rice</div>
