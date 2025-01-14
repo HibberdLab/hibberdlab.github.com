@@ -10,7 +10,7 @@ group: navigation
 
 ## Manually curated list
 ### 2024
-- [Swift, J., **Luginbuehl, L. H.**, **Hua, L.**, **Schreier, T. B.**, **Donald, R. M.**, **Stanley, S.**, **Wang, N.**, Lee, T. A., Nery, J. R., Ecker, J. R. & **Hibberd, J. M.** (2024). Exaptation of ancestral cell-identity networks enables <sub>4</sub> photosynthesis. Nature. DOI: doi.org/10.1038/s41586-024-08204-3](https://doi.org/10.1038/s41586-024-08204-3)]
+- [Swift, J., **Luginbuehl, L. H.**, **Hua, L.**, **Schreier, T. B.**, **Donald, R. M.**, **Stanley, S.**, **Wang, N.**, Lee, T. A., Nery, J. R., Ecker, J. R. & **Hibberd, J. M.** (2024). Exaptation of ancestral cell-identity networks enables <sub>4</sub> photosynthesis. Nature. DOI: doi.org/10.1038/s41586-024-08204-3](https://doi.org/10.1038/s41586-024-08204-3)
   
 - [**Frangedakis, E.**, Yelina, N. E., **Billakurthi, K.**, **Hua, L.**, **Schreier, T.**, **Dickinson, P.J.**, Tomaselli, M., Haseloff, J. and **Hibberd, J.M.** (2024). <i>MYB</i>-related transcription factors control chloroplast biogenesis. Cell. DOI: doi.org/10.1016/j.cell.2024.06.039](https://doi.org/10.1016/j.cell.2024.06.039)
   
