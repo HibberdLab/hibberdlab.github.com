@@ -78,15 +78,6 @@ Read more about them below.
       <p>Kumari got her PhD in December 2018 from Heinrich Heine University, Germany. She had performed EMS mutagenesis and activation tagging screens in Arabidopsis thaliana and had analysed comparative transcriptomics of leaf developmental gradients from C3 and C4 Flaveria species to identify novel genes that determine C4 leaf anatomy. She then continued in the same group as a postdoctoral researcher until the end of 2019. In April 2020, she has joined the Hibberd’s group as a research associate to investigate how chloroplasts biogenesis is regulated by cell division patterns in rice (Oryza sativa) bundle sheath cells.</p>     </div>
   </div>
  </div>
-<div class="row-fluid">
-    <div class="span6 media">
-      <img class="pull-left media-object img-rounded" src="../assets/members/em.jpeg">
-      <div class="media-body">
-      <h4 class="media-heading">Ella Mason</h4>
-      <p>Ella is a PhD student investigating the mechanisms underpinning cell type-specific gene expression in the C4 species Gynandropsis gynandra by looking at the extent of conservation of various cis and trans factors across the genomes of a NAM population. In Cambridge, she has previously worked on VIGS in faba beans in Natasha Yelina’s group at the Crop Science Centre (Natural Sciences Part II project) and as a lab technician in Uta Paskowski’s Cereal Symbiosis group.</p>
-      </div>
-    </div>    
-</div>
 <br>
 
 ### PhD students
@@ -99,8 +90,15 @@ Read more about them below.
     </div>
   </div>
  </div>
+   <div class="span6 media">
+    <img class="pull-left media-object img-rounded" src="../assets/members/em.jpg" >
+    <div class="media-body">
+      <h4 class="media-heading">Ella Mason</h4>
+      <p>Ella is a PhD student investigating the mechanisms underpinning cell type-specific gene expression in the C4 species Gynandropsis gynandra by looking at the extent of conservation of various cis and trans factors across the genomes of a NAM population. In Cambridge, she has previously worked on VIGS in faba beans in Natasha Yelina’s group at the Crop Science Centre (Natural Sciences Part II project) and as a lab technician in Uta Paskowski’s Cereal Symbiosis group.</p>
+    </div>
+  </div>
+ </div>
 <br>
-
 ### Masters Students
 
  <div class="row-fluid">
