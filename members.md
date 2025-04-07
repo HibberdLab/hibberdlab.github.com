@@ -61,7 +61,7 @@ Read more about them below.
     </div>
   </div>
    <div class="span6 media">
-    <img class="pull-left media-object img-rounded" src="../assets/members/rt.jpg" >
+    <img class="pull-left media-object img-rounded" src="../assets/members/rt.jpeg" >
     <div class="media-body">
       <h4 class="media-heading">Ryo Tachibana</h4>
       <p>Ryo got his PhD in March 2025 from Kyoto University, Japan. During his PhD, he investigated how chloroplast development is regulated by plant hormones and light signaling in Arabidopsis. His work contributed to understanding the signaling pathways that coordinate plastid biogenesis with environmental cues. In April 2025, he joined the Hibberd lab as a postdoctoral researcher, where he is continuing to explore the regulatory mechanisms of chloroplast development using molecular genetics.</p>
