@@ -61,10 +61,10 @@ Read more about them below.
     </div>
   </div>
    <div class="span6 media">
-    <img class="pull-left media-object img-rounded" src="../assets/members/rr.jpg" >
+    <img class="pull-left media-object img-rounded" src="../assets/members/rt.jpg" >
     <div class="media-body">
-      <h4 class="media-heading">Rohan Richard</h4>
-      <p>Rohan got his PhD at the University of Reading in 2023 where he studied the stability of QTL associated to bread-making quality traits and conducted a QTL analysis on the trait Grain Protein Deviation (GPD) in wheat. He also investigated the senescence dynamic in the mapping population and performed a QTL detection for senescence traits. Since April 2023, he is hosted joinly by the Hibberd and Kromdijk labs where he is finalizing the development of a <i>Cleome gynandra</i> mapping population and carrying out association analysis on <i>C. gynandra</i> photosynthetic traits.</p>
+      <h4 class="media-heading">Ryo Tachibana</h4>
+      <p>Ryo got his PhD in March 2025 from Kyoto University, Japan. During his PhD, he investigated how chloroplast development is regulated by plant hormones and light signaling in Arabidopsis. His work contributed to understanding the signaling pathways that coordinate plastid biogenesis with environmental cues. In April 2025, he joined the Hibberd lab as a postdoctoral researcher, where he is continuing to explore the regulatory mechanisms of chloroplast development using molecular genetics.</p>
     </div>
   </div>
  </div>
@@ -196,6 +196,7 @@ Read more about them below.
 <div>- Dr. Lee Cackett: Identifying and characterising candidate genes which control rice bundle sheath chloroplast development</div>
 <div>- Dr. Tina B. Schreier: Studying cell-to-cell connectivity in leaves of the Cleome family and how this trait might have facilitated the evolution of C4 photosynthesis.</div>
 <div>- Dr. Eftychios Frangedakis: Exploring synthetic biology approaches to increase the chloroplast compartment in Arabidopsis bundle sheath cells.</div>
+<div>- Dr. Rohan Richard: Finalizing the development of a <i>Cleome gynandra</i> mapping population and carrying out association analysis on <i>C. gynandra</i> photosynthetic traits.</div>
 <br> 
 
 #### Former Research Staff
