@@ -103,10 +103,10 @@ Read more about them below.
 
  <div class="row-fluid">
   <div class="span6 media">
-      <img class="pull-left media-object img-rounded" src="">
+      <img class="pull-left media-object img-rounded" src="../assets/members/mr.jpg">
       <div class="media-body">
-      <h4 class="media-heading"></h4>
-      <p> </p>
+      <h4 class="media-heading">Mianmian Ren</h4>
+      <p> Mianmian is an MPhil student in Crop Sciences. She is working with Lei Hua to investigate the mechanisms underlying mesophyll-specific promoters, with the aim of advancing our knowledge of cell-type-specific gene regulation in rice.</p>
     </div>
   </div>
  </div>
