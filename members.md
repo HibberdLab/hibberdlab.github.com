@@ -98,6 +98,16 @@ Read more about them below.
   </div>
  </div>
 <br>
+<div class="row-fluid">
+  <div class="span6 media">
+      <img class="pull-left media-object img-rounded" src="../assets/members/carmen.jpg">
+      <div class="media-body">
+      <h4 class="media-heading">Carmen de Luis Watson</h4>
+      <p> Carmen is a PhD student investigating transcription factor networks regulating bundle sheath expression in rice. This is building on work she started during her MPhil in Crop Sciences. She has previously worked with Prof. Alison Smith during her Part II project in which she introduced a nitrogen deprivation reporter into Chlamydomonas. She was also an Amgen Scholar in Prof. Thomas Nägele's lab at LMU where she compared metabolic responses of Arabidopsis natural accessions to cold.</p>
+    </div>
+  </div>
+ </div>
+<br>
 
 ### Masters Students
 
