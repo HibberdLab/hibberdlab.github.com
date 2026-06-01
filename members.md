@@ -43,10 +43,10 @@ Read more about them below.
     </div>
   </div>
   <div class="span6 media">
-     <img class="pull-left media-object img-rounded" src="../assets/members/ts.jpg">
+     <img class="pull-left media-object img-rounded" src="../assets/members/KaiT.jpg">
     <div class="media-body">
-      <h4 class="media-heading">Tianshu Sun</h4>
-      <p>Tianshu got her PhD in 2018 at Peking University, where she studied the genetic basis of adaptation to alpine environments in <i>Arabidopsis thaliana</i> populations in Tibet. Later, she worked as a research assistant at the Chinese Academy of Agricultural Science and focused on population genomics and transcriptomics in crop plants. She joined the Hibberd lab in November 2020 where she is currently investigating the regulation of photosynthesis gene expression variation at intra- and interspecific levels using genomics approaches such as eQTL-mapping and single-cell sequencing.</p>
+      <h4 class="media-heading">Kai Thoris</h4>
+      <p>Kai got his PhD in 2025 from Wageningen University & Research in the Netherlands, where he studied the transcriptional regulation of flowering time and fruit development in tomato. He later continued there as a postdoctoral researcher, working on the characterization of a deeply conserved cis-regulatory element involved in these developmental processes. Kai joined the Hibberd lab in May 2026 as a Postdoctoral Research Associate, where he is investigating the regulation of cell-specific gene expression in leaves, with particular interest in the transcriptional programs that drive C<sub>4</sub> photosynthesis and how transcription factors and cis-regulatory elements shape spatial patterning in leaves.</p>
     </div>
   </div>
  </div>
@@ -76,6 +76,14 @@ Read more about them below.
     <div class="media-body">
       <h4 class="media-heading">Kumari Billakurthi</h4>
       <p>Kumari got her PhD in December 2018 from Heinrich Heine University, Germany. She had performed EMS mutagenesis and activation tagging screens in Arabidopsis thaliana and had analysed comparative transcriptomics of leaf developmental gradients from C3 and C4 Flaveria species to identify novel genes that determine C4 leaf anatomy. She then continued in the same group as a postdoctoral researcher until the end of 2019. In April 2020, she has joined the Hibberd’s group as a research associate to investigate how chloroplasts biogenesis is regulated by cell division patterns in rice (Oryza sativa) bundle sheath cells.</p>     </div>
+  </div>
+ </div>
+   <div class="span6 media">
+    <img class="pull-left media-object img-rounded" src="../assets/members/ts.jpeg" >
+    <div class="media-body">
+      <h4 class="media-heading">Tianshu Sun</h4>
+      <p>Tianshu got her PhD in 2018 at Peking University, where she studied the genetic basis of adaptation to alpine environments in <i>Arabidopsis thaliana</i> populations in Tibet. Later, she worked as a research assistant at the Chinese Academy of Agricultural Science and focused on population genomics and transcriptomics in crop plants. She joined the Hibberd lab in November 2020 where she is currently investigating the regulation of photosynthesis gene expression variation at intra- and interspecific levels using genomics approaches such as eQTL-mapping and single-cell sequencing.</p>
+    </div>
   </div>
  </div>
 <br>
