@@ -17,7 +17,7 @@ group: navigation
   
 - [**Dickinson, P. J.**, Triesch, S., Schlüter, U., Weber, A. P. M. & **Hibberd, J. M.**(2025). A transcription factor module mediating <sub>C2</sub> photosynthesis in the <i>Brassicaceae</i>. EMBO Reports. DOI: doi.org/10.1038/s44319-025-00461-1](https://doi.org/10.1038/s44319-025-00461-1)
   
-- [**Cackett, L.**, **Luginbuehl, L. H.**, Hendron, R.-W., Plackett, A. R. G., **Stanley, S.**, **Hua, L.**, **Wang, N.**, Kelly, S. & **Hibberd, J. M.**(2025). Increased chloroplast area in the rice bundle sheath through cell-specific perturbation of brassinosteroid signaling. Plant Physiology. DOI: doi.org/10.1111/nph.19343](https://doi.org/10.1093/plphys/kiaf108)
+- [**Cackett, L.**, **Luginbuehl, L. H.**, Hendron, R.-W., Plackett, A. R. G., **Stanley, S.**, **Hua, L.**, **Wang, N.**, Kelly, S. & **Hibberd, J. M.**(2025). Increased chloroplast area in the rice bundle sheath through cell-specific perturbation of brassinosteroid signaling. Plant Physiology. DOI: doi.org/10.1093/plphys/kiaf108](https://doi.org/10.1093/plphys/kiaf108)
 
 ### 2024
 - [Swift, J., **Luginbuehl, L. H.**, **Hua, L.**, **Schreier, T. B.**, **Donald, R. M.**, **Stanley, S.**, **Wang, N.**, Lee, T. A., Nery, J. R., Ecker, J. R. & **Hibberd, J. M.** (2024). Exaptation of ancestral cell-identity networks enables C<sub>4</sub> photosynthesis. Nature. DOI: doi.org/10.1038/s41586-024-08204-3](https://doi.org/10.1038/s41586-024-08204-3)
